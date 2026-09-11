@@ -1,0 +1,55 @@
+{
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Joke_Sound": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 10.0,
+        "EmitterName": "empty",
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "MeshRenderFlags": 0,
+        "IsUniformScale": 1,
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_Emote_Joke_Sound",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Joke_Sound",
+    "SoundPersistentDefault": "Play_sfx_Braum_Joke3D1_buffactivate",
+    "Flags": 132,
+    "ObjectPath": "{4c09138b}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_R_Zone_Sound": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 10.0,
+        "EmitterName": "empty",
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "MeshRenderFlags": 0,
+        "IsUniformScale": 1,
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_R_Zone_Sound",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_R_Zone_Sound",
+    "SoundOnCreateDefault": "Play_sfx_Braum_BraumRWrapper_buffactivate",
+    "Flags": 132,
+    "ObjectPath": "{acbeff84}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_W_cas": {
+    "ParticleName": "Braum_Base_W_cas",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_W_cas",
+    "ObjectPath": "{e9c1d450}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "__linked": []
+}

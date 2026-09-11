@@ -1,0 +1,37 @@
+{
+  "scene": "clash_braum_rig_refined.blend",
+  "scene_sha256": "8069690f834eedf7b81361d784cf290be8215606bdbf95ac4c21ba5580cdcc6c",
+  "vanilla_reference": false,
+  "renders": [
+    {
+      "clip": "braum_recall",
+      "frame": 65,
+      "focus": "torso",
+      "file": "validation\\previews\\continuity_before\\braum_recall_065_torso.png"
+    },
+    {
+      "clip": "braum_recall",
+      "frame": 65,
+      "focus": "arms",
+      "file": "validation\\previews\\continuity_before\\braum_recall_065_arms.png"
+    },
+    {
+      "clip": "braum_dance_loop",
+      "frame": 50,
+      "focus": "pelvis",
+      "file": "validation\\previews\\continuity_before\\braum_dance_loop_050_pelvis.png"
+    },
+    {
+      "clip": "braum_dance_loop",
+      "frame": 50,
+      "focus": "body",
+      "file": "validation\\previews\\continuity_before\\braum_dance_loop_050_body.png"
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 15,
+      "focus": "body",
+      "file": "validation\\previews\\continuity_before\\braum_spell4_015_body.png"
+    }
+  ]
+}

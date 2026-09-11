@@ -1,0 +1,57 @@
+{
+  "status": "PASS: supplied cslol-go backend import/export/reimport and independent payload extraction",
+  "scope": "Offline vanilla fixture only. GUI import and League runtime remain untested.",
+  "tools": {
+    "ModLoader.dll": {
+      "path": "C:\\Users\\etqdo\\Downloads\\cslol-go\\ModLoader.dll",
+      "sha256": "0e1af20f4c49b2f05f5fc9e8013a35a7c2e30ded3f0f2b736a0df765817d5e68"
+    },
+    "cslol-tools\\ritobin_cli.exe": {
+      "path": "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "sha256": "4e4eda0544d914497cbd8a2824a5c912df49fa4347c3a88fbc787f03a4d1a385"
+    },
+    "cslol-tools\\mod-tools.exe": {
+      "path": "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\mod-tools.exe",
+      "sha256": "d40bded76a004a40bf93efd742a8092357c3c8ce502d6dbcf9a60c967f61fdf6"
+    }
+  },
+  "archives": [
+    {
+      "path": "build\\manager_compat\\vanilla_roundtrip_validation.fantome",
+      "sha256": "3596783975a5cd5d95636d5534fdb580f8477d046fef55105466a5ee975da6e0",
+      "members": [
+        "META/info.json",
+        "WAD/Braum.wad.client/assets/characters/braum/skins/base/braum_base.skn",
+        "WAD/Braum.wad.client/assets/characters/braum/skins/base/braum_base.skl"
+      ],
+      "crc_ok": true
+    },
+    {
+      "path": "build\\manager_compat\\reexported.fantome",
+      "sha256": "d3b5bb8ced929d68313bf7e69e609a320ee63f3200c69a8e9893cebd3cefc8d9",
+      "members": [
+        "META/info.json",
+        "WAD/Braum.wad.client"
+      ],
+      "crc_ok": true
+    }
+  ],
+  "wad_version": [
+    3,
+    4
+  ],
+  "entry_hashes": [
+    "9b8248658ce51711",
+    "fbf88fcfc8ec8dc4"
+  ],
+  "payloads": [
+    {
+      "path": "assets/characters/braum/skins/base/braum_base.skn",
+      "sha256": "50c5b61b3146d37bfdc106ebe9c2bb2fec00d7cbbed95396faa5ce2ca008ea79"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_base.skl",
+      "sha256": "8e14e4c098792739c5137022c20f868232dd4f8685f43c6bb042fa94e9542904"
+    }
+  ]
+}

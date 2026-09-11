@@ -1,0 +1,18 @@
+{
+  "byte_identical": true,
+  "sha256": "3f9b4f8c3b621db3354b059ea037d1b065bb83feb5fc9392480d2e028436c576",
+  "tools": {
+    "ModLoader.dll": {
+      "path": "C:\\Users\\etqdo\\Downloads\\cslol-go\\ModLoader.dll",
+      "sha256": "0e1af20f4c49b2f05f5fc9e8013a35a7c2e30ded3f0f2b736a0df765817d5e68"
+    },
+    "cslol-tools\\ritobin_cli.exe": {
+      "path": "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "sha256": "4e4eda0544d914497cbd8a2824a5c912df49fa4347c3a88fbc787f03a4d1a385"
+    },
+    "cslol-tools\\mod-tools.exe": {
+      "path": "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\mod-tools.exe",
+      "sha256": "d40bded76a004a40bf93efd742a8092357c3c8ce502d6dbcf9a60c967f61fdf6"
+    }
+  }
+}

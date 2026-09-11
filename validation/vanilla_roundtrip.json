@@ -1,0 +1,89 @@
+{
+  "blender": "5.2.1 LTS",
+  "source": {
+    "vertices": 8837,
+    "triangles": 13392,
+    "joints": 97,
+    "palette": 76,
+    "submeshes": [
+      {
+        "name": "Braum",
+        "vertex_start": 0,
+        "vertex_count": 8068,
+        "index_start": 0,
+        "index_count": 37122
+      },
+      {
+        "name": "Poro",
+        "vertex_start": 8068,
+        "vertex_count": 769,
+        "index_start": 37122,
+        "index_count": 3054
+      }
+    ],
+    "max_weight_sum_error": 1.4284159988164902e-07,
+    "bounds": [
+      [
+        -92.86617279052734,
+        240.19418334960938
+      ],
+      [
+        -0.6376349329948425,
+        193.86598205566406
+      ],
+      [
+        -40.79545974731445,
+        80.8056640625
+      ]
+    ]
+  },
+  "result": {
+    "vertices": 8837,
+    "triangles": 13392,
+    "joints": 97,
+    "palette": 76,
+    "submeshes": [
+      {
+        "name": "Braum",
+        "vertex_start": 0,
+        "vertex_count": 8068,
+        "index_start": 0,
+        "index_count": 37122
+      },
+      {
+        "name": "Poro",
+        "vertex_start": 8068,
+        "vertex_count": 769,
+        "index_start": 37122,
+        "index_count": 3054
+      }
+    ],
+    "max_weight_sum_error": 4.7031790018081665e-08,
+    "bounds": [
+      [
+        -92.86617279052734,
+        240.19418334960938
+      ],
+      [
+        -0.6376349329948425,
+        193.86598205566406
+      ],
+      [
+        -40.79545974731445,
+        80.8056640625
+      ]
+    ]
+  },
+  "comparison": {
+    "max_bind_component_error": 0,
+    "max_corner_errors": {
+      "position": 1.52587890625e-05,
+      "uv": 0,
+      "weight": 1.1920928955078125e-07,
+      "normal": 2.384185791015625e-07
+    },
+    "skeleton_metadata_changes": [],
+    "palette_changed": false
+  },
+  "runtime_test": "Pending pristine patch-matched main WAD and mod manager"
+}

@@ -1,0 +1,89 @@
+{
+  "path": "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\Braum.en_US.wad.client",
+  "version": "3.4",
+  "sha256": "7adaa269c1a5632b53ef9013c2813dac4f71719c744787e93de1033db22f1700",
+  "count": 9,
+  "entries": [
+    {
+      "hash": "0b1e0aaa5afaddb8",
+      "offset": 2631676,
+      "compressed_size": 12050,
+      "size": 12050,
+      "compression": 0,
+      "checksum": "bdef025712df48a7",
+      "path": "assets/sounds/wwise2016/vo/en_us/characters/braum/skins/skin24/braum_skin24_vo_audio.wpk"
+    },
+    {
+      "hash": "17802985c2cae524",
+      "offset": 892,
+      "compressed_size": 3615,
+      "size": 13543,
+      "compression": 3,
+      "checksum": "0ca9fd983541564e",
+      "path": "assets/sounds/wwise2016/vo/en_us/characters/braum/skins/base/braum_base_vo_events.bnk"
+    },
+    {
+      "hash": "1edf235828b09246",
+      "offset": 4507,
+      "compressed_size": 48,
+      "size": 48,
+      "compression": 0,
+      "checksum": "2ff8e4e04b2a03a8",
+      "path": "assets/sounds/wwise2016/vo/en_us/characters/braum/skins/base/braum_base_vo_audio.bnk"
+    },
+    {
+      "hash": "4826a53ff12ced20",
+      "offset": 4603,
+      "compressed_size": 2623442,
+      "size": 2623442,
+      "compression": 0,
+      "checksum": "80a1dc50005e0cf9",
+      "path": "assets/sounds/wwise2016/vo/en_us/characters/braum/skins/base/braum_base_vo_audio.wpk"
+    },
+    {
+      "hash": "577c09cbbeffb20d",
+      "offset": 4555,
+      "compressed_size": 48,
+      "size": 48,
+      "compression": 0,
+      "checksum": "6e3facc4e0eca0b3",
+      "path": "assets/sounds/wwise2016/vo/en_us/characters/braum/skins/skin24/braum_skin24_vo_audio.bnk"
+    },
+    {
+      "hash": "7b6aa0e3b7987a3c",
+      "offset": 560,
+      "compressed_size": 332,
+      "size": 509,
+      "compression": 3,
+      "checksum": "0b164bc74ea5bffd",
+      "path": "assets/sounds/wwise2016/vo/en_us/characters/braum/skins/skin24/braum_skin24_vo_events.bnk"
+    },
+    {
+      "hash": "c0f6f2040d04c4ce",
+      "offset": 2643726,
+      "compressed_size": 2594095,
+      "size": 2594095,
+      "compression": 0,
+      "checksum": "c4383991d8f62cb1",
+      "path": "assets/sounds/wwise2016/vo/en_us/characters/braum/skins/skin02/braum_skin02_vo_audio.wpk"
+    },
+    {
+      "hash": "cdd256eba9693bc9",
+      "offset": 2628093,
+      "compressed_size": 3583,
+      "size": 13738,
+      "compression": 3,
+      "checksum": "a30e02c61d70cda7",
+      "path": "assets/sounds/wwise2016/vo/en_us/characters/braum/skins/skin02/braum_skin02_vo_events.bnk"
+    },
+    {
+      "hash": "fdbe252300e4d8d6",
+      "offset": 2628045,
+      "compressed_size": 48,
+      "size": 48,
+      "compression": 0,
+      "checksum": "80baf89285ab550b",
+      "path": "assets/sounds/wwise2016/vo/en_us/characters/braum/skins/skin02/braum_skin02_vo_audio.bnk"
+    }
+  ]
+}

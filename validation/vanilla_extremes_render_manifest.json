@@ -1,0 +1,20 @@
+[
+  {
+    "clip": "braum_spell4",
+    "frame": 3,
+    "focus": "body",
+    "file": "validation\\previews\\vanilla_extremes\\braum_spell4_003_body.png"
+  },
+  {
+    "clip": "braum_recall",
+    "frame": 65,
+    "focus": "body",
+    "file": "validation\\previews\\vanilla_extremes\\braum_recall_065_body.png"
+  },
+  {
+    "clip": "braum_dance_loop",
+    "frame": 50,
+    "focus": "body",
+    "file": "validation\\previews\\vanilla_extremes\\braum_dance_loop_050_body.png"
+  }
+]

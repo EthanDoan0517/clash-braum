@@ -1,0 +1,87 @@
+[
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "bin",
+      "-o",
+      "text",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\Braum.wad\\eb9d53354a504663.bin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\bin_roundtrip\\skin0.ritobin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\bin_roundtrip\\skin0.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\bin_roundtrip\\skin0.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\mod-tools.exe",
+      "import",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\manager_compat\\vanilla_roundtrip_validation.fantome",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\manager_compat\\imported"
+    ],
+    "returncode": 0,
+    "stdout": "[INF] Creating tmp directory\n[INF] Unzipping mod\n[INF] Optimizing after unzipping\n[INF] Creating tmp directory\n[INF] Indexing mod wads\n[INF] Resolving conflicts\n[INF] Copying META files\n[INF] Writing wads\n[INF] Writing wad: WAD/Braum.wad.client\n[INF] Removing original directory\n[INF] Moving tmp directory\n[INF] Remove existing mod\n[INF] Moving tmp directory\n[INF] Done!\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\mod-tools.exe",
+      "export",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\manager_compat\\imported",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\manager_compat\\reexported.fantome"
+    ],
+    "returncode": 0,
+    "stdout": "[INF] Creating tmp directory\n[INF] Optimizing before zipping\n[INF] Indexing mod wads\n[INF] Resolving conflicts\n[INF] Copying META files\n[INF] Writing wads\n[INF] Writing wad: WAD/Braum.wad.client\n[INF] Zipping mod\n[INF] Done!\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\mod-tools.exe",
+      "import",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\manager_compat\\reexported.fantome",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\manager_compat\\reimported"
+    ],
+    "returncode": 0,
+    "stdout": "[INF] Creating tmp directory\n[INF] Unzipping mod\n[INF] Optimizing after unzipping\n[INF] Creating tmp directory\n[INF] Indexing mod wads\n[INF] Resolving conflicts\n[INF] Copying META files\n[INF] Writing wads\n[INF] Writing wad: WAD/Braum.wad.client\n[INF] Removing original directory\n[INF] Moving tmp directory\n[INF] Remove existing mod\n[INF] Moving tmp directory\n[INF] Done!\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\wadtools-0.5.7-windows-x64\\wadtools.exe",
+      "--config",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\config\\wadtools.toml",
+      "--hashtable-dir",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes",
+      "--progress=false",
+      "extract",
+      "-i",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\manager_compat\\reimported\\WAD\\Braum.wad.client",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\manager_compat\\extracted",
+      "-H",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\sources\\project.hashes.txt",
+      "--no-bin-paths",
+      "--overwrite"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-10T01:36:43.789010Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'game': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n\u001b[2m2026-09-10T01:36:43.789068Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'lcu': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n\u001b[2m2026-09-10T01:36:43.789077Z\u001b[0m \u001b[32m INFO\u001b[0m loading supplemental hashtable from C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\sources\\project.hashes.txt\n\n\u001b[1m\u001b[96mWAD\u001b[39m\u001b[0m: \u001b[97mC:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\manager_compat\\reimported\\WAD\\Braum.wad.client\u001b[39m\n\u001b[1m\u001b[96mExtracted\u001b[39m\u001b[0m: \u001b[92m2\u001b[39m chunks (\u001b[97m539.20 KB\u001b[39m)\n\u001b[1m\u001b[96mSkipped\u001b[39m\u001b[0m: \u001b[93m0\u001b[39m existing\n\n\u001b[1m\u001b[96mBy type\u001b[39m\u001b[0m:\n  \u001b[95msimple_skin             \u001b[39m \u001b[97m1\u001b[39m\n  \u001b[95mskeleton                \u001b[39m \u001b[97m1\u001b[39m\n",
+    "stderr": "\u001b[2m2026-09-10T01:36:43.789044Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'game': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n\u001b[2m2026-09-10T01:36:43.789071Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'lcu': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n"
+  }
+]

@@ -1,0 +1,4282 @@
+[
+  {
+    "file": "07f65b37fb75e834",
+    "entry": "{567259fd}",
+    "name": "Characters/Braum/Skins/Skin54/Materials/Braum_Skin54_Horns_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_Iridescent_Add_Scroll",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_FRESNEL_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "POST_LIGHTING_ON_SCROLLTEX",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCREENSPACE_TEX_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_SCREEN_SPACE_TEXTURE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OVERRIDE_DIFFUSE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCROLLTEX_ONLY",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_R_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_G_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_PULSE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY_W_MASK",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SCROLL_TEXTURE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHA_BLEND_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SPECULAR_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_OUTLINE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DIFFUSE_LERP_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "INVERT_BLOOM_FRESNEL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "07f65b37fb75e834",
+    "entry": "{ba2916c2}",
+    "name": "Characters/Braum/Skins/Skin54/Materials/Braum_Skin54_Ice2_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/HKG_MatCap_Diff_Mask_Alpha",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLEND_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_TEX_ALPHA",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_R_FROM_FRESNEL",
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "087454f36df0c471",
+    "entry": "{90153429}",
+    "name": "Characters/Braum/Skins/Skin45/Materials/Metal_Body",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/PBR_VFX",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_EMISSION_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHABLEND_EMISSION",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACETEX_SCROLL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ALPHA_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_G_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_R_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DISTORTION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALL_ADDITIVE_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACE_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FRESNEL_OUTLINE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "08e5b232f3994eee",
+    "entry": "{70621ec5}",
+    "name": "Characters/Braum/Skins/Skin58/Materials/Braum_Skin58_Horns_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_Iridescent_Add_Scroll",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_FRESNEL_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "POST_LIGHTING_ON_SCROLLTEX",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCREENSPACE_TEX_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_SCREEN_SPACE_TEXTURE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OVERRIDE_DIFFUSE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCROLLTEX_ONLY",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_R_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_G_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_PULSE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY_W_MASK",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SCROLL_TEXTURE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHA_BLEND_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SPECULAR_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_OUTLINE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DIFFUSE_LERP_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "INVERT_BLOOM_FRESNEL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "08e5b232f3994eee",
+    "entry": "{fea3cafa}",
+    "name": "Characters/Braum/Skins/Skin58/Materials/Braum_Skin58_Ice2_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/HKG_MatCap_Diff_Mask_Alpha",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLEND_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_TEX_ALPHA",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_R_FROM_FRESNEL",
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "21c14331eb9e3fdd",
+    "entry": "{7d01bd74}",
+    "name": "Characters/Braum/Skins/Skin48/Materials/Metal_Body",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/PBR_VFX",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_EMISSION_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHABLEND_EMISSION",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACETEX_SCROLL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ALPHA_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_G_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_R_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DISTORTION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALL_ADDITIVE_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACE_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FRESNEL_OUTLINE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "23b85b75eb659166",
+    "entry": "Characters/Braum/Skins/Skin19/Materials/Braum_Skin19_inst",
+    "name": "Characters/Braum/Skins/Skin19/Materials/Braum_Skin19_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/LLM_BASE",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MULTIPLY_DIFFUSE",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DESATURATE_REFLECTION",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_LQ_LIGHTING",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "3079df1f381a87bc",
+    "entry": "{a9cf33ec}",
+    "name": "Characters/Braum/Skins/Skin59/Materials/Braum_Skin59_Ice2_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/HKG_MatCap_Diff_Mask_Alpha",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLEND_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_TEX_ALPHA",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_R_FROM_FRESNEL",
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "3079df1f381a87bc",
+    "entry": "{d2f4ff9b}",
+    "name": "Characters/Braum/Skins/Skin59/Materials/Braum_Skin59_Horns_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_Iridescent_Add_Scroll",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_FRESNEL_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "POST_LIGHTING_ON_SCROLLTEX",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCREENSPACE_TEX_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_SCREEN_SPACE_TEXTURE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OVERRIDE_DIFFUSE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCROLLTEX_ONLY",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_R_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_G_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_PULSE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY_W_MASK",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SCROLL_TEXTURE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHA_BLEND_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SPECULAR_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_OUTLINE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DIFFUSE_LERP_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "INVERT_BLOOM_FRESNEL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "36b00af025f54940",
+    "entry": "Characters/Braum/Skins/Skin18/Materials/Braum_Skin18_inst",
+    "name": "Characters/Braum/Skins/Skin18/Materials/Braum_Skin18_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/LLM_BASE",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MULTIPLY_DIFFUSE",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DESATURATE_REFLECTION",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_LQ_LIGHTING",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "3f6a40609700ee85",
+    "entry": "Characters/Braum/Skins/Skin25/Materials/Braum_Skin25_Poro_inst",
+    "name": "Characters/Braum/Skins/Skin25/Materials/Braum_Skin25_Poro_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_MatCap_RMA_VertexDeform",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VERTEX_DEFORM_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MATCAP_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ANIMATION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MATCAP_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_R_MASK_ON_DEFORM",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "42ee6bdbfc9d170b",
+    "entry": "Characters/Braum/Skins/Skin11/Materials/Braum_Skin11_inst",
+    "name": "Characters/Braum/Skins/Skin11/Materials/Braum_Skin11_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/LLM_BASE",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MULTIPLY_DIFFUSE",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DESATURATE_REFLECTION",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_LQ_LIGHTING",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "4fe453abcf9c5181",
+    "entry": "Characters/Braum/Skins/Skin14/Materials/Braum_Skin14_inst",
+    "name": "Characters/Braum/Skins/Skin14/Materials/Braum_Skin14_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/LLM_BASE",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MULTIPLY_DIFFUSE",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DESATURATE_REFLECTION",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_LQ_LIGHTING",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "5665076b09fc85c9",
+    "entry": "{00baca6b}",
+    "name": "Characters/Braum/Skins/Skin47/Materials/Metal_Body",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/PBR_VFX",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_EMISSION_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHABLEND_EMISSION",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACETEX_SCROLL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ALPHA_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_G_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_R_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DISTORTION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALL_ADDITIVE_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACE_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FRESNEL_OUTLINE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "60bd129d627e731e",
+    "entry": "{6dc3fe25}",
+    "name": "Characters/Braum/Skins/Skin49/Materials/Metal_Body",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/PBR_VFX",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_EMISSION_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHABLEND_EMISSION",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACETEX_SCROLL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ALPHA_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_G_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_R_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DISTORTION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALL_ADDITIVE_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACE_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FRESNEL_OUTLINE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "6c66319ffa4bb738",
+    "entry": "{70881ddc}",
+    "name": "Characters/Braum/Skins/Skin60/Materials/Braum_Skin60_Ice2_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/HKG_MatCap_Diff_Mask_Alpha",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLEND_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_TEX_ALPHA",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_R_FROM_FRESNEL",
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "6c66319ffa4bb738",
+    "entry": "{f5c94f8b}",
+    "name": "Characters/Braum/Skins/Skin60/Materials/Braum_Skin60_Horns_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_Iridescent_Add_Scroll",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_FRESNEL_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "POST_LIGHTING_ON_SCROLLTEX",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCREENSPACE_TEX_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_SCREEN_SPACE_TEXTURE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OVERRIDE_DIFFUSE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCROLLTEX_ONLY",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_R_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_G_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_PULSE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY_W_MASK",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SCROLL_TEXTURE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHA_BLEND_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SPECULAR_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_OUTLINE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DIFFUSE_LERP_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "INVERT_BLOOM_FRESNEL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "6d6176ab099f3064",
+    "entry": "{3465ff63}",
+    "name": "Characters/Braum/Skins/Skin55/Materials/Braum_Skin55_Horns_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_Iridescent_Add_Scroll",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_FRESNEL_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "POST_LIGHTING_ON_SCROLLTEX",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCREENSPACE_TEX_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_SCREEN_SPACE_TEXTURE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OVERRIDE_DIFFUSE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCROLLTEX_ONLY",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_R_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_G_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_PULSE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY_W_MASK",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SCROLL_TEXTURE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHA_BLEND_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SPECULAR_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_OUTLINE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DIFFUSE_LERP_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "INVERT_BLOOM_FRESNEL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "6d6176ab099f3064",
+    "entry": "{fa269464}",
+    "name": "Characters/Braum/Skins/Skin55/Materials/Braum_Skin55_Ice2_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/HKG_MatCap_Diff_Mask_Alpha",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLEND_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_TEX_ALPHA",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_R_FROM_FRESNEL",
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "70c57eae58af6c94",
+    "entry": "{7523593b}",
+    "name": "Characters/Braum/Skins/Skin51/Materials/Braum_Skin51_Horns_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_Iridescent_Add_Scroll",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_FRESNEL_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "POST_LIGHTING_ON_SCROLLTEX",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCREENSPACE_TEX_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_SCREEN_SPACE_TEXTURE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OVERRIDE_DIFFUSE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCROLLTEX_ONLY",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_R_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_G_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_PULSE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY_W_MASK",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SCROLL_TEXTURE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHA_BLEND_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SPECULAR_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_OUTLINE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DIFFUSE_LERP_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "INVERT_BLOOM_FRESNEL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "70c57eae58af6c94",
+    "entry": "{c4e1438c}",
+    "name": "Characters/Braum/Skins/Skin51/Materials/Braum_Skin51_Ice2_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/HKG_MatCap_Diff_Mask_Alpha",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLEND_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_TEX_ALPHA",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_R_FROM_FRESNEL",
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "7ca837cacce9639a",
+    "entry": "{5d47abb7}",
+    "name": "Characters/Braum/Skins/Skin53/Materials/Braum_Skin53_Horns_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_Iridescent_Add_Scroll",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_FRESNEL_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "POST_LIGHTING_ON_SCROLLTEX",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCREENSPACE_TEX_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_SCREEN_SPACE_TEXTURE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OVERRIDE_DIFFUSE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCROLLTEX_ONLY",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_R_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_G_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_PULSE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY_W_MASK",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SCROLL_TEXTURE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHA_BLEND_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SPECULAR_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_OUTLINE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DIFFUSE_LERP_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "INVERT_BLOOM_FRESNEL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "7ca837cacce9639a",
+    "entry": "{96ee46d8}",
+    "name": "Characters/Braum/Skins/Skin53/Materials/Braum_Skin53_Ice2_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/HKG_MatCap_Diff_Mask_Alpha",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLEND_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_TEX_ALPHA",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_R_FROM_FRESNEL",
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "88b5dd6dc0e099bd",
+    "entry": "Characters/Braum/Skins/Skin28/Materials/Braum_Skin28_Poro_inst",
+    "name": "Characters/Braum/Skins/Skin28/Materials/Braum_Skin28_Poro_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_MatCap_RMA_VertexDeform",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VERTEX_DEFORM_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MATCAP_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ANIMATION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MATCAP_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_R_MASK_ON_DEFORM",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "8cf62c85e1e2e7f9",
+    "entry": "Characters/Braum/Skins/Skin32/Materials/Braum_Skin32_Poro_inst",
+    "name": "Characters/Braum/Skins/Skin32/Materials/Braum_Skin32_Poro_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_MatCap_RMA_VertexDeform",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VERTEX_DEFORM_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MATCAP_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ANIMATION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MATCAP_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_R_MASK_ON_DEFORM",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "992d3c62ff62964c",
+    "entry": "Characters/Braum/Skins/Skin27/Materials/Braum_Skin27_Poro_inst",
+    "name": "Characters/Braum/Skins/Skin27/Materials/Braum_Skin27_Poro_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_MatCap_RMA_VertexDeform",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VERTEX_DEFORM_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MATCAP_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ANIMATION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MATCAP_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_R_MASK_ON_DEFORM",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "99f61b5c2dd61e45",
+    "entry": "{55098d1f}",
+    "name": "Characters/Braum/Skins/Skin43/Materials/Metal_Body",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/PBR_VFX",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_EMISSION_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHABLEND_EMISSION",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACETEX_SCROLL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ALPHA_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_G_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_R_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DISTORTION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALL_ADDITIVE_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACE_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FRESNEL_OUTLINE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "a44281cd843a8348",
+    "entry": "Characters/Braum/Skins/Skin13/Materials/Braum_Skin13_inst",
+    "name": "Characters/Braum/Skins/Skin13/Materials/Braum_Skin13_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/LLM_BASE",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MULTIPLY_DIFFUSE",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DESATURATE_REFLECTION",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_LQ_LIGHTING",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "a485c4b46181b64d",
+    "entry": "{fe83ef16}",
+    "name": "Characters/Braum/Skins/Skin42/Materials/Metal_Body",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/PBR_VFX",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_EMISSION_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHABLEND_EMISSION",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACETEX_SCROLL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ALPHA_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_G_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_R_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DISTORTION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALL_ADDITIVE_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACE_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FRESNEL_OUTLINE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "a582cf4ad353f261",
+    "entry": "Characters/Braum/Skins/Skin30/Materials/Braum_Skin30_Poro_inst",
+    "name": "Characters/Braum/Skins/Skin30/Materials/Braum_Skin30_Poro_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_MatCap_RMA_VertexDeform",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VERTEX_DEFORM_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MATCAP_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ANIMATION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MATCAP_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_R_MASK_ON_DEFORM",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "ab5fbb4cdcdfb2ef",
+    "entry": "{4e2ea1e3}",
+    "name": "Characters/Braum/Skins/Skin42/Materials/Fresnel_Glass_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/PBR_VFX",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_EMISSION_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHABLEND_EMISSION",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACETEX_SCROLL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ALPHA_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_G_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_R_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DISTORTION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALL_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACE_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FRESNEL_OUTLINE_ONLY",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "b30d6dd1b38ee53c",
+    "entry": "Characters/Braum/Skins/Skin26/Materials/Braum_Skin26_Poro_inst",
+    "name": "Characters/Braum/Skins/Skin26/Materials/Braum_Skin26_Poro_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_MatCap_RMA_VertexDeform",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VERTEX_DEFORM_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MATCAP_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ANIMATION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MATCAP_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_R_MASK_ON_DEFORM",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "b4470b8fb5a238f6",
+    "entry": "{edd4f082}",
+    "name": "Characters/Braum/Skins/Skin46/Materials/Metal_Body",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/PBR_VFX",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_EMISSION_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHABLEND_EMISSION",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACETEX_SCROLL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ALPHA_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_G_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_R_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DISTORTION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALL_ADDITIVE_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACE_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FRESNEL_OUTLINE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "b511ce2cc52d55a4",
+    "entry": "{11c5b5b7}",
+    "name": "Characters/Braum/Skins/Skin57/Materials/Braum_Skin57_Horns_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_Iridescent_Add_Scroll",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_FRESNEL_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "POST_LIGHTING_ON_SCROLLTEX",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCREENSPACE_TEX_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_SCREEN_SPACE_TEXTURE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OVERRIDE_DIFFUSE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCROLLTEX_ONLY",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_R_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_G_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_PULSE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY_W_MASK",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SCROLL_TEXTURE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHA_BLEND_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SPECULAR_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_OUTLINE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DIFFUSE_LERP_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "INVERT_BLOOM_FRESNEL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "b511ce2cc52d55a4",
+    "entry": "{71e654d8}",
+    "name": "Characters/Braum/Skins/Skin57/Materials/Braum_Skin57_Ice2_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/HKG_MatCap_Diff_Mask_Alpha",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLEND_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_TEX_ALPHA",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_R_FROM_FRESNEL",
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "bb8b47c7d87589f7",
+    "entry": "Characters/Braum/Skins/Skin17/Materials/Braum_Skin17_inst",
+    "name": "Characters/Braum/Skins/Skin17/Materials/Braum_Skin17_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/LLM_BASE",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MULTIPLY_DIFFUSE",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DESATURATE_REFLECTION",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_LQ_LIGHTING",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "c5c66176cca69ad3",
+    "entry": "Characters/Braum/Skins/Skin31/Materials/Braum_Skin31_Poro_inst",
+    "name": "Characters/Braum/Skins/Skin31/Materials/Braum_Skin31_Poro_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_MatCap_RMA_VertexDeform",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VERTEX_DEFORM_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MATCAP_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ANIMATION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MATCAP_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_R_MASK_ON_DEFORM",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "caacae9cc35f0267",
+    "entry": "Characters/Braum/Skins/Skin29/Materials/Braum_Skin29_Poro_inst",
+    "name": "Characters/Braum/Skins/Skin29/Materials/Braum_Skin29_Poro_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_MatCap_RMA_VertexDeform",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VERTEX_DEFORM_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MATCAP_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ANIMATION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MATCAP_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_R_MASK_ON_DEFORM",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "d01bf01d5611bc53",
+    "entry": "{4f174b5d}",
+    "name": "Characters/Braum/Skins/Skin52/Materials/Braum_Skin52_Horns_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_Iridescent_Add_Scroll",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_FRESNEL_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "POST_LIGHTING_ON_SCROLLTEX",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCREENSPACE_TEX_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_SCREEN_SPACE_TEXTURE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OVERRIDE_DIFFUSE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCROLLTEX_ONLY",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_R_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_G_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_PULSE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY_W_MASK",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SCROLL_TEXTURE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHA_BLEND_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SPECULAR_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_OUTLINE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DIFFUSE_LERP_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "INVERT_BLOOM_FRESNEL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "d01bf01d5611bc53",
+    "entry": "{e07eb422}",
+    "name": "Characters/Braum/Skins/Skin52/Materials/Braum_Skin52_Ice2_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/HKG_MatCap_Diff_Mask_Alpha",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLEND_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_TEX_ALPHA",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_R_FROM_FRESNEL",
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "d3dbd3f84a5b8600",
+    "entry": "Characters/Braum/Skins/Skin24/Materials/Braum_skin24_Poro_inst",
+    "name": "Characters/Braum/Skins/Skin24/Materials/Braum_skin24_Poro_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_MatCap_RMA_VertexDeform",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VERTEX_DEFORM_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MATCAP_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ANIMATION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MATCAP_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_R_MASK_ON_DEFORM",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "d56c87aaf7fac0ee",
+    "entry": "{80fa3305}",
+    "name": "Characters/Braum/Skins/Skin56/Materials/Braum_Skin56_Horns_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/Outline_Iridescent_Add_Scroll",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_FRESNEL_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "POST_LIGHTING_ON_SCROLLTEX",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCREENSPACE_TEX_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_SCREEN_SPACE_TEXTURE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OVERRIDE_DIFFUSE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_SCROLLTEX_ONLY",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_R_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVESCROLLTEX_G_SCREENSPACE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_PULSE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY_W_MASK",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FADE_DIFFUSE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SCROLL_TEXTURE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ADDITIVE_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHA_BLEND_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "SPECULAR_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "IRIDESCENCE_OUTLINE",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DIFFUSE_LERP_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "INVERT_BLOOM_FRESNEL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "d56c87aaf7fac0ee",
+    "entry": "{c36b5aba}",
+    "name": "Characters/Braum/Skins/Skin56/Materials/Braum_Skin56_Ice2_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/HKG_MatCap_Diff_Mask_Alpha",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLEND_ALPHA",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_TEX_ALPHA",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_R_FROM_FRESNEL",
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "d8a52eb470baa538",
+    "entry": "Characters/Braum/Skins/Skin16/Materials/Braum_Skin16_inst",
+    "name": "Characters/Braum/Skins/Skin16/Materials/Braum_Skin16_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/LLM_BASE",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MULTIPLY_DIFFUSE",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DESATURATE_REFLECTION",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_LQ_LIGHTING",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "e1dfd1a549890037",
+    "entry": "Characters/Braum/Skins/Skin15/Materials/Braum_Skin15_inst",
+    "name": "Characters/Braum/Skins/Skin15/Materials/Braum_Skin15_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/LLM_BASE",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MULTIPLY_DIFFUSE",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DESATURATE_REFLECTION",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_LQ_LIGHTING",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "e4dae9eea59fb2f8",
+    "entry": "{08a72858}",
+    "name": "Characters/Braum/Skins/Skin44/Materials/Metal_Body",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/PBR_VFX",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_EMISSION_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHABLEND_EMISSION",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACETEX_SCROLL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ALPHA_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_G_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_R_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DISTORTION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALL_ADDITIVE_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACE_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FRESNEL_OUTLINE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "ed7ecf9170cfaaf8",
+    "entry": "Characters/Braum/Skins/Skin12/Materials/Braum_Skin12_inst",
+    "name": "Characters/Braum/Skins/Skin12/Materials/Braum_Skin12_inst",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/LLM_BASE",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "MULTIPLY_DIFFUSE",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DESATURATE_REFLECTION",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_LQ_LIGHTING",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  },
+  {
+    "file": "fbd72592f4eee68e",
+    "entry": "{cca11ddb}",
+    "name": "Characters/Braum/Skins/Skin50/Materials/Metal_Body",
+    "techniques": [
+      {
+        "Name": "normal",
+        "Passes": [
+          {
+            "Shader": "Shaders/SkinnedMesh/PBR_VFX",
+            "BlendEnable": true,
+            "SrcColorBlendFactor": 6,
+            "SrcAlphaBlendFactor": 6,
+            "DstColorBlendFactor": 7,
+            "DstAlphaBlendFactor": 7,
+            "__type": "StaticMaterialPassDef"
+          }
+        ],
+        "__type": "StaticMaterialTechniqueDef"
+      }
+    ],
+    "switches": [
+      {
+        "Name": "USE_RIM",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "USE_ALBEDO_REMAP",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_EMISSION_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALPHABLEND_EMISSION",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "EXCLUDE_MASK_FROM_TINTCOLOR",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACETEX_SCROLL",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_ALPHA_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_G_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_R_ADDITIVE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "TWO_D_DEFORM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "OUTLINE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "BLOOM_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "DISTORTION_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "ALL_ADDITIVE_ON",
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCREENSPACE_TEX_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "FRESNEL_OUTLINE_ONLY",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      },
+      {
+        "Name": "VFX_SCROLLTEX_SIMPLE_MASK_ON",
+        "On": false,
+        "__type": "StaticMaterialSwitchDef"
+      }
+    ]
+  }
+]

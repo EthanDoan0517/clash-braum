@@ -1,0 +1,362 @@
+[
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/",
+    "bytes": 0,
+    "crc32": "00000000"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/io/",
+    "bytes": 0,
+    "crc32": "00000000"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/io/import_scb.py",
+    "bytes": 6175,
+    "crc32": "cf8f89fa"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/io/bone_utils.py",
+    "bytes": 7608,
+    "crc32": "495cfd08"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/io/export_mapgeo.py",
+    "bytes": 23011,
+    "crc32": "f143ce05"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/io/export_skl.py",
+    "bytes": 18650,
+    "crc32": "bf6888f2"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/io/export_anm.py",
+    "bytes": 35419,
+    "crc32": "9d2096bf"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/io/import_mapgeo.py",
+    "bytes": 31602,
+    "crc32": "ad89b94a"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/io/texture_ops.py",
+    "bytes": 2262,
+    "crc32": "67d5cfa8"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/io/export_sco.py",
+    "bytes": 12117,
+    "crc32": "4e440e0d"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/io/import_skl.py",
+    "bytes": 15148,
+    "crc32": "a29372a2"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/io/import_anm.py",
+    "bytes": 40384,
+    "crc32": "04111ccf"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/io/import_skn.py",
+    "bytes": 9141,
+    "crc32": "52525f58"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/io/file_handlers.py",
+    "bytes": 3540,
+    "crc32": "64307b5c"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/io/export_scb.py",
+    "bytes": 14545,
+    "crc32": "b97a8923"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/io/export_skn.py",
+    "bytes": 35182,
+    "crc32": "132cbc96"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/io/import_sco.py",
+    "bytes": 6000,
+    "crc32": "bc3051ac"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/utils/",
+    "bytes": 0,
+    "crc32": "00000000"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/utils/binary_utils.py",
+    "bytes": 6142,
+    "crc32": "d0c27afe"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/utils/history.py",
+    "bytes": 6710,
+    "crc32": "eb7de80b"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/utils/texture_manager.py",
+    "bytes": 21248,
+    "crc32": "b5df2ca5"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/native/",
+    "bytes": 0,
+    "crc32": "00000000"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/native/bin_parser.dll",
+    "bytes": 316928,
+    "crc32": "7e51edc6"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/native/tex_converter.dll",
+    "bytes": 120320,
+    "crc32": "1ac443b3"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/icons/",
+    "bytes": 0,
+    "crc32": "00000000"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/icons/54.png",
+    "bytes": 3031,
+    "crc32": "72f79cdc"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/icons/55.png",
+    "bytes": 2560,
+    "crc32": "8c60b7f8"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/icons/52.png",
+    "bytes": 2957,
+    "crc32": "6276def7"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/icons/50.png",
+    "bytes": 2128,
+    "crc32": "6a58d58a"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/icons/53.png",
+    "bytes": 2212,
+    "crc32": "9d89e903"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/icons/51.png",
+    "bytes": 2109,
+    "crc32": "9a36d85f"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/extras/",
+    "bytes": 0,
+    "crc32": "00000000"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/extras/boobs_physics.py",
+    "bytes": 54468,
+    "crc32": "b2fa0020"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/extras/wiggle_2.py",
+    "bytes": 56750,
+    "crc32": "bd07a99c"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/extras/__init__.py",
+    "bytes": 77,
+    "crc32": "bfbd77f9"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/extras/physics_common.py",
+    "bytes": 42401,
+    "crc32": "326c00d2"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/extras/wiggle_bake_common.py",
+    "bytes": 18020,
+    "crc32": "282da7be"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/extras/retarget.py",
+    "bytes": 27105,
+    "crc32": "8382625d"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/extras/hair_physics.py",
+    "bytes": 78790,
+    "crc32": "2fb0d7eb"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/extras/physics.py",
+    "bytes": 59858,
+    "crc32": "5ccecad9"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/extras/anim_loader.py",
+    "bytes": 25008,
+    "crc32": "63be7d19"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/ui/",
+    "bytes": 0,
+    "crc32": "00000000"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/ui/mapgeo_panel.py",
+    "bytes": 1913,
+    "crc32": "21fc3c2d"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/ui/icons.py",
+    "bytes": 1115,
+    "crc32": "80ca481e"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/ui/panels.py",
+    "bytes": 9476,
+    "crc32": "e5d96830"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/__init__.py",
+    "bytes": 63585,
+    "crc32": "70675ac1"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/LICENSE",
+    "bytes": 33147,
+    "crc32": "9e7a1508"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/tools/",
+    "bytes": 0,
+    "crc32": "00000000"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/tools/uv_corners.py",
+    "bytes": 13666,
+    "crc32": "27c76e32"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/tools/updater.py",
+    "bytes": 16506,
+    "crc32": "b8c26d5e"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/tools/smart_weights.py",
+    "bytes": 17009,
+    "crc32": "47748e8e"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/tools/normals.py",
+    "bytes": 3452,
+    "crc32": "ae8d2d15"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/tools/voxel_heat - Copy.py",
+    "bytes": 12791,
+    "crc32": "1244d4df"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/tools/bind_pose.py",
+    "bytes": 3541,
+    "crc32": "517524e2"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/tools/voxel_heat.py",
+    "bytes": 11056,
+    "crc32": "fb998872"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/tools/limit_influences.py",
+    "bytes": 3328,
+    "crc32": "12a896d3"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/tools/auto_skinning.py",
+    "bytes": 27842,
+    "crc32": "2e933a58"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/tools/offset_bones.py",
+    "bytes": 9697,
+    "crc32": "26c1a3b7"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/README.md",
+    "bytes": 4510,
+    "crc32": "1177c525"
+  },
+  {
+    "archive": "Aventurine-3.1.5.zip",
+    "member": "Aventurine/THIRD_PARTY_LICENSES.md",
+    "bytes": 2660,
+    "crc32": "80e46601"
+  }
+]

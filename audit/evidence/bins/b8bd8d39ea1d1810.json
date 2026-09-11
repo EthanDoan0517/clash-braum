@@ -1,0 +1,419 @@
+{
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_P_debuff_timer": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 2.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLifetime": {
+          "ConstantValue": 8.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 18.0,
+        "Lifetime": 0.10000000149011612,
+        "IsSingleParticle": 1,
+        "EmitterName": "circletimer",
+        "Importance": 3,
+        "BindWeight": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "FlexShapeDefinition": {
+          "ScaleBirthScaleByBoundObjectSize": 0.004999999888241291,
+          "__type": "VfxFlexShapeDefinitionData"
+        },
+        "Primitive": {
+          "mMesh": {
+            "mSimpleMeshName": "ASSETS/Characters/Braum/Skins/Base/Particles/Braum_base_P_cooldowntimer.scb",
+            "__type": "VfxMeshDefinitionData"
+          },
+          "__type": "VfxPrimitiveMesh"
+        },
+        "BlendMode": 4,
+        "Color": {
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.05000000074505806,
+              0.10000000149011612
+            ],
+            "Values": [
+              [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+              ],
+              [
+                1.0,
+                1.0,
+                1.0,
+                0.4000000059604645
+              ],
+              [
+                1.0,
+                1.0,
+                1.0,
+                0.20000000298023224
+              ]
+            ],
+            "__type": "VfxAnimatedColorVariableData"
+          },
+          "__type": "ValueColor"
+        },
+        "Pass": 1000,
+        "DisableBackfaceCull": true,
+        "MiscRenderFlags": 1,
+        "BirthRotation0": {
+          "ConstantValue": [
+            90.0,
+            0.0,
+            180.0
+          ],
+          "__type": "ValueVector3"
+        },
+        "IsLocalOrientation": 0,
+        "BirthScale0": {
+          "ConstantValue": [
+            20.0,
+            20.0,
+            0.0
+          ],
+          "__type": "ValueVector3"
+        },
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/Braum_Base_P_Cooldowntimer.tex",
+        "BirthUvScrollRate": {
+          "ConstantValue": [
+            0.057999998331069946,
+            0.0
+          ],
+          "__type": "ValueVector2"
+        },
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_P_debuff_timer",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_P_debuff_timer",
+    "OverrideScaleCap": 425.0,
+    "ObjectPath": "{00ea6bf8}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_P_debuff_timer_03": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 2.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLifetime": {
+          "ConstantValue": 6.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 16.0,
+        "Lifetime": 0.10000000149011612,
+        "IsSingleParticle": 1,
+        "EmitterName": "circletimer",
+        "Importance": 3,
+        "BindWeight": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "FlexShapeDefinition": {
+          "ScaleBirthScaleByBoundObjectSize": 0.004999999888241291,
+          "__type": "VfxFlexShapeDefinitionData"
+        },
+        "Primitive": {
+          "mMesh": {
+            "mSimpleMeshName": "ASSETS/Characters/Braum/Skins/Base/Particles/Braum_base_P_cooldowntimer.scb",
+            "__type": "VfxMeshDefinitionData"
+          },
+          "__type": "VfxPrimitiveMesh"
+        },
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Skin10/Particles/Braum_Base_W_ground_decal_RGBA.tex",
+        "BlendMode": 4,
+        "Pass": 1000,
+        "DisableBackfaceCull": true,
+        "MiscRenderFlags": 1,
+        "BirthRotation0": {
+          "ConstantValue": [
+            90.0,
+            0.0,
+            180.0
+          ],
+          "__type": "ValueVector3"
+        },
+        "IsLocalOrientation": 0,
+        "BirthScale0": {
+          "ConstantValue": [
+            20.0,
+            20.0,
+            0.0
+          ],
+          "__type": "ValueVector3"
+        },
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/Braum_Base_P_Cooldowntimer.tex",
+        "BirthUvScrollRate": {
+          "ConstantValue": [
+            0.07999999821186066,
+            0.0
+          ],
+          "__type": "ValueVector2"
+        },
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_P_debuff_timer_03",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_P_debuff_timer_03",
+    "OverrideScaleCap": 425.0,
+    "ObjectPath": "{24d5ef34}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_P_debuff_timer_02": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 2.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLifetime": {
+          "ConstantValue": 7.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 17.0,
+        "Lifetime": 0.10000000149011612,
+        "IsSingleParticle": 1,
+        "EmitterName": "circletimer",
+        "Importance": 3,
+        "BindWeight": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "FlexShapeDefinition": {
+          "ScaleBirthScaleByBoundObjectSize": 0.004999999888241291,
+          "__type": "VfxFlexShapeDefinitionData"
+        },
+        "Primitive": {
+          "mMesh": {
+            "mSimpleMeshName": "ASSETS/Characters/Braum/Skins/Skin10/Particles/Braum_base_P_cooldowntimer.scb",
+            "__type": "VfxMeshDefinitionData"
+          },
+          "__type": "VfxPrimitiveMesh"
+        },
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Base/Particles/Braum_Base_W_ground_decal_RGBA.tex",
+        "BlendMode": 4,
+        "Pass": 1000,
+        "DisableBackfaceCull": true,
+        "MiscRenderFlags": 1,
+        "BirthRotation0": {
+          "ConstantValue": [
+            90.0,
+            0.0,
+            180.0
+          ],
+          "__type": "ValueVector3"
+        },
+        "IsLocalOrientation": 0,
+        "BirthScale0": {
+          "ConstantValue": [
+            20.0,
+            20.0,
+            0.0
+          ],
+          "__type": "ValueVector3"
+        },
+        "Texture": "ASSETS/Characters/Braum/Skins/Skin10/Particles/Braum_Base_P_Cooldowntimer.tex",
+        "BirthUvScrollRate": {
+          "ConstantValue": [
+            0.06849999725818634,
+            0.0
+          ],
+          "__type": "ValueVector2"
+        },
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_P_debuff_timer_02",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_P_debuff_timer_02",
+    "OverrideScaleCap": 425.0,
+    "ObjectPath": "{25d5f0c7}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_R_Telegraph_Red": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "TimeBeforeFirstEmission": 0.5,
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLifetime": {
+          "ConstantValue": 4.0,
+          "__type": "ValueFloat"
+        },
+        "Lifetime": 1.0,
+        "IsSingleParticle": 1,
+        "EmitterName": "Warning_Reticle_right",
+        "Filtering": {
+          "SpectatorPolicy": 1,
+          "__type": "VfxEmitterFiltering"
+        },
+        "BindWeight": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "SpawnShape": {
+          "EmitOffset": [
+            140.0,
+            0.0,
+            650.0
+          ],
+          "__type": "{ee39916f}"
+        },
+        "Primitive": {
+          "mProjection": {
+            "mYRange": 100.0,
+            "mFading": 50.0,
+            "__type": "VfxProjectionDefinitionData"
+          },
+          "__type": "VfxPrimitivePlanarProjection"
+        },
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Skin10/Particles/Braum_Base_R_teamhardbell_rgba.tex",
+        "BlendMode": 4,
+        "ColorLookUpScales": [
+          1.0,
+          0.8999999761581421
+        ],
+        "ColorRenderFlags": 1,
+        "BirthScale0": {
+          "ConstantValue": [
+            100.0,
+            0.0,
+            700.0
+          ],
+          "__type": "ValueVector3"
+        },
+        "Scale0": {
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.125,
+              1.0
+            ],
+            "Values": [
+              [
+                0.30000001192092896,
+                1.0,
+                1.0
+              ],
+              [
+                0.949999988079071,
+                1.0,
+                1.0
+              ],
+              [
+                1.0,
+                1.0,
+                1.0
+              ]
+            ],
+            "__type": "VfxAnimatedVector3fVariableData"
+          },
+          "__type": "ValueVector3"
+        },
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/Braum_Base_R_indicator_side.tex",
+        "__type": "VfxEmitterDefinitionData"
+      },
+      {
+        "TimeBeforeFirstEmission": 0.5,
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLifetime": {
+          "ConstantValue": 4.0,
+          "__type": "ValueFloat"
+        },
+        "Lifetime": 1.0,
+        "IsSingleParticle": 1,
+        "EmitterName": "Warning_Reticle_left",
+        "Filtering": {
+          "SpectatorPolicy": 1,
+          "__type": "VfxEmitterFiltering"
+        },
+        "BindWeight": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "SpawnShape": {
+          "EmitOffset": [
+            -140.0,
+            0.0,
+            650.0
+          ],
+          "__type": "{ee39916f}"
+        },
+        "Primitive": {
+          "mProjection": {
+            "mYRange": 100.0,
+            "mFading": 50.0,
+            "__type": "VfxProjectionDefinitionData"
+          },
+          "__type": "VfxPrimitivePlanarProjection"
+        },
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Skin10/Particles/Braum_Base_R_teamhardbell_rgba.tex",
+        "BlendMode": 4,
+        "ColorLookUpScales": [
+          1.0,
+          0.8999999761581421
+        ],
+        "ColorRenderFlags": 1,
+        "BirthScale0": {
+          "ConstantValue": [
+            -100.0,
+            0.0,
+            700.0
+          ],
+          "__type": "ValueVector3"
+        },
+        "Scale0": {
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.125,
+              1.0
+            ],
+            "Values": [
+              [
+                0.30000001192092896,
+                1.0,
+                1.0
+              ],
+              [
+                0.949999988079071,
+                1.0,
+                1.0
+              ],
+              [
+                1.0,
+                1.0,
+                1.0
+              ]
+            ],
+            "__type": "VfxAnimatedVector3fVariableData"
+          },
+          "__type": "ValueVector3"
+        },
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/Braum_Base_R_indicator_side.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "VisibilityRadius": 10000.0,
+    "ParticleName": "Braum_Base_R_Telegraph_Red",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_R_Telegraph_Red",
+    "Flags": 199,
+    "ObjectPath": "{36761bba}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "__linked": []
+}

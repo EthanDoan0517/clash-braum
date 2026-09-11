@@ -1,0 +1,1503 @@
+{
+  "status": "Offline checks only; visual and runtime gates tracked separately",
+  "sample_policy": "Every integer frame 1..frame_count for all 59 original clips",
+  "input_scene_sha256": {
+    "before": "e5a781f964f89a74c2f11c82b6dbed882d204e2e3b0dbcf818fe9595bf6fb642",
+    "refined": "1da4af530ef7cfe6982c9ae9500335737eb486b668d54b8bf626c3ff4e0a367e"
+  },
+  "revisions": {
+    "before": {
+      "total_frames": 3963,
+      "all_coordinates_finite": true,
+      "normalized_max_four_weights": true,
+      "edge_stretch_metrics": {
+        "Object009": {
+          "max_edge_ratio": 307.3120571130295,
+          "max_p99_edge_ratio": 25.535009118267396,
+          "worst_frame": [
+            "braum_spell4",
+            3
+          ]
+        },
+        "Object007": {
+          "max_edge_ratio": 144.820849718315,
+          "max_p99_edge_ratio": 18.69930001691472,
+          "worst_frame": [
+            "braum_recall",
+            65
+          ]
+        },
+        "Object006": {
+          "max_edge_ratio": 318.12342403055425,
+          "max_p99_edge_ratio": 23.79164085750058,
+          "worst_frame": [
+            "braum_spell4",
+            3
+          ]
+        },
+        "Object005": {
+          "max_edge_ratio": 4.223753003868005,
+          "max_p99_edge_ratio": 4.177891562775867,
+          "worst_frame": [
+            "braum_recall",
+            65
+          ]
+        },
+        "Object004": {
+          "max_edge_ratio": 474.1187508753488,
+          "max_p99_edge_ratio": 80.7938154563012,
+          "worst_frame": [
+            "braum_spell4",
+            3
+          ]
+        },
+        "Object002": {
+          "max_edge_ratio": 130.76960097032324,
+          "max_p99_edge_ratio": 9.081248574265375,
+          "worst_frame": [
+            "braum_recall",
+            65
+          ]
+        },
+        "Object001": {
+          "max_edge_ratio": 126.7205667721403,
+          "max_p99_edge_ratio": 20.848400298662714,
+          "worst_frame": [
+            "braum_dance_loop",
+            50
+          ]
+        },
+        "hjhjh_4": {
+          "max_edge_ratio": 27.83609020597953,
+          "max_p99_edge_ratio": 5.632358363098769,
+          "worst_frame": [
+            "braum_spell3_punch0179",
+            11
+          ]
+        },
+        "hjhjh_3": {
+          "max_edge_ratio": 1.0012212698739158,
+          "max_p99_edge_ratio": 1.0004501147812928,
+          "worst_frame": [
+            "braum_recall_return",
+            15
+          ]
+        },
+        "hjhjh_2": {
+          "max_edge_ratio": 82.22446259720259,
+          "max_p99_edge_ratio": 13.412174222769952,
+          "worst_frame": [
+            "braum_dance_loop",
+            50
+          ]
+        },
+        "hjhjh_16": {
+          "max_edge_ratio": 1.0021500299250654,
+          "max_p99_edge_ratio": 1.0005703939234796,
+          "worst_frame": [
+            "braum_recall_return",
+            15
+          ]
+        },
+        "Poro": {
+          "max_edge_ratio": 30.838982153405464,
+          "max_p99_edge_ratio": 10.340823892997884,
+          "worst_frame": [
+            "braum_joke_in",
+            108
+          ]
+        },
+        "CCE_mesh_23.001": {
+          "max_edge_ratio": 1.0000274606208237,
+          "max_p99_edge_ratio": 1.0000264537948391,
+          "worst_frame": [
+            "braum_recall_return",
+            5
+          ]
+        },
+        "CCE_mesh_22.001": {
+          "max_edge_ratio": 1.0000587735696542,
+          "max_p99_edge_ratio": 1.0000507545735926,
+          "worst_frame": [
+            "braum_recall_return",
+            5
+          ]
+        },
+        "CCE_mesh_21.001": {
+          "max_edge_ratio": 1.0012675786310912,
+          "max_p99_edge_ratio": 1.0005474143640563,
+          "worst_frame": [
+            "braum_recall_return",
+            6
+          ]
+        },
+        "CCE_mesh_16": {
+          "max_edge_ratio": 1.0060204697196977,
+          "max_p99_edge_ratio": 1.001996954488098,
+          "worst_frame": [
+            "braum_recall_return",
+            8
+          ]
+        },
+        "CCE_mesh_15.001": {
+          "max_edge_ratio": 1.0007435414214847,
+          "max_p99_edge_ratio": 1.0005109144607651,
+          "worst_frame": [
+            "braum_recall_return",
+            6
+          ]
+        },
+        "CCE_mesh_14.001": {
+          "max_edge_ratio": 1.0020186162664781,
+          "max_p99_edge_ratio": 1.0003202983541493,
+          "worst_frame": [
+            "braum_recall_return",
+            8
+          ]
+        },
+        "CCE_mesh_13.001": {
+          "max_edge_ratio": 1.0026684810490036,
+          "max_p99_edge_ratio": 1.0003845858524116,
+          "worst_frame": [
+            "braum_recall_return",
+            8
+          ]
+        }
+      },
+      "digit_assignments": {},
+      "rigid_component_max_position_error": 0.0,
+      "clips": [
+        {
+          "clip": "braum_attack_01",
+          "frames_checked": 52,
+          "worst_edge_stretch": {
+            "ratio": 201.38059459406992,
+            "frame": 11,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_attack_02",
+          "frames_checked": 53,
+          "worst_edge_stretch": {
+            "ratio": 197.73656181883902,
+            "frame": 9,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_attack_03",
+          "frames_checked": 52,
+          "worst_edge_stretch": {
+            "ratio": 197.63472774163787,
+            "frame": 6,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_attack_turret_01",
+          "frames_checked": 76,
+          "worst_edge_stretch": {
+            "ratio": 164.00772469044998,
+            "frame": 13,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_channel_in",
+          "frames_checked": 9,
+          "worst_edge_stretch": {
+            "ratio": 188.00636813384787,
+            "frame": 4,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_channel_loop",
+          "frames_checked": 24,
+          "worst_edge_stretch": {
+            "ratio": 109.41265314715666,
+            "frame": 6,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_channelwindup",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 175.5427627096277,
+            "frame": 3,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_critical_attack_01",
+          "frames_checked": 57,
+          "worst_edge_stretch": {
+            "ratio": 221.74848763727107,
+            "frame": 11,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frames_checked": 263,
+          "worst_edge_stretch": {
+            "ratio": 231.96428442410271,
+            "frame": 50,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_dance_windup",
+          "frames_checked": 67,
+          "worst_edge_stretch": {
+            "ratio": 202.25720675694032,
+            "frame": 65,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_death",
+          "frames_checked": 101,
+          "worst_edge_stretch": {
+            "ratio": 211.69272796095825,
+            "frame": 61,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_idle_01_in",
+          "frames_checked": 289,
+          "worst_edge_stretch": {
+            "ratio": 154.50718921317375,
+            "frame": 253,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frames_checked": 87,
+          "worst_edge_stretch": {
+            "ratio": 61.36308002078325,
+            "frame": 22,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_idle_in",
+          "frames_checked": 33,
+          "worst_edge_stretch": {
+            "ratio": 159.74046833745527,
+            "frame": 11,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_joke2_into",
+          "frames_checked": 43,
+          "worst_edge_stretch": {
+            "ratio": 201.56947625655528,
+            "frame": 27,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_joke2_loop",
+          "frames_checked": 33,
+          "worst_edge_stretch": {
+            "ratio": 212.50028034913575,
+            "frame": 16,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_joke_in",
+          "frames_checked": 156,
+          "worst_edge_stretch": {
+            "ratio": 200.92961558321454,
+            "frame": 39,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_joke_loop",
+          "frames_checked": 47,
+          "worst_edge_stretch": {
+            "ratio": 92.40589846407656,
+            "frame": 12,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_laugh",
+          "frames_checked": 192,
+          "worst_edge_stretch": {
+            "ratio": 216.51585334924337,
+            "frame": 58,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_passive_attack_01",
+          "frames_checked": 56,
+          "worst_edge_stretch": {
+            "ratio": 200.81331346641568,
+            "frame": 9,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_recall",
+          "frames_checked": 275,
+          "worst_edge_stretch": {
+            "ratio": 217.78195477164735,
+            "frame": 7,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_recall_return",
+          "frames_checked": 400,
+          "worst_edge_stretch": {
+            "ratio": 200.7913610506021,
+            "frame": 26,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_run_02",
+          "frames_checked": 33,
+          "worst_edge_stretch": {
+            "ratio": 206.6094538568688,
+            "frame": 32,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_run_haste_01",
+          "frames_checked": 36,
+          "worst_edge_stretch": {
+            "ratio": 199.9601237785243,
+            "frame": 17,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_run_slow",
+          "frames_checked": 36,
+          "worst_edge_stretch": {
+            "ratio": 190.81341486051963,
+            "frame": 29,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell1",
+          "frames_checked": 21,
+          "worst_edge_stretch": {
+            "ratio": 131.56918369027665,
+            "frame": 9,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell2",
+          "frames_checked": 20,
+          "worst_edge_stretch": {
+            "ratio": 148.696165603029,
+            "frame": 2,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_idle-180",
+          "frames_checked": 58,
+          "worst_edge_stretch": {
+            "ratio": 156.16101550368393,
+            "frame": 29,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_idle-90",
+          "frames_checked": 58,
+          "worst_edge_stretch": {
+            "ratio": 156.16110159254055,
+            "frame": 29,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_idle0",
+          "frames_checked": 58,
+          "worst_edge_stretch": {
+            "ratio": 156.16106296795544,
+            "frame": 29,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frames_checked": 58,
+          "worst_edge_stretch": {
+            "ratio": 156.16095883847407,
+            "frame": 29,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_idle90",
+          "frames_checked": 58,
+          "worst_edge_stretch": {
+            "ratio": 156.16102644189226,
+            "frame": 29,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_leapback",
+          "frames_checked": 21,
+          "worst_edge_stretch": {
+            "ratio": 117.19799989465996,
+            "frame": 1,
+            "object": "Object004"
+          }
+        },
+        {
+          "clip": "braum_spell3_leapback2",
+          "frames_checked": 21,
+          "worst_edge_stretch": {
+            "ratio": 117.19803262890431,
+            "frame": 1,
+            "object": "Object004"
+          }
+        },
+        {
+          "clip": "braum_spell3_leapforward",
+          "frames_checked": 21,
+          "worst_edge_stretch": {
+            "ratio": 72.45832494793049,
+            "frame": 1,
+            "object": "Object004"
+          }
+        },
+        {
+          "clip": "braum_spell3_leapleft",
+          "frames_checked": 21,
+          "worst_edge_stretch": {
+            "ratio": 61.62486515846421,
+            "frame": 1,
+            "object": "Object004"
+          }
+        },
+        {
+          "clip": "braum_spell3_leapright",
+          "frames_checked": 21,
+          "worst_edge_stretch": {
+            "ratio": 112.55947446136817,
+            "frame": 1,
+            "object": "Object004"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch-135",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 184.3448017317175,
+            "frame": 36,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch-179",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 188.77319355948788,
+            "frame": 24,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch-45",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 184.4150258162314,
+            "frame": 36,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch0",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 185.92883400487156,
+            "frame": 13,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch0-179",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 190.48863086531665,
+            "frame": 13,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch0-45",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 190.4886785660685,
+            "frame": 13,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch0179",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 184.78871369533138,
+            "frame": 13,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch045",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 184.7887785817158,
+            "frame": 13,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch135",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 177.3071135230562,
+            "frame": 7,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch179",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 192.7653851593464,
+            "frame": 7,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch45",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 193.4160389963089,
+            "frame": 31,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_punchleft-179",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 193.418854327029,
+            "frame": 31,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_punchleft-45",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 193.4187551531994,
+            "frame": 31,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_punchright179",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 184.40910353444588,
+            "frame": 36,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_punchright45",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 184.40896214054186,
+            "frame": 36,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_run-179",
+          "frames_checked": 28,
+          "worst_edge_stretch": {
+            "ratio": 194.6580400306268,
+            "frame": 4,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frames_checked": 28,
+          "worst_edge_stretch": {
+            "ratio": 206.62559747159165,
+            "frame": 5,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frames_checked": 28,
+          "worst_edge_stretch": {
+            "ratio": 179.0304317182869,
+            "frame": 17,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_run179",
+          "frames_checked": 28,
+          "worst_edge_stretch": {
+            "ratio": 194.6579363882351,
+            "frame": 4,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell3_run90",
+          "frames_checked": 28,
+          "worst_edge_stretch": {
+            "ratio": 197.04769177393106,
+            "frame": 7,
+            "object": "Object006"
+          }
+        },
+        {
+          "clip": "braum_spell4",
+          "frames_checked": 30,
+          "worst_edge_stretch": {
+            "ratio": 474.1187508753488,
+            "frame": 3,
+            "object": "Object004"
+          }
+        },
+        {
+          "clip": "braum_taunt_01",
+          "frames_checked": 231,
+          "worst_edge_stretch": {
+            "ratio": 217.49718076635276,
+            "frame": 64,
+            "object": "Object006"
+          }
+        }
+      ]
+    },
+    "refined": {
+      "total_frames": 3963,
+      "all_coordinates_finite": true,
+      "normalized_max_four_weights": true,
+      "edge_stretch_metrics": {
+        "Object009": {
+          "max_edge_ratio": 12.45806014911301,
+          "max_p99_edge_ratio": 11.173949851569748,
+          "worst_frame": [
+            "braum_spell4",
+            3
+          ]
+        },
+        "Object007": {
+          "max_edge_ratio": 37.35797143871583,
+          "max_p99_edge_ratio": 6.946573303818433,
+          "worst_frame": [
+            "braum_taunt_01",
+            162
+          ]
+        },
+        "Object006": {
+          "max_edge_ratio": 22.099025139938504,
+          "max_p99_edge_ratio": 2.794215373341785,
+          "worst_frame": [
+            "braum_dance_loop",
+            74
+          ]
+        },
+        "Object005": {
+          "max_edge_ratio": 4.223753003868005,
+          "max_p99_edge_ratio": 4.177891562775867,
+          "worst_frame": [
+            "braum_recall",
+            65
+          ]
+        },
+        "Object004": {
+          "max_edge_ratio": 27.74813883911533,
+          "max_p99_edge_ratio": 6.032611004033531,
+          "worst_frame": [
+            "braum_taunt_01",
+            130
+          ]
+        },
+        "Object002": {
+          "max_edge_ratio": 5.956581990747284,
+          "max_p99_edge_ratio": 3.3543900266776774,
+          "worst_frame": [
+            "braum_spell4",
+            17
+          ]
+        },
+        "Object001": {
+          "max_edge_ratio": 29.357805507929385,
+          "max_p99_edge_ratio": 13.883304024974636,
+          "worst_frame": [
+            "braum_spell4",
+            3
+          ]
+        },
+        "hjhjh_4": {
+          "max_edge_ratio": 4.836922331918033,
+          "max_p99_edge_ratio": 2.8692889228786824,
+          "worst_frame": [
+            "braum_attack_01",
+            10
+          ]
+        },
+        "hjhjh_3": {
+          "max_edge_ratio": 1.0012212698739158,
+          "max_p99_edge_ratio": 1.0004501147812928,
+          "worst_frame": [
+            "braum_recall_return",
+            15
+          ]
+        },
+        "hjhjh_2": {
+          "max_edge_ratio": 2.4887362561492186,
+          "max_p99_edge_ratio": 1.000106697770115,
+          "worst_frame": [
+            "braum_spell4",
+            17
+          ]
+        },
+        "hjhjh_16": {
+          "max_edge_ratio": 1.0021500299250654,
+          "max_p99_edge_ratio": 1.0005703939234796,
+          "worst_frame": [
+            "braum_recall_return",
+            15
+          ]
+        },
+        "Poro": {
+          "max_edge_ratio": 30.838982153405464,
+          "max_p99_edge_ratio": 10.340823892997884,
+          "worst_frame": [
+            "braum_joke_in",
+            108
+          ]
+        },
+        "CCE_mesh_23.001": {
+          "max_edge_ratio": 1.0000274606208237,
+          "max_p99_edge_ratio": 1.0000264537948391,
+          "worst_frame": [
+            "braum_recall_return",
+            5
+          ]
+        },
+        "CCE_mesh_22.001": {
+          "max_edge_ratio": 1.0000587735696542,
+          "max_p99_edge_ratio": 1.0000507545735926,
+          "worst_frame": [
+            "braum_recall_return",
+            5
+          ]
+        },
+        "CCE_mesh_21.001": {
+          "max_edge_ratio": 1.0012675786310912,
+          "max_p99_edge_ratio": 1.0005474143640563,
+          "worst_frame": [
+            "braum_recall_return",
+            6
+          ]
+        },
+        "CCE_mesh_16": {
+          "max_edge_ratio": 1.0060204697196977,
+          "max_p99_edge_ratio": 1.001996954488098,
+          "worst_frame": [
+            "braum_recall_return",
+            8
+          ]
+        },
+        "CCE_mesh_15.001": {
+          "max_edge_ratio": 1.0007435414214847,
+          "max_p99_edge_ratio": 1.0005109144607651,
+          "worst_frame": [
+            "braum_recall_return",
+            6
+          ]
+        },
+        "CCE_mesh_14.001": {
+          "max_edge_ratio": 1.0020186162664781,
+          "max_p99_edge_ratio": 1.0003202983541493,
+          "worst_frame": [
+            "braum_recall_return",
+            8
+          ]
+        },
+        "CCE_mesh_13.001": {
+          "max_edge_ratio": 1.0026684810490036,
+          "max_p99_edge_ratio": 1.0003845858524116,
+          "worst_frame": [
+            "braum_recall_return",
+            8
+          ]
+        }
+      },
+      "digit_assignments": {
+        "L_Thumb": {
+          "vertices": 51,
+          "min_digit_weight": 0.9999999711290002
+        },
+        "L_Index": {
+          "vertices": 74,
+          "min_digit_weight": 0.9999999701976776
+        },
+        "L_Middle": {
+          "vertices": 67,
+          "min_digit_weight": 0.9999999813735485
+        },
+        "L_Ring": {
+          "vertices": 67,
+          "min_digit_weight": 0.9999999776482582
+        },
+        "L_Pinky": {
+          "vertices": 67,
+          "min_digit_weight": 0.9999999701976776
+        },
+        "R_Thumb": {
+          "vertices": 51,
+          "min_digit_weight": 0.9999999701976776
+        },
+        "R_Index": {
+          "vertices": 74,
+          "min_digit_weight": 0.9999999701976776
+        },
+        "R_Middle": {
+          "vertices": 67,
+          "min_digit_weight": 0.9999999850988388
+        },
+        "R_Ring": {
+          "vertices": 67,
+          "min_digit_weight": 0.9999999701976776
+        },
+        "R_Pinky": {
+          "vertices": 67,
+          "min_digit_weight": 0.9999999701976776
+        }
+      },
+      "rigid_component_max_position_error": 2.338248023647793e-06,
+      "clips": [
+        {
+          "clip": "braum_attack_01",
+          "frames_checked": 52,
+          "worst_edge_stretch": {
+            "ratio": 22.04790784077935,
+            "frame": 21,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_attack_02",
+          "frames_checked": 53,
+          "worst_edge_stretch": {
+            "ratio": 22.393544040573147,
+            "frame": 7,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_attack_03",
+          "frames_checked": 52,
+          "worst_edge_stretch": {
+            "ratio": 22.496845972163243,
+            "frame": 36,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_attack_turret_01",
+          "frames_checked": 76,
+          "worst_edge_stretch": {
+            "ratio": 18.45151656347426,
+            "frame": 52,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_channel_in",
+          "frames_checked": 9,
+          "worst_edge_stretch": {
+            "ratio": 22.98519086347814,
+            "frame": 1,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_channel_loop",
+          "frames_checked": 24,
+          "worst_edge_stretch": {
+            "ratio": 11.323069947946289,
+            "frame": 18,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_channelwindup",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 27.34919768765801,
+            "frame": 38,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_critical_attack_01",
+          "frames_checked": 57,
+          "worst_edge_stretch": {
+            "ratio": 25.328783290271417,
+            "frame": 12,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frames_checked": 263,
+          "worst_edge_stretch": {
+            "ratio": 26.555407219708776,
+            "frame": 149,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_dance_windup",
+          "frames_checked": 67,
+          "worst_edge_stretch": {
+            "ratio": 21.08107200817842,
+            "frame": 67,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_death",
+          "frames_checked": 101,
+          "worst_edge_stretch": {
+            "ratio": 18.173070484189655,
+            "frame": 52,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_idle_01_in",
+          "frames_checked": 289,
+          "worst_edge_stretch": {
+            "ratio": 20.811247417276963,
+            "frame": 275,
+            "object": "Object004"
+          }
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frames_checked": 87,
+          "worst_edge_stretch": {
+            "ratio": 7.46030460196527,
+            "frame": 49,
+            "object": "Object004"
+          }
+        },
+        {
+          "clip": "braum_idle_in",
+          "frames_checked": 33,
+          "worst_edge_stretch": {
+            "ratio": 15.226666159094457,
+            "frame": 9,
+            "object": "Object004"
+          }
+        },
+        {
+          "clip": "braum_joke2_into",
+          "frames_checked": 43,
+          "worst_edge_stretch": {
+            "ratio": 30.05683056293728,
+            "frame": 21,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_joke2_loop",
+          "frames_checked": 33,
+          "worst_edge_stretch": {
+            "ratio": 26.044164777984207,
+            "frame": 8,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_joke_in",
+          "frames_checked": 156,
+          "worst_edge_stretch": {
+            "ratio": 30.838982153405464,
+            "frame": 108,
+            "object": "Poro"
+          }
+        },
+        {
+          "clip": "braum_joke_loop",
+          "frames_checked": 47,
+          "worst_edge_stretch": {
+            "ratio": 14.311837386722011,
+            "frame": 47,
+            "object": "Object004"
+          }
+        },
+        {
+          "clip": "braum_laugh",
+          "frames_checked": 192,
+          "worst_edge_stretch": {
+            "ratio": 27.249866896395318,
+            "frame": 30,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_passive_attack_01",
+          "frames_checked": 56,
+          "worst_edge_stretch": {
+            "ratio": 18.046662974339025,
+            "frame": 10,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_recall",
+          "frames_checked": 275,
+          "worst_edge_stretch": {
+            "ratio": 31.508489670980655,
+            "frame": 135,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_recall_return",
+          "frames_checked": 400,
+          "worst_edge_stretch": {
+            "ratio": 32.445115404014075,
+            "frame": 18,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_run_02",
+          "frames_checked": 33,
+          "worst_edge_stretch": {
+            "ratio": 17.27908331334061,
+            "frame": 23,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_run_haste_01",
+          "frames_checked": 36,
+          "worst_edge_stretch": {
+            "ratio": 24.021150509852344,
+            "frame": 5,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_run_slow",
+          "frames_checked": 36,
+          "worst_edge_stretch": {
+            "ratio": 25.114137028614742,
+            "frame": 16,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell1",
+          "frames_checked": 21,
+          "worst_edge_stretch": {
+            "ratio": 31.31844595814518,
+            "frame": 4,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell2",
+          "frames_checked": 20,
+          "worst_edge_stretch": {
+            "ratio": 26.779946350055344,
+            "frame": 9,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_idle-180",
+          "frames_checked": 58,
+          "worst_edge_stretch": {
+            "ratio": 21.10523528835325,
+            "frame": 29,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_idle-90",
+          "frames_checked": 58,
+          "worst_edge_stretch": {
+            "ratio": 21.10528541397214,
+            "frame": 29,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_idle0",
+          "frames_checked": 58,
+          "worst_edge_stretch": {
+            "ratio": 21.105210264920466,
+            "frame": 29,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frames_checked": 58,
+          "worst_edge_stretch": {
+            "ratio": 21.105262233613313,
+            "frame": 29,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_idle90",
+          "frames_checked": 58,
+          "worst_edge_stretch": {
+            "ratio": 21.105263896498677,
+            "frame": 29,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_leapback",
+          "frames_checked": 21,
+          "worst_edge_stretch": {
+            "ratio": 10.224067948696346,
+            "frame": 1,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_leapback2",
+          "frames_checked": 21,
+          "worst_edge_stretch": {
+            "ratio": 10.226170546075505,
+            "frame": 1,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_leapforward",
+          "frames_checked": 21,
+          "worst_edge_stretch": {
+            "ratio": 9.823093810420536,
+            "frame": 1,
+            "object": "Object004"
+          }
+        },
+        {
+          "clip": "braum_spell3_leapleft",
+          "frames_checked": 21,
+          "worst_edge_stretch": {
+            "ratio": 15.128388480607775,
+            "frame": 1,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_leapright",
+          "frames_checked": 21,
+          "worst_edge_stretch": {
+            "ratio": 9.82310841787529,
+            "frame": 1,
+            "object": "Object004"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch-135",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 28.72923877898842,
+            "frame": 6,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch-179",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 26.401762967345316,
+            "frame": 13,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch-45",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 28.45035173628576,
+            "frame": 7,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch0",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 22.08523164375442,
+            "frame": 24,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch0-179",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 24.934080949119362,
+            "frame": 5,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch0-45",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 24.934059228533336,
+            "frame": 5,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch0179",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 24.10749309218232,
+            "frame": 24,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch045",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 24.107559504318875,
+            "frame": 24,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch135",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 20.36558754635079,
+            "frame": 36,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch179",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 25.890840429272835,
+            "frame": 7,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_punch45",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 22.12725288955616,
+            "frame": 11,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_punchleft-179",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 22.60625021189011,
+            "frame": 11,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_punchleft-45",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 22.606282629829103,
+            "frame": 11,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_punchright179",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 28.451292694217848,
+            "frame": 7,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_punchright45",
+          "frames_checked": 41,
+          "worst_edge_stretch": {
+            "ratio": 28.45115570378531,
+            "frame": 7,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_run-179",
+          "frames_checked": 28,
+          "worst_edge_stretch": {
+            "ratio": 22.218776004625163,
+            "frame": 17,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frames_checked": 28,
+          "worst_edge_stretch": {
+            "ratio": 19.89827300836583,
+            "frame": 19,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frames_checked": 28,
+          "worst_edge_stretch": {
+            "ratio": 16.218127417002556,
+            "frame": 23,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_run179",
+          "frames_checked": 28,
+          "worst_edge_stretch": {
+            "ratio": 22.21882346307388,
+            "frame": 17,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell3_run90",
+          "frames_checked": 28,
+          "worst_edge_stretch": {
+            "ratio": 17.07519223473488,
+            "frame": 3,
+            "object": "Object007"
+          }
+        },
+        {
+          "clip": "braum_spell4",
+          "frames_checked": 30,
+          "worst_edge_stretch": {
+            "ratio": 29.357805507929385,
+            "frame": 3,
+            "object": "Object001"
+          }
+        },
+        {
+          "clip": "braum_taunt_01",
+          "frames_checked": 231,
+          "worst_edge_stretch": {
+            "ratio": 37.35797143871583,
+            "frame": 162,
+            "object": "Object007"
+          }
+        }
+      ]
+    }
+  },
+  "source_anm_sha256": {
+    "braum_attack_01": "5ff7ca57c8b20965d44e44119b413aed58b30853a947f365ec900aadd99f7a0d",
+    "braum_attack_02": "076834f2825c8c2a0a82b58a5534702416fc5d45405b4ad71ec6a256fd6f0840",
+    "braum_attack_03": "314c6cdf3b7cae1c068f924f6caf1ea131a358bfae3fff945bbdf9ecc85ab90d",
+    "braum_attack_turret_01": "1ce7782196d1cd81638650591ed15d9d7bae1b01b2807de82252abaaf2ac0cb1",
+    "braum_channel_in": "4eba434b8254c494d8b5dce22596532980cf64eaa87cd2797d2e5e066ad267c3",
+    "braum_channel_loop": "3bf8b9c7ea6edd2502859cb1c6060a4dacdee94c02f660f32fa69a6c1d683f51",
+    "braum_channelwindup": "b0bdb707181979a39ef3de60248174977c5734bfbaf068b821e4329b283a4e87",
+    "braum_critical_attack_01": "496bb8c76db24f3f789e4dbb34288c521733a154d80bf31abc4bde5400ce3282",
+    "braum_dance_loop": "aa8820374a6f7a05e4e1b884139b4f8e18448bfc7adc7df599ac10b1194902db",
+    "braum_dance_windup": "a7a713f2d33dc921806f0eef113454ae16f88ecdcec7f1732d75d95f257cccde",
+    "braum_death": "bd77d489dc7edb280c4839f616a6f66c3f3d70e52c9c2962a4f1c7c5560a3e6f",
+    "braum_idle_01_in": "3c034b922f437ca7973b61c57a070a8ea579b157807a7ad5a0c8f4de9f0dc87e",
+    "braum_idle_01_loop": "e688f6501e5b7077151d786d4e028d847f7c5575cdc7809069e2d48b35652d9d",
+    "braum_idle_in": "859fdb3ce6f10e3a0df8ef612ccdd406fcb82de96d3cff4a791f856cbc27b963",
+    "braum_joke2_into": "9a2799d327507a323fbf6a3ed7f6afcd1b4eb741e9cdef706e6326b28cb9e3e4",
+    "braum_joke2_loop": "1d943cc7a345d51c5b05f613a2a9591152879676ddd4b728dfe5c9aa055e5c6e",
+    "braum_joke_in": "2c3885737e7fffcbb9d17b16a5408fb2883952281277658a770c54320cc49397",
+    "braum_joke_loop": "4c75559aa8ca1c4b0abfea0d7d6a272aac5587bda909183d91e0c74c437cae81",
+    "braum_laugh": "f31f7508397e4df0fab21b24661de29a824b46099597f79d99b5891339957b5c",
+    "braum_passive_attack_01": "7853ada6eb8989f264a4155943fa79719cad12a261db59bf3f5d75550df29881",
+    "braum_recall": "3d349ee77f8535c3347bd6fb2df0cb620977c7d89a2adb056b59779f8641ac72",
+    "braum_recall_return": "bfab1102e8dabec411fdbe781fa07ddc9c79adb925a0e23424c531a5a116bfb6",
+    "braum_run_02": "ec7059cc6c9f1a97593f743ba7087dfd499548839e379a9e9525df2f1a80ff8d",
+    "braum_run_haste_01": "aafc7f9265e3f27c165d45acfa362228755a705856b5dbed2cf0e277f59860c4",
+    "braum_run_slow": "53ff4e5ab03cf09c7a17d8ccec65e5cafdbdacacbd9c843f119ea4b045535f86",
+    "braum_spell1": "e4e5f7f43e784b764558cbd93f69e8e70d0e29ab0722dd5c71309b7070dd012c",
+    "braum_spell2": "627191d8c5a6f3a441c1ea6555db468c6f5027546bffe358f6447c4220d8f301",
+    "braum_spell3_idle-180": "8299345fe6e804be488737124130b541df9d37a6932b4b0f7b4ac13a926328f9",
+    "braum_spell3_idle-90": "13b80ba71b0da46f3cff6c1ccf741daa72a8eb15a59b3f365af28866361a9bfc",
+    "braum_spell3_idle0": "12927c1bec55c2c0e7149c4df05293ef3a7145402c189e618a06f8c5c51b7264",
+    "braum_spell3_idle180": "27e62259aace65f663560b43272109477ae3d9e7f68cb7fc39b6dafff29b03be",
+    "braum_spell3_idle90": "f28960be3567027a9d0e87e1c284e431a861f5bce4d2e1c45b86f6f446ecfbd3",
+    "braum_spell3_leapback": "194b38db313c1fb3bff41b02bfbb314a1eaa674684ff66bb742fbdcf5c09f247",
+    "braum_spell3_leapback2": "a2c8a2ba6b4b8abb8cb362a37c5856b60a403ecc45c5e3cd066925728d1335aa",
+    "braum_spell3_leapforward": "2ffbb632c7279afc7a74904bb110709f5f656d17607415c09d24157eee7abbcb",
+    "braum_spell3_leapleft": "a032518b559310a594f3b3db8af1f3626a73636d1aa9b2a326cb29c1a02473ae",
+    "braum_spell3_leapright": "f4ef33648ff5ef9fa03ec9f1119a499799ba2d723cfb0572d7a4af8c28425822",
+    "braum_spell3_punch-135": "b4ee3f18aa0ad014ea6922bbc39f029a8c4d6e82be9ddbd591f58e233dd22fd7",
+    "braum_spell3_punch-179": "96822e1d9f3b6a5d025c88ab4f4c98044fa284fd62c4fe91c1d263c291dbce10",
+    "braum_spell3_punch-45": "c32a4132c6ecfa7da51e1a6e928010c6eb5454421a3c93489749b2c832b71b84",
+    "braum_spell3_punch0": "6105f5831db92cee7c70bb844ba3cde2c2d9499bfb1e88046f46adebe0e6278e",
+    "braum_spell3_punch0-179": "694c55465d90f5deeb1559e2250972301d74346211189a22b009a3ff10fc91b5",
+    "braum_spell3_punch0-45": "970d6e6326511aa1f226902e3384a7f480bc6c3a6ad68eee5ef050f650406f82",
+    "braum_spell3_punch0179": "f600db864d1259957c0322839031b667a10b84f98d7c33f7098fabc4729d0f20",
+    "braum_spell3_punch045": "2e0aac6b8a70b75017e20b65d7f3bcd93123acc9542f0dffc3d18c860e1825b2",
+    "braum_spell3_punch135": "7bc2f287d64c14ac602d8db2dbf93ed67a49706df0340e5825a7449a9940659a",
+    "braum_spell3_punch179": "896bcefe14eec030d76330ede5059ac1059d6c6808a2a8f97455d2d14c03c0b8",
+    "braum_spell3_punch45": "8cb0e617f8d60861364f7ca32b9c0446e75a2881d11dcd6405fd6536a735175a",
+    "braum_spell3_punchleft-179": "3ea4d9139474ddf931d36e04c19c9c03fdae6239cfae34ddf50cff10dad3edee",
+    "braum_spell3_punchleft-45": "98dc832d3d3272d6e131c98e6634d4e9bc553ab1c57603635e7a567480b3581e",
+    "braum_spell3_punchright179": "f43edbc28790b8b6a81c9f068b3ef12ae89603ed9ff83d90148ac65ad0f39208",
+    "braum_spell3_punchright45": "9ee403166b0919d6c4e0db5d97a9843c4afc0471281c7c2982e445b7e6b549e2",
+    "braum_spell3_run-179": "744d1c28ca2a0c47756f9c3abb4ff4be44509c325131f954c530ce999d013ef2",
+    "braum_spell3_run-90": "65ba04e4cbe6e73aae66c2136d120173d1132693616219d4e88b18e6650a1b4b",
+    "braum_spell3_run0": "70fb2f91f94fe0390f1ea917b99b101f7d608461b445ac980903b8675e7aa1f5",
+    "braum_spell3_run179": "db869ebfd6e6cc96364f8010eb9db3e66286cfd759f24cfe158b39a5915924a6",
+    "braum_spell3_run90": "185de11f8a2270fef2c653f7d71ceea5ae2195758b4bbaaa8e1129ff9970022f",
+    "braum_spell4": "ceef5ccdbaaa2ede67b74899abaebef63326232ef47f839ea23c0de8c3fa5e80",
+    "braum_taunt_01": "f9cc1f4a54a7cbf6559454a431ce90f7c01cadcd0ed1a6b019769dca679f84ea"
+  },
+  "before_pose_measurements_reused_for_identical_scene_and_anms": true,
+  "imported_action_channels_unchanged": true,
+  "native_rest_contract_unchanged": true
+}

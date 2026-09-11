@@ -1,0 +1,302 @@
+{
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Laugh_Sound": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 10.0,
+        "EmitterName": "empty",
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "MeshRenderFlags": 0,
+        "IsUniformScale": 1,
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_Emote_Laugh_Sound",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Laugh_Sound",
+    "SoundPersistentDefault": "Play_sfx_Braum_Laugh3D_buffactivate",
+    "Flags": 132,
+    "ObjectPath": "{08c0771d}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Joke2_Windup_Sound": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 10.0,
+        "EmitterName": "empty",
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "MeshRenderFlags": 0,
+        "IsUniformScale": 1,
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_Emote_Joke2_Windup_Sound",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Joke2_Windup_Sound",
+    "SoundPersistentDefault": "Play_sfx_Braum_Joke3D2_leadin",
+    "Flags": 132,
+    "ObjectPath": "{1c77d577}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Joke2_Windup_Poro_Sound": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 10.0,
+        "EmitterName": "empty",
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "MeshRenderFlags": 0,
+        "IsUniformScale": 1,
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_Emote_Joke2_Windup_Poro_Sound",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Joke2_Windup_Poro_Sound",
+    "SoundPersistentDefault": "Play_sfx_Braum_Joke3D2_poro",
+    "Flags": 132,
+    "ObjectPath": "{1faeef12}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Joke2_Loop_Sound": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 10.0,
+        "EmitterName": "empty",
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "MeshRenderFlags": 0,
+        "IsUniformScale": 1,
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_Emote_Joke2_Loop_Sound",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Joke2_Loop_Sound",
+    "SoundPersistentDefault": "Play_sfx_Braum_Joke3D2_loop",
+    "Flags": 132,
+    "ObjectPath": "{347d1276}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Taunt_Sound": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 10.0,
+        "EmitterName": "empty",
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "MeshRenderFlags": 0,
+        "IsUniformScale": 1,
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_Emote_Taunt_Sound",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Taunt_Sound",
+    "SoundPersistentDefault": "Play_sfx_Braum_Taunt3D_buffactivate",
+    "Flags": 132,
+    "ObjectPath": "{4f0164a4}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Joke_Poro_Sound": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 10.0,
+        "EmitterName": "empty",
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "MeshRenderFlags": 0,
+        "IsUniformScale": 1,
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_Emote_Joke_Poro_Sound",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Joke_Poro_Sound",
+    "SoundPersistentDefault": "Play_sfx_Braum_Joke3D1_poro",
+    "Flags": 132,
+    "ObjectPath": "{56eef3e6}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_R_Pulse_HitsoundSmall": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 10.0,
+        "EmitterName": "empty",
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "MeshRenderFlags": 0,
+        "IsUniformScale": 1,
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_R_Pulse_HitsoundSmall",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_R_Pulse_HitsoundSmall",
+    "Flags": 132,
+    "ObjectPath": "{62ea7513}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Death_Sound": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 10.0,
+        "Lifetime": 1.0,
+        "EmitterName": "empty",
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "MeshRenderFlags": 0,
+        "IsUniformScale": 1,
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_Emote_Death_Sound",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Death_Sound",
+    "SoundOnCreateDefault": "Play_sfx_Braum_Death3D_cast",
+    "Flags": 132,
+    "ObjectPath": "{64eaa8f2}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Dance_WindUp_Sound": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 10.0,
+        "EmitterName": "empty",
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "MeshRenderFlags": 0,
+        "IsUniformScale": 1,
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_Emote_Dance_WindUp_Sound",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Dance_WindUp_Sound",
+    "SoundPersistentDefault": "Play_sfx_Braum_Dance3D_windup",
+    "Flags": 132,
+    "ObjectPath": "{6f3a7797}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Recall_LeadIn_Sound": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 10.0,
+        "EmitterName": "empty",
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "MeshRenderFlags": 0,
+        "IsUniformScale": 1,
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_Emote_Recall_LeadIn_Sound",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Recall_LeadIn_Sound",
+    "SoundPersistentDefault": "Play_sfx_Braum_Recall_leadin",
+    "Flags": 164,
+    "ObjectPath": "{be2e5517}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Idle1_Sound": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 10.0,
+        "EmitterName": "empty",
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "MeshRenderFlags": 0,
+        "IsUniformScale": 1,
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_Idle1_Sound",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Idle1_Sound",
+    "SoundPersistentDefault": "Play_sfx_Braum_Idle1_buffactivate",
+    "Flags": 164,
+    "ObjectPath": "{c45bc462}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Dance_Loop_Sound": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 10.0,
+        "EmitterName": "empty",
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "MeshRenderFlags": 0,
+        "IsUniformScale": 1,
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_Emote_Dance_Loop_Sound",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Dance_Loop_Sound",
+    "SoundPersistentDefault": "Play_sfx_Braum_Dance3D_loop",
+    "Flags": 132,
+    "ObjectPath": "{c933c296}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Recall_WindDown_Sound": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 10.0,
+        "EmitterName": "empty",
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "MeshRenderFlags": 0,
+        "IsUniformScale": 1,
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_Emote_Recall_WindDown_Sound",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Recall_WindDown_Sound",
+    "SoundPersistentDefault": "Play_sfx_Braum_Recall_winddown",
+    "Flags": 164,
+    "ObjectPath": "{ce6ed6c8}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "__linked": []
+}

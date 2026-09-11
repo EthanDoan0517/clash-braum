@@ -1,0 +1,1101 @@
+{
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_I_shield_left_eye": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLifetime": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 11.0,
+        "EmitterName": "glow",
+        "BindWeight": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "BlendMode": 4,
+        "Color": {
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.5,
+              1.0
+            ],
+            "Values": [
+              [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+              ],
+              [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+              ]
+            ],
+            "__type": "VfxAnimatedColorVariableData"
+          },
+          "__type": "ValueColor"
+        },
+        "BirthScale0": {
+          "ConstantValue": [
+            25.0,
+            25.0,
+            25.0
+          ],
+          "__type": "ValueVector3"
+        },
+        "Scale0": {
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.6000000238418579,
+              1.0
+            ],
+            "Values": [
+              [
+                0.4000000059604645,
+                0.4000000059604645,
+                0.4000000059604645
+              ],
+              [
+                1.0,
+                1.0,
+                1.0
+              ],
+              [
+                1.0,
+                1.0,
+                1.0
+              ]
+            ],
+            "__type": "VfxAnimatedVector3fVariableData"
+          },
+          "__type": "ValueVector3"
+        },
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/Braum_Base_I_shield_glow.tex",
+        "__type": "VfxEmitterDefinitionData"
+      },
+      {
+        "Rate": {
+          "ConstantValue": 50.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLifetime": {
+          "ConstantValue": 0.5,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 1.0,
+        "EmitterLinger": 1.0,
+        "Period": 3.0,
+        "TimeActiveDuringPeriod": 3.0,
+        "EmitterName": "trail",
+        "Importance": 3,
+        "BirthVelocity": {
+          "ConstantValue": [
+            -0.0,
+            1.0,
+            -1.0
+          ],
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.25,
+              0.5,
+              0.75,
+              1.0
+            ],
+            "Values": [
+              [
+                -0.0,
+                0.0,
+                -150.0
+              ],
+              [
+                -0.0,
+                150.0,
+                -125.0
+              ],
+              [
+                -0.0,
+                0.0,
+                -100.0
+              ],
+              [
+                -0.0,
+                -200.0,
+                -125.0
+              ],
+              [
+                -0.0,
+                0.0,
+                -150.0
+              ]
+            ],
+            "__type": "VfxAnimatedVector3fVariableData"
+          },
+          "__type": "ValueVector3"
+        },
+        "BindWeight": {
+          "ConstantValue": 0.20000000298023224,
+          "__type": "ValueFloat"
+        },
+        "Primitive": {
+          "mTrail": {
+            "mMode": 1,
+            "mCutoff": 500.0,
+            "mBirthTilingSize": {
+              "ConstantValue": [
+                1000.0,
+                0.0,
+                0.0
+              ],
+              "__type": "ValueVector3"
+            },
+            "__type": "VfxTrailDefinitionData"
+          },
+          "__type": "VfxPrimitiveArbitraryTrail"
+        },
+        "Color": {
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.10000000149011612,
+              0.6000000238418579,
+              1.0
+            ],
+            "Values": [
+              [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+              ],
+              [
+                1.0,
+                1.0,
+                1.0,
+                0.6000000238418579
+              ],
+              [
+                0.10000000149011612,
+                0.10000000149011612,
+                1.0,
+                0.30000001192092896
+              ],
+              [
+                0.10000000149011612,
+                0.10000000149011612,
+                1.0,
+                0.0
+              ]
+            ],
+            "__type": "VfxAnimatedColorVariableData"
+          },
+          "__type": "ValueColor"
+        },
+        "BirthRotation0": {
+          "ConstantValue": [
+            0.0,
+            -130.0,
+            -20.0
+          ],
+          "__type": "ValueVector3"
+        },
+        "BirthScale0": {
+          "ConstantValue": [
+            20.0,
+            0.0,
+            0.0
+          ],
+          "__type": "ValueVector3"
+        },
+        "Scale0": {
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.30000001192092896,
+              1.0
+            ],
+            "Values": [
+              [
+                1.5,
+                0.0,
+                0.0
+              ],
+              [
+                0.5,
+                0.0,
+                0.0
+              ],
+              [
+                0.30000001192092896,
+                0.0,
+                0.0
+              ]
+            ],
+            "__type": "VfxAnimatedVector3fVariableData"
+          },
+          "__type": "ValueVector3"
+        },
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/Braum_Base_I_shield_trail.tex",
+        "BirthUvScrollRate": {
+          "ConstantValue": [
+            0.10000000149011612,
+            0.0
+          ],
+          "Dynamics": {
+            "ProbabilityTables": [
+              {
+                "KeyTimes": [
+                  0.0,
+                  1.0
+                ],
+                "KeyValues": [
+                  0.30000001192092896,
+                  1.5
+                ],
+                "__type": "VfxProbabilityTableData"
+              },
+              {
+                "__type": "VfxProbabilityTableData"
+              }
+            ],
+            "Times": [
+              0.0
+            ],
+            "Values": [
+              [
+                0.10000000149011612,
+                0.0
+              ]
+            ],
+            "__type": "VfxAnimatedVector2fVariableData"
+          },
+          "__type": "ValueVector2"
+        },
+        "__type": "VfxEmitterDefinitionData"
+      },
+      {
+        "Rate": {
+          "ConstantValue": 100.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLifetime": {
+          "ConstantValue": 0.4000000059604645,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 1.0,
+        "Period": 2.5,
+        "TimeActiveDuringPeriod": 0.6000000238418579,
+        "EmitterName": "trail2",
+        "Importance": 3,
+        "BirthVelocity": {
+          "ConstantValue": [
+            -0.0,
+            1.0,
+            -1.0
+          ],
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.25,
+              0.5,
+              0.75,
+              1.0
+            ],
+            "Values": [
+              [
+                -0.0,
+                0.0,
+                -125.0
+              ],
+              [
+                -0.0,
+                100.0,
+                -100.0
+              ],
+              [
+                -0.0,
+                0.0,
+                -80.0
+              ],
+              [
+                -0.0,
+                -100.0,
+                -105.0
+              ],
+              [
+                -0.0,
+                0.0,
+                -125.0
+              ]
+            ],
+            "__type": "VfxAnimatedVector3fVariableData"
+          },
+          "__type": "ValueVector3"
+        },
+        "BindWeight": {
+          "ConstantValue": 0.10000000149011612,
+          "__type": "ValueFloat"
+        },
+        "Primitive": {
+          "mTrail": {
+            "mMode": 1,
+            "mCutoff": 1000.0,
+            "mBirthTilingSize": {
+              "ConstantValue": [
+                400.0,
+                0.0,
+                0.0
+              ],
+              "__type": "ValueVector3"
+            },
+            "__type": "VfxTrailDefinitionData"
+          },
+          "__type": "VfxPrimitiveArbitraryTrail"
+        },
+        "Color": {
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.30000001192092896,
+              0.4000000059604645,
+              1.0
+            ],
+            "Values": [
+              [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+              ],
+              [
+                0.10000000149011612,
+                1.0,
+                1.0,
+                1.0
+              ],
+              [
+                0.10000000149011612,
+                0.10000000149011612,
+                1.0,
+                1.0
+              ],
+              [
+                0.10000000149011612,
+                0.10000000149011612,
+                1.0,
+                0.0
+              ]
+            ],
+            "__type": "VfxAnimatedColorVariableData"
+          },
+          "__type": "ValueColor"
+        },
+        "BirthRotation0": {
+          "ConstantValue": [
+            0.0,
+            -130.0,
+            -20.0
+          ],
+          "__type": "ValueVector3"
+        },
+        "BirthScale0": {
+          "ConstantValue": [
+            15.0,
+            0.0,
+            0.0
+          ],
+          "__type": "ValueVector3"
+        },
+        "Scale0": {
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.30000001192092896,
+              1.0
+            ],
+            "Values": [
+              [
+                1.5,
+                0.0,
+                0.0
+              ],
+              [
+                0.5,
+                0.0,
+                0.0
+              ],
+              [
+                0.30000001192092896,
+                0.0,
+                0.0
+              ]
+            ],
+            "__type": "VfxAnimatedVector3fVariableData"
+          },
+          "__type": "ValueVector3"
+        },
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/Braum_Base_I_shield_trail.tex",
+        "BirthUvScrollRate": {
+          "ConstantValue": [
+            0.10000000149011612,
+            0.0
+          ],
+          "Dynamics": {
+            "ProbabilityTables": [
+              {
+                "KeyTimes": [
+                  0.0,
+                  1.0
+                ],
+                "KeyValues": [
+                  0.30000001192092896,
+                  1.5
+                ],
+                "__type": "VfxProbabilityTableData"
+              },
+              {
+                "__type": "VfxProbabilityTableData"
+              }
+            ],
+            "Times": [
+              0.0
+            ],
+            "Values": [
+              [
+                0.10000000149011612,
+                0.0
+              ]
+            ],
+            "__type": "VfxAnimatedVector2fVariableData"
+          },
+          "__type": "ValueVector2"
+        },
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_I_shield_left_eye",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_I_shield_left_eye",
+    "ObjectPath": "{4168228e}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_I_shield_Idle": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLifetime": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 11.0,
+        "EmitterName": "glow",
+        "BindWeight": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "BlendMode": 4,
+        "Color": {
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.5,
+              1.0
+            ],
+            "Values": [
+              [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+              ],
+              [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+              ]
+            ],
+            "__type": "VfxAnimatedColorVariableData"
+          },
+          "__type": "ValueColor"
+        },
+        "BirthScale0": {
+          "ConstantValue": [
+            120.0,
+            120.0,
+            120.0
+          ],
+          "__type": "ValueVector3"
+        },
+        "Scale0": {
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.6000000238418579,
+              1.0
+            ],
+            "Values": [
+              [
+                0.4000000059604645,
+                0.4000000059604645,
+                0.4000000059604645
+              ],
+              [
+                1.0,
+                1.0,
+                1.0
+              ],
+              [
+                1.0,
+                1.0,
+                1.0
+              ]
+            ],
+            "__type": "VfxAnimatedVector3fVariableData"
+          },
+          "__type": "ValueVector3"
+        },
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/Braum_Base_I_shield_blue_glow.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_I_shield_Idle",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_I_shield_Idle",
+    "ObjectPath": "{5b35302f}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_I_shield_right_eye": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLifetime": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 11.0,
+        "EmitterName": "glow",
+        "BindWeight": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "BlendMode": 4,
+        "Color": {
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.5,
+              1.0
+            ],
+            "Values": [
+              [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+              ],
+              [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+              ]
+            ],
+            "__type": "VfxAnimatedColorVariableData"
+          },
+          "__type": "ValueColor"
+        },
+        "BirthScale0": {
+          "ConstantValue": [
+            25.0,
+            25.0,
+            25.0
+          ],
+          "__type": "ValueVector3"
+        },
+        "Scale0": {
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.6000000238418579,
+              1.0
+            ],
+            "Values": [
+              [
+                0.4000000059604645,
+                0.4000000059604645,
+                0.4000000059604645
+              ],
+              [
+                1.0,
+                1.0,
+                1.0
+              ],
+              [
+                1.0,
+                1.0,
+                1.0
+              ]
+            ],
+            "__type": "VfxAnimatedVector3fVariableData"
+          },
+          "__type": "ValueVector3"
+        },
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/Braum_Base_I_shield_glow.tex",
+        "__type": "VfxEmitterDefinitionData"
+      },
+      {
+        "Rate": {
+          "ConstantValue": 100.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLifetime": {
+          "ConstantValue": 0.4000000059604645,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 1.0,
+        "EmitterLinger": 1.0,
+        "Period": 3.0,
+        "EmitterName": "trail",
+        "Importance": 3,
+        "BirthVelocity": {
+          "ConstantValue": [
+            0.0,
+            1.0,
+            1.0
+          ],
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.20000000298023224,
+              0.5,
+              0.699999988079071,
+              1.0
+            ],
+            "Values": [
+              [
+                0.0,
+                0.0,
+                150.0
+              ],
+              [
+                0.0,
+                150.0,
+                125.0
+              ],
+              [
+                0.0,
+                0.0,
+                100.0
+              ],
+              [
+                0.0,
+                -400.0,
+                125.0
+              ],
+              [
+                0.0,
+                0.0,
+                150.0
+              ]
+            ],
+            "__type": "VfxAnimatedVector3fVariableData"
+          },
+          "__type": "ValueVector3"
+        },
+        "Velocity": {
+          "ConstantValue": [
+            0.0,
+            1.0,
+            1.0
+          ],
+          "Dynamics": {
+            "Times": [
+              0.0,
+              1.0
+            ],
+            "Values": [
+              [
+                0.0,
+                100.0,
+                100.0
+              ],
+              [
+                0.0,
+                -300.0,
+                -100.0
+              ]
+            ],
+            "__type": "VfxAnimatedVector3fVariableData"
+          },
+          "__type": "ValueVector3"
+        },
+        "BindWeight": {
+          "ConstantValue": 0.5,
+          "__type": "ValueFloat"
+        },
+        "Primitive": {
+          "mTrail": {
+            "mMode": 1,
+            "mCutoff": 500.0,
+            "mBirthTilingSize": {
+              "ConstantValue": [
+                1000.0,
+                0.0,
+                0.0
+              ],
+              "__type": "ValueVector3"
+            },
+            "__type": "VfxTrailDefinitionData"
+          },
+          "__type": "VfxPrimitiveArbitraryTrail"
+        },
+        "Color": {
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.30000001192092896,
+              0.4000000059604645,
+              1.0
+            ],
+            "Values": [
+              [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+              ],
+              [
+                0.10000000149011612,
+                1.0,
+                1.0,
+                1.0
+              ],
+              [
+                0.10000000149011612,
+                0.10000000149011612,
+                1.0,
+                1.0
+              ],
+              [
+                0.10000000149011612,
+                0.10000000149011612,
+                1.0,
+                0.0
+              ]
+            ],
+            "__type": "VfxAnimatedColorVariableData"
+          },
+          "__type": "ValueColor"
+        },
+        "BirthRotation0": {
+          "ConstantValue": [
+            0.0,
+            130.0,
+            -20.0
+          ],
+          "__type": "ValueVector3"
+        },
+        "BirthScale0": {
+          "ConstantValue": [
+            20.0,
+            0.0,
+            0.0
+          ],
+          "__type": "ValueVector3"
+        },
+        "Scale0": {
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.30000001192092896,
+              1.0
+            ],
+            "Values": [
+              [
+                1.5,
+                0.0,
+                0.0
+              ],
+              [
+                0.5,
+                0.0,
+                0.0
+              ],
+              [
+                0.30000001192092896,
+                0.0,
+                0.0
+              ]
+            ],
+            "__type": "VfxAnimatedVector3fVariableData"
+          },
+          "__type": "ValueVector3"
+        },
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/Braum_Base_I_shield_trail.tex",
+        "BirthUvScrollRate": {
+          "ConstantValue": [
+            0.10000000149011612,
+            0.0
+          ],
+          "Dynamics": {
+            "ProbabilityTables": [
+              {
+                "KeyTimes": [
+                  0.0,
+                  1.0
+                ],
+                "KeyValues": [
+                  0.30000001192092896,
+                  1.5
+                ],
+                "__type": "VfxProbabilityTableData"
+              },
+              {
+                "__type": "VfxProbabilityTableData"
+              }
+            ],
+            "Times": [
+              0.0
+            ],
+            "Values": [
+              [
+                0.10000000149011612,
+                0.0
+              ]
+            ],
+            "__type": "VfxAnimatedVector2fVariableData"
+          },
+          "__type": "ValueVector2"
+        },
+        "__type": "VfxEmitterDefinitionData"
+      },
+      {
+        "Rate": {
+          "ConstantValue": 100.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLifetime": {
+          "ConstantValue": 0.5,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 1.0,
+        "Period": 3.0,
+        "TimeActiveDuringPeriod": 1.0,
+        "EmitterName": "trail2",
+        "Importance": 3,
+        "BirthVelocity": {
+          "ConstantValue": [
+            0.0,
+            1.0,
+            0.5
+          ],
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.25,
+              0.5,
+              0.75,
+              1.0
+            ],
+            "Values": [
+              [
+                0.0,
+                0.0,
+                75.0
+              ],
+              [
+                0.0,
+                150.0,
+                62.5
+              ],
+              [
+                0.0,
+                0.0,
+                50.0
+              ],
+              [
+                0.0,
+                -100.0,
+                62.5
+              ],
+              [
+                0.0,
+                0.0,
+                75.0
+              ]
+            ],
+            "__type": "VfxAnimatedVector3fVariableData"
+          },
+          "__type": "ValueVector3"
+        },
+        "BindWeight": {
+          "ConstantValue": 0.10000000149011612,
+          "__type": "ValueFloat"
+        },
+        "Primitive": {
+          "mTrail": {
+            "mMode": 1,
+            "mCutoff": 500.0,
+            "mBirthTilingSize": {
+              "ConstantValue": [
+                400.0,
+                0.0,
+                0.0
+              ],
+              "__type": "ValueVector3"
+            },
+            "__type": "VfxTrailDefinitionData"
+          },
+          "__type": "VfxPrimitiveArbitraryTrail"
+        },
+        "Color": {
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.10000000149011612,
+              0.30000001192092896,
+              1.0
+            ],
+            "Values": [
+              [
+                1.0,
+                1.0,
+                1.0,
+                0.0
+              ],
+              [
+                0.10000000149011612,
+                1.0,
+                1.0,
+                1.0
+              ],
+              [
+                0.10000000149011612,
+                0.10000000149011612,
+                1.0,
+                1.0
+              ],
+              [
+                0.10000000149011612,
+                0.10000000149011612,
+                1.0,
+                0.0
+              ]
+            ],
+            "__type": "VfxAnimatedColorVariableData"
+          },
+          "__type": "ValueColor"
+        },
+        "BirthScale0": {
+          "ConstantValue": [
+            15.0,
+            0.0,
+            0.0
+          ],
+          "__type": "ValueVector3"
+        },
+        "Scale0": {
+          "Dynamics": {
+            "Times": [
+              0.0,
+              0.30000001192092896,
+              1.0
+            ],
+            "Values": [
+              [
+                1.5,
+                0.0,
+                0.0
+              ],
+              [
+                0.5,
+                0.0,
+                0.0
+              ],
+              [
+                0.30000001192092896,
+                0.0,
+                0.0
+              ]
+            ],
+            "__type": "VfxAnimatedVector3fVariableData"
+          },
+          "__type": "ValueVector3"
+        },
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/Braum_Base_I_shield_trail.tex",
+        "BirthUvScrollRate": {
+          "ConstantValue": [
+            0.10000000149011612,
+            0.0
+          ],
+          "Dynamics": {
+            "ProbabilityTables": [
+              {
+                "KeyTimes": [
+                  0.0,
+                  1.0
+                ],
+                "KeyValues": [
+                  0.30000001192092896,
+                  1.5
+                ],
+                "__type": "VfxProbabilityTableData"
+              },
+              {
+                "__type": "VfxProbabilityTableData"
+              }
+            ],
+            "Times": [
+              0.0
+            ],
+            "Values": [
+              [
+                0.10000000149011612,
+                0.0
+              ]
+            ],
+            "__type": "VfxAnimatedVector2fVariableData"
+          },
+          "__type": "ValueVector2"
+        },
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_Base_I_shield_right_eye",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_I_shield_right_eye",
+    "ObjectPath": "{a119bb9b}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "__linked": []
+}

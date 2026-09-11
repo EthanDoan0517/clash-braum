@@ -1,0 +1,112 @@
+{
+  "stage": "Draft fit and automatic weight seed; manual joint/finger/equipment refinement required",
+  "donor_faces": 10186,
+  "donor_excludes": [
+    "Shield",
+    "Poro"
+  ],
+  "objects": [
+    {
+      "name": "Object009",
+      "source_group": "Object009",
+      "max_transfer_distance": 0.125394806265831,
+      "mean_transfer_distance": 0.05079813676332205,
+      "vertices": 968
+    },
+    {
+      "name": "Object007",
+      "source_group": "Object007",
+      "max_transfer_distance": 0.07456320524215698,
+      "mean_transfer_distance": 0.01933434280520959,
+      "vertices": 3376
+    },
+    {
+      "name": "Object006",
+      "source_group": "Object006",
+      "max_transfer_distance": 0.08469175547361374,
+      "mean_transfer_distance": 0.02611431082077621,
+      "vertices": 3396
+    },
+    {
+      "name": "Object005",
+      "source_group": "Object005",
+      "max_transfer_distance": 0.09960433095693588,
+      "mean_transfer_distance": 0.08364861955245335,
+      "vertices": 45
+    },
+    {
+      "name": "Object004",
+      "source_group": "Object004",
+      "max_transfer_distance": 0.11473240703344345,
+      "mean_transfer_distance": 0.03203367351388926,
+      "vertices": 3628
+    },
+    {
+      "name": "Object002",
+      "source_group": "Object002",
+      "max_transfer_distance": 0.15236854553222656,
+      "mean_transfer_distance": 0.02989009153851078,
+      "vertices": 2685
+    },
+    {
+      "name": "Object001",
+      "source_group": "Object001",
+      "max_transfer_distance": 0.10850764065980911,
+      "mean_transfer_distance": 0.021178241641260972,
+      "vertices": 2611
+    },
+    {
+      "name": "hjhjh_4",
+      "source_group": "hjhjh_4",
+      "max_transfer_distance": 0.13526102900505066,
+      "mean_transfer_distance": 0.03188425309146126,
+      "vertices": 1995
+    },
+    {
+      "name": "hjhjh_3",
+      "source_group": "hjhjh_3",
+      "max_transfer_distance": 0.05743519961833954,
+      "mean_transfer_distance": 0.03838861676922534,
+      "vertices": 128
+    },
+    {
+      "name": "hjhjh_2",
+      "source_group": "hjhjh_2",
+      "max_transfer_distance": 0.09273780137300491,
+      "mean_transfer_distance": 0.02666589600990166,
+      "vertices": 1390
+    },
+    {
+      "name": "hjhjh_16",
+      "source_group": "hjhjh_16",
+      "max_transfer_distance": 0.0638231486082077,
+      "mean_transfer_distance": 0.03287374497325364,
+      "vertices": 1102
+    }
+  ],
+  "shield_fit": {
+    "scale": 0.6486622638492439,
+    "source_center": [
+      0.029293984174728394,
+      0.1431313008069992,
+      1.1846199035644531
+    ],
+    "stock_center": [
+      -1.7636593580245972,
+      -0.41821911931037903,
+      0.9771782755851746
+    ],
+    "handle_anchor": [
+      0.0,
+      0.05999999865889549,
+      1.5
+    ],
+    "grip_target": [
+      -1.809999942779541,
+      -0.17000000178813934,
+      1.0399999618530273
+    ],
+    "all_vertices_rigid_to": "Shield",
+    "handle_alignment": "Revised from measured native idle/E/run grip landmarks; further review pending"
+  }
+}

@@ -1,0 +1,1060 @@
+{
+  "Characters/Braum/CAC/Braum_Base": {
+    "mCooldown": 15.0,
+    "mSituations": {
+      "BuyItem": {
+        "mRules": [
+          {
+            "mRuleName": "Boots",
+            "mConditions": [
+              {
+                "mItems": [
+                  "Items/1001"
+                ],
+                "__type": "ContextualConditionItemId"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 1,
+              "mSelfEventName": "BuyItem2DBoots",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Boots (Tier Two)",
+            "mConditions": [
+              {
+                "mItems": [
+                  "Items/3111",
+                  "Items/3009",
+                  "Items/3117",
+                  "Items/3047",
+                  "Items/3006",
+                  "Items/3158",
+                  "Items/3020"
+                ],
+                "__type": "ContextualConditionItemId"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 1,
+              "mSelfEventName": "BuyItem2DBootsTierTwo",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Aegis of the Legion",
+            "mConditions": [
+              {
+                "mItems": [
+                  "Items/3105"
+                ],
+                "__type": "ContextualConditionItemId"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 1,
+              "mSelfEventName": "BuyItem2DAegisOfTheLegions",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Frozen Heart",
+            "mConditions": [
+              {
+                "mItems": [
+                  "Items/3110"
+                ],
+                "__type": "ContextualConditionItemId"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 1,
+              "mSelfEventName": "BuyItem2DFrozenHeart",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Randuin's Omen",
+            "mConditions": [
+              {
+                "mItems": [
+                  "Items/3143"
+                ],
+                "__type": "ContextualConditionItemId"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 2,
+              "mSelfEventName": "BuyItem2DRanduinsOmen",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Sunfire Aegis",
+            "mConditions": [
+              {
+                "mItems": [
+                  "Items/3068"
+                ],
+                "__type": "ContextualConditionItemId"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 4,
+              "mSelfEventName": "BuyItem2DSunfireAegis",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Ward",
+            "mConditions": [
+              {
+                "mItemVoGroupHash": "Ward",
+                "__type": "ContextualConditionItemVoGroup"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 2,
+              "mSelfEventName": "BuyItem2DWard",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          }
+        ],
+        "__type": "ContextualSituation"
+      },
+      "Taunt": {
+        "mRules": [
+          {
+            "mRuleName": "Taunt",
+            "mAudioAction": {
+              "mSelfEventName": "Taunt3DGeneral",
+              "mAllyEventName": "Taunt3DGeneral",
+              "mEnemyEventName": "Taunt3DGeneral",
+              "mSpectatorEventName": "Taunt3DGeneral",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          }
+        ],
+        "__type": "ContextualSituation"
+      },
+      "UseItem": {
+        "mRules": [
+          {
+            "mRuleName": "Poro Snax",
+            "mConditions": [
+              {
+                "mItems": [
+                  "Items/2052"
+                ],
+                "__type": "ContextualConditionItemId"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 2,
+              "mSelfEventName": "UseItem2DPoroSnax",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          }
+        ],
+        "__type": "ContextualSituation"
+      },
+      "RecallLeadIn": {
+        "mRules": [
+          {
+            "mRuleName": "Recall Sugarrush",
+            "mConditions": [
+              {
+                "mPercentChanceToPlay": 75,
+                "__type": "ContextualConditionChanceToPlay"
+              },
+              {
+                "mChildConditions": [
+                  {
+                    "mCategory": "skinline",
+                    "mData": "sugarrush",
+                    "__type": "ContextualConditionCharacterMetadata"
+                  }
+                ],
+                "__type": "ContextualConditionCharacter"
+              }
+            ],
+            "mAudioAction": {
+              "mSelfEventName": "Recall3DGeneral",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Recall",
+            "mConditions": [
+              {
+                "mRuleCooldown": 10.0,
+                "__type": "ContextualConditionRuleCooldown"
+              },
+              {
+                "mPercentChanceToPlay": 75,
+                "__type": "ContextualConditionChanceToPlay"
+              }
+            ],
+            "mAudioAction": {
+              "mSelfEventName": "Recall3DGeneral",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          }
+        ],
+        "__type": "ContextualSituation"
+      },
+      "FirstMove2D": {
+        "mRules": [
+          {
+            "mRuleName": "First Move",
+            "mAudioAction": {
+              "mMaxOccurences": 1,
+              "mSelfEventName": "Move2DFirst",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          }
+        ],
+        "__type": "ContextualSituation"
+      },
+      "{acaf6250}": {
+        "mCoolDownTime": 15.0,
+        "mRules": [
+          {
+            "mRuleName": "Alistar",
+            "mConditions": [
+              {
+                "mCharacterType": 1,
+                "mChildConditions": [
+                  {
+                    "mCharacters": [
+                      "{2a939a1d}"
+                    ],
+                    "__type": "ContextualConditionCharacterName"
+                  },
+                  {
+                    "__type": "{b6da23cb}"
+                  }
+                ],
+                "__type": "ContextualConditionCharacter"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 1,
+              "mSelfEventName": "FirstEncounter3DAlistar",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Annie",
+            "mConditions": [
+              {
+                "mCharacterType": 1,
+                "mChildConditions": [
+                  {
+                    "mCharacters": [
+                      "{1fc286c0}"
+                    ],
+                    "__type": "ContextualConditionCharacterName"
+                  },
+                  {
+                    "__type": "{b6da23cb}"
+                  }
+                ],
+                "__type": "ContextualConditionCharacter"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 1,
+              "mSelfEventName": "FirstEncounter3DAnnie",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Fizz",
+            "mConditions": [
+              {
+                "mCharacterType": 1,
+                "mChildConditions": [
+                  {
+                    "mCharacters": [
+                      "{be75a338}"
+                    ],
+                    "__type": "ContextualConditionCharacterName"
+                  },
+                  {
+                    "__type": "{b6da23cb}"
+                  }
+                ],
+                "__type": "ContextualConditionCharacter"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 1,
+              "mSelfEventName": "FirstEncounter3DFizz",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Gragas",
+            "mConditions": [
+              {
+                "mCharacterType": 1,
+                "mChildConditions": [
+                  {
+                    "mCharacters": [
+                      "{1a896094}"
+                    ],
+                    "__type": "ContextualConditionCharacterName"
+                  },
+                  {
+                    "__type": "{b6da23cb}"
+                  }
+                ],
+                "__type": "ContextualConditionCharacter"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 1,
+              "mSelfEventName": "FirstEncounter3DGragas",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Tryndamere",
+            "mConditions": [
+              {
+                "mCharacterType": 1,
+                "mChildConditions": [
+                  {
+                    "mCharacters": [
+                      "{1a9468f4}"
+                    ],
+                    "__type": "ContextualConditionCharacterName"
+                  },
+                  {
+                    "__type": "{b6da23cb}"
+                  }
+                ],
+                "__type": "ContextualConditionCharacter"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 1,
+              "mSelfEventName": "FirstEncounter3DTryndamere",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Vi",
+            "mConditions": [
+              {
+                "mCharacterType": 1,
+                "mChildConditions": [
+                  {
+                    "mCharacters": [
+                      "{99977388}"
+                    ],
+                    "__type": "ContextualConditionCharacterName"
+                  },
+                  {
+                    "__type": "{b6da23cb}"
+                  }
+                ],
+                "__type": "ContextualConditionCharacter"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 1,
+              "mSelfEventName": "FirstEncounter3DVi",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          }
+        ],
+        "__type": "ContextualSituation"
+      },
+      "MoveOrder2D": {
+        "mRules": [
+          {
+            "mRuleName": "Standard",
+            "mConditions": [
+              {
+                "mDistance": 400.0,
+                "mCompareOp": 3,
+                "__type": "ContextualConditionMoveDistance"
+              }
+            ],
+            "mAudioAction": {
+              "mSelfEventName": "Move2DStandard",
+              "mWaitTimeout": -1.0,
+              "__type": "ContextualActionPlayVo"
+            },
+            "__type": "ContextualRule"
+          }
+        ],
+        "__type": "ContextualSituation"
+      },
+      "AttackMinion2D": {
+        "mRules": [
+          {
+            "mRuleName": "Minion",
+            "mAudioAction": {
+              "mSelfEventName": "Attack2DGeneral",
+              "__type": "ContextualActionPlayVo"
+            },
+            "__type": "ContextualRule"
+          }
+        ],
+        "__type": "ContextualSituation"
+      },
+      "AttackNeutral2D": {
+        "mRules": [
+          {
+            "mRuleName": "Neutral",
+            "mAudioAction": {
+              "mSelfEventName": "Attack2DGeneral",
+              "__type": "ContextualActionPlayVo"
+            },
+            "__type": "ContextualRule"
+          }
+        ],
+        "__type": "ContextualSituation"
+      },
+      "Joke": {
+        "mRules": [
+          {
+            "mRuleName": "Joke",
+            "mAudioAction": {
+              "mSelfEventName": "Joke3DGeneral",
+              "mAllyEventName": "Joke3DGeneral",
+              "mEnemyEventName": "Joke3DGeneral",
+              "mSpectatorEventName": "Joke3DGeneral",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          }
+        ],
+        "__type": "ContextualSituation"
+      },
+      "Laugh": {
+        "mRules": [
+          {
+            "mRuleName": "Laugh",
+            "mAudioAction": {
+              "mSelfEventName": "Laugh3DGeneral",
+              "mAllyEventName": "Laugh3DGeneral",
+              "mEnemyEventName": "Laugh3DGeneral",
+              "mSpectatorEventName": "Laugh3DGeneral",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          }
+        ],
+        "__type": "ContextualSituation"
+      },
+      "Dance": {
+        "mRules": [
+          {
+            "mRuleName": "Dance",
+            "mAudioAction": {
+              "mSelfEventName": "Dance3DGeneral",
+              "mAllyEventName": "Dance3DGeneral",
+              "mEnemyEventName": "Dance3DGeneral",
+              "mSpectatorEventName": "Dance3DGeneral",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          }
+        ],
+        "__type": "ContextualSituation"
+      },
+      "SpellCast": {
+        "mRules": [
+          {
+            "mRuleName": "Basic Attack 1",
+            "mConditions": [
+              {
+                "mSpell": "{f81fa1bd}",
+                "__type": "ContextualConditionSpellName"
+              },
+              {
+                "mPercentChanceToPlay": 65,
+                "__type": "ContextualConditionChanceToPlay"
+              }
+            ],
+            "mAudioAction": {
+              "mSelfEventName": "cast3D",
+              "mAllyEventName": "cast3D",
+              "mEnemyEventName": "cast3D",
+              "mSpectatorEventName": "cast3D",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "DontResetTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Basic Attack 2",
+            "mConditions": [
+              {
+                "mSpell": "{28cb541d}",
+                "__type": "ContextualConditionSpellName"
+              },
+              {
+                "mPercentChanceToPlay": 65,
+                "__type": "ContextualConditionChanceToPlay"
+              }
+            ],
+            "mAudioAction": {
+              "mSelfEventName": "cast3D",
+              "mAllyEventName": "cast3D",
+              "mEnemyEventName": "cast3D",
+              "mSpectatorEventName": "cast3D",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "DontResetTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Basic Attack 3",
+            "mConditions": [
+              {
+                "mSpell": "{27cb528a}",
+                "__type": "ContextualConditionSpellName"
+              },
+              {
+                "mPercentChanceToPlay": 65,
+                "__type": "ContextualConditionChanceToPlay"
+              }
+            ],
+            "mAudioAction": {
+              "mSelfEventName": "cast3D",
+              "mAllyEventName": "cast3D",
+              "mEnemyEventName": "cast3D",
+              "mSpectatorEventName": "cast3D",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "DontResetTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Crit Attack",
+            "mConditions": [
+              {
+                "mSpell": "{4edaabfd}",
+                "__type": "ContextualConditionSpellName"
+              },
+              {
+                "mPercentChanceToPlay": 65,
+                "__type": "ContextualConditionChanceToPlay"
+              }
+            ],
+            "mAudioAction": {
+              "mSelfEventName": "cast3D",
+              "mAllyEventName": "cast3D",
+              "mEnemyEventName": "cast3D",
+              "mSpectatorEventName": "cast3D",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "DontResetTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Basic Attack Passive",
+            "mConditions": [
+              {
+                "mSpell": "{cfcbde96}",
+                "__type": "ContextualConditionSpellName"
+              },
+              {
+                "mPercentChanceToPlay": 65,
+                "__type": "ContextualConditionChanceToPlay"
+              }
+            ],
+            "mAudioAction": {
+              "mSelfEventName": "cast3D",
+              "mAllyEventName": "cast3D",
+              "mEnemyEventName": "cast3D",
+              "mSpectatorEventName": "cast3D",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "DontResetTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Basic Attack Shield",
+            "mConditions": [
+              {
+                "mSpell": "{5193e708}",
+                "__type": "ContextualConditionSpellName"
+              },
+              {
+                "mPercentChanceToPlay": 65,
+                "__type": "ContextualConditionChanceToPlay"
+              }
+            ],
+            "mAudioAction": {
+              "mSelfEventName": "cast3D",
+              "mAllyEventName": "cast3D",
+              "mEnemyEventName": "cast3D",
+              "mSpectatorEventName": "cast3D",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "DontResetTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Basic Attack Tower",
+            "mConditions": [
+              {
+                "mSpell": "{fa10251a}",
+                "__type": "ContextualConditionSpellName"
+              },
+              {
+                "mPercentChanceToPlay": 65,
+                "__type": "ContextualConditionChanceToPlay"
+              }
+            ],
+            "mAudioAction": {
+              "mSelfEventName": "cast3D",
+              "mAllyEventName": "cast3D",
+              "mEnemyEventName": "cast3D",
+              "mSpectatorEventName": "cast3D",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "DontResetTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Q",
+            "mConditions": [
+              {
+                "mSpell": "{a5ba543b}",
+                "__type": "ContextualConditionSpellName"
+              }
+            ],
+            "mAudioAction": {
+              "mSelfEventName": "cast3D",
+              "mAllyEventName": "cast3D",
+              "mEnemyEventName": "cast3D",
+              "mSpectatorEventName": "cast3D",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "DontResetTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "W",
+            "mConditions": [
+              {
+                "mSpell": "{08905661}",
+                "__type": "ContextualConditionSpellName"
+              },
+              {
+                "mPercentChanceToPlay": 75,
+                "__type": "ContextualConditionChanceToPlay"
+              }
+            ],
+            "mAudioAction": {
+              "mSelfEventName": "cast3D",
+              "mAllyEventName": "cast3D",
+              "mEnemyEventName": "cast3D",
+              "mSpectatorEventName": "cast3D",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "DontResetTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "E",
+            "mConditions": [
+              {
+                "mSpell": "{0b4a734b}",
+                "__type": "ContextualConditionSpellName"
+              }
+            ],
+            "mAudioAction": {
+              "mSelfEventName": "cast3D",
+              "mAllyEventName": "cast3D",
+              "mEnemyEventName": "cast3D",
+              "mSpectatorEventName": "cast3D",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "DontResetTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "R",
+            "mConditions": [
+              {
+                "mSpell": "{36e9eef1}",
+                "__type": "ContextualConditionSpellName"
+              }
+            ],
+            "mAudioAction": {
+              "mSelfEventName": "cast3D",
+              "mAllyEventName": "cast3D",
+              "mEnemyEventName": "cast3D",
+              "mSpectatorEventName": "cast3D",
+              "__type": "ContextualActionPlayVo"
+            },
+            "mPriority": 100,
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "E Ashe R",
+            "mConditions": [
+              {
+                "mSpell": "{f614d1e8}",
+                "__type": "ContextualConditionSpellName"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 1,
+              "mSelfEventName": "cast3D",
+              "mAllyEventName": "cast3D",
+              "mEnemyEventName": "cast3D",
+              "mSpectatorEventName": "cast3D",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "DontResetTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "E Caitlyn R",
+            "mConditions": [
+              {
+                "mSpell": "{3954fbc1}",
+                "__type": "ContextualConditionSpellName"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 1,
+              "mSelfEventName": "cast3D",
+              "mAllyEventName": "cast3D",
+              "mEnemyEventName": "cast3D",
+              "mSpectatorEventName": "cast3D",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "DontResetTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "E Draven R",
+            "mConditions": [
+              {
+                "mSpell": "{b20bf4e5}",
+                "__type": "ContextualConditionSpellName"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 1,
+              "mSelfEventName": "cast3D",
+              "mAllyEventName": "cast3D",
+              "mEnemyEventName": "cast3D",
+              "mSpectatorEventName": "cast3D",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "DontResetTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "E Nami R",
+            "mConditions": [
+              {
+                "mSpell": "{27045f84}",
+                "__type": "ContextualConditionSpellName"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 1,
+              "mSelfEventName": "cast3D",
+              "mAllyEventName": "cast3D",
+              "mEnemyEventName": "cast3D",
+              "mSpectatorEventName": "cast3D",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "DontResetTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "E Riven R",
+            "mConditions": [
+              {
+                "mSpell": "{3cc9c0b3}",
+                "__type": "ContextualConditionSpellName"
+              }
+            ],
+            "mAudioAction": {
+              "mMaxOccurences": 1,
+              "mSelfEventName": "cast3D",
+              "mAllyEventName": "cast3D",
+              "mEnemyEventName": "cast3D",
+              "mSpectatorEventName": "cast3D",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "DontResetTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          }
+        ],
+        "__type": "ContextualSituation"
+      },
+      "AttackChampion2D": {
+        "mRules": [
+          {
+            "mRuleName": "Champion",
+            "mAudioAction": {
+              "mSelfEventName": "Attack2DGeneral",
+              "mWaitTimeout": -1.0,
+              "__type": "ContextualActionPlayVo"
+            },
+            "__type": "ContextualRule"
+          }
+        ],
+        "__type": "ContextualSituation"
+      },
+      "Respawn2D": {
+        "mRules": [
+          {
+            "mRuleName": "Respawn",
+            "mConditions": [
+              {
+                "mPercentChanceToPlay": 75,
+                "__type": "ContextualConditionChanceToPlay"
+              }
+            ],
+            "mAudioAction": {
+              "mSelfEventName": "Respawn2DGeneral",
+              "__type": "ContextualActionPlayVo"
+            },
+            "CooldownModifications": {
+              "IgnoreTimer": true,
+              "__type": "ContextualActionCooldownModifications"
+            },
+            "__type": "ContextualRule"
+          }
+        ],
+        "__type": "ContextualSituation"
+      },
+      "{ca9da4b3}": {
+        "mRules": [
+          {
+            "mRuleName": "Stop Recall (Sugar Rush)",
+            "mConditions": [
+              {
+                "AnimationName": "Recall",
+                "__type": "{2363fb10}"
+              },
+              {
+                "mChildConditions": [
+                  {
+                    "mCategory": "skinline",
+                    "mData": "sugarrush",
+                    "__type": "ContextualConditionCharacterMetadata"
+                  }
+                ],
+                "__type": "ContextualConditionCharacter"
+              }
+            ],
+            "mAudioAction": {
+              "mSelfEventName": "Recall3DEnd",
+              "mAllyEventName": "Recall3DEnd",
+              "mEnemyEventName": "Recall3DEnd",
+              "mSpectatorEventName": "Recall3DEnd",
+              "__type": "ContextualActionPlayVo"
+            },
+            "{20749c51}": false,
+            "__type": "ContextualRule"
+          },
+          {
+            "mRuleName": "Dance",
+            "mConditions": [
+              {
+                "AnimationName": "Dance",
+                "__type": "{2363fb10}"
+              }
+            ],
+            "mAudioAction": {
+              "mSelfEventName": "Dance3DEnd",
+              "mAllyEventName": "Dance3DEnd",
+              "mEnemyEventName": "Dance3DEnd",
+              "mSpectatorEventName": "Dance3DEnd",
+              "__type": "ContextualActionPlayVo"
+            },
+            "{20749c51}": false,
+            "__type": "ContextualRule"
+          }
+        ],
+        "__type": "ContextualSituation"
+      }
+    },
+    "mObjectPath": "Characters/Braum/CAC/Braum_Base",
+    "__type": "ContextualActionData"
+  },
+  "__linked": []
+}

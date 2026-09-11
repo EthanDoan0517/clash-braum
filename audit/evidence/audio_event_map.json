@@ -1,0 +1,3526 @@
+[
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 66024228,
+    "event_name": "Play_sfx_Braum_BraumBasicAttack2_OnHit",
+    "action_ids": [
+      922610428
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 922610428,
+        "actions": [],
+        "targets": [
+          815884025
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      252606,
+      1652014,
+      6550960,
+      7851950,
+      8968838,
+      10965802,
+      11147788,
+      13207664,
+      14342246,
+      21026562,
+      22330407,
+      28929213,
+      58599572,
+      84991021,
+      95369135,
+      146752061
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      14970386,
+      48438199,
+      66024228,
+      88630776,
+      156080479,
+      261159464,
+      284550470,
+      323211355,
+      508793552,
+      561971970,
+      581631594,
+      659023086,
+      677587931,
+      680332788,
+      696747505,
+      710154286,
+      737035151,
+      788300692,
+      815884025,
+      816630948,
+      900347277,
+      922610428,
+      1012983030
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 320343838,
+    "event_name": "Play_sfx_Braum_Dance3D_windup",
+    "action_ids": [
+      26375294
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 26375294,
+        "actions": [],
+        "targets": [
+          360549788
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      573168519
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      26375294,
+      320343838,
+      360549788
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 481535092,
+    "event_name": "Play_sfx_Braum_BraumBasicAttack_OnCast",
+    "action_ids": [
+      413021813
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 413021813,
+        "actions": [],
+        "targets": [
+          20989960
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      22215941,
+      40941018,
+      41688918,
+      45474400,
+      47820709
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      20989960,
+      273881424,
+      286552673,
+      413021813,
+      463810067,
+      481535092,
+      553021538,
+      704596374
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 561331296,
+    "event_name": "Play_sfx_Braum_Recall_winddown",
+    "action_ids": [
+      541023072
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 541023072,
+        "actions": [],
+        "targets": [
+          527061214
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      537592459
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      527061214,
+      541023072,
+      561331296
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 591942077,
+    "event_name": "Play_sfx_Braum_BraumBasicAttack3_OnHit",
+    "action_ids": [
+      627422012
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 627422012,
+        "actions": [],
+        "targets": [
+          815884025
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      252606,
+      1652014,
+      6550960,
+      7851950,
+      8968838,
+      10965802,
+      11147788,
+      13207664,
+      14342246,
+      21026562,
+      22330407,
+      28929213,
+      58599572,
+      84991021,
+      95369135,
+      146752061
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      14970386,
+      48438199,
+      88630776,
+      156080479,
+      261159464,
+      284550470,
+      323211355,
+      508793552,
+      561971970,
+      581631594,
+      591942077,
+      627422012,
+      659023086,
+      677587931,
+      680332788,
+      696747505,
+      710154286,
+      737035151,
+      788300692,
+      815884025,
+      816630948,
+      900347277,
+      1012983030
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 655012201,
+    "event_name": "Play_sfx_Braum_Recall_leadin",
+    "action_ids": [
+      97050019
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 97050019,
+        "actions": [],
+        "targets": [
+          1063906452
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      827634441
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      97050019,
+      655012201,
+      1063906452
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 656004614,
+    "event_name": "Play_sfx_Braum_BraumQMissile_hit",
+    "action_ids": [
+      273580365
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 273580365,
+        "actions": [],
+        "targets": [
+          801652763
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      103689118,
+      680861900,
+      1071447244
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      273580365,
+      328681646,
+      462301326,
+      656004614,
+      801652763,
+      820468991
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 676965383,
+    "event_name": "Play_sfx_Braum_Joke3D2_poro",
+    "action_ids": [
+      270241827
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 270241827,
+        "actions": [],
+        "targets": [
+          323180358
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      369433644
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      270241827,
+      323180358,
+      676965383
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 809049516,
+    "event_name": "Play_sfx_Braum_BraumCritAttack_OnHit",
+    "action_ids": [
+      883338651
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 883338651,
+        "actions": [],
+        "targets": [
+          189428239
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      36751891,
+      61109745,
+      138365477,
+      161462536,
+      168658705,
+      183339165,
+      213325403,
+      232951545,
+      274169519,
+      304190336,
+      401629788,
+      427139788,
+      519913053,
+      525595044,
+      529532523,
+      589257621
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      22924534,
+      52439899,
+      189428239,
+      193270676,
+      246092466,
+      291091653,
+      334959468,
+      395547800,
+      471795500,
+      537014414,
+      562982927,
+      644454001,
+      712288422,
+      746044293,
+      771404235,
+      809049516,
+      873457718,
+      883338651,
+      898544700,
+      981648712,
+      996772051,
+      997118850,
+      1073341154
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 812671388,
+    "event_name": "Play_sfx_Braum_BraumBasicAttack_OnHit",
+    "action_ids": [
+      715053963
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 715053963,
+        "actions": [],
+        "targets": [
+          815884025
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      252606,
+      1652014,
+      6550960,
+      7851950,
+      8968838,
+      10965802,
+      11147788,
+      13207664,
+      14342246,
+      21026562,
+      22330407,
+      28929213,
+      58599572,
+      84991021,
+      95369135,
+      146752061
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      14970386,
+      48438199,
+      88630776,
+      156080479,
+      261159464,
+      284550470,
+      323211355,
+      508793552,
+      561971970,
+      581631594,
+      659023086,
+      677587931,
+      680332788,
+      696747505,
+      710154286,
+      715053963,
+      737035151,
+      788300692,
+      812671388,
+      815884025,
+      816630948,
+      900347277,
+      1012983030
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 867070686,
+    "event_name": "Play_sfx_Braum_Idle1_buffactivate",
+    "action_ids": [
+      496111760
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 496111760,
+        "actions": [],
+        "targets": [
+          974031223
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      246313996
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      496111760,
+      867070686,
+      974031223
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 1023699878,
+    "event_name": "Play_sfx_Braum_BraumEShieldBuff_block_small",
+    "action_ids": [
+      559579225
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 559579225,
+        "actions": [],
+        "targets": [
+          192404340
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      382806313,
+      404894407,
+      599708390,
+      611305689
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      192404340,
+      387519265,
+      435019138,
+      481231900,
+      559579225,
+      977303788,
+      1023699878
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 1065834682,
+    "event_name": "Play_sfx_Braum_BraumEShieldBuff_block_large",
+    "action_ids": [
+      1057804132
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 1057804132,
+        "actions": [],
+        "targets": [
+          137877047
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      169392210,
+      278315751,
+      491993041
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      137877047,
+      605684683,
+      652487392,
+      688477559,
+      1057804132,
+      1065834682
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 1100522836,
+    "event_name": "Play_sfx_Braum_BraumEShieldBuff_block_layer",
+    "action_ids": [
+      69266973
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 69266973,
+        "actions": [],
+        "targets": [
+          747233957
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      543374652
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      69266973,
+      305387748,
+      747233957,
+      1100522836
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 1119629587,
+    "event_name": "Play_sfx_Braum_BraumBasicAttackPassiveOverride_OnCast",
+    "action_ids": [
+      278495760
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 278495760,
+        "actions": [],
+        "targets": [
+          588724347
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      22215941,
+      40941018,
+      41688918,
+      45474400,
+      47820709
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      188612429,
+      278495760,
+      311196540,
+      452368838,
+      588724347,
+      671360268,
+      946304597,
+      1119629587
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 1186889438,
+    "event_name": "Play_sfx_Braum_Joke3D1_poro",
+    "action_ids": [
+      886922080
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 886922080,
+        "actions": [],
+        "targets": [
+          531607147
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      321120665
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      531607147,
+      886922080,
+      1186889438
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 1197312710,
+    "event_name": "Play_sfx_Braum_BraumWDash_land",
+    "action_ids": [
+      66862317
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 66862317,
+        "actions": [],
+        "targets": [
+          158296531
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      714108370,
+      840358885,
+      1017031338
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      66862317,
+      158296531,
+      710922202,
+      771169041,
+      1024369722,
+      1197312710
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 1215160216,
+    "event_name": "Play_sfx_Braum_BraumRMissile_OnMissileLaunch",
+    "action_ids": [
+      266505104
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 266505104,
+        "actions": [],
+        "targets": [
+          630706909
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      653245930,
+      966819948
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      266505104,
+      630706909,
+      689532711,
+      886911543,
+      1215160216
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 1262160429,
+    "event_name": "Play_sfx_Braum_BraumBasicAttackTower_OnHit",
+    "action_ids": [
+      862084097
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 862084097,
+        "actions": [],
+        "targets": [
+          119463893
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      1652014,
+      10965802,
+      14342246,
+      21026562
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      96478253,
+      119463893,
+      387349227,
+      732497928,
+      862084097,
+      1000301194,
+      1262160429
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 1375854632,
+    "event_name": "Play_sfx_Braum_Joke3D1_buffactivate",
+    "action_ids": [
+      311651527
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 311651527,
+        "actions": [],
+        "targets": [
+          32163745
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      482845975
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      32163745,
+      311651527,
+      1375854632
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 1532314539,
+    "event_name": "Play_sfx_Braum_BraumWPassiveStatsDoubler_OnBuffActivate",
+    "action_ids": [
+      309018678,
+      284891627
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 309018678,
+        "actions": [],
+        "targets": [
+          191920809
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      },
+      {
+        "type": "CAkActionPlay",
+        "id": 284891627,
+        "actions": [],
+        "targets": [
+          663005423
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      55893212,
+      269789359,
+      469948583,
+      501566957,
+      526533694,
+      777923177
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      191920809,
+      272283454,
+      278639697,
+      284891627,
+      309018678,
+      434216688,
+      614724738,
+      623822938,
+      663005423,
+      809084775,
+      1532314539
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 1603249103,
+    "event_name": "Play_sfx_Braum_Death3D_cast",
+    "action_ids": [
+      489723169
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 489723169,
+        "actions": [],
+        "targets": [
+          399552234
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      114868306
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      399552234,
+      489723169,
+      1603249103
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 1630316557,
+    "event_name": "Play_sfx_Braum_Laugh3D_buffactivate",
+    "action_ids": [
+      553388258
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 553388258,
+        "actions": [],
+        "targets": [
+          580306774
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      38231065
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      553388258,
+      580306774,
+      1630316557
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 1684341337,
+    "event_name": "Play_sfx_Braum_BraumEShieldBuff_OnBuffDeactivate",
+    "action_ids": [
+      631222267
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 631222267,
+        "actions": [],
+        "targets": [
+          374662050
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      21321056,
+      77410398,
+      884714472
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      374662050,
+      410284772,
+      624252419,
+      631222267,
+      926328231,
+      1684341337
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 1869821925,
+    "event_name": "Play_sfx_Braum_BraumRWrapper_OnCast",
+    "action_ids": [
+      585113898
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 585113898,
+        "actions": [],
+        "targets": [
+          800267975
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      309351640
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      24222117,
+      585113898,
+      800267975,
+      1869821925
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 1873928241,
+    "event_name": "Play_sfx_Braum_BraumQMissile_OnMissileLaunch",
+    "action_ids": [
+      293258683
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 293258683,
+        "actions": [],
+        "targets": [
+          995597743
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      292860577,
+      453792076,
+      854713798
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      293258683,
+      312903347,
+      401424932,
+      930693586,
+      995597743,
+      1873928241
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 1902759887,
+    "event_name": "Play_sfx_Braum_BraumBasicAttack3_OnCast",
+    "action_ids": [
+      328390849
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 328390849,
+        "actions": [],
+        "targets": [
+          284885570
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      117748257,
+      493925915,
+      507374934
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      284885570,
+      328390849,
+      700256688,
+      727661225,
+      1066919785,
+      1902759887
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 1992774207,
+    "event_name": "Stop_sfx_Braum_BraumQMissile_OnMissileLaunch",
+    "action_ids": [
+      947403519
+    ],
+    "actions": [
+      {
+        "type": "CAkActionStop",
+        "id": 947403519,
+        "actions": [],
+        "targets": [
+          995597743
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      947403519,
+      1992774207
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 2075482577,
+    "event_name": "Play_sfx_Braum_BraumE_OnCast",
+    "action_ids": [
+      404555814
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 404555814,
+        "actions": [],
+        "targets": [
+          656527174
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      452577262,
+      709831717,
+      941977993
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      169261952,
+      404555814,
+      507872079,
+      656527174,
+      866084731,
+      2075482577
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 2133898381,
+    "event_name": "Stop_sfx_Braum_BraumWPassiveStatsDoubler_OnBuffActivate",
+    "action_ids": [
+      718069897,
+      167250372
+    ],
+    "actions": [
+      {
+        "type": "CAkActionStop",
+        "id": 718069897,
+        "actions": [],
+        "targets": [
+          191920809
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      },
+      {
+        "type": "CAkActionStop",
+        "id": 167250372,
+        "actions": [],
+        "targets": [
+          663005423
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      167250372,
+      718069897,
+      2133898381
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 2209394700,
+    "event_name": "Play_sfx_Braum_BraumBasicAttack2_OnCast",
+    "action_ids": [
+      992821370
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 992821370,
+        "actions": [],
+        "targets": [
+          20989960
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      22215941,
+      40941018,
+      41688918,
+      45474400,
+      47820709
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      20989960,
+      273881424,
+      286552673,
+      463810067,
+      553021538,
+      704596374,
+      992821370,
+      2209394700
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 2310769792,
+    "event_name": "Play_sfx_Braum_Taunt3D_buffactivate",
+    "action_ids": [
+      607670382
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 607670382,
+        "actions": [],
+        "targets": [
+          54642708
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      611534143
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      54642708,
+      607670382,
+      2310769792
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 2335123397,
+    "event_name": "Play_sfx_Braum_BraumQMissile_OnMissileCast",
+    "action_ids": [
+      395783459
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 395783459,
+        "actions": [],
+        "targets": [
+          511227614
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      190232138,
+      509535745,
+      676011000
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      2215306,
+      395783459,
+      499909813,
+      511227614,
+      624636442,
+      2335123397
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 2600776008,
+    "event_name": "Play_sfx_Braum_BraumEShieldBuff_OnBuffActivate",
+    "action_ids": [
+      295085036
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 295085036,
+        "actions": [],
+        "targets": [
+          185464064
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      541689440,
+      557873384
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      53170828,
+      185464064,
+      295085036,
+      802069097,
+      2600776008
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 3007268979,
+    "event_name": "Play_sfx_Braum_Joke3D2_loop",
+    "action_ids": [
+      1044583554
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 1044583554,
+        "actions": [],
+        "targets": [
+          795645569
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      7162066,
+      111777115,
+      114041403,
+      993284506
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      14699792,
+      343954643,
+      521505850,
+      795645569,
+      802309924,
+      1044583554,
+      3007268979
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 3073690746,
+    "event_name": "Play_sfx_Braum_Joke3D2_leadin",
+    "action_ids": [
+      240274070
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 240274070,
+        "actions": [],
+        "targets": [
+          746320966
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      220217106
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      240274070,
+      746320966,
+      3073690746
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 3083533266,
+    "event_name": "Stop_sfx_Braum_BraumRMissile_OnMissileLaunch",
+    "action_ids": [
+      1029926923
+    ],
+    "actions": [
+      {
+        "type": "CAkActionStop",
+        "id": 1029926923,
+        "actions": [],
+        "targets": [
+          630706909
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      1029926923,
+      3083533266
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 3139578176,
+    "event_name": "Play_sfx_Braum_BraumBasicAttackPassiveOverride_hit",
+    "action_ids": [
+      156313924
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 156313924,
+        "actions": [],
+        "targets": [
+          146886835
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      510145146,
+      786873024,
+      1041470451
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      146886835,
+      155638729,
+      156313924,
+      163423415,
+      403736847,
+      3139578176
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 3226748986,
+    "event_name": "Play_sfx_Braum_BraumRMissile_OnHit",
+    "action_ids": [
+      182640230
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 182640230,
+        "actions": [],
+        "targets": [
+          213483509
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      25413177,
+      708095640,
+      789407154,
+      802818776
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      130190485,
+      182640230,
+      213483509,
+      783531107,
+      887313321,
+      1007328666,
+      3226748986
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 3265733311,
+    "event_name": "Play_sfx_Braum_BraumBasicAttackTower_OnCast",
+    "action_ids": [
+      331213115
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 331213115,
+        "actions": [],
+        "targets": [
+          744682570
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      22215941,
+      40941018,
+      41688918,
+      45474400,
+      47820709
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      46926930,
+      138189188,
+      296062187,
+      331213115,
+      481193269,
+      593624749,
+      744682570,
+      3265733311
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 3536059513,
+    "event_name": "Play_sfx_Braum_BraumBasicAttackPassiveOverride_OnHit",
+    "action_ids": [
+      284264102
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 284264102,
+        "actions": [],
+        "targets": [
+          128275304
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      252606,
+      1652014,
+      6550960,
+      7851950,
+      8968838,
+      10965802,
+      11147788,
+      13207664,
+      14342246,
+      21026562,
+      22330407,
+      28929213,
+      58599572,
+      84991021,
+      95369135,
+      146752061
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      102574398,
+      111706264,
+      128275304,
+      177944549,
+      223514083,
+      264199651,
+      284264102,
+      369846548,
+      372493337,
+      396178428,
+      419415442,
+      504429552,
+      516395978,
+      638467431,
+      647303635,
+      657459587,
+      694064993,
+      799098565,
+      824674874,
+      874311729,
+      1008985672,
+      1009271221,
+      3536059513
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 3595768964,
+    "event_name": "Play_sfx_Braum_BraumCritAttack_OnCast",
+    "action_ids": [
+      189349492
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 189349492,
+        "actions": [],
+        "targets": [
+          58172337
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      22215941,
+      40941018,
+      41688918,
+      45474400,
+      47820709
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      58172337,
+      189349492,
+      418983793,
+      522941755,
+      647070187,
+      895767836,
+      903611196,
+      3595768964
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 3686497043,
+    "event_name": "Play_sfx_Braum_BraumBasicAttackShieldOverride_OnHit",
+    "action_ids": [
+      247841875
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 247841875,
+        "actions": [],
+        "targets": [
+          1064397076
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      252606,
+      1652014,
+      6550960,
+      7851950,
+      8968838,
+      10965802,
+      11147788,
+      13207664,
+      14342246,
+      21026562,
+      22330407,
+      28929213,
+      58599572,
+      84991021,
+      95369135,
+      146752061
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      1250738,
+      118548911,
+      152292666,
+      181202352,
+      201182528,
+      227429792,
+      240434670,
+      247841875,
+      328142372,
+      409584257,
+      478629184,
+      484658752,
+      530549035,
+      569538125,
+      574164860,
+      721615309,
+      815368905,
+      864158555,
+      1002647995,
+      1046787824,
+      1061653395,
+      1064397076,
+      3686497043
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 3706345242,
+    "event_name": "Stop_sfx_Braum_BraumE_OnBuffActivate",
+    "action_ids": [
+      1061110141
+    ],
+    "actions": [
+      {
+        "type": "CAkActionStop",
+        "id": 1061110141,
+        "actions": [],
+        "targets": [
+          185464064
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      1061110141,
+      3706345242
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 3827839293,
+    "event_name": "Stop_sfx_Braum_BraumRWrapper_buffactivate",
+    "action_ids": [
+      482369637,
+      626329973
+    ],
+    "actions": [
+      {
+        "type": "CAkActionStop",
+        "id": 482369637,
+        "actions": [],
+        "targets": [
+          244783329
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      },
+      {
+        "type": "CAkActionStop",
+        "id": 626329973,
+        "actions": [],
+        "targets": [
+          962809934
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      482369637,
+      626329973,
+      3827839293
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 3859049233,
+    "event_name": "Play_sfx_Braum_BraumWDummySpell_OnCast",
+    "action_ids": [
+      177888051
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 177888051,
+        "actions": [],
+        "targets": [
+          369238991
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      254291369,
+      720764450,
+      892593183
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      177888051,
+      267734209,
+      306405597,
+      369238991,
+      641830942,
+      3859049233
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 3875494865,
+    "event_name": "Play_sfx_Braum_Dance3D_loop",
+    "action_ids": [
+      1003561585
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 1003561585,
+        "actions": [],
+        "targets": [
+          238142804
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      500463359
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      238142804,
+      1003561585,
+      3875494865
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 3941210377,
+    "event_name": "Play_sfx_Braum_BraumBasicAttackShieldOverride_OnCast",
+    "action_ids": [
+      371379687
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 371379687,
+        "actions": [],
+        "targets": [
+          1010560773
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      22215941,
+      40941018,
+      41688918,
+      45474400,
+      47820709
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      189450596,
+      195252506,
+      330720394,
+      371379687,
+      667706939,
+      924950307,
+      1010560773,
+      3941210377
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 4008465767,
+    "event_name": "Play_sfx_Braum_BraumRWrapper_OnHit",
+    "action_ids": [
+      792732449
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 792732449,
+        "actions": [],
+        "targets": [
+          222662794
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [],
+    "unresolved_graph_nodes": [
+      222662794
+    ],
+    "reachable_nodes": [
+      222662794,
+      792732449,
+      4008465767
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 4110623106,
+    "event_name": "Play_sfx_Braum_BraumWPassiveStatsDoubler_OnBuffDeactivate",
+    "action_ids": [
+      195679982
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 195679982,
+        "actions": [],
+        "targets": [
+          631624389
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      755742280,
+      768636909,
+      978134291
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      195679982,
+      258713843,
+      631624389,
+      770957905,
+      864152464,
+      4110623106
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 4185413512,
+    "event_name": "Play_sfx_Braum_BraumRMissile_OnMissileCast",
+    "action_ids": [
+      1041986819
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 1041986819,
+        "actions": [],
+        "targets": [
+          1041306344
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      22178585,
+      180107418,
+      329894835
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      417959238,
+      615260800,
+      1036374388,
+      1041306344,
+      1041986819,
+      4185413512
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 4193070101,
+    "event_name": "Play_sfx_Braum_BraumQ_OnCast",
+    "action_ids": [
+      1031674792
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 1031674792,
+        "actions": [],
+        "targets": [
+          677346607
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      22215941,
+      40941018,
+      41688918,
+      45474400,
+      47820709
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      344993690,
+      454331946,
+      576558333,
+      598046114,
+      677346607,
+      994599711,
+      1031674792,
+      4193070101
+    ]
+  },
+  {
+    "bank": "6a0cd1a55c7df583.bnk",
+    "event_id": 4249400703,
+    "event_name": "Play_sfx_Braum_BraumRWrapper_buffactivate",
+    "action_ids": [
+      700184166,
+      1065654360
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 700184166,
+        "actions": [],
+        "targets": [
+          244783329
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      },
+      {
+        "type": "CAkActionPlay",
+        "id": 1065654360,
+        "actions": [],
+        "targets": [
+          962809934
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      174156650,
+      303534655,
+      614540149,
+      680747783,
+      809926699
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      183664568,
+      244783329,
+      455980090,
+      471251007,
+      700184166,
+      859000096,
+      920045297,
+      962809934,
+      1065654360,
+      4249400703
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 159116359,
+    "event_name": "Play_vo_Braum_BraumQ_cast3D",
+    "action_ids": [
+      665253763
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 665253763,
+        "actions": [],
+        "targets": [
+          826056147
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      74470751,
+      98603859,
+      292511943,
+      390614316,
+      579842608
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      38261225,
+      159116359,
+      163154435,
+      549798150,
+      641816373,
+      665253763,
+      736755022,
+      826056147,
+      831336266
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 194072964,
+    "event_name": "Play_vo_Braum_Joke3DGeneral",
+    "action_ids": [
+      394856808
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 394856808,
+        "actions": [],
+        "targets": [
+          1027006580
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      80763567,
+      170771395,
+      1042303900
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      194072964,
+      394856808,
+      809989175,
+      828279120,
+      929987114,
+      1027006580
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 298930046,
+    "event_name": "Play_vo_Braum_BuyItem2DBoots",
+    "action_ids": [
+      895281688
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 895281688,
+        "actions": [],
+        "targets": [
+          285012385
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      710619744
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      193524566,
+      285012385,
+      298930046,
+      895281688
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 521826077,
+    "event_name": "Play_vo_Braum_BuyItem2DAegisOfTheLegions",
+    "action_ids": [
+      1068192915
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 1068192915,
+        "actions": [],
+        "targets": [
+          86572508
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      194568168
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      86572508,
+      521826077,
+      777532792,
+      1068192915
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 536457539,
+    "event_name": "Play_vo_Braum_BraumBasicAttackShieldOverride_cast3D",
+    "action_ids": [
+      642508061
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 642508061,
+        "actions": [],
+        "targets": [
+          465361782
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      336708285,
+      624255820,
+      711209785,
+      729370666,
+      750865100,
+      776121823,
+      827947797
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      43827611,
+      95786217,
+      112386505,
+      154919150,
+      353145858,
+      465361782,
+      530185778,
+      536457539,
+      541179763,
+      642508061
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 603935031,
+    "event_name": "Play_vo_Braum_BraumEDummyVONami_cast3D",
+    "action_ids": [
+      582024177
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 582024177,
+        "actions": [],
+        "targets": [
+          485080090
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      581082208
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      184695222,
+      485080090,
+      582024177,
+      603935031
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 852372372,
+    "event_name": "Play_vo_Braum_BuyItem2DRanduinsOmen",
+    "action_ids": [
+      173702981
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 173702981,
+        "actions": [],
+        "targets": [
+          13198481
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      514982137,
+      983369963
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      13198481,
+      133369189,
+      173702981,
+      296639477,
+      852372372
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 860512331,
+    "event_name": "Play_vo_Braum_FirstEncounter3DGragas",
+    "action_ids": [
+      987433159
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 987433159,
+        "actions": [],
+        "targets": [
+          788228013
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      335809682,
+      599888537
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      391232335,
+      424859230,
+      788228013,
+      860512331,
+      987433159
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 1218935058,
+    "event_name": "Play_vo_Braum_Move2DStandard",
+    "action_ids": [
+      482677218
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 482677218,
+        "actions": [],
+        "targets": [
+          676602385
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      16081065,
+      232187092,
+      277162086,
+      376357224,
+      426439422,
+      459907986,
+      540046118,
+      591898222,
+      607624425,
+      700152286,
+      838894049,
+      940653264,
+      1040321900
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      75637114,
+      114253719,
+      241871004,
+      466210615,
+      482677218,
+      534426769,
+      635276716,
+      653262407,
+      676602385,
+      760603400,
+      908520688,
+      922344390,
+      973045823,
+      999905744,
+      1041294363,
+      1218935058
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 1419722899,
+    "event_name": "Play_vo_Braum_FirstEncounter3DVi",
+    "action_ids": [
+      755813267
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 755813267,
+        "actions": [],
+        "targets": [
+          930580354
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      286070298
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      755813267,
+      912477389,
+      930580354,
+      1419722899
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 1678939263,
+    "event_name": "Play_vo_Braum_BraumRWrapper_cast3D",
+    "action_ids": [
+      378121041
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 378121041,
+        "actions": [],
+        "targets": [
+          490593922
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      174141575,
+      393065899,
+      466448559
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      40262497,
+      378121041,
+      490593922,
+      519216857,
+      864088045,
+      1678939263
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 1701883306,
+    "event_name": "Play_vo_Braum_Attack2DGeneral",
+    "action_ids": [
+      911320044
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 911320044,
+        "actions": [],
+        "targets": [
+          235180750
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      48920662,
+      85051327,
+      143826366,
+      156010953,
+      196380325,
+      223525001,
+      249035787,
+      381099087,
+      456654745,
+      458107786,
+      474448166,
+      551604373,
+      624052313,
+      739058155,
+      877731382,
+      920184711,
+      968480064
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      70480154,
+      93418698,
+      122028468,
+      185329281,
+      193993430,
+      235180750,
+      242585318,
+      338542880,
+      558690664,
+      700237907,
+      807230539,
+      836170366,
+      846677131,
+      890368167,
+      893903035,
+      911320044,
+      963741651,
+      979262498,
+      1029456406,
+      1701883306
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 1853229609,
+    "event_name": "Play_vo_Braum_BuyItem2DWard",
+    "action_ids": [
+      344678013
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 344678013,
+        "actions": [],
+        "targets": [
+          590085824
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      61242847,
+      379221160
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      292685252,
+      344678013,
+      590085824,
+      801841586,
+      1853229609
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 1904908364,
+    "event_name": "Play_vo_Braum_BraumEDummyVORiven_cast3D",
+    "action_ids": [
+      216465720
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 216465720,
+        "actions": [],
+        "targets": [
+          1045044029
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      815600390
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      216465720,
+      700228096,
+      1045044029,
+      1904908364
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 1970158285,
+    "event_name": "Play_vo_Braum_BraumBasicAttack3_cast3D",
+    "action_ids": [
+      708727372
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 708727372,
+        "actions": [],
+        "targets": [
+          465361782
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      336708285,
+      624255820,
+      711209785,
+      729370666,
+      750865100,
+      776121823,
+      827947797
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      43827611,
+      95786217,
+      112386505,
+      154919150,
+      353145858,
+      465361782,
+      530185778,
+      541179763,
+      708727372,
+      1970158285
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 1978367667,
+    "event_name": "Play_vo_Braum_Dance3DEnd",
+    "action_ids": [
+      42336089
+    ],
+    "actions": [
+      {
+        "type": "CAkActionStop",
+        "id": 42336089,
+        "actions": [],
+        "targets": [
+          745735966
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      42336089,
+      1978367667
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 1997235062,
+    "event_name": "Play_vo_Braum_Laugh3DGeneral",
+    "action_ids": [
+      305619805
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 305619805,
+        "actions": [],
+        "targets": [
+          279679359
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      15796215,
+      74349572,
+      889358673
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      122490604,
+      279679359,
+      305619805,
+      400242657,
+      931724868,
+      1997235062
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 2007007078,
+    "event_name": "Play_vo_Braum_BraumEDummyVODraven_cast3D",
+    "action_ids": [
+      285237254
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 285237254,
+        "actions": [],
+        "targets": [
+          810378646
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      426420764
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      285237254,
+      709273775,
+      810378646,
+      2007007078
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 2039261954,
+    "event_name": "Play_vo_Braum_Recall3DGeneral",
+    "action_ids": [
+      379402397
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 379402397,
+        "actions": [],
+        "targets": [
+          965280270
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      231332424,
+      261570141,
+      876509669
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      379402397,
+      486782410,
+      676475232,
+      793702775,
+      965280270,
+      2039261954
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 2096294180,
+    "event_name": "Play_vo_Braum_FirstEncounter3DAlistar",
+    "action_ids": [
+      48602855
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 48602855,
+        "actions": [],
+        "targets": [
+          926085037
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      545248167,
+      907357022
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      48602855,
+      327728922,
+      828898208,
+      926085037,
+      2096294180
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 2208706643,
+    "event_name": "Play_vo_Braum_BraumE_cast3D",
+    "action_ids": [
+      595571166
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 595571166,
+        "actions": [],
+        "targets": [
+          51334906
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      51429272,
+      146495738,
+      280754940,
+      647742294,
+      960622333
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      29297780,
+      51334906,
+      213061040,
+      379492250,
+      543311718,
+      595571166,
+      682693307,
+      836411586,
+      2208706643
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 2237096114,
+    "event_name": "Play_vo_Braum_Respawn2DGeneral",
+    "action_ids": [
+      813555278
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 813555278,
+        "actions": [],
+        "targets": [
+          957842631
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      137986579,
+      237897084,
+      1047536956
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      448827688,
+      498509522,
+      813555278,
+      957842631,
+      999657036,
+      2237096114
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 2307851963,
+    "event_name": "Play_vo_Braum_BraumWDummySpell_cast3D",
+    "action_ids": [
+      318722035
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 318722035,
+        "actions": [],
+        "targets": [
+          471323947
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      155331927,
+      179118163,
+      279382394,
+      332547090,
+      343136154,
+      519080552
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      177543003,
+      187768438,
+      218102431,
+      243028466,
+      318722035,
+      422862330,
+      433347185,
+      471323947,
+      621557099,
+      942648547,
+      967897502,
+      2307851963
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 2380397550,
+    "event_name": "Play_vo_Braum_BraumBasicAttack_cast3D",
+    "action_ids": [
+      255095334
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 255095334,
+        "actions": [],
+        "targets": [
+          465361782
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      336708285,
+      624255820,
+      711209785,
+      729370666,
+      750865100,
+      776121823,
+      827947797
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      43827611,
+      95786217,
+      112386505,
+      154919150,
+      255095334,
+      353145858,
+      465361782,
+      530185778,
+      541179763,
+      2380397550
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 2485302747,
+    "event_name": "Play_vo_Braum_Death3D",
+    "action_ids": [
+      961266317
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 961266317,
+        "actions": [],
+        "targets": [
+          77475459
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      151427171,
+      739758215,
+      945524893,
+      1050667758
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      77475459,
+      542399492,
+      688155872,
+      716616720,
+      763845933,
+      961266317,
+      2485302747
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 2517369564,
+    "event_name": "Play_vo_Braum_BuyItem2DSunfireAegis",
+    "action_ids": [
+      950658468
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 950658468,
+        "actions": [],
+        "targets": [
+          481014801
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      61614206,
+      231775511,
+      494579870,
+      708980041
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      38101158,
+      44841838,
+      339934016,
+      481014801,
+      604568005,
+      950658468,
+      2517369564
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 2584420622,
+    "event_name": "Play_vo_Braum_BraumBasicAttack2_cast3D",
+    "action_ids": [
+      930082703
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 930082703,
+        "actions": [],
+        "targets": [
+          465361782
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      336708285,
+      624255820,
+      711209785,
+      729370666,
+      750865100,
+      776121823,
+      827947797
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      43827611,
+      95786217,
+      112386505,
+      154919150,
+      353145858,
+      465361782,
+      530185778,
+      541179763,
+      930082703,
+      2584420622
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 2641118131,
+    "event_name": "Play_vo_Braum_BuyItem2DFrozenHeart",
+    "action_ids": [
+      786010099
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 786010099,
+        "actions": [],
+        "targets": [
+          345000227
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      29977717
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      345000227,
+      708030753,
+      786010099,
+      2641118131
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 2961377135,
+    "event_name": "Play_vo_Braum_Taunt3DGeneral",
+    "action_ids": [
+      1049211823
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 1049211823,
+        "actions": [],
+        "targets": [
+          410894592
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      147896421,
+      1064841445
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      155791537,
+      312519499,
+      410894592,
+      1049211823,
+      2961377135
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 3233052955,
+    "event_name": "Play_vo_Braum_FirstEncounter3DAnnie",
+    "action_ids": [
+      151900341
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 151900341,
+        "actions": [],
+        "targets": [
+          793655367
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      954312352
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      151900341,
+      170800140,
+      793655367,
+      3233052955
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 3348533948,
+    "event_name": "Play_vo_Braum_UseItem2DPoroSnax",
+    "action_ids": [
+      293781393
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 293781393,
+        "actions": [],
+        "targets": [
+          276958068
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      417018604,
+      858919059
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      276958068,
+      284951778,
+      293781393,
+      343548117,
+      3348533948
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 3379651619,
+    "event_name": "Play_vo_Braum_FirstEncounter3DFizz",
+    "action_ids": [
+      393680190
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 393680190,
+        "actions": [],
+        "targets": [
+          78739362
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      324119927
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      78739362,
+      151174093,
+      393680190,
+      3379651619
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 3463195939,
+    "event_name": "Play_vo_Braum_BraumEDummyVOAshe_cast3D",
+    "action_ids": [
+      52157572
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 52157572,
+        "actions": [],
+        "targets": [
+          342414452
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      202991617
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      52157572,
+      342414452,
+      731929226,
+      3463195939
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 3568750928,
+    "event_name": "Play_vo_Braum_BuyItem2DBootsTierTwo",
+    "action_ids": [
+      761003969
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 761003969,
+        "actions": [],
+        "targets": [
+          338231997
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      655930465
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      223628498,
+      338231997,
+      761003969,
+      3568750928
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 3604422177,
+    "event_name": "Play_vo_Braum_Move2DFirst",
+    "action_ids": [
+      173933346
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 173933346,
+        "actions": [],
+        "targets": [
+          586616048
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      43830641,
+      85769256,
+      115236896,
+      177936294,
+      274335888,
+      294454590,
+      340291259,
+      415028259,
+      536710370,
+      822159532,
+      874346298,
+      969940451
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      17403742,
+      113214239,
+      138162491,
+      173933346,
+      316907925,
+      364646784,
+      372707896,
+      386307232,
+      436072857,
+      446230529,
+      452485099,
+      586616048,
+      708992735,
+      901482242,
+      3604422177
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 3703057319,
+    "event_name": "Play_vo_Braum_FirstEncounter3DTryndamere",
+    "action_ids": [
+      842788871
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 842788871,
+        "actions": [],
+        "targets": [
+          141777113
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      151561297,
+      242744163
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      93303019,
+      141777113,
+      695232664,
+      842788871,
+      3703057319
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 3783695252,
+    "event_name": "Play_vo_Braum_Dance3DGeneral",
+    "action_ids": [
+      1044317167
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 1044317167,
+        "actions": [],
+        "targets": [
+          745735966
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      792497920
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      591047829,
+      745735966,
+      1044317167,
+      3783695252
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 3861967898,
+    "event_name": "Play_vo_Braum_BraumEDummyVOCaitlyn_cast3D",
+    "action_ids": [
+      276774654
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 276774654,
+        "actions": [],
+        "targets": [
+          534305411
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      547036868
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      276560086,
+      276774654,
+      534305411,
+      3861967898
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 3970640097,
+    "event_name": "Play_vo_Braum_BraumBasicAttackPassiveOverride_cast3D",
+    "action_ids": [
+      102899909
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 102899909,
+        "actions": [],
+        "targets": [
+          465361782
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      336708285,
+      624255820,
+      711209785,
+      729370666,
+      750865100,
+      776121823,
+      827947797
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      43827611,
+      95786217,
+      102899909,
+      112386505,
+      154919150,
+      353145858,
+      465361782,
+      530185778,
+      541179763,
+      3970640097
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 4133042926,
+    "event_name": "Play_vo_Braum_BraumCritAttack_cast3D",
+    "action_ids": [
+      868586861
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 868586861,
+        "actions": [],
+        "targets": [
+          465361782
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      336708285,
+      624255820,
+      711209785,
+      729370666,
+      750865100,
+      776121823,
+      827947797
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      43827611,
+      95786217,
+      112386505,
+      154919150,
+      353145858,
+      465361782,
+      530185778,
+      541179763,
+      868586861,
+      4133042926
+    ]
+  },
+  {
+    "bank": "17802985c2cae524.bnk",
+    "event_id": 4289315357,
+    "event_name": "Play_vo_Braum_BraumBasicAttackTower_cast3D",
+    "action_ids": [
+      37122112
+    ],
+    "actions": [
+      {
+        "type": "CAkActionPlay",
+        "id": 37122112,
+        "actions": [],
+        "targets": [
+          465361782
+        ],
+        "children": [],
+        "media": [],
+        "plugins": []
+      }
+    ],
+    "media_ids": [
+      336708285,
+      624255820,
+      711209785,
+      729370666,
+      750865100,
+      776121823,
+      827947797
+    ],
+    "unresolved_graph_nodes": [],
+    "reachable_nodes": [
+      37122112,
+      43827611,
+      95786217,
+      112386505,
+      154919150,
+      353145858,
+      465361782,
+      530185778,
+      541179763,
+      4289315357
+    ]
+  }
+]

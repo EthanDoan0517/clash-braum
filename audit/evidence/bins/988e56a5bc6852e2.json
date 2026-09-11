@@ -1,0 +1,25 @@
+{
+  "Characters/Braum/Skins/Skin0/Particles/Braum_R_Pulse_Hitsound": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 10.0,
+        "EmitterName": "empty",
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "MeshRenderFlags": 0,
+        "IsUniformScale": 1,
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "ParticleName": "Braum_R_Pulse_Hitsound",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_R_Pulse_Hitsound",
+    "Flags": 132,
+    "ObjectPath": "{6dab636c}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "__linked": []
+}

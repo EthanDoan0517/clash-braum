@@ -1,0 +1,9 @@
+{
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_BA_Trail_03": {
+    "ParticleName": "Braum_Base_BA_Trail_03",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_BA_Trail_03",
+    "ObjectPath": "{aee72d91}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "__linked": []
+}

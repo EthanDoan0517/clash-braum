@@ -1,0 +1,96 @@
+# ============================================================
+# Python generated files
+# ============================================================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# ============================================================
+# Blender automatic backups / temporary files
+# Keep actual .blend project files
+# ============================================================
+
+*.blend1
+*.blend2
+*.blend@
+*.blend@*
+
+
+# ============================================================
+# Logs / temporary runtime output
+# ============================================================
+
+*.log
+*.tmp
+*.temp
+
+
+# ============================================================
+# Project caches
+# ============================================================
+
+work/cache/
+
+
+# ============================================================
+# Large audit scratch workspace
+# Generated/extracted intermediate assets; master audit docs
+# and scripts remain tracked.
+# ============================================================
+
+audit/scratch/
+
+
+# ============================================================
+# Generated build output
+# ============================================================
+
+build/
+
+
+# ============================================================
+# Generated validation previews
+# Keep validation JSON reports tracked.
+# ============================================================
+
+validation/previews/
+
+
+# ============================================================
+# OS / editor junk
+# ============================================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.vscode/
+.idea/
+
+
+# ============================================================
+# Secrets
+# ============================================================
+
+.env
+.env.*
+!.env.example
+
+*.pem
+*.key
+credentials.json
+secrets.json
+# ============================================================
+# Large external/reference datasets
+# Keep locally; don't version in Git
+# ============================================================
+
+audit/sources/hashes.game.txt.0
+audit/sources/hashes.game.txt.1
+audit/sources/hashes.binentries.txt
+
+# Download/archive copies of tools and source assets
+Aventurine-3.1.5.zip
+CHR_Clash.rar

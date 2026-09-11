@@ -1,0 +1,154 @@
+{
+  "objects": [
+    {
+      "name": "mesh_13.001",
+      "vertices": 5123,
+      "triangles": 4750,
+      "removed_uv_layers": [
+        "uv_0",
+        "uv_1",
+        "uv_2",
+        "uv_3",
+        "uv_4",
+        "uv_5",
+        "uv_6",
+        "uv_7",
+        "uv_8",
+        "uv_9",
+        "uv_10"
+      ],
+      "max_world_position_error": 1.2013700229374393e-07,
+      "original_world_determinant": -0.08716213703155518,
+      "uv_layers": 1
+    },
+    {
+      "name": "mesh_14.001",
+      "vertices": 7293,
+      "triangles": 5874,
+      "removed_uv_layers": [
+        "uv_0",
+        "uv_1",
+        "uv_2",
+        "uv_3",
+        "uv_4",
+        "uv_5",
+        "uv_6",
+        "uv_7",
+        "uv_8",
+        "uv_9",
+        "uv_10"
+      ],
+      "max_world_position_error": 0.0,
+      "original_world_determinant": 1.0,
+      "uv_layers": 1
+    },
+    {
+      "name": "mesh_15.001",
+      "vertices": 52,
+      "triangles": 48,
+      "removed_uv_layers": [
+        "uv_0",
+        "uv_1",
+        "uv_2",
+        "uv_3",
+        "uv_4",
+        "uv_5",
+        "uv_6",
+        "uv_7",
+        "uv_8",
+        "uv_9",
+        "uv_10"
+      ],
+      "max_world_position_error": 4.16500117164066e-09,
+      "original_world_determinant": -0.08716213703155518,
+      "uv_layers": 1
+    },
+    {
+      "name": "mesh_16",
+      "vertices": 999,
+      "triangles": 1060,
+      "removed_uv_layers": [
+        "uv_0",
+        "uv_1",
+        "uv_2",
+        "uv_3",
+        "uv_4",
+        "uv_5",
+        "uv_6",
+        "uv_7",
+        "uv_8",
+        "uv_9",
+        "uv_10"
+      ],
+      "max_world_position_error": 1.1921292747407888e-07,
+      "original_world_determinant": -0.08716213703155518,
+      "uv_layers": 1
+    },
+    {
+      "name": "mesh_21.001",
+      "vertices": 388,
+      "triangles": 514,
+      "removed_uv_layers": [
+        "uv_0",
+        "uv_1",
+        "uv_2",
+        "uv_3",
+        "uv_4",
+        "uv_5",
+        "uv_6",
+        "uv_7",
+        "uv_8",
+        "uv_9",
+        "uv_10"
+      ],
+      "max_world_position_error": 2.384185791015625e-07,
+      "original_world_determinant": -0.08716213703155518,
+      "uv_layers": 1
+    },
+    {
+      "name": "mesh_22.001",
+      "vertices": 9,
+      "triangles": 8,
+      "removed_uv_layers": [
+        "uv_0",
+        "uv_1",
+        "uv_2",
+        "uv_3",
+        "uv_4",
+        "uv_5",
+        "uv_6",
+        "uv_7",
+        "uv_8",
+        "uv_9",
+        "uv_10"
+      ],
+      "max_world_position_error": 7.450580596923828e-09,
+      "original_world_determinant": -0.08716213703155518,
+      "uv_layers": 1
+    },
+    {
+      "name": "mesh_23.001",
+      "vertices": 4,
+      "triangles": 2,
+      "removed_uv_layers": [
+        "uv_0",
+        "uv_1",
+        "uv_2",
+        "uv_3",
+        "uv_4",
+        "uv_5",
+        "uv_6",
+        "uv_7",
+        "uv_8",
+        "uv_9",
+        "uv_10",
+        "uv_11"
+      ],
+      "max_world_position_error": 0.0,
+      "original_world_determinant": -0.08716213703155518,
+      "uv_layers": 1
+    }
+  ],
+  "missing_texture_strategy": "Author replacements; source maps unavailable",
+  "viewport": "Pending face/component inspection"
+}

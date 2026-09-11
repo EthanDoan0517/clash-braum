@@ -1,0 +1,16 @@
+{
+  "passed": [
+    "original palette preserves all native joint fields",
+    "reordered palette preserves all native joint fields",
+    "compact palette preserves all native joint fields",
+    "Duplicate palette rejected",
+    "Out-of-range palette rejected",
+    "Hard-edge corner splits and compact Shield palette match",
+    "Unweighted vertices rejected",
+    "Unnormalized weights rejected",
+    "Five influences rejected",
+    "Moved armature rejected",
+    "Renamed native joint rejected"
+  ],
+  "count": 11
+}

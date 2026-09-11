@@ -1,0 +1,27 @@
+{
+  "Characters/Braum/Skins/Skin0/Particles/Braum_Base_E_Mis_Dummy_timer_01": {
+    "ComplexEmitterDefinitionData": [
+      {
+        "Rate": {
+          "ConstantValue": 1.0,
+          "__type": "ValueFloat"
+        },
+        "ParticleLinger": 10.0,
+        "Lifetime": 1.0,
+        "EmitterName": "empty",
+        "ParticleColorTexture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "MeshRenderFlags": 0,
+        "IsUniformScale": 1,
+        "Texture": "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex",
+        "__type": "VfxEmitterDefinitionData"
+      }
+    ],
+    "VisibilityRadius": 10000.0,
+    "ParticleName": "Braum_Base_E_Mis_Dummy_timer_01",
+    "ParticlePath": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_E_Mis_Dummy_timer_01",
+    "Flags": 199,
+    "ObjectPath": "{9fa5eb51}",
+    "__type": "VfxSystemDefinitionData"
+  },
+  "__linked": []
+}

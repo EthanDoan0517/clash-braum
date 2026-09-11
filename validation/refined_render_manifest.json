@@ -1,0 +1,169 @@
+{
+  "scene": "clash_braum_rig_refined.blend",
+  "scene_sha256": "8069690f834eedf7b81361d784cf290be8215606bdbf95ac4c21ba5580cdcc6c",
+  "vanilla_reference": false,
+  "renders": [
+    {
+      "clip": "braum_idle_01_loop",
+      "frame": 17,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_idle_01_loop_017_body.png"
+    },
+    {
+      "clip": "braum_spell3_idle0",
+      "frame": 17,
+      "focus": "R_Hand",
+      "file": "validation\\previews\\refined\\braum_spell3_idle0_017_R_Hand.png"
+    },
+    {
+      "clip": "braum_idle_01_loop",
+      "frame": 17,
+      "focus": "L_Hand",
+      "file": "validation\\previews\\refined\\braum_idle_01_loop_017_L_Hand.png"
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 15,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_spell4_015_body.png"
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 26,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_spell4_026_body.png"
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 3,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_spell4_003_body.png"
+    },
+    {
+      "clip": "braum_death",
+      "frame": 35,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_death_035_body.png"
+    },
+    {
+      "clip": "braum_recall",
+      "frame": 65,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_recall_065_body.png"
+    },
+    {
+      "clip": "braum_dance_loop",
+      "frame": 50,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_dance_loop_050_body.png"
+    },
+    {
+      "clip": "braum_recall",
+      "frame": 138,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_recall_138_body.png"
+    },
+    {
+      "clip": "braum_run_02",
+      "frame": 12,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_run_02_012_body.png"
+    },
+    {
+      "clip": "braum_run_slow",
+      "frame": 12,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_run_slow_012_body.png"
+    },
+    {
+      "clip": "braum_run_haste_01",
+      "frame": 12,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_run_haste_01_012_body.png"
+    },
+    {
+      "clip": "braum_spell3_idle-180",
+      "frame": 29,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_spell3_idle-180_029_body.png"
+    },
+    {
+      "clip": "braum_spell3_idle-90",
+      "frame": 29,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_spell3_idle-90_029_body.png"
+    },
+    {
+      "clip": "braum_spell3_idle180",
+      "frame": 29,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_spell3_idle180_029_body.png"
+    },
+    {
+      "clip": "braum_spell3_idle90",
+      "frame": 29,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_spell3_idle90_029_body.png"
+    },
+    {
+      "clip": "braum_spell3_punch-179",
+      "frame": 20,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_spell3_punch-179_020_body.png"
+    },
+    {
+      "clip": "braum_spell3_punch0-179",
+      "frame": 20,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_spell3_punch0-179_020_body.png"
+    },
+    {
+      "clip": "braum_spell3_punch0179",
+      "frame": 20,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_spell3_punch0179_020_body.png"
+    },
+    {
+      "clip": "braum_spell3_punch179",
+      "frame": 20,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_spell3_punch179_020_body.png"
+    },
+    {
+      "clip": "braum_spell3_punchleft-179",
+      "frame": 20,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_spell3_punchleft-179_020_body.png"
+    },
+    {
+      "clip": "braum_spell3_punchright179",
+      "frame": 20,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_spell3_punchright179_020_body.png"
+    },
+    {
+      "clip": "braum_spell3_run-179",
+      "frame": 14,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_spell3_run-179_014_body.png"
+    },
+    {
+      "clip": "braum_spell3_run-90",
+      "frame": 14,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_spell3_run-90_014_body.png"
+    },
+    {
+      "clip": "braum_spell3_run179",
+      "frame": 14,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_spell3_run179_014_body.png"
+    },
+    {
+      "clip": "braum_spell3_run90",
+      "frame": 14,
+      "focus": "body",
+      "file": "validation\\previews\\refined\\braum_spell3_run90_014_body.png"
+    }
+  ]
+}

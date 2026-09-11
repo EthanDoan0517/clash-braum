@@ -1,0 +1,13 @@
+{
+  "addon": "work/tools/Aventurine",
+  "blender": "C:/Program Files/Blender Foundation/Blender 5.2/blender.exe",
+  "bone_orient": "NATIVE",
+  "import_scale": 0.01,
+  "model_scale": 1.0,
+  "disable_scaling": false,
+  "disable_transforms": false,
+  "use_visual_pose": false,
+  "apply_object_transform": true,
+  "clean_names": false,
+  "notes": "Identity armature object; no animation export or game-record edits. Always pass the SKN palette to SKL export."
+}

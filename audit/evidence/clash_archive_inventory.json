@@ -1,0 +1,1712 @@
+[
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/CHR_Clash.jpg",
+    "bytes": 6093589,
+    "sha256": "6dd38d801ab4fa8449b6214967ad76c1a9269f94be41cc57d74fcf0076df149f",
+    "extension": ".jpg",
+    "size": [
+      5201,
+      4080
+    ],
+    "mode": "RGB",
+    "format": "JPEG",
+    "channel_extrema": [
+      [
+        0,
+        224
+      ],
+      [
+        0,
+        228
+      ],
+      [
+        0,
+        239
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/CHR_Clash.obj",
+    "bytes": 4053548,
+    "sha256": "0ad0a3e104ffa8611b1ae140d8fb5ef1092d3963292649343f74e624ec7236ca",
+    "extension": ".obj"
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/CHR_Clash.tbscene",
+    "bytes": 3115178,
+    "sha256": "f46201030ce00d2361cdaab075e818ee556bc373930b2a33e0176e15758a7f89",
+    "extension": ".tbscene"
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Acce_DiffuseMap.dds",
+    "bytes": 1048704,
+    "sha256": "e051c27f49ba30850e355e0c973840771f762fc8be5a99b9d37c57f2b2a5318f",
+    "extension": ".dds",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        0,
+        247
+      ],
+      [
+        0,
+        251
+      ],
+      [
+        0,
+        247
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Acce_MaskMap.dds",
+    "bytes": 349680,
+    "sha256": "46ad1dd385083461d44e3c8d990045898fe5adb3f37346d46c8cc35e385c0695",
+    "extension": ".dds",
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 10,
+    "channel_extrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Acce_NormalMap.dds",
+    "bytes": 43832,
+    "sha256": "aa207f49bd7b832a8d7232a1e431971fcadf6ff19fe91a1a8882536c30fe34ba",
+    "extension": ".dds",
+    "size": [
+      256,
+      256
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT1",
+    "mip_count": 9,
+    "channel_extrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Acce_SpecularMap.dds",
+    "bytes": 65664,
+    "sha256": "fd1db293eb37b64c3be130313a244b2aefcc0c95ce9c48d5445685094eca3621",
+    "extension": ".dds",
+    "size": [
+      256,
+      256
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Arms_DiffuseMap.dds",
+    "bytes": 4194432,
+    "sha256": "ab9c0acfb00b0adde46c2a826e21b0f16fff1e9700ec6ea96cd8dd6148f6eb82",
+    "extension": ".dds",
+    "size": [
+      2048,
+      2048
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        16,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Arms_MaskMap.dds",
+    "bytes": 1398256,
+    "sha256": "8bf21a30b8265f51599000781350808d6f1c09e29aedfc090a00499d86142921",
+    "extension": ".dds",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 11,
+    "channel_extrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Arms_NormalDetailMap.dds",
+    "bytes": 22000,
+    "sha256": "c721bfceede286f225f3d75d3d9e4a0866fe5169492b1d197485923bb76f2034",
+    "extension": ".dds",
+    "size": [
+      128,
+      128
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 8,
+    "channel_extrema": [
+      [
+        107,
+        148
+      ],
+      [
+        109,
+        142
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Arms_NormalMap.dds",
+    "bytes": 174904,
+    "sha256": "7d68a881bf607350d47521816a9b2b32d02642ddeda808ea51213fe2ed4d8490",
+    "extension": ".dds",
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT1",
+    "mip_count": 10,
+    "channel_extrema": [
+      [
+        0,
+        247
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Arms_SpecularMap.dds",
+    "bytes": 262272,
+    "sha256": "7aacca55786dbde0571985bc1a4d0c2970cf04d1eaffe3b52dc8e02d9f6ccfee",
+    "extension": ".dds",
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        235
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Badge_DiffuseMap.dds",
+    "bytes": 1048704,
+    "sha256": "b9f514ca399e555c5a16ae8afa9f99f042bdd47ff546d8e97f26f958228725f6",
+    "extension": ".dds",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        0,
+        239
+      ],
+      [
+        0,
+        243
+      ],
+      [
+        0,
+        239
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Badge_NormalMap.dds",
+    "bytes": 43832,
+    "sha256": "86670aff6e2ec3b96508be0cbb8140f513d82deb70cc96cd7b63648dd66d3fe9",
+    "extension": ".dds",
+    "size": [
+      256,
+      256
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT1",
+    "mip_count": 9,
+    "channel_extrema": [
+      [
+        41,
+        214
+      ],
+      [
+        56,
+        227
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Badge_SpecularMap.dds",
+    "bytes": 65664,
+    "sha256": "4f08a7d4d8601f22c40313c98214e58128c52510120930cfd7502e04c0630581",
+    "extension": ".dds",
+    "size": [
+      256,
+      256
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        0,
+        0
+      ],
+      [
+        16,
+        16
+      ],
+      [
+        126,
+        126
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Cloth2_NormalDetailMap.dds",
+    "bytes": 11064,
+    "sha256": "be60c2b1dcf5aee3f07dbd9f4ed973c91de76e1f678c3113f6cbcaf40b180a6f",
+    "extension": ".dds",
+    "size": [
+      128,
+      128
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT1",
+    "mip_count": 8,
+    "channel_extrema": [
+      [
+        90,
+        165
+      ],
+      [
+        93,
+        158
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Cloth_NormalDetailMap.dds",
+    "bytes": 11064,
+    "sha256": "ed5d729563f22749fc2d840af51daab28dbcd4bbb51a862f7d9f6c0f3a82ac9f",
+    "extension": ".dds",
+    "size": [
+      128,
+      128
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT1",
+    "mip_count": 8,
+    "channel_extrema": [
+      [
+        41,
+        206
+      ],
+      [
+        77,
+        174
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Eyes_DiffuseMap.tga",
+    "bytes": 2097196,
+    "sha256": "b64ffe7090ec078d5266cfe3487f057f422f20b854983641d0d6fe5f57be580d",
+    "extension": ".tga",
+    "size": [
+      1024,
+      512
+    ],
+    "mode": "RGBA",
+    "format": "TGA",
+    "channel_extrema": [
+      [
+        0,
+        189
+      ],
+      [
+        0,
+        190
+      ],
+      [
+        0,
+        181
+      ],
+      [
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Fabric2_NormalDetailMap.dds",
+    "bytes": 11064,
+    "sha256": "e13b1511a3289d4e4c80334160a603e53392794f3be42454675500b08b98934f",
+    "extension": ".dds",
+    "size": [
+      128,
+      128
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT1",
+    "mip_count": 8,
+    "channel_extrema": [
+      [
+        107,
+        148
+      ],
+      [
+        105,
+        150
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Fabric3_NormalDetailMap.dds",
+    "bytes": 11064,
+    "sha256": "7b65f91f27a856f744b139eccbde1be96786e1e7f7fff0e1e3d9d78ac2ba7aac",
+    "extension": ".dds",
+    "size": [
+      128,
+      128
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT1",
+    "mip_count": 8,
+    "channel_extrema": [
+      [
+        49,
+        206
+      ],
+      [
+        36,
+        203
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Fabric_NormalDetailMap.dds",
+    "bytes": 11064,
+    "sha256": "55e86e93a0110809ca5746eef8b8663f449a03cc995924c9d7a7fa7e1b0f252c",
+    "extension": ".dds",
+    "size": [
+      128,
+      128
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT1",
+    "mip_count": 8,
+    "channel_extrema": [
+      [
+        74,
+        189
+      ],
+      [
+        60,
+        190
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Head_DiffuseMap.dds",
+    "bytes": 2097280,
+    "sha256": "9815e4be63a12117b365f4b0751fde4be0356148a7f3fbe7bc4f4850626ad2f2",
+    "extension": ".dds",
+    "size": [
+      1024,
+      2048
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        24,
+        76
+      ],
+      [
+        14,
+        56
+      ],
+      [
+        13,
+        43
+      ],
+      [
+        66,
+        234
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Head_NormalMap.dds",
+    "bytes": 87528,
+    "sha256": "c863182b398920491dd44b2a40faa941d274d4b4db6a304b72d9357993470297",
+    "extension": ".dds",
+    "size": [
+      256,
+      512
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT1",
+    "mip_count": 10,
+    "channel_extrema": [
+      [
+        0,
+        239
+      ],
+      [
+        8,
+        243
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Head_SpecularMap.dds",
+    "bytes": 131200,
+    "sha256": "0594eaa5e6954f6318a5b4f8b7bfeeafbdb0d95c79ad5318d222bd8d70efa5ee",
+    "extension": ".dds",
+    "size": [
+      256,
+      512
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        174
+      ],
+      [
+        222,
+        222
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Leather2_NormalDetailMap.dds",
+    "bytes": 11064,
+    "sha256": "2beb5592849d8f8d63344c55f23a82bb36ba49bd61afd8f4d0309a3156fc3dea",
+    "extension": ".dds",
+    "size": [
+      128,
+      128
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT1",
+    "mip_count": 8,
+    "channel_extrema": [
+      [
+        115,
+        140
+      ],
+      [
+        101,
+        154
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Leather_NormalDetailMap.dds",
+    "bytes": 11064,
+    "sha256": "a56421478cf7b0a1cae68a682b168c0af615103a149edf325c9fc7dc3c582e0c",
+    "extension": ".dds",
+    "size": [
+      128,
+      128
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT1",
+    "mip_count": 8,
+    "channel_extrema": [
+      [
+        74,
+        165
+      ],
+      [
+        65,
+        178
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Legs_DiffuseMap.dds",
+    "bytes": 4194432,
+    "sha256": "1c1ae018dda819baef73954bd3d46d2c71fe0f31c2f271ed5bfa9a58bab8dce9",
+    "extension": ".dds",
+    "size": [
+      2048,
+      2048
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        0,
+        198
+      ],
+      [
+        0,
+        195
+      ],
+      [
+        0,
+        198
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Legs_MaskMap.dds",
+    "bytes": 1398256,
+    "sha256": "24084712e068138cc0849b3395a4d1aa93fd860b07b18a51ccaf0bf83c00fbbb",
+    "extension": ".dds",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 11,
+    "channel_extrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Legs_NormalMap.dds",
+    "bytes": 174904,
+    "sha256": "46a774e5e2af134f22348a1504613c924bdf03a43ea5c413fb744b280c0580b1",
+    "extension": ".dds",
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT1",
+    "mip_count": 10,
+    "channel_extrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Legs_SpecularMap.dds",
+    "bytes": 262272,
+    "sha256": "03b7c1ae80acc6aa9f0d6025b836cb523be37bfcb4450828d9b8663fe6ad49fb",
+    "extension": ".dds",
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        207
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Mouth_DiffuseMap.dds",
+    "bytes": 524416,
+    "sha256": "caa0be2056a8e25c0391bf481e40add39a96ed0080e90e8690d96c863f016fbc",
+    "extension": ".dds",
+    "size": [
+      1024,
+      512
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        10,
+        239
+      ],
+      [
+        4,
+        235
+      ],
+      [
+        0,
+        239
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Mouth_NormalMap.dds",
+    "bytes": 21992,
+    "sha256": "d316e2002e49e4dcd40f543bcde67b165cc1f60635d59dda03bd52d15b507950",
+    "extension": ".dds",
+    "size": [
+      256,
+      128
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT1",
+    "mip_count": 9,
+    "channel_extrema": [
+      [
+        49,
+        198
+      ],
+      [
+        52,
+        211
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Mouth_SpecularMap.dds",
+    "bytes": 32896,
+    "sha256": "02798440ea50703da8729d90c0c91bb1aa539129c86ecd807f438f59b7585580",
+    "extension": ".dds",
+    "size": [
+      256,
+      128
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        0,
+        0
+      ],
+      [
+        60,
+        251
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Plastic_NormalDetailMap.dds",
+    "bytes": 43832,
+    "sha256": "cce1f9100ce23f4075907aae74429568b05df32c77803ee3a835a465fee2874e",
+    "extension": ".dds",
+    "size": [
+      256,
+      256
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT1",
+    "mip_count": 9,
+    "channel_extrema": [
+      [
+        49,
+        189
+      ],
+      [
+        56,
+        195
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Pouches_DiffuseMap.dds",
+    "bytes": 1048704,
+    "sha256": "f52747b8edc7bea956cb5d4cef30b24068163553b1db2390a9cd95ad0e322018",
+    "extension": ".dds",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        5,
+        189
+      ],
+      [
+        4,
+        190
+      ],
+      [
+        5,
+        189
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Pouches_MaskMap.dds",
+    "bytes": 349680,
+    "sha256": "00679fcaa7a642b44e3f2980d7897135b58902342cfac35b747a6a54881459c0",
+    "extension": ".dds",
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 10,
+    "channel_extrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Pouches_NormalMap.dds",
+    "bytes": 43832,
+    "sha256": "574ebd663803384e1217f3f8ba07e928159355dab60ba2632e7e1cbdad939011",
+    "extension": ".dds",
+    "size": [
+      256,
+      256
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT1",
+    "mip_count": 9,
+    "channel_extrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Pouches_SpecularMap.dds",
+    "bytes": 65664,
+    "sha256": "52cdf77b170ff706f3fedabb5c035a986d9d6ae4d4d814e60ee78ded9b68159e",
+    "extension": ".dds",
+    "size": [
+      256,
+      256
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        186
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Rubber_NormalDetailMap.dds",
+    "bytes": 11064,
+    "sha256": "065f256cd7c919263a6176cba38cd30fd4be68e52a083e1279764579ba2d6535",
+    "extension": ".dds",
+    "size": [
+      128,
+      128
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT1",
+    "mip_count": 8,
+    "channel_extrema": [
+      [
+        99,
+        148
+      ],
+      [
+        101,
+        150
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Straps_DiffuseMap.dds",
+    "bytes": 1048704,
+    "sha256": "69c764485891a1f6034f85c407bef9ec75232da202f2708d48e840d50622fcb1",
+    "extension": ".dds",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        0,
+        156
+      ],
+      [
+        0,
+        155
+      ],
+      [
+        0,
+        162
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Straps_MaskMap.dds",
+    "bytes": 349680,
+    "sha256": "436101dd57ff381bbf9accdaf8a258d118c580771f1bbcf44479bd3306e99de9",
+    "extension": ".dds",
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 10,
+    "channel_extrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Straps_NormalMap.dds",
+    "bytes": 43832,
+    "sha256": "3a4ce47276fe6d3e31f5426b3f5919e99ca13166ebd0ea78875fa9f16888671d",
+    "extension": ".dds",
+    "size": [
+      256,
+      256
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT1",
+    "mip_count": 9,
+    "channel_extrema": [
+      [
+        8,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Straps_SpecularMap.dds",
+    "bytes": 65664,
+    "sha256": "65578c203ba2f86bb09c328e48d633fb3792da667486274bd8378818014c7718",
+    "extension": ".dds",
+    "size": [
+      256,
+      256
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        186
+      ],
+      [
+        0,
+        249
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Tie_Pattern_DiffuseMap.dds",
+    "bytes": 1048704,
+    "sha256": "0b18e54eea4fb64f22f1953f9ad7698e5182fe5222889479b987aa670b08e94c",
+    "extension": ".dds",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        57,
+        195
+      ],
+      [
+        57,
+        194
+      ],
+      [
+        57,
+        195
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Torso_DiffuseMap.dds",
+    "bytes": 4194432,
+    "sha256": "532a2db61678bc00cb6b8f4beee88243116d2495518d0cd128aa472703c3631e",
+    "extension": ".dds",
+    "size": [
+      2048,
+      2048
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        0,
+        189
+      ],
+      [
+        0,
+        190
+      ],
+      [
+        0,
+        189
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Torso_MaskMap.dds",
+    "bytes": 1398256,
+    "sha256": "fbd8c2ee565899ed3666a2132a4f3e0c693f3b28ba6eb87275e240c52cb23b43",
+    "extension": ".dds",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 11,
+    "channel_extrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Torso_NormalMap.dds",
+    "bytes": 174904,
+    "sha256": "d97cee2c1bd1e05503bb95e3b2ff39fea557a3c5532931db77a187e01b57bc04",
+    "extension": ".dds",
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT1",
+    "mip_count": 10,
+    "channel_extrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/CHR_Clash_Torso_SpecularMap.dds",
+    "bytes": 262272,
+    "sha256": "ce6880fef06341ccd2fddebf5d80bb670444143b1bf35ec84c6ae855806e83c9",
+    "extension": ".dds",
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA",
+    "format": "DDS",
+    "fourcc": "DXT5",
+    "mip_count": 1,
+    "channel_extrema": [
+      [
+        0,
+        115
+      ],
+      [
+        0,
+        223
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/Color_Textures3/CHR_Clash_Arms_DiffuseMap.tga",
+    "bytes": 67108908,
+    "sha256": "a94dd89ab04d6030f415af5dffb789dfc32c96a56fbf9ce845b1466cfde60338",
+    "extension": ".tga",
+    "size": [
+      4096,
+      4096
+    ],
+    "mode": "RGBA",
+    "format": "TGA",
+    "channel_extrema": [
+      [
+        0,
+        169
+      ],
+      [
+        0,
+        167
+      ],
+      [
+        0,
+        160
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/Color_Textures3/CHR_Clash_Gear_DiffuseMap.tga",
+    "bytes": 16777260,
+    "sha256": "0fc1a44fffdd6c073ad46901d7bfcc602afe70c59d5204b16bd4627af58898dc",
+    "extension": ".tga",
+    "size": [
+      2048,
+      2048
+    ],
+    "mode": "RGBA",
+    "format": "TGA",
+    "channel_extrema": [
+      [
+        0,
+        102
+      ],
+      [
+        0,
+        100
+      ],
+      [
+        0,
+        100
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/Color_Textures3/CHR_Clash_Legs_DiffuseMap.tga",
+    "bytes": 67108908,
+    "sha256": "0045a39574223977d10b2d332e34fe86a1ea19ffd54196be2c22de0f9dfdcb1c",
+    "extension": ".tga",
+    "size": [
+      4096,
+      4096
+    ],
+    "mode": "RGBA",
+    "format": "TGA",
+    "channel_extrema": [
+      [
+        0,
+        103
+      ],
+      [
+        0,
+        103
+      ],
+      [
+        0,
+        103
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/Color_Textures3/CHR_Clash_Pouches_DiffuseMap.tga",
+    "bytes": 16777260,
+    "sha256": "b3d49eb07bed767d4bdbfb7d9b5a39b13003e8fa2310aaac729bde78a9118110",
+    "extension": ".tga",
+    "size": [
+      2048,
+      2048
+    ],
+    "mode": "RGBA",
+    "format": "TGA",
+    "channel_extrema": [
+      [
+        0,
+        104
+      ],
+      [
+        0,
+        104
+      ],
+      [
+        0,
+        104
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/Color_Textures3/CHR_Clash_Straps_DiffuseMap.tga",
+    "bytes": 16777260,
+    "sha256": "2d379b1faf5503f531492925e797e875ef32faa88bb805bcdb0cf94937549ecf",
+    "extension": ".tga",
+    "size": [
+      2048,
+      2048
+    ],
+    "mode": "RGBA",
+    "format": "TGA",
+    "channel_extrema": [
+      [
+        0,
+        47
+      ],
+      [
+        0,
+        51
+      ],
+      [
+        0,
+        69
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "archive": "CHR_Clash.rar",
+    "member": "CHR_Clash/Textures/Color_Textures3/CHR_Clash_Torso_DiffuseMap.tga",
+    "bytes": 67108908,
+    "sha256": "95a1646ab42c1d7958ccf5117b4aa605dff0c0125b3257c88122815adf1a014c",
+    "extension": ".tga",
+    "size": [
+      4096,
+      4096
+    ],
+    "mode": "RGBA",
+    "format": "TGA",
+    "channel_extrema": [
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        0,
+        255
+      ],
+      [
+        255,
+        255
+      ]
+    ]
+  }
+]

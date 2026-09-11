@@ -1,0 +1,689 @@
+{
+  "raw_face_statements": 41175,
+  "rejected_faces": [
+    {
+      "line": 104661,
+      "group": "Object007",
+      "reason": "Repeated position index",
+      "face": "f 19037/19095/23542 19005/19052/23510 19005/19052/23543 ",
+      "area": 0.0
+    },
+    {
+      "line": 104662,
+      "group": "Object007",
+      "reason": "Repeated position index",
+      "face": "f 19005/19052/23543 19005/19052/23510 19038/19096/23544 ",
+      "area": 0.0
+    }
+  ],
+  "groups": [
+    {
+      "group": "hjhjh_2",
+      "material": "boots (2)",
+      "material_evidence_line": 9171,
+      "vertices": 1390,
+      "triangles": 2730,
+      "bounds": [
+        [
+          -0.22722899913787842,
+          0.26968899369239807
+        ],
+        [
+          -0.15627099573612213,
+          0.19277499616146088
+        ],
+        [
+          0.6245599985122681,
+          1.2857149839401245
+        ]
+      ]
+    },
+    {
+      "group": "hjhjh_3",
+      "material": "hair_front (1)",
+      "material_evidence_line": 9405,
+      "vertices": 128,
+      "triangles": 165,
+      "bounds": [
+        [
+          -0.05261100083589554,
+          0.05261100083589554
+        ],
+        [
+          -0.06699799746274948,
+          -0.05023999884724617
+        ],
+        [
+          1.6791410446166992,
+          1.6939619779586792
+        ]
+      ]
+    },
+    {
+      "group": "hjhjh_4",
+      "material": "head",
+      "material_evidence_line": 10767,
+      "vertices": 1995,
+      "triangles": 3958,
+      "bounds": [
+        [
+          -0.0888419970870018,
+          0.08864700049161911
+        ],
+        [
+          -0.09227199852466583,
+          0.1262120008468628
+        ],
+        [
+          1.357964038848877,
+          1.7947169542312622
+        ]
+      ]
+    },
+    {
+      "group": "hjhjh_16",
+      "material": "eye",
+      "material_evidence_line": 11703,
+      "vertices": 1102,
+      "triangles": 2069,
+      "bounds": [
+        [
+          -0.04806499928236008,
+          0.048149000853300095
+        ],
+        [
+          -0.0755549967288971,
+          -0.010739999823272228
+        ],
+        [
+          1.589460015296936,
+          1.7036410570144653
+        ]
+      ]
+    },
+    {
+      "group": "Object001",
+      "material": "body_main_skin",
+      "material_evidence_line": 13664,
+      "vertices": 2611,
+      "triangles": 5206,
+      "bounds": [
+        [
+          -0.29264000058174133,
+          0.2904990017414093
+        ],
+        [
+          -0.1812009960412979,
+          0.15787799656391144
+        ],
+        [
+          -0.0015190000412985682,
+          1.1181379556655884
+        ]
+      ]
+    },
+    {
+      "group": "Object002",
+      "material": "body_main",
+      "material_evidence_line": 15496,
+      "vertices": 2685,
+      "triangles": 5159,
+      "bounds": [
+        [
+          -0.20771199464797974,
+          0.20610299706459045
+        ],
+        [
+          -0.15349699556827545,
+          0.1633719950914383
+        ],
+        [
+          1.0804359912872314,
+          1.6328949928283691
+        ]
+      ]
+    },
+    {
+      "group": "Object004",
+      "material": "body_main (1)",
+      "material_evidence_line": 17784,
+      "vertices": 3628,
+      "triangles": 7018,
+      "bounds": [
+        [
+          -0.5554590225219727,
+          0.5554590225219727
+        ],
+        [
+          -0.28840699791908264,
+          0.14281299710273743
+        ],
+        [
+          1.0206589698791504,
+          1.514809012413025
+        ]
+      ]
+    },
+    {
+      "group": "Object005",
+      "material": "body_main_skirt",
+      "material_evidence_line": 17971,
+      "vertices": 45,
+      "triangles": 64,
+      "bounds": [
+        [
+          -0.2702920138835907,
+          -0.22988100349903107
+        ],
+        [
+          0.016302000731229782,
+          0.091498002409935
+        ],
+        [
+          1.4055240154266357,
+          1.4652429819107056
+        ]
+      ]
+    },
+    {
+      "group": "Object006",
+      "material": "boots",
+      "material_evidence_line": 22651,
+      "vertices": 3396,
+      "triangles": 6620,
+      "bounds": [
+        [
+          -0.22678300738334656,
+          0.29531699419021606
+        ],
+        [
+          -0.18933700025081635,
+          0.18181200325489044
+        ],
+        [
+          0.593209981918335,
+          1.5463149547576904
+        ]
+      ]
+    },
+    {
+      "group": "Object007",
+      "material": "boots (1)",
+      "material_evidence_line": 26425,
+      "vertices": 3376,
+      "triangles": 6426,
+      "bounds": [
+        [
+          -0.24863100051879883,
+          0.2354779988527298
+        ],
+        [
+          -0.18553000688552856,
+          0.16155500710010529
+        ],
+        [
+          0.6505709886550903,
+          1.5212359428405762
+        ]
+      ]
+    },
+    {
+      "group": "Object009",
+      "material": "body_main (1) (1)",
+      "material_evidence_line": 27143,
+      "vertices": 968,
+      "triangles": 1758,
+      "bounds": [
+        [
+          -0.5537729859352112,
+          0.5537729859352112
+        ],
+        [
+          -0.31213799118995667,
+          0.10595600306987762
+        ],
+        [
+          0.9957950115203857,
+          1.3105770349502563
+        ]
+      ]
+    }
+  ],
+  "imported_triangles": 41173,
+  "material_records": {
+    "body_main": {
+      "evidence_lines": [
+        52,
+        144
+      ],
+      "maps": {
+        "Normal Map": {
+          "path": "Textures/CHR_Clash_Torso_NormalMap.dds",
+          "srgb": false
+        },
+        "Microsurface Map": {
+          "path": "Textures/CHR_Clash_Torso_SpecularMap.dds",
+          "srgb": true
+        },
+        "Albedo Map": {
+          "path": "Textures/Color_Textures3/CHR_Clash_Torso_DiffuseMap.tga",
+          "srgb": true
+        },
+        "Specular Map": {
+          "path": "Textures/CHR_Clash_Torso_SpecularMap.dds",
+          "srgb": true
+        },
+        "Occlusion Map": {
+          "path": "Textures/CHR_Clash_Torso_SpecularMap.dds",
+          "srgb": true
+        },
+        "Cavity Map": {
+          "path": "Textures/Color_Textures3/CHR_Clash_Torso_DiffuseMap.tga",
+          "srgb": true
+        },
+        "RGBA Detail Mask": {
+          "path": "Textures/CHR_Clash_Torso_MaskMap.dds",
+          "srgb": false
+        },
+        "Red Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Cloth_NormalDetailMap.dds",
+          "srgb": false
+        },
+        "Green Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Fabric_NormalDetailMap.dds",
+          "srgb": false
+        },
+        "Blue Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Cloth2_NormalDetailMap.dds",
+          "srgb": false
+        }
+      },
+      "source_block": "body_mainq\n@Sub SRSurface = SRSurfaceDetailNormalMap\n    Normal Map = @Tex file \"Textures/CHR_Clash_Torso_NormalMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Scale & Bias = 1\n    Flip X = 0\n    Flip Y = 0\n    Flip Z = 0\n    Object Space = 0\n    Detail Normal Map = nil\n    UV Set = 0\n    Scale & Bias;detail = 1\n    Flip X;detail = 0\n    Flip Y;detail = 0\n    Flip Z;detail = 0\n    Detail Tiling = 6.2339\n    Detail Offset = 0.529703\n    Detail Weight Map = nil\n    Channel;detail = 0\n    Detail Weight = 1\n@Sub SRMicrosurface = SRMicrosurfaceAdvancedMap\n    Microsurface Map = @Tex file \"Textures/CHR_Clash_Torso_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel = 0\n    Mode = 0\n    Maximum = 0.663366\n    Minimum = 0.20297\n    Exponent = 0.262825\n    Horizon Smoothing = 0\n@Sub SRAlbedo = SRAlbedoMap\n    Albedo Map = @Tex file \"Textures/Color_Textures3/CHR_Clash_Torso_DiffuseMap.tga\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Color = 1 1 1\n@Sub SRDiffusion = SRDiffusionMicrofiber\n    Fuzz Map = nil\n    Fuzz = 0.0568182\n    Fuzz Color = 1 1 1\n    Fuzz Scatter = 1\n    Fuzz Occlusion = 0\n    Mask Fuzz with Gloss = 1\n@Sub SRReflectivity = SRReflectivitySpecularMap\n    Specular Map = @Tex file \"Textures/CHR_Clash_Torso_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;specular = 1\n    Intensity = 0.342491\n    Color = 1 1 1\n    Fresnel = 0.0178034\n    Fresnel Color = 1 1 1\n    Conserve Energy = 1\n@Sub SRReflection = SRReflectionGGX\n    Horizon Occlusion = 4\n@Sub SRReflection2 = SRReflectionGGX\n    Horizon Occlusion = 4\n    Secondary Gloss = 0.0287872\n    Secondary Intensity = 0\n    Secondary Intensity Color = 1 1 1\n    Secondary Fresnel = 0.301136\n    Secondary Fresnel Color = 1 1 1\n@Sub SROcclusion = SROcclusionMap\n    Occlusion Map = @Tex file \"Textures/CHR_Clash_Torso_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;occlusion = 2\n    Occlusion = 1\n    UV Set = 0\n    Vertex Channel = 0\n    Cavity Map = @Tex file \"Textures/Color_Textures3/CHR_Clash_Torso_DiffuseMap.tga\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;cavity = 0\n    Diffuse Cavity = -0.5\n    Specular Cavity = 0\n@Sub SRExtra = SRCustom\n    ShaderFilePath = \"detail_normal_rgba.frag\"\n    ReloadSeed = 5\n    RGBA Detail Mask = @Tex file \"Textures/CHR_Clash_Torso_MaskMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Enable Red Map = 1\n    Red Detail Normal Map = @Tex file \"Textures/CHR_Clash_Cloth_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Red UV Tiling X = 30\n    Red UV Tiling Y = 30\n    Enable Green Map = 1\n    Green Detail Normal Map = @Tex file \"Textures/CHR_Clash_Fabric_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Green UV Tiling X = 8\n    Green UV Tiling Y = 8\n    Enable Blue Map = 1\n    Blue Detail Normal Map = @Tex file \"Textures/CHR_Clash_Cloth2_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Blue UV Tiling X = 15\n    Blue UV Tiling Y = 15\n    Enable Alpha Map = 0\n    Alpha Detail Normal Map = nil\n    Alpha UV Tiling X = 1\n    Alpha UV Tiling Y = 1\n@Sub SRMerge = SRMerge\n    Texture Tiling = 1\n    Tile U = 1\n    Offset U = 0\n    Tile V = 1\n    Offset V = 0\n    Wrap = 1\n    Aniso = 2\n    Filter = 1",
+      "approximation": "Principled preview; custom detail shader and source response not fully reproduced"
+    },
+    "body_main (1)": {
+      "evidence_lines": [
+        145,
+        237
+      ],
+      "maps": {
+        "Normal Map": {
+          "path": "Textures/CHR_Clash_Arms_NormalMap.dds",
+          "srgb": false
+        },
+        "Microsurface Map": {
+          "path": "Textures/CHR_Clash_Arms_SpecularMap.dds",
+          "srgb": true
+        },
+        "Albedo Map": {
+          "path": "Textures/Color_Textures3/CHR_Clash_Arms_DiffuseMap.tga",
+          "srgb": true
+        },
+        "Specular Map": {
+          "path": "Textures/CHR_Clash_Arms_SpecularMap.dds",
+          "srgb": true
+        },
+        "Occlusion Map": {
+          "path": "Textures/CHR_Clash_Arms_SpecularMap.dds",
+          "srgb": true
+        },
+        "Cavity Map": {
+          "path": "Textures/Color_Textures3/CHR_Clash_Arms_DiffuseMap.tga",
+          "srgb": true
+        },
+        "RGBA Detail Mask": {
+          "path": "Textures/CHR_Clash_Arms_MaskMap.dds",
+          "srgb": false
+        },
+        "Red Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Cloth_NormalDetailMap.dds",
+          "srgb": false
+        },
+        "Green Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Leather2_NormalDetailMap.dds",
+          "srgb": false
+        },
+        "Blue Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Fabric3_NormalDetailMap.dds",
+          "srgb": false
+        }
+      },
+      "source_block": "body_main (1)^\n@Sub SRSurface = SRSurfaceDetailNormalMap\n    Normal Map = @Tex file \"Textures/CHR_Clash_Arms_NormalMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Scale & Bias = 1\n    Flip X = 0\n    Flip Y = 0\n    Flip Z = 0\n    Object Space = 0\n    Detail Normal Map = nil\n    UV Set = 0\n    Scale & Bias;detail = 1\n    Flip X;detail = 0\n    Flip Y;detail = 0\n    Flip Z;detail = 0\n    Detail Tiling = 1\n    Detail Offset = 0\n    Detail Weight Map = nil\n    Channel;detail = 0\n    Detail Weight = 333\n@Sub SRMicrosurface = SRMicrosurfaceAdvancedMap\n    Microsurface Map = @Tex file \"Textures/CHR_Clash_Arms_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel = 0\n    Mode = 0\n    Maximum = 1\n    Minimum = 0.579208\n    Exponent = 0.917996\n    Horizon Smoothing = 0\n@Sub SRAlbedo = SRAlbedoMap\n    Albedo Map = @Tex file \"Textures/Color_Textures3/CHR_Clash_Arms_DiffuseMap.tga\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Color = 1 1 1\n@Sub SRDiffusion = SRDiffusionMicrofiber\n    Fuzz Map = nil\n    Fuzz = 0.113636\n    Fuzz Color = 1 1 1\n    Fuzz Scatter = 1\n    Fuzz Occlusion = 1\n    Mask Fuzz with Gloss = 1\n@Sub SRReflectivity = SRReflectivitySpecularMap\n    Specular Map = @Tex file \"Textures/CHR_Clash_Arms_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;specular = 1\n    Intensity = 0.0441955\n    Color = 1 1 1\n    Fresnel = 0\n    Fresnel Color = 1 1 1\n    Conserve Energy = 1\n@Sub SRReflection = SRReflectionGGX\n    Horizon Occlusion = 4\n@Sub SRReflection2 = SRReflectionGGX\n    Horizon Occlusion = 1\n    Secondary Gloss = 0.0159021\n    Secondary Intensity = 0.0941374\n    Secondary Intensity Color = 1 1 1\n    Secondary Fresnel = 0.0909091\n    Secondary Fresnel Color = 1 1 1\n@Sub SROcclusion = SROcclusionMap\n    Occlusion Map = @Tex file \"Textures/CHR_Clash_Arms_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;occlusion = 2\n    Occlusion = 2\n    UV Set = 0\n    Vertex Channel = 0\n    Cavity Map = @Tex file \"Textures/Color_Textures3/CHR_Clash_Arms_DiffuseMap.tga\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;cavity = 0\n    Diffuse Cavity = -1\n    Specular Cavity = 0\n@Sub SRExtra = SRCustom\n    ShaderFilePath = \"detail_normal_rgba.frag\"\n    ReloadSeed = 4\n    RGBA Detail Mask = @Tex file \"Textures/CHR_Clash_Arms_MaskMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Enable Red Map = 1\n    Red Detail Normal Map = @Tex file \"Textures/CHR_Clash_Cloth_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Red UV Tiling X = 30\n    Red UV Tiling Y = 30\n    Enable Green Map = 1\n    Green Detail Normal Map = @Tex file \"Textures/CHR_Clash_Leather2_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Green UV Tiling X = 10\n    Green UV Tiling Y = 10\n    Enable Blue Map = 1\n    Blue Detail Normal Map = @Tex file \"Textures/CHR_Clash_Fabric3_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Blue UV Tiling X = 10\n    Blue UV Tiling Y = 10\n    Enable Alpha Map = 0\n    Alpha Detail Normal Map = nil\n    Alpha UV Tiling X = 1\n    Alpha UV Tiling Y = 1\n@Sub SRMerge = SRMerge\n    Texture Tiling = 1\n    Tile U = 1\n    Offset U = 0\n    Tile V = 1\n    Offset V = 0\n    Wrap = 1\n    Aniso = 2\n    Filter = 1",
+      "approximation": "Principled preview; custom detail shader and source response not fully reproduced"
+    },
+    "body_main (1) (1)": {
+      "evidence_lines": [
+        238,
+        313
+      ],
+      "maps": {
+        "Normal Map": {
+          "path": "Textures/CHR_Clash_Arms_NormalMap.dds",
+          "srgb": false
+        },
+        "Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Rubber_NormalDetailMap.dds",
+          "srgb": false
+        },
+        "Gloss Map": {
+          "path": "Textures/CHR_Clash_Arms_SpecularMap.dds",
+          "srgb": true
+        },
+        "Albedo Map": {
+          "path": "Textures/CHR_Clash_Arms_DiffuseMap.dds",
+          "srgb": true
+        },
+        "Specular Map": {
+          "path": "Textures/CHR_Clash_Arms_SpecularMap.dds",
+          "srgb": true
+        },
+        "Occlusion Map": {
+          "path": "Textures/CHR_Clash_Arms_SpecularMap.dds",
+          "srgb": true
+        },
+        "Cavity Map": {
+          "path": "Textures/CHR_Clash_Arms_DiffuseMap.dds",
+          "srgb": true
+        }
+      },
+      "source_block": "body_main (1) (1)u\n@Sub SRSurface = SRSurfaceDetailNormalMap\n    Normal Map = @Tex file \"Textures/CHR_Clash_Arms_NormalMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Scale & Bias = 1\n    Flip X = 0\n    Flip Y = 0\n    Flip Z = 0\n    Object Space = 0\n    Detail Normal Map = @Tex file \"Textures/CHR_Clash_Rubber_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    UV Set = 0\n    Scale & Bias;detail = 1\n    Flip X;detail = 0\n    Flip Y;detail = 0\n    Flip Z;detail = 0\n    Detail Tiling = 11.14\n    Detail Offset = 0\n    Detail Weight Map = nil\n    Channel;detail = 0\n    Detail Weight = 333\n@Sub SRMicrosurface = SRMicrosurfaceGlossMap\n    Gloss Map = @Tex file \"Textures/CHR_Clash_Arms_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel = 0\n    Gloss = 0.534653\n    Invert = 0\n@Sub SRAlbedo = SRAlbedoMap\n    Albedo Map = @Tex file \"Textures/CHR_Clash_Arms_DiffuseMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Color = 0.572533 0.547399 0.509496\n@Sub SRDiffusion = SRDiffusionScatter\n    Scatter Map = nil\n    Scatter Depth (mm) = 19.7754\n    Scatter Color = 1 0.353104 0.236379\n    Translucency Map = nil\n    Translucency = 0\n    Translucency Color = 1 0.25 0.125\n    Translucency Depth (mm) = 0.00394062\n    Translucency Scatter = 1\n    Fuzz Map = nil\n    Fuzz = 0.0227273\n    Fuzz Color = 1 1 1\n    Mask Fuzz with Gloss = 0\n@Sub SRReflectivity = SRReflectivitySpecularMap\n    Specular Map = @Tex file \"Textures/CHR_Clash_Arms_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;specular = 1\n    Intensity = 0.201479\n    Color = 1 1 1\n    Fresnel = 0.0668849\n    Fresnel Color = 1 1 1\n    Conserve Energy = 1\n@Sub SRReflection = SRReflectionGGX\n    Horizon Occlusion = 4\n@Sub SRReflection2 = SRReflectionGGX\n    Horizon Occlusion = 1\n    Secondary Gloss = 0.530295\n    Secondary Intensity = 0.261493\n    Secondary Intensity Color = 1 1 1\n    Secondary Fresnel = 0.0681818\n    Secondary Fresnel Color = 1 1 1\n@Sub SROcclusion = SROcclusionMap\n    Occlusion Map = @Tex file \"Textures/CHR_Clash_Arms_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;occlusion = 2\n    Occlusion = 2\n    UV Set = 0\n    Vertex Channel = 0\n    Cavity Map = @Tex file \"Textures/CHR_Clash_Arms_DiffuseMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;cavity = 0\n    Diffuse Cavity = -3\n    Specular Cavity = 0.0544554\n@Sub SRMerge = SRMerge\n    Texture Tiling = 1\n    Tile U = 1\n    Offset U = 0\n    Tile V = 1\n    Offset V = 0\n    Wrap = 1\n    Aniso = 2\n    Filter = 1",
+      "approximation": "Principled preview; custom detail shader and source response not fully reproduced"
+    },
+    "body_main_skin": {
+      "evidence_lines": [
+        314,
+        406
+      ],
+      "maps": {
+        "Normal Map": {
+          "path": "Textures/CHR_Clash_Legs_NormalMap.dds",
+          "srgb": false
+        },
+        "Microsurface Map": {
+          "path": "Textures/CHR_Clash_Legs_SpecularMap.dds",
+          "srgb": true
+        },
+        "Albedo Map": {
+          "path": "Textures/Color_Textures3/CHR_Clash_Legs_DiffuseMap.tga",
+          "srgb": true
+        },
+        "Specular Map": {
+          "path": "Textures/CHR_Clash_Legs_SpecularMap.dds",
+          "srgb": true
+        },
+        "Occlusion Map": {
+          "path": "Textures/CHR_Clash_Legs_SpecularMap.dds",
+          "srgb": true
+        },
+        "Cavity Map": {
+          "path": "Textures/CHR_Clash_Legs_SpecularMap.dds",
+          "srgb": true
+        },
+        "RGBA Detail Mask": {
+          "path": "Textures/CHR_Clash_Legs_MaskMap.dds",
+          "srgb": true
+        },
+        "Red Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Leather2_NormalDetailMap.dds",
+          "srgb": false
+        },
+        "Green Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Leather_NormalDetailMap.dds",
+          "srgb": false
+        },
+        "Blue Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Fabric_NormalDetailMap.dds",
+          "srgb": false
+        }
+      },
+      "source_block": "body_main_skin_\n@Sub SRSurface = SRSurfaceDetailNormalMap\n    Normal Map = @Tex file \"Textures/CHR_Clash_Legs_NormalMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Scale & Bias = 1\n    Flip X = 0\n    Flip Y = 0\n    Flip Z = 0\n    Object Space = 0\n    Detail Normal Map = nil\n    UV Set = 0\n    Scale & Bias;detail = 1\n    Flip X;detail = 0\n    Flip Y;detail = 0\n    Flip Z;detail = 0\n    Detail Tiling = 1\n    Detail Offset = 0\n    Detail Weight Map = nil\n    Channel;detail = 0\n    Detail Weight = 333\n@Sub SRMicrosurface = SRMicrosurfaceAdvancedMap\n    Microsurface Map = @Tex file \"Textures/CHR_Clash_Legs_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel = 1\n    Mode = 0\n    Maximum = 1\n    Minimum = 0.10396\n    Exponent = 1.99756\n    Horizon Smoothing = 0.231639\n@Sub SRAlbedo = SRAlbedoMap\n    Albedo Map = @Tex file \"Textures/Color_Textures3/CHR_Clash_Legs_DiffuseMap.tga\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Color = 1 1 1\n@Sub SRDiffusion = SRDiffusionMicrofiber\n    Fuzz Map = nil\n    Fuzz = 0.0113636\n    Fuzz Color = 1 1 1\n    Fuzz Scatter = 0.455446\n    Fuzz Occlusion = 1\n    Mask Fuzz with Gloss = 0\n@Sub SRReflectivity = SRReflectivitySpecularMap\n    Specular Map = @Tex file \"Textures/CHR_Clash_Legs_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;specular = 1\n    Intensity = 0.0653732\n    Color = 1 1 1\n    Fresnel = 0\n    Fresnel Color = 1 1 1\n    Conserve Energy = 1\n@Sub SRReflection = SRReflectionGGX\n    Horizon Occlusion = 1.27399\n@Sub SRReflection2 = SRReflectionGGX\n    Horizon Occlusion = 1\n    Secondary Gloss = 0.41608\n    Secondary Intensity = 1.61983\n    Secondary Intensity Color = 1 1 1\n    Secondary Fresnel = 0.0511364\n    Secondary Fresnel Color = 1 1 1\n@Sub SROcclusion = SROcclusionMap\n    Occlusion Map = @Tex file \"Textures/CHR_Clash_Legs_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;occlusion = 2\n    Occlusion = 2\n    UV Set = 0\n    Vertex Channel = 0\n    Cavity Map = @Tex file \"Textures/CHR_Clash_Legs_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;cavity = 1\n    Diffuse Cavity = -1\n    Specular Cavity = 0\n@Sub SRExtra = SRCustom\n    ShaderFilePath = \"detail_normal_rgba.frag\"\n    ReloadSeed = 1\n    RGBA Detail Mask = @Tex file \"Textures/CHR_Clash_Legs_MaskMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Enable Red Map = 1\n    Red Detail Normal Map = @Tex file \"Textures/CHR_Clash_Leather2_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Red UV Tiling X = 14\n    Red UV Tiling Y = 14\n    Enable Green Map = 1\n    Green Detail Normal Map = @Tex file \"Textures/CHR_Clash_Leather_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Green UV Tiling X = 10\n    Green UV Tiling Y = 10\n    Enable Blue Map = 1\n    Blue Detail Normal Map = @Tex file \"Textures/CHR_Clash_Fabric_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Blue UV Tiling X = 10\n    Blue UV Tiling Y = 10\n    Enable Alpha Map = 0\n    Alpha Detail Normal Map = nil\n    Alpha UV Tiling X = 1\n    Alpha UV Tiling Y = 1\n@Sub SRMerge = SRMerge\n    Texture Tiling = 1\n    Tile U = 1\n    Offset U = 0\n    Tile V = 1\n    Offset V = 0\n    Wrap = 1\n    Aniso = 2\n    Filter = 1",
+      "approximation": "Principled preview; custom detail shader and source response not fully reproduced"
+    },
+    "body_main_skirt": {
+      "evidence_lines": [
+        407,
+        477
+      ],
+      "maps": {
+        "Normal Map": {
+          "path": "Textures/CHR_Clash_Badge_NormalMap.dds",
+          "srgb": false
+        },
+        "Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Cloth_NormalDetailMap.dds",
+          "srgb": false
+        },
+        "Gloss Map": {
+          "path": "Textures/CHR_Clash_Badge_SpecularMap.dds",
+          "srgb": false
+        },
+        "Albedo Map": {
+          "path": "Textures/CHR_Clash_Badge_DiffuseMap.dds",
+          "srgb": true
+        },
+        "Specular Map": {
+          "path": "Textures/CHR_Clash_Badge_SpecularMap.dds",
+          "srgb": false
+        }
+      },
+      "source_block": "body_main_skirt\n@Sub SRSurface = SRSurfaceDetailNormalMap\n    Normal Map = @Tex file \"Textures/CHR_Clash_Badge_NormalMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Scale & Bias = 1\n    Flip X = 0\n    Flip Y = 0\n    Flip Z = 0\n    Object Space = 0\n    Detail Normal Map = @Tex file \"Textures/CHR_Clash_Cloth_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    UV Set = 0\n    Scale & Bias;detail = 1\n    Flip X;detail = 0\n    Flip Y;detail = 0\n    Flip Z;detail = 0\n    Detail Tiling = 9.80855\n    Detail Offset = 0\n    Detail Weight Map = nil\n    Channel;detail = 0\n    Detail Weight = 99\n@Sub SRMicrosurface = SRMicrosurfaceGlossMap\n    Gloss Map = @Tex file \"Textures/CHR_Clash_Badge_SpecularMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel = 0\n    Gloss = 1\n    Invert = 0\n@Sub SRAlbedo = SRAlbedoMap\n    Albedo Map = @Tex file \"Textures/CHR_Clash_Badge_DiffuseMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Color = 1 1 1\n@Sub SRDiffusion = SRDiffusionMicrofiber\n    Fuzz Map = nil\n    Fuzz = 0.136364\n    Fuzz Color = 1 1 1\n    Fuzz Scatter = 1\n    Fuzz Occlusion = 1\n    Mask Fuzz with Gloss = 1\n@Sub SRReflectivity = SRReflectivitySpecularMap\n    Specular Map = @Tex file \"Textures/CHR_Clash_Badge_SpecularMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;specular = 1\n    Intensity = 0.1537\n    Color = 1 1 1\n    Fresnel = 0.10431\n    Fresnel Color = 1 1 1\n    Conserve Energy = 1\n@Sub SRReflection = SRReflectionGGX\n    Horizon Occlusion = 1\n@Sub SRReflection2 = SRReflectionGGX\n    Horizon Occlusion = 1\n    Secondary Gloss = 0.365704\n    Secondary Intensity = 0.889592\n    Secondary Intensity Color = 1 1 1\n    Secondary Fresnel = 0.244318\n    Secondary Fresnel Color = 1 1 1\n@Sub SROcclusion = SROcclusionMap\n    Occlusion Map = nil\n    Channel;occlusion = 3\n    Occlusion = 2\n    UV Set = 0\n    Vertex Channel = 0\n    Cavity Map = nil\n    Channel;cavity = 0\n    Diffuse Cavity = 0\n    Specular Cavity = 0\n@Sub SRMerge = SRMerge\n    Texture Tiling = 1\n    Tile U = 1\n    Offset U = 0\n    Tile V = 1\n    Offset V = 0\n    Wrap = 1\n    Aniso = 2\n    Filter = 1\nbootsx",
+      "approximation": "Principled preview; custom detail shader and source response not fully reproduced"
+    },
+    "boots": {
+      "evidence_lines": [
+        478,
+        570
+      ],
+      "maps": {
+        "Normal Map": {
+          "path": "Textures/CHR_Clash_Straps_NormalMap.dds",
+          "srgb": false
+        },
+        "Microsurface Map": {
+          "path": "Textures/CHR_Clash_Straps_SpecularMap.dds",
+          "srgb": false
+        },
+        "Albedo Map": {
+          "path": "Textures/Color_Textures3/CHR_Clash_Straps_DiffuseMap.tga",
+          "srgb": true
+        },
+        "Specular Map": {
+          "path": "Textures/CHR_Clash_Straps_SpecularMap.dds",
+          "srgb": false
+        },
+        "Occlusion Map": {
+          "path": "Textures/CHR_Clash_Straps_SpecularMap.dds",
+          "srgb": false
+        },
+        "Cavity Map": {
+          "path": "Textures/Color_Textures3/CHR_Clash_Straps_DiffuseMap.tga",
+          "srgb": true
+        },
+        "RGBA Detail Mask": {
+          "path": "Textures/CHR_Clash_Straps_MaskMap.dds",
+          "srgb": true
+        },
+        "Red Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Cloth_NormalDetailMap.dds",
+          "srgb": false
+        },
+        "Green Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Plastic_NormalDetailMap.dds",
+          "srgb": false
+        },
+        "Blue Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Fabric_NormalDetailMap.dds",
+          "srgb": false
+        }
+      },
+      "source_block": "@Sub SRSurface = SRSurfaceDetailNormalMap\n    Normal Map = @Tex file \"Textures/CHR_Clash_Straps_NormalMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Scale & Bias = 1\n    Flip X = 0\n    Flip Y = 0\n    Flip Z = 0\n    Object Space = 0\n    Detail Normal Map = nil\n    UV Set = 0\n    Scale & Bias;detail = 1\n    Flip X;detail = 0\n    Flip Y;detail = 0\n    Flip Z;detail = 0\n    Detail Tiling = 1\n    Detail Offset = 0\n    Detail Weight Map = nil\n    Channel;detail = 1\n    Detail Weight = 20\n@Sub SRMicrosurface = SRMicrosurfaceAdvancedMap\n    Microsurface Map = @Tex file \"Textures/CHR_Clash_Straps_SpecularMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel = 0\n    Mode = 0\n    Maximum = 0.316832\n    Minimum = 0.559406\n    Exponent = 0.33717\n    Horizon Smoothing = 0\n@Sub SRAlbedo = SRAlbedoMap\n    Albedo Map = @Tex file \"Textures/Color_Textures3/CHR_Clash_Straps_DiffuseMap.tga\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Color = 1 1 1\n@Sub SRDiffusion = SRDiffusionMicrofiber\n    Fuzz Map = nil\n    Fuzz = 0.289773\n    Fuzz Color = 1 1 1\n    Fuzz Scatter = 1\n    Fuzz Occlusion = 1\n    Mask Fuzz with Gloss = 1\n@Sub SRReflectivity = SRReflectivitySpecularMap\n    Specular Map = @Tex file \"Textures/CHR_Clash_Straps_SpecularMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;specular = 1\n    Intensity = 0.172036\n    Color = 1 1 1\n    Fresnel = 0.0412154\n    Fresnel Color = 1 1 1\n    Conserve Energy = 1\n@Sub SRReflection = SRReflectionGGX\n    Horizon Occlusion = 1\n@Sub SRReflection2 = SRReflectionGGX\n    Horizon Occlusion = 1\n    Secondary Gloss = 0.000485295\n    Secondary Intensity = 0.0569473\n    Secondary Intensity Color = 1 1 1\n    Secondary Fresnel = 0.142045\n    Secondary Fresnel Color = 1 1 1\n@Sub SROcclusion = SROcclusionMap\n    Occlusion Map = @Tex file \"Textures/CHR_Clash_Straps_SpecularMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;occlusion = 2\n    Occlusion = 1\n    UV Set = 0\n    Vertex Channel = 0\n    Cavity Map = @Tex file \"Textures/Color_Textures3/CHR_Clash_Straps_DiffuseMap.tga\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;cavity = 1\n    Diffuse Cavity = -1\n    Specular Cavity = 0.5\n@Sub SRExtra = SRCustom\n    ShaderFilePath = \"detail_normal_rgba.frag\"\n    ReloadSeed = 12\n    RGBA Detail Mask = @Tex file \"Textures/CHR_Clash_Straps_MaskMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Enable Red Map = 1\n    Red Detail Normal Map = @Tex file \"Textures/CHR_Clash_Cloth_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Red UV Tiling X = 10\n    Red UV Tiling Y = 10\n    Enable Green Map = 1\n    Green Detail Normal Map = @Tex file \"Textures/CHR_Clash_Plastic_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Green UV Tiling X = 8\n    Green UV Tiling Y = 8\n    Enable Blue Map = 1\n    Blue Detail Normal Map = @Tex file \"Textures/CHR_Clash_Fabric_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Blue UV Tiling X = 10\n    Blue UV Tiling Y = 10\n    Enable Alpha Map = 0\n    Alpha Detail Normal Map = nil\n    Alpha UV Tiling X = 1\n    Alpha UV Tiling Y = 1\n@Sub SRMerge = SRMerge\n    Texture Tiling = 1\n    Tile U = 1\n    Offset U = 0\n    Tile V = 1\n    Offset V = 0\n    Wrap = 1\n    Aniso = 2\n    Filter = 1\nboots (1)",
+      "approximation": "Principled preview; custom detail shader and source response not fully reproduced"
+    },
+    "boots (1)": {
+      "evidence_lines": [
+        571,
+        665
+      ],
+      "maps": {
+        "Normal Map": {
+          "path": "Textures/CHR_Clash_Acce_NormalMap.dds",
+          "srgb": false
+        },
+        "Microsurface Map": {
+          "path": "Textures/CHR_Clash_Acce_SpecularMap.dds",
+          "srgb": true
+        },
+        "Albedo Map": {
+          "path": "Textures/Color_Textures3/CHR_Clash_Gear_DiffuseMap.tga",
+          "srgb": true
+        },
+        "Metalness Map": {
+          "path": "Textures/CHR_Clash_Acce_SpecularMap.dds",
+          "srgb": true
+        },
+        "Specular Level Map": {
+          "path": "Textures/CHR_Clash_Acce_SpecularMap.dds",
+          "srgb": true
+        },
+        "Occlusion Map": {
+          "path": "Textures/CHR_Clash_Acce_SpecularMap.dds",
+          "srgb": true
+        },
+        "RGBA Detail Mask": {
+          "path": "Textures/CHR_Clash_Acce_MaskMap.dds",
+          "srgb": false
+        },
+        "Red Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Leather_NormalDetailMap.dds",
+          "srgb": false
+        },
+        "Green Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Fabric3_NormalDetailMap.dds",
+          "srgb": false
+        },
+        "Blue Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Fabric_NormalDetailMap.dds",
+          "srgb": false
+        }
+      },
+      "source_block": "@Sub SRSurface = SRSurfaceDetailNormalMap\n    Normal Map = @Tex file \"Textures/CHR_Clash_Acce_NormalMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Scale & Bias = 1\n    Flip X = 0\n    Flip Y = 0\n    Flip Z = 0\n    Object Space = 0\n    Detail Normal Map = nil\n    UV Set = 0\n    Scale & Bias;detail = 1\n    Flip X;detail = 0\n    Flip Y;detail = 0\n    Flip Z;detail = 0\n    Detail Tiling = 1\n    Detail Offset = 0\n    Detail Weight Map = nil\n    Channel;detail = 1\n    Detail Weight = 1\n@Sub SRMicrosurface = SRMicrosurfaceAdvancedMap\n    Microsurface Map = @Tex file \"Textures/CHR_Clash_Acce_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel = 0\n    Mode = 0\n    Maximum = 0.638614\n    Minimum = 0.326733\n    Exponent = 0.1\n    Horizon Smoothing = 0\n@Sub SRAlbedo = SRAlbedoMap\n    Albedo Map = @Tex file \"Textures/Color_Textures3/CHR_Clash_Gear_DiffuseMap.tga\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Color = 1 1 1\n@Sub SRDiffusion = SRDiffusionMicrofiber\n    Fuzz Map = nil\n    Fuzz = 0.0170455\n    Fuzz Color = 1 1 1\n    Fuzz Scatter = 1\n    Fuzz Occlusion = 1\n    Mask Fuzz with Gloss = 0\n@Sub SRReflectivity = SRReflectivityMetalnessAdvanced\n    Metalness Map = @Tex file \"Textures/CHR_Clash_Acce_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel = 0\n    Metalness = 1\n    Invert = 0\n    Specular Level Map = @Tex file \"Textures/CHR_Clash_Acce_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;advMtlMask = 1\n    Specular = 0.0530693\n    Invert = 0\n    Specular Curve = 1\n@Sub SRReflection = SRReflectionGGX\n    Horizon Occlusion = 1\n@Sub SRReflection2 = SRReflectionGGX\n    Horizon Occlusion = 1\n    Secondary Gloss = 3.10589e-05\n    Secondary Intensity = 1.16542\n    Secondary Intensity Color = 1 1 1\n    Secondary Fresnel = 0.0568182\n    Secondary Fresnel Color = 1 1 1\n@Sub SROcclusion = SROcclusionMap\n    Occlusion Map = @Tex file \"Textures/CHR_Clash_Acce_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;occlusion = 2\n    Occlusion = 1\n    UV Set = 0\n    Vertex Channel = 0\n    Cavity Map = nil\n    Channel;cavity = 0\n    Diffuse Cavity = 0.732673\n    Specular Cavity = 0.0643564\n@Sub SRExtra = SRCustom\n    ShaderFilePath = \"detail_normal_rgba.frag\"\n    ReloadSeed = 12\n    RGBA Detail Mask = @Tex file \"Textures/CHR_Clash_Acce_MaskMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Enable Red Map = 1\n    Red Detail Normal Map = @Tex file \"Textures/CHR_Clash_Leather_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Red UV Tiling X = 10\n    Red UV Tiling Y = 10\n    Enable Green Map = 1\n    Green Detail Normal Map = @Tex file \"Textures/CHR_Clash_Fabric3_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Green UV Tiling X = 10\n    Green UV Tiling Y = 10\n    Enable Blue Map = 1\n    Blue Detail Normal Map = @Tex file \"Textures/CHR_Clash_Fabric_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Blue UV Tiling X = 10\n    Blue UV Tiling Y = 10\n    Enable Alpha Map = 0\n    Alpha Detail Normal Map = nil\n    Alpha UV Tiling X = 1\n    Alpha UV Tiling Y = 1\n@Sub SRMerge = SRMerge\n    Texture Tiling = 1\n    Tile U = 1\n    Offset U = 0\n    Tile V = 1\n    Offset V = 0\n    Wrap = 1\n    Aniso = 2\n    Filter = 1\nboots (2)",
+      "approximation": "Principled preview; custom detail shader and source response not fully reproduced"
+    },
+    "boots (2)": {
+      "evidence_lines": [
+        666,
+        757
+      ],
+      "maps": {
+        "Normal Map": {
+          "path": "Textures/CHR_Clash_Pouches_NormalMap.dds",
+          "srgb": false
+        },
+        "Microsurface Map": {
+          "path": "Textures/CHR_Clash_Pouches_SpecularMap.dds",
+          "srgb": true
+        },
+        "Albedo Map": {
+          "path": "Textures/Color_Textures3/CHR_Clash_Pouches_DiffuseMap.tga",
+          "srgb": true
+        },
+        "Specular Map": {
+          "path": "Textures/CHR_Clash_Pouches_SpecularMap.dds",
+          "srgb": true
+        },
+        "Occlusion Map": {
+          "path": "Textures/CHR_Clash_Pouches_SpecularMap.dds",
+          "srgb": true
+        },
+        "Cavity Map": {
+          "path": "Textures/Color_Textures3/CHR_Clash_Pouches_DiffuseMap.tga",
+          "srgb": true
+        },
+        "RGBA Detail Mask": {
+          "path": "Textures/CHR_Clash_Pouches_MaskMap.dds",
+          "srgb": true
+        },
+        "Red Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Cloth_NormalDetailMap.dds",
+          "srgb": false
+        },
+        "Green Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Fabric_NormalDetailMap.dds",
+          "srgb": false
+        },
+        "Blue Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Leather2_NormalDetailMap.dds",
+          "srgb": false
+        }
+      },
+      "source_block": "@Sub SRSurface = SRSurfaceDetailNormalMap\n    Normal Map = @Tex file \"Textures/CHR_Clash_Pouches_NormalMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Scale & Bias = 1\n    Flip X = 0\n    Flip Y = 0\n    Flip Z = 0\n    Object Space = 0\n    Detail Normal Map = nil\n    UV Set = 0\n    Scale & Bias;detail = 1\n    Flip X;detail = 0\n    Flip Y;detail = 0\n    Flip Z;detail = 0\n    Detail Tiling = 1\n    Detail Offset = 0\n    Detail Weight Map = nil\n    Channel;detail = 1\n    Detail Weight = 0.762376\n@Sub SRMicrosurface = SRMicrosurfaceAdvancedMap\n    Microsurface Map = @Tex file \"Textures/CHR_Clash_Pouches_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel = 0\n    Mode = 0\n    Maximum = 0.742574\n    Minimum = 0.282178\n    Exponent = 2.03608\n    Horizon Smoothing = 0.269282\n@Sub SRAlbedo = SRAlbedoMap\n    Albedo Map = @Tex file \"Textures/Color_Textures3/CHR_Clash_Pouches_DiffuseMap.tga\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Color = 1 1 1\n@Sub SRDiffusion = SRDiffusionMicrofiber\n    Fuzz Map = nil\n    Fuzz = 0.0681818\n    Fuzz Color = 1 1 1\n    Fuzz Scatter = 1\n    Fuzz Occlusion = 1\n    Mask Fuzz with Gloss = 1\n@Sub SRReflectivity = SRReflectivitySpecularMap\n    Specular Map = @Tex file \"Textures/CHR_Clash_Pouches_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;specular = 1\n    Intensity = 0.390625\n    Color = 1 1 1\n    Fresnel = 0.0412154\n    Fresnel Color = 1 1 1\n    Conserve Energy = 1\n@Sub SRReflection = SRReflectionGGX\n    Horizon Occlusion = 1\n@Sub SRReflection2 = SRReflectionGGX\n    Horizon Occlusion = 1\n    Secondary Gloss = 0.181135\n    Secondary Intensity = 0.322831\n    Secondary Intensity Color = 1 1 1\n    Secondary Fresnel = 0\n    Secondary Fresnel Color = 1 1 1\n@Sub SROcclusion = SROcclusionMap\n    Occlusion Map = @Tex file \"Textures/CHR_Clash_Pouches_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;occlusion = 2\n    Occlusion = 1\n    UV Set = 0\n    Vertex Channel = 0\n    Cavity Map = @Tex file \"Textures/Color_Textures3/CHR_Clash_Pouches_DiffuseMap.tga\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;cavity = 1\n    Diffuse Cavity = -0.5\n    Specular Cavity = 0.173267\n@Sub SRExtra = SRCustom\n    ShaderFilePath = \"detail_normal_rgba.frag\"\n    ReloadSeed = 12\n    RGBA Detail Mask = @Tex file \"Textures/CHR_Clash_Pouches_MaskMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Enable Red Map = 1\n    Red Detail Normal Map = @Tex file \"Textures/CHR_Clash_Cloth_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Red UV Tiling X = 10\n    Red UV Tiling Y = 10\n    Enable Green Map = 1\n    Green Detail Normal Map = @Tex file \"Textures/CHR_Clash_Fabric_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Green UV Tiling X = 10\n    Green UV Tiling Y = 10\n    Enable Blue Map = 1\n    Blue Detail Normal Map = @Tex file \"Textures/CHR_Clash_Leather2_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Blue UV Tiling X = 10\n    Blue UV Tiling Y = 10\n    Enable Alpha Map = 0\n    Alpha Detail Normal Map = nil\n    Alpha UV Tiling X = 1\n    Alpha UV Tiling Y = 1\n@Sub SRMerge = SRMerge\n    Texture Tiling = 1\n    Tile U = 1\n    Offset U = 0\n    Tile V = 1\n    Offset V = 0\n    Wrap = 1\n    Aniso = 2\n    Filter = 1",
+      "approximation": "Principled preview; custom detail shader and source response not fully reproduced"
+    },
+    "eye": {
+      "evidence_lines": [
+        758,
+        827
+      ],
+      "maps": {
+        "Albedo Map": {
+          "path": "Textures/CHR_Clash_Eyes_DiffuseMap.dds",
+          "srgb": true,
+          "substitute": "Textures/CHR_Clash_Eyes_DiffuseMap.tga",
+          "substitution_reason": "DDS absent; supplied TGA used as a preview candidate, requires visual review"
+        }
+      },
+      "source_block": "@Sub SRSurface = SRSurfaceNormalMap\n    Normal Map = nil\n    Scale & Bias = 1\n    Flip X = 0\n    Flip Y = 0\n    Flip Z = 0\n    Object Space = 0\n@Sub SRMicrosurface = SRMicrosurfaceGlossMap\n    Gloss Map = nil\n    Channel = 0\n    Gloss = 0.915842\n    Invert = 0\n@Sub SRAlbedo = SRAlbedoMap\n    Albedo Map = @Tex file \"Textures/CHR_Clash_Eyes_DiffuseMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Color = 0.547194 0.491368 0.482565\n@Sub SRDiffusion = SRDiffusionScatter\n    Scatter Map = nil\n    Scatter Depth (mm) = 81.3693\n    Scatter Color = 0.880075 0.124428 0.124428\n    Translucency Map = nil\n    Translucency = 0\n    Translucency Color = 1 0.0196543 0.00797734\n    Translucency Depth (mm) = 0\n    Translucency Scatter = 0\n    Fuzz Map = nil\n    Fuzz = 0.113636\n    Fuzz Color = 1 1 1\n    Mask Fuzz with Gloss = 1\n@Sub SRReflectivity = SRReflectivitySpecularMap\n    Specular Map = nil\n    Channel;specular = 4\n    Intensity = 0.0235344\n    Color = 0.709402 0.709402 0.709402\n    Fresnel = 0\n    Fresnel Color = 1 1 1\n    Conserve Energy = 1\n@Sub SRReflection = SRReflectionGGX\n    Horizon Occlusion = 2.96794\n@Sub SRReflection2 = SRReflectionGGX\n    Horizon Occlusion = 0.427017\n    Secondary Gloss = 4\n    Secondary Intensity = 4\n    Secondary Intensity Color = 1 1 1\n    Secondary Fresnel = 0.0511364\n    Secondary Fresnel Color = 1 1 1\n@Sub SROcclusion = SROcclusionMap\n    Occlusion Map = nil\n    Channel;occlusion = 0\n    Occlusion = 1\n    UV Set = 0\n    Vertex Channel = 0\n    Cavity Map = nil\n    Channel;cavity = 2\n    Diffuse Cavity = -1\n    Specular Cavity = 0\n@Sub SREmissive = SREmissiveMap\n    Emissive Map = nil\n    Color = 1 1 1\n    Intensity = 0\n    UV Set = 0\n    Glow = 0 0 0\n@Sub SRMerge = SRMerge\n    Texture Tiling = 1\n    Tile U = 1\n    Offset U = 0\n    Tile V = 1\n    Offset V = 0\n    Wrap = 1\n    Aniso = 2\n    Filter = 1",
+      "approximation": "Principled preview; custom detail shader and source response not fully reproduced"
+    },
+    "hair_front (1)": {
+      "evidence_lines": [
+        880,
+        949
+      ],
+      "maps": {
+        "Albedo Map": {
+          "path": "Textures/CHR_Clash_Eyes_DiffuseMap.tga",
+          "srgb": true
+        }
+      },
+      "source_block": "hair_front (1)c\n@Sub SRSurface = SRSurfaceNormalMap\n    Normal Map = nil\n    Scale & Bias = 1\n    Flip X = 0\n    Flip Y = 1\n    Flip Z = 0\n    Object Space = 0\n@Sub SRMicrosurface = SRMicrosurfaceGlossMap\n    Gloss Map = nil\n    Channel = 0\n    Gloss = 0.995049\n    Invert = 0\n@Sub SRAlbedo = SRAlbedoMap\n    Albedo Map = @Tex file \"Textures/CHR_Clash_Eyes_DiffuseMap.tga\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Color = 1 0.954453 0.938921\n@Sub SRDiffusion = SRDiffusionScatter\n    Scatter Map = nil\n    Scatter Depth (mm) = 0\n    Scatter Color = 0.687777 0.238246 0.121992\n    Translucency Map = nil\n    Translucency = 0\n    Translucency Color = 1 0 0\n    Translucency Depth (mm) = 0\n    Translucency Scatter = 0.0841584\n    Fuzz Map = nil\n    Fuzz = 0\n    Fuzz Color = 1 0.881881 0.847443\n    Mask Fuzz with Gloss = 1\n@Sub SRReflectivity = SRReflectivitySpecularMap\n    Specular Map = nil\n    Channel;specular = 0\n    Intensity = 0\n    Color = 1 1 1\n    Fresnel = 0.073922\n    Fresnel Color = 0.516457 0.274158 0.130333\n    Conserve Energy = 1\n@Sub SRReflection = SRReflectionGGX\n    Horizon Occlusion = 1\n@Sub SRReflection2 = SRReflectionGGX\n    Horizon Occlusion = 1\n    Secondary Gloss = 0\n    Secondary Intensity = 0\n    Secondary Intensity Color = 1 1 1\n    Secondary Fresnel = 0\n    Secondary Fresnel Color = 1 1 1\n@Sub SROcclusion = SROcclusionMap\n    Occlusion Map = nil\n    Channel;occlusion = 3\n    Occlusion = 1\n    UV Set = 0\n    Vertex Channel = 0\n    Cavity Map = nil\n    Channel;cavity = 0\n    Diffuse Cavity = -0.5\n    Specular Cavity = 0\n@Sub SRTransparency = SRTransparencyDither\n    Use Albedo Alpha = 1\n    Alpha Map = nil\n    Channel = 3\n    Alpha = 1\n@Sub SRMerge = SRMerge\n    Texture Tiling = 1\n    Tile U = 1\n    Offset U = 0\n    Tile V = 1\n    Offset V = 0\n    Wrap = 1\n    Aniso = 2\n    Filter = 1",
+      "approximation": "Principled preview; custom detail shader and source response not fully reproduced"
+    },
+    "head": {
+      "evidence_lines": [
+        950,
+        1024
+      ],
+      "maps": {
+        "Normal Map": {
+          "path": "Textures/CHR_Clash_Head_NormalMap.dds",
+          "srgb": false
+        },
+        "Detail Normal Map": {
+          "path": "Textures/CHR_Clash_Rubber_NormalDetailMap.dds",
+          "srgb": false
+        },
+        "Gloss Map": {
+          "path": "Textures/CHR_Clash_Head_DiffuseMap.dds",
+          "srgb": true
+        },
+        "Albedo Map": {
+          "path": "Textures/CHR_Clash_Head_DiffuseMap.dds",
+          "srgb": true
+        },
+        "Specular Map": {
+          "path": "Textures/CHR_Clash_Head_SpecularMap.dds",
+          "srgb": true
+        },
+        "Cavity Map": {
+          "path": "Textures/CHR_Clash_Head_DiffuseMap.dds",
+          "srgb": true
+        }
+      },
+      "source_block": "@Sub SRSurface = SRSurfaceDetailNormalMap\n    Normal Map = @Tex file \"Textures/CHR_Clash_Head_NormalMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Scale & Bias = 1\n    Flip X = 0\n    Flip Y = 0\n    Flip Z = 0\n    Object Space = 0\n    Detail Normal Map = @Tex file \"Textures/CHR_Clash_Rubber_NormalDetailMap.dds\" srgb 0 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    UV Set = 0\n    Scale & Bias;detail = 1\n    Flip X;detail = 0\n    Flip Y;detail = 0\n    Flip Z;detail = 0\n    Detail Tiling = 6.2339\n    Detail Offset = 0\n    Detail Weight Map = nil\n    Channel;detail = 0\n    Detail Weight = 3333\n@Sub SRMicrosurface = SRMicrosurfaceGlossMap\n    Gloss Map = @Tex file \"Textures/CHR_Clash_Head_DiffuseMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel = 3\n    Gloss = 0.559406\n    Invert = 0\n@Sub SRAlbedo = SRAlbedoMap\n    Albedo Map = @Tex file \"Textures/CHR_Clash_Head_DiffuseMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Color = 1 0.905023 0.905023\n@Sub SRDiffusion = SRDiffusionScatter\n    Scatter Map = nil\n    Scatter Depth (mm) = 25.0231\n    Scatter Color = 0.938921 0.377067 0.233531\n    Translucency Map = nil\n    Translucency = 0\n    Translucency Color = 1 0.0158903 0.0158903\n    Translucency Depth (mm) = 0\n    Translucency Scatter = 0.00990099\n    Fuzz Map = nil\n    Fuzz = 0.0681818\n    Fuzz Color = 1 1 1\n    Mask Fuzz with Gloss = 1\n@Sub SRReflectivity = SRReflectivitySpecularMap\n    Specular Map = @Tex file \"Textures/CHR_Clash_Head_SpecularMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;specular = 1\n    Intensity = 0.211809\n    Color = 1 1 1\n    Fresnel = 0.467401\n    Fresnel Color = 1 1 1\n    Conserve Energy = 1\n@Sub SRReflection = SRReflectionGGX\n    Horizon Occlusion = 3.96049\n@Sub SRReflection2 = SRReflectionGGX\n    Horizon Occlusion = 1.3882\n    Secondary Gloss = 0.85973\n    Secondary Intensity = 0.0807076\n    Secondary Intensity Color = 1 1 1\n    Secondary Fresnel = 0\n    Secondary Fresnel Color = 1 1 1\n@Sub SROcclusion = SROcclusionMap\n    Occlusion Map = nil\n    Channel;occlusion = 3\n    Occlusion = 1\n    UV Set = 0\n    Vertex Channel = 0\n    Cavity Map = @Tex file \"Textures/CHR_Clash_Head_DiffuseMap.dds\" srgb 1 filter 1 mip 1 aniso 4 wrap 1 visible 1 @EndTex\n    Channel;cavity = 0\n    Diffuse Cavity = -1\n    Specular Cavity = 0\n@Sub SRMerge = SRMerge\n    Texture Tiling = 1\n    Tile U = 1\n    Offset U = 0\n    Tile V = 1\n    Offset V = 0\n    Wrap = 1\n    Aniso = 2\n    Filter = 1",
+      "approximation": "Principled preview; custom detail shader and source response not fully reproduced"
+    }
+  },
+  "unassigned_groups": [],
+  "missing_active_images": []
+}

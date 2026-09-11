@@ -1,0 +1,26 @@
+[
+  {
+    "clip": "braum_idle_01_loop",
+    "frame": 17,
+    "focus": "body",
+    "file": "validation\\previews\\before_refinement\\braum_idle_01_loop_017_body.png"
+  },
+  {
+    "clip": "braum_spell3_idle0",
+    "frame": 17,
+    "focus": "R_Hand",
+    "file": "validation\\previews\\before_refinement\\braum_spell3_idle0_017_R_Hand.png"
+  },
+  {
+    "clip": "braum_idle_01_loop",
+    "frame": 17,
+    "focus": "L_Hand",
+    "file": "validation\\previews\\before_refinement\\braum_idle_01_loop_017_L_Hand.png"
+  },
+  {
+    "clip": "braum_spell4",
+    "frame": 15,
+    "focus": "body",
+    "file": "validation\\previews\\before_refinement\\braum_spell4_015_body.png"
+  }
+]

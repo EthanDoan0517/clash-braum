@@ -1,0 +1,93 @@
+{
+  "samples": [
+    {
+      "label": "upper_center",
+      "x": 0,
+      "z": 2.12,
+      "front_hit": [
+        0.0,
+        -0.08742284774780273,
+        2.119999885559082
+      ],
+      "back_hit": [
+        0.0,
+        -0.08021044731140137,
+        2.119999885559082
+      ],
+      "open": false
+    },
+    {
+      "label": "upper_left",
+      "x": -0.17,
+      "z": 2.13,
+      "front_hit": null,
+      "back_hit": null,
+      "open": true
+    },
+    {
+      "label": "upper_right",
+      "x": 0.17,
+      "z": 2.13,
+      "front_hit": null,
+      "back_hit": null,
+      "open": true
+    },
+    {
+      "label": "view_center",
+      "x": 0,
+      "z": 1.9,
+      "front_hit": null,
+      "back_hit": null,
+      "open": true
+    },
+    {
+      "label": "view_left",
+      "x": -0.25,
+      "z": 1.8,
+      "front_hit": null,
+      "back_hit": null,
+      "open": true
+    },
+    {
+      "label": "view_right",
+      "x": 0.25,
+      "z": 1.8,
+      "front_hit": null,
+      "back_hit": null,
+      "open": true
+    },
+    {
+      "label": "hardware_control",
+      "x": 0,
+      "z": 1.5,
+      "front_hit": [
+        0.0,
+        -0.057358503341674805,
+        1.5
+      ],
+      "back_hit": [
+        0.0,
+        -0.02079606056213379,
+        1.5
+      ],
+      "open": false
+    },
+    {
+      "label": "lower_armor_control",
+      "x": 0,
+      "z": 0.4,
+      "front_hit": [
+        0.0,
+        -0.046408772468566895,
+        0.4000000059604645
+      ],
+      "back_hit": [
+        0.0,
+        -0.025188684463500977,
+        0.4000000059604645
+      ],
+      "open": false
+    }
+  ],
+  "interpretation": "Geometry ray tests identify existing open areas; do not prove shader or runtime behavior"
+}
