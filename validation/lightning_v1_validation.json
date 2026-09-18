@@ -1,0 +1,33 @@
+{
+  "status": "PASS offline; runtime pending",
+  "builds": [
+    {
+      "label": "brightness",
+      "package_sha256": "c1b3d87608d55c295c98c5a990cc7782ae4e76e2c2e9342a20a91a2357af07d5",
+      "payload_count": 6,
+      "backend_roundtrip": true,
+      "exact_wad_paths_and_bytes": true
+    },
+    {
+      "label": "e",
+      "package_sha256": "cb56fb68534ec21092f4dc40e624377daea8ebddeb3750ff1ffff942ea4104b7",
+      "payload_count": 7,
+      "backend_roundtrip": true,
+      "exact_wad_paths_and_bytes": true
+    },
+    {
+      "label": "eq",
+      "package_sha256": "6f185dda0a9ca4c140734c4fbef5540da99c9574f803ef990b4091c394465e50",
+      "payload_count": 7,
+      "backend_roundtrip": true,
+      "exact_wad_paths_and_bytes": true
+    },
+    {
+      "label": "core",
+      "package_sha256": "2a8653b83ae63f704db7e4a398330e84e6d2104aa0e16eb647b4fe3b4bafdae8",
+      "payload_count": 7,
+      "backend_roundtrip": true,
+      "exact_wad_paths_and_bytes": true
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "scene_sha256": "2501fd57112bb324515e56dc33cb986905f0e50813f5aa946c56ad27e24f030a",
+  "status": "UNACCEPTED combined individually passing ties",
+  "candidate_weights": {
+    "combined": {
+      "Object004": {
+        "871": {
+          "R_Hand": 0.9941906929016113,
+          "R_Elbow": 0.005809310358017683
+        }
+      }
+    }
+  }
+}

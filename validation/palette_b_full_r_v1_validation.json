@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "package_sha256": "e3519cb5d1400a58c6020ea6d7db8b5872f675925aed802f39c6ed5576e68fb8",
+  "changed_path": "data/characters/braum/skins/skin0.bin",
+  "path_hash": "eb9d53354a504663",
+  "extracted_sha256": "9c03a5fc0424110941e1853a0d13e9ff7d642de76e0e49ec55d82f3571eb4cb4",
+  "isolated_backend_import": true,
+  "reused": "Parent unchanged payload evidence; builder proves unchanged bytes. No manager launch or installed-state changes.",
+  "runtime": "Awaiting user Palette B/silver and full-lightning R/dark ground/cleanup feedback; E accepted."
+}

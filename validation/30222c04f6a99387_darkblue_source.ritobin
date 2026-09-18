@@ -1,0 +1,55 @@
+#PROP_text
+type: string = "PROP"
+version: u32 = 3
+linked: list[string] = {}
+entries: map[hash,embed] = {
+    "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Joke_Sound" = VfxSystemDefinitionData {
+        ComplexEmitterDefinitionData: list[pointer] = {
+            VfxEmitterDefinitionData {
+                Rate: embed = ValueFloat {
+                    ConstantValue: f32 = 1
+                }
+                ParticleLinger: option[f32] = {
+                    10
+                }
+                EmitterName: string = "empty"
+                ParticleColorTexture: string = "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex"
+                MeshRenderFlags: u8 = 0
+                IsUniformScale: flag = true
+                Texture: string = "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex"
+            }
+        }
+        ParticleName: string = "Braum_Base_Emote_Joke_Sound"
+        ParticlePath: string = "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Joke_Sound"
+        SoundPersistentDefault: string = "Play_sfx_Braum_Joke3D1_buffactivate"
+        Flags: u16 = 132
+        ObjectPath: hash = "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Emote_Joke_Sound"
+    }
+    "Characters/Braum/Skins/Skin0/Particles/Braum_Base_R_Zone_Sound" = VfxSystemDefinitionData {
+        ComplexEmitterDefinitionData: list[pointer] = {
+            VfxEmitterDefinitionData {
+                Rate: embed = ValueFloat {
+                    ConstantValue: f32 = 1
+                }
+                ParticleLinger: option[f32] = {
+                    10
+                }
+                EmitterName: string = "empty"
+                ParticleColorTexture: string = "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex"
+                MeshRenderFlags: u8 = 0
+                IsUniformScale: flag = true
+                Texture: string = "ASSETS/Characters/Braum/Skins/Base/Particles/common_Black.tex"
+            }
+        }
+        ParticleName: string = "Braum_Base_R_Zone_Sound"
+        ParticlePath: string = "Characters/Braum/Skins/Skin0/Particles/Braum_Base_R_Zone_Sound"
+        SoundOnCreateDefault: string = "Play_sfx_Braum_BraumRWrapper_buffactivate"
+        Flags: u16 = 132
+        ObjectPath: hash = "Characters/Braum/Skins/Skin0/Particles/Braum_Base_R_Zone_Sound"
+    }
+    "Characters/Braum/Skins/Skin0/Particles/Braum_Base_W_cas" = VfxSystemDefinitionData {
+        ParticleName: string = "Braum_Base_W_cas"
+        ParticlePath: string = "Characters/Braum/Skins/Skin0/Particles/Braum_Base_W_cas"
+        ObjectPath: hash = "Characters/Braum/Skins/Skin0/Particles/Braum_Base_W_cas"
+    }
+}

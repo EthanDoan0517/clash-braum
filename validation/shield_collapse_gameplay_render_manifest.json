@@ -1,0 +1,41 @@
+{
+  "scene": "clash_braum_shield_collapse_trial.blend",
+  "scene_sha256": "14673e09a2ada1d3559fdebc3879b613bf1f300f25c330344e7b0aaa628afef6",
+  "resolution": 360,
+  "vanilla_reference": false,
+  "isolate_grip": false,
+  "hand_surfaces": false,
+  "only_objects": null,
+  "camera_direction": "3,-7,8",
+  "edge_focus": null,
+  "ortho_scale": 5.0,
+  "candidate_weights": null,
+  "marked_vertices": null,
+  "marker_colors": "red, green, blue, yellow in index order",
+  "renders": [
+    {
+      "clip": "braum_idle_01_loop",
+      "frame": 17,
+      "focus": "body",
+      "file": "validation\\previews\\shield_collapse_gameplay\\braum_idle_01_loop_017_body.png"
+    },
+    {
+      "clip": "braum_spell3_run0",
+      "frame": 14,
+      "focus": "body",
+      "file": "validation\\previews\\shield_collapse_gameplay\\braum_spell3_run0_014_body.png"
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 17,
+      "focus": "body",
+      "file": "validation\\previews\\shield_collapse_gameplay\\braum_spell4_017_body.png"
+    },
+    {
+      "clip": "braum_recall",
+      "frame": 65,
+      "focus": "body",
+      "file": "validation\\previews\\shield_collapse_gameplay\\braum_recall_065_body.png"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "status": "PASS texture/package checks; gameplay pending",
+  "archive": "build\\color_pop_v1\\Braum_Clash_Color_Pop_v1.fantome",
+  "sha256": "bbe5ae6f3ccf59ccb2cb1ec979c1ce47186198b9ce5a39d3ab7730a3d403d001",
+  "parent_sha256": "c316e44b068ac844e36265c86263ef701aeecc3d64b4ab17abb2ebd708607dab",
+  "textures": [
+    {
+      "texture": "body",
+      "source_sha256": "1299cbb15778ecff9822bdb256fd31f81a33abae1554613b63d7be55d2c6440d",
+      "png_sha256": "4d2ff9ac79d900a206822c81def031c2d0cad02f922c87f8b4c095ed09401922",
+      "tex_sha256": "72ae118b4709b24268d43c5efd8af2022d387941c3650c1c2cc901452ddd4d8b",
+      "value_exponent": 0.7,
+      "saturation": 1.45,
+      "active_mean_peak_before": 0.19238209550106344,
+      "active_mean_peak_after": 0.3226710211180057,
+      "encoded_mips": [
+        {
+          "mip": 0,
+          "dimensions": [
+            2048,
+            2048
+          ],
+          "alpha_exact": true
+        },
+        {
+          "mip": 2,
+          "dimensions": [
+            512,
+            512
+          ],
+          "alpha_exact": true
+        },
+        {
+          "mip": 4,
+          "dimensions": [
+            128,
+            128
+          ],
+          "alpha_exact": true
+        }
+      ]
+    },
+    {
+      "texture": "shield_frame",
+      "source_sha256": "da92e99196c2267cfa2762b23f0f64c86e18972c708ae5c92ca41753b272977b",
+      "png_sha256": "ab78ef20566a236abe131dfe9872a547b9ad161177749de853ad9f58898b7d45",
+      "tex_sha256": "a35d21cdae569e7d9b64ece61fe0487a1868d89abbb64b051f40b50f5eec6f5a",
+      "value_exponent": 0.78,
+      "saturation": 1.3,
+      "active_mean_peak_before": 0.2336721990948256,
+      "active_mean_peak_after": 0.33872845124771117,
+      "encoded_mips": [
+        {
+          "mip": 0,
+          "dimensions": [
+            2048,
+            2048
+          ],
+          "alpha_exact": true
+        },
+        {
+          "mip": 2,
+          "dimensions": [
+            512,
+            512
+          ],
+          "alpha_exact": true
+        },
+        {
+          "mip": 4,
+          "dimensions": [
+            128,
+            128
+          ],
+          "alpha_exact": true
+        }
+      ]
+    }
+  ],
+  "changed_members": [
+    "META/info.json",
+    "WAD/Braum.wad.client/assets/characters/braum/skins/base/braum_clash/body.tex",
+    "WAD/Braum.wad.client/assets/characters/braum/skins/base/braum_clash/shield_frame.tex"
+  ],
+  "protected": "All other members byte-identical, including geometry, rig, BIN and VFX.",
+  "reused": "E v2 BIN/backend evidence and v1 geometry evidence: relevant bytes unchanged. No new paths or BIN changes; no repeated backend/geometry checks.",
+  "preview": "build/color_pop_v1/comparison.png"
+}

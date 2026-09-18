@@ -1,0 +1,52 @@
+{
+  "status": "PASS targeted offline; runtime pending; black model defect unresolved",
+  "archive": "build\\e_motion_v3\\Braum_Clash_E_Motion_v3.fantome",
+  "sha256": "9bb6c58c921ab4478b2b78194a5521fb44e8062494fbe5ef0162810ba3a810f3",
+  "parent_sha256": "bbe5ae6f3ccf59ccb2cb1ec979c1ce47186198b9ce5a39d3ab7730a3d403d001",
+  "changes": {
+    "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_E_Shield_cas",
+    "uv_scroll_cycles_per_second": {
+      "Inchant_shield": [
+        0.18,
+        1.35
+      ],
+      "Inchant_shield_2": [
+        -0.14,
+        -1.05
+      ]
+    }
+  },
+  "protected": "Only two BirthUvScrollRate blocks changed. Timing, alpha, scale, attachments, references, other entries and all texture/model bytes unchanged.",
+  "animation": "Continuous opposing UV scrolling of existing single-frame lightning; no flipbook or new assets.",
+  "reused": "Color Pop encoding/alpha/mip checks and accepted geometry evidence: identical bytes.",
+  "payloads": [
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/body.tex",
+      "sha256": "72ae118b4709b24268d43c5efd8af2022d387941c3650c1c2cc901452ddd4d8b"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skl",
+      "sha256": "c961a75b7a7ca6831b59d960d06dcd4f699e491c70e41a6d3cec442d7d2f5cd8"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skn",
+      "sha256": "3bd8e207213bb97599c3aff6617cfe62f36c033c84e96ba4f9d09600eec6625c"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/lightning_trail.tex",
+      "sha256": "75a0a1c613b3eb8f6f20c5b85816dacf911adf9af3ef24218fa7e3f4aa3e0707"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/neutral_gloss.tex",
+      "sha256": "171e0ccaed440a26dc34c29c3f14dd490b9ee4093c98748f25726a22351ed97c"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/shield_frame.tex",
+      "sha256": "a35d21cdae569e7d9b64ece61fe0487a1868d89abbb64b051f40b50f5eec6f5a"
+    },
+    {
+      "path": "data/characters/braum/skins/skin0.bin",
+      "sha256": "a477afd32e552fdfc294a3c02d1099677e69758fa86b607b2f469b20c510b8b4"
+    }
+  ]
+}

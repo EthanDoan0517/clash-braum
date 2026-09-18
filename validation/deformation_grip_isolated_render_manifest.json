@@ -1,0 +1,33 @@
+{
+  "scene": "clash_braum_deformation.blend",
+  "scene_sha256": "aea972123a8d0a8e7703bf063559db0afdcb0fc1e4a99bb37d85196c56007972",
+  "vanilla_reference": false,
+  "isolate_grip": true,
+  "camera_direction": "-3,7,3",
+  "renders": [
+    {
+      "clip": "braum_spell3_idle-180",
+      "frame": 29,
+      "focus": "R_Hand",
+      "file": "validation\\previews\\deformation_grip_isolated\\braum_spell3_idle-180_029_R_Hand.png"
+    },
+    {
+      "clip": "braum_spell3_idle180",
+      "frame": 29,
+      "focus": "R_Hand",
+      "file": "validation\\previews\\deformation_grip_isolated\\braum_spell3_idle180_029_R_Hand.png"
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 15,
+      "focus": "L_Hand",
+      "file": "validation\\previews\\deformation_grip_isolated\\braum_spell4_015_L_Hand.png"
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 26,
+      "focus": "L_Hand",
+      "file": "validation\\previews\\deformation_grip_isolated\\braum_spell4_026_L_Hand.png"
+    }
+  ]
+}

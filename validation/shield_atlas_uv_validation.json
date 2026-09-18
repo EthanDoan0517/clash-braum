@@ -1,0 +1,442 @@
+{
+  "scene": "clash_braum_shield_surface_v2_trial.blend",
+  "scene_sha256": "4583ed6263472cbf35c3e4a8bd009defccb1ee2082d33fe34f2edc77cf760b56",
+  "triangles": 9062,
+  "zero_area_uv_triangles": [],
+  "uv_bounds_finite_unit_square": true,
+  "sum_uv_triangle_area": 0.23074110967019235,
+  "broadphase_pairs_checked": 21104,
+  "interior_overlaps": [
+    {
+      "a": [
+        "CCE_mesh_16",
+        448
+      ],
+      "b": [
+        "CCE_mesh_16",
+        16
+      ],
+      "overlap_area": 1.5780335566040193e-08
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        16
+      ],
+      "b": [
+        "CCE_mesh_16",
+        447
+      ],
+      "overlap_area": 6.088849714702693e-08
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        295
+      ],
+      "b": [
+        "CCE_mesh_16",
+        53
+      ],
+      "overlap_area": 6.474447367121883e-10
+    },
+    {
+      "a": [
+        "CCE_mesh_13.001",
+        1900
+      ],
+      "b": [
+        "CCE_mesh_13.001",
+        1545
+      ],
+      "overlap_area": 5.509986439333758e-09
+    },
+    {
+      "a": [
+        "CCE_mesh_13.001",
+        375
+      ],
+      "b": [
+        "CCE_mesh_13.001",
+        322
+      ],
+      "overlap_area": 2.9242211947444474e-06
+    },
+    {
+      "a": [
+        "CCE_mesh_13.001",
+        376
+      ],
+      "b": [
+        "CCE_mesh_13.001",
+        322
+      ],
+      "overlap_area": 9.368656429531441e-07
+    },
+    {
+      "a": [
+        "CCE_mesh_13.001",
+        378
+      ],
+      "b": [
+        "CCE_mesh_13.001",
+        322
+      ],
+      "overlap_area": 4.6823039454024773e-07
+    },
+    {
+      "a": [
+        "CCE_mesh_13.001",
+        375
+      ],
+      "b": [
+        "CCE_mesh_13.001",
+        323
+      ],
+      "overlap_area": 1.5992152433697004e-06
+    },
+    {
+      "a": [
+        "CCE_mesh_13.001",
+        376
+      ],
+      "b": [
+        "CCE_mesh_13.001",
+        323
+      ],
+      "overlap_area": 2.261987691598577e-06
+    },
+    {
+      "a": [
+        "CCE_mesh_13.001",
+        378
+      ],
+      "b": [
+        "CCE_mesh_13.001",
+        323
+      ],
+      "overlap_area": 2.7299517992573907e-06
+    },
+    {
+      "a": [
+        "CCE_mesh_13.001",
+        322
+      ],
+      "b": [
+        "CCE_mesh_13.001",
+        374
+      ],
+      "overlap_area": 3.197964259543662e-06
+    },
+    {
+      "a": [
+        "CCE_mesh_13.001",
+        322
+      ],
+      "b": [
+        "CCE_mesh_13.001",
+        377
+      ],
+      "overlap_area": 1.9374899695723258e-07
+    },
+    {
+      "a": [
+        "CCE_mesh_13.001",
+        323
+      ],
+      "b": [
+        "CCE_mesh_13.001",
+        377
+      ],
+      "overlap_area": 1.1300811777470443e-06
+    },
+    {
+      "a": [
+        "CCE_mesh_13.001",
+        110
+      ],
+      "b": [
+        "CCE_mesh_13.001",
+        111
+      ],
+      "overlap_area": 6.032586682969132e-07
+    },
+    {
+      "a": [
+        "CCE_mesh_13.001",
+        110
+      ],
+      "b": [
+        "CCE_mesh_13.001",
+        1289
+      ],
+      "overlap_area": 4.1494658509222404e-07
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        347
+      ],
+      "b": [
+        "CCE_mesh_16",
+        528
+      ],
+      "overlap_area": 1.4372059098377576e-11
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        142
+      ],
+      "b": [
+        "CCE_mesh_16",
+        451
+      ],
+      "overlap_area": 1.5063297664763553e-08
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        143
+      ],
+      "b": [
+        "CCE_mesh_16",
+        451
+      ],
+      "overlap_area": 2.2836231516887295e-08
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        144
+      ],
+      "b": [
+        "CCE_mesh_16",
+        451
+      ],
+      "overlap_area": 9.28083332407681e-09
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        142
+      ],
+      "b": [
+        "CCE_mesh_16",
+        452
+      ],
+      "overlap_area": 3.80185239956532e-08
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        143
+      ],
+      "b": [
+        "CCE_mesh_16",
+        452
+      ],
+      "overlap_area": 5.276904557760531e-08
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        451
+      ],
+      "b": [
+        "CCE_mesh_16",
+        145
+      ],
+      "overlap_area": 1.749390365901604e-08
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        396
+      ],
+      "b": [
+        "CCE_mesh_16",
+        379
+      ],
+      "overlap_area": 5.8069826724960194e-11
+    },
+    {
+      "a": [
+        "CCE_mesh_13.001",
+        1330
+      ],
+      "b": [
+        "CCE_mesh_13.001",
+        1246
+      ],
+      "overlap_area": 1.1971448832248655e-10
+    },
+    {
+      "a": [
+        "CCE_mesh_13.001",
+        1335
+      ],
+      "b": [
+        "CCE_mesh_13.001",
+        1246
+      ],
+      "overlap_area": 1.1510041114659586e-08
+    },
+    {
+      "a": [
+        "CCE_mesh_13.001",
+        1329
+      ],
+      "b": [
+        "CCE_mesh_13.001",
+        1246
+      ],
+      "overlap_area": 5.044639359019776e-11
+    },
+    {
+      "a": [
+        "CCE_mesh_13.001",
+        1246
+      ],
+      "b": [
+        "CCE_mesh_13.001",
+        1328
+      ],
+      "overlap_area": 3.602992904028213e-11
+    },
+    {
+      "a": [
+        "CCE_mesh_13.001",
+        1246
+      ],
+      "b": [
+        "CCE_mesh_13.001",
+        1331
+      ],
+      "overlap_area": 3.640470910837301e-11
+    },
+    {
+      "a": [
+        "CCE_mesh_13.001",
+        1246
+      ],
+      "b": [
+        "CCE_mesh_13.001",
+        1332
+      ],
+      "overlap_area": 5.2362759961344096e-11
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        221
+      ],
+      "b": [
+        "CCE_mesh_16",
+        432
+      ],
+      "overlap_area": 3.742408805074149e-08
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        432
+      ],
+      "b": [
+        "CCE_mesh_16",
+        219
+      ],
+      "overlap_area": 1.3016542399491016e-08
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        432
+      ],
+      "b": [
+        "CCE_mesh_16",
+        220
+      ],
+      "overlap_area": 1.8457697426033093e-08
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        219
+      ],
+      "b": [
+        "CCE_mesh_16",
+        433
+      ],
+      "overlap_area": 3.99317339194738e-08
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        220
+      ],
+      "b": [
+        "CCE_mesh_16",
+        433
+      ],
+      "overlap_area": 4.7531380942267276e-08
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        432
+      ],
+      "b": [
+        "CCE_mesh_16",
+        23
+      ],
+      "overlap_area": 1.0475342426818912e-08
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        433
+      ],
+      "b": [
+        "CCE_mesh_16",
+        23
+      ],
+      "overlap_area": 8.755156877260362e-08
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        480
+      ],
+      "b": [
+        "CCE_mesh_16",
+        252
+      ],
+      "overlap_area": 3.284261196334626e-10
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        480
+      ],
+      "b": [
+        "CCE_mesh_16",
+        253
+      ],
+      "overlap_area": 1.6717183193293295e-11
+    },
+    {
+      "a": [
+        "CCE_mesh_16",
+        480
+      ],
+      "b": [
+        "CCE_mesh_16",
+        255
+      ],
+      "overlap_area": 1.3703543855214662e-10
+    }
+  ],
+  "pass": false,
+  "scope": "2D sweep-line bounding boxes followed by polygon clipping across all matching meshes; positive overlap area >1e-11 is reported. Edge contacts do not count. No texture-bleed or mipmap certificate."
+}

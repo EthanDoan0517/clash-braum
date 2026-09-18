@@ -1,0 +1,69 @@
+[
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\scratch\\wwiser-master\\wwiser.py",
+      "-d",
+      "xml",
+      "-dn",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\clash_vo_v1\\validation\\events",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\clash_vo_v1\\validation\\events.bnk"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": "wwiser v20260808 (python 3.12.14)\nparser: parsing C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\clash_vo_v1\\validation\\events.bnk\nparser: done\nnames: loading names\nnames: couldn't find C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\scratch\\wwiser-master\\wwnames.db3 name file\nnames: done\ndumper: writting C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\clash_vo_v1\\validation\\events.xml\ndumper: done\n(done)\n"
+  },
+  {
+    "argv": [
+      "C:/Users/etqdo/Downloads/cslol-go/cslol-tools/mod-tools.exe",
+      "import",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\clash_vo_v1\\Braum_Clash_English_VO_v1.fantome",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\clash_vo_v1\\validation\\imported"
+    ],
+    "returncode": 0,
+    "stdout": "[INF] Creating tmp directory\n[INF] Unzipping mod\n[INF] Optimizing after unzipping\n[INF] Creating tmp directory\n[INF] Indexing mod wads\n[INF] Resolving conflicts\n[INF] Copying META files\n[INF] Writing wads\n[INF] Writing wad: WAD/Braum.wad.client\n[INF] Writing wad: WAD/Braum.en_US.wad.client\n[INF] Removing original directory\n[INF] Moving tmp directory\n[INF] Moving tmp directory\n[INF] Done!\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:/Users/etqdo/Downloads/wadtools-0.5.7-windows-x64/wadtools.exe",
+      "--config",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\config\\wadtools.toml",
+      "--hashtable-dir",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes",
+      "--progress=false",
+      "extract",
+      "-i",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\clash_vo_v1\\validation\\imported\\WAD\\Braum.wad.client",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\clash_vo_v1\\validation\\Braum.wad.client",
+      "--no-bin-paths",
+      "--hash",
+      "6a0cd1a55c7df583"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T06:05:31.246983Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'game': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n\u001b[2m2026-09-17T06:05:31.247021Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'lcu': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n\n\u001b[1m\u001b[96mWAD\u001b[39m\u001b[0m: \u001b[97mC:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\clash_vo_v1\\validation\\imported\\WAD\\Braum.wad.client\u001b[39m\n\u001b[1m\u001b[96mExtracted\u001b[39m\u001b[0m: \u001b[92m1\u001b[39m chunks (\u001b[97m20.32 KB\u001b[39m)\n\u001b[1m\u001b[96mSkipped\u001b[39m\u001b[0m: \u001b[93m0\u001b[39m existing\n\n\u001b[1m\u001b[96mBy type\u001b[39m\u001b[0m:\n  \u001b[95mwwise_bank              \u001b[39m \u001b[97m1\u001b[39m\n",
+    "stderr": "\u001b[2m2026-09-17T06:05:31.247012Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'game': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n\u001b[2m2026-09-17T06:05:31.247025Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'lcu': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n"
+  },
+  {
+    "argv": [
+      "C:/Users/etqdo/Downloads/wadtools-0.5.7-windows-x64/wadtools.exe",
+      "--config",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\config\\wadtools.toml",
+      "--hashtable-dir",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes",
+      "--progress=false",
+      "extract",
+      "-i",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\clash_vo_v1\\validation\\imported\\WAD\\Braum.en_US.wad.client",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\clash_vo_v1\\validation\\Braum.en_US.wad.client",
+      "--no-bin-paths",
+      "--hash",
+      "4826a53ff12ced20"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T06:05:31.280776Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'game': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n\u001b[2m2026-09-17T06:05:31.280830Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'lcu': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n\n\u001b[1m\u001b[96mWAD\u001b[39m\u001b[0m: \u001b[97mC:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\clash_vo_v1\\validation\\imported\\WAD\\Braum.en_US.wad.client\u001b[39m\n\u001b[1m\u001b[96mExtracted\u001b[39m\u001b[0m: \u001b[92m1\u001b[39m chunks (\u001b[97m1.36 MB\u001b[39m)\n\u001b[1m\u001b[96mSkipped\u001b[39m\u001b[0m: \u001b[93m0\u001b[39m existing\n\n\u001b[1m\u001b[96mBy type\u001b[39m\u001b[0m:\n  \u001b[95mwwise_package           \u001b[39m \u001b[97m1\u001b[39m\n",
+    "stderr": "\u001b[2m2026-09-17T06:05:31.280820Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'game': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n\u001b[2m2026-09-17T06:05:31.280834Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'lcu': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n"
+  }
+]

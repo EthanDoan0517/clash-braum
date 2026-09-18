@@ -1,0 +1,13 @@
+{
+  "scene_sha256": "2501fd57112bb324515e56dc33cb986905f0e50813f5aa946c56ad27e24f030a",
+  "candidate_weights": {
+    "control": {
+      "Object004": {
+        "871": {
+          "R_Hand": 0.9455896615982056,
+          "R_Hand_Twist": 0.05441034212708473
+        }
+      }
+    }
+  }
+}

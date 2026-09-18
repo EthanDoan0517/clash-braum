@@ -1,0 +1,29 @@
+{
+  "scene": "clash_braum_torso.blend",
+  "scene_sha256": "2501fd57112bb324515e56dc33cb986905f0e50813f5aa946c56ad27e24f030a",
+  "vanilla_reference": false,
+  "isolate_grip": false,
+  "hand_surfaces": false,
+  "only_objects": [
+    "Object002",
+    "Object007"
+  ],
+  "camera_direction": "3,7,2",
+  "edge_focus": "Object002:143:190",
+  "ortho_scale": 0.4,
+  "candidate_weights": null,
+  "renders": [
+    {
+      "clip": "braum_recall",
+      "frame": 68,
+      "focus": "torso",
+      "file": "validation\\previews\\outline_failure_parent\\braum_recall_068_torso.png"
+    },
+    {
+      "clip": "braum_passive_attack_01",
+      "frame": 24,
+      "focus": "torso",
+      "file": "validation\\previews\\outline_failure_parent\\braum_passive_attack_01_024_torso.png"
+    }
+  ]
+}

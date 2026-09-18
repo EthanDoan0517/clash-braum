@@ -1,0 +1,31 @@
+{
+  "scene": "clash_braum_gameplay_accepted.blend",
+  "scene_sha256": "2501fd57112bb324515e56dc33cb986905f0e50813f5aa946c56ad27e24f030a",
+  "resolution": 720,
+  "vanilla_reference": false,
+  "isolate_grip": false,
+  "hand_surfaces": false,
+  "only_objects": [
+    "CCE_mesh_13.001",
+    "CCE_mesh_14.001",
+    "CCE_mesh_15.001",
+    "CCE_mesh_16",
+    "CCE_mesh_21.001",
+    "CCE_mesh_22.001",
+    "CCE_mesh_23.001"
+  ],
+  "camera_direction": "3,-7,3",
+  "edge_focus": null,
+  "ortho_scale": 1.6,
+  "candidate_weights": null,
+  "marked_vertices": null,
+  "marker_colors": "red, green, blue, yellow in index order",
+  "renders": [
+    {
+      "clip": "braum_idle_01_loop",
+      "frame": 17,
+      "focus": "body",
+      "file": "validation\\previews\\shield_surface_parent_front\\braum_idle_01_loop_017_body.png"
+    }
+  ]
+}

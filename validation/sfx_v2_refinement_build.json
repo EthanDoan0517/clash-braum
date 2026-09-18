@@ -1,0 +1,449 @@
+{
+  "status": "PASS",
+  "archive": "build/sfx_v2_refinement/Braum_Clash_Refinement_SFX_v2.fantome",
+  "sha256": "fba996378d8961d525a7abc3ce43c9fa09d3fb7361fb35b37121cc0efb33c622",
+  "parent": "build/refinement_v2/Braum_Clash_Refinement_v2.fantome",
+  "parent_sha256": "570c9b9c1a2689818b483363aa459f3eb157afa3c68268e0ef311c3d1e1f2e90",
+  "source": "clash electricity sfx.wav",
+  "source_sha256": "d7917b6aba28e4acba256526e063db0f837813bb635d73ece8f892ee77facf05",
+  "source_segment_seconds": [
+    4.6,
+    7.2
+  ],
+  "processing": "Mono; 44.1kHz; 100ms crossfaded periodic electrical segment; native 20ms RMS envelope; -3dB starting gain; peak ceiling 0.78. No claimed beep removal or subjective audition.",
+  "changed_media": [
+    {
+      "id": 21321056,
+      "event": "Play_sfx_Braum_BraumEShieldBuff_OnBuffDeactivate",
+      "seconds": 1.046938775510204,
+      "native_extent_bytes": 9310,
+      "encoded_bytes_before_padding": 9028,
+      "quality": 2,
+      "sha256": "8d51854adf8d68598661395babb8927848e788b6485fe944289a09d0ff16f885",
+      "native_sha256": "469186e64043b5e8e3515bb4ef0466a995966bb3079764672b5f0733f542d3eb",
+      "decoded_rms": 0.07103975899100196,
+      "native_rms": 0.118799797257112,
+      "decoded_peak": 0.768096923828125,
+      "decoded_correlation": 0.9860277127837206
+    },
+    {
+      "id": 77410398,
+      "event": "Play_sfx_Braum_BraumEShieldBuff_OnBuffDeactivate",
+      "seconds": 1.0385260770975058,
+      "native_extent_bytes": 9415,
+      "encoded_bytes_before_padding": 9244,
+      "quality": 4,
+      "sha256": "33c3cd075525fd1d79151538f2172d6d5811e9a465aaf6487b8e83137a738d13",
+      "native_sha256": "d51caf883ea459a8d66cbd959aba2b4d04acf20efc2db86575b6ee5955fee876",
+      "decoded_rms": 0.07883631525399461,
+      "native_rms": 0.129832211038233,
+      "decoded_peak": 0.7572021484375,
+      "decoded_correlation": 0.9844515102908419
+    },
+    {
+      "id": 103689118,
+      "event": "Play_sfx_Braum_BraumQMissile_hit",
+      "seconds": 1.8285714285714285,
+      "native_extent_bytes": 15612,
+      "encoded_bytes_before_padding": 15430,
+      "quality": 2,
+      "sha256": "7ff325a8bfe70d976d1142ca34da8da043fbdd6b2df88252efb2a7f7fa2f707e",
+      "native_sha256": "faade95e12efc9c3b3329cc3c59532d23386f03d690fc5f1e8ee0ba2264fd1be",
+      "decoded_rms": 0.06036723287377748,
+      "native_rms": 0.17654746055143522,
+      "decoded_peak": 0.7801513671875,
+      "decoded_correlation": 0.9837502043590599
+    },
+    {
+      "id": 169392210,
+      "event": "Play_sfx_Braum_BraumEShieldBuff_block_large",
+      "seconds": 1.4038548752834468,
+      "native_extent_bytes": 13161,
+      "encoded_bytes_before_padding": 12370,
+      "quality": 4,
+      "sha256": "59f41b14497422f36695782b21ec6cf780f6f6059fd8dbfd9ef9d69d7d6b9e0c",
+      "native_sha256": "c0a89fa06b7cf53cf51fb0bbc4ab0383c680dfda3a06ec791d7497a606ddd5ee",
+      "decoded_rms": 0.07031211942129668,
+      "native_rms": 0.1559609484055023,
+      "decoded_peak": 0.7557373046875,
+      "decoded_correlation": 0.9845599628317095
+    },
+    {
+      "id": 190232138,
+      "event": "Play_sfx_Braum_BraumQMissile_OnMissileCast",
+      "seconds": 1.4793650793650794,
+      "native_extent_bytes": 12162,
+      "encoded_bytes_before_padding": 9332,
+      "quality": 0,
+      "sha256": "404825306b5618328c4b8f493da1a7d7b3edb68a604df25e87b2049712cb281c",
+      "native_sha256": "ad2acd72e5ae5306ec7be4f69f69308d1fbca5f2158ccb58cb5d0a27079102e8",
+      "decoded_rms": 0.058770470361783594,
+      "native_rms": 0.19792672025191402,
+      "decoded_peak": 0.749359130859375,
+      "decoded_correlation": 0.9686357486958377
+    },
+    {
+      "id": 278315751,
+      "event": "Play_sfx_Braum_BraumEShieldBuff_block_large",
+      "seconds": 1.3741950113378685,
+      "native_extent_bytes": 13305,
+      "encoded_bytes_before_padding": 12608,
+      "quality": 4,
+      "sha256": "68e8b156713d80883b568b14f005f449762e3404066feee6d0ac44905313566b",
+      "native_sha256": "9ede5d6853ceafdef01970255088cc3b4ef4982b1173b0f146588c12b688bfbe",
+      "decoded_rms": 0.08857071569575987,
+      "native_rms": 0.1505388948601503,
+      "decoded_peak": 0.755279541015625,
+      "decoded_correlation": 0.9934556580811488
+    },
+    {
+      "id": 309351640,
+      "event": "Play_sfx_Braum_BraumRWrapper_OnCast",
+      "seconds": 0.7312471655328798,
+      "native_extent_bytes": 6709,
+      "encoded_bytes_before_padding": 6282,
+      "quality": 2,
+      "sha256": "7aaa2522c060ff34f9e75d6f5763a9ff75c7582f0e2793fb7a47c763e3bf1f9a",
+      "native_sha256": "08b783c98fb90849e74cb4d25deeaef9abcc3205b59928054f0b7c042ead08c7",
+      "decoded_rms": 0.06831849026487877,
+      "native_rms": 0.16348338613104252,
+      "decoded_peak": 0.77008056640625,
+      "decoded_correlation": 0.9890520346075722
+    },
+    {
+      "id": 382806313,
+      "event": "Play_sfx_Braum_BraumEShieldBuff_block_small",
+      "seconds": 0.7626303854875284,
+      "native_extent_bytes": 6578,
+      "encoded_bytes_before_padding": 6492,
+      "quality": 2,
+      "sha256": "11c4bb2a9621bb1980f506dba0d9b8370f3e97a0257222687ae8b81d6a2e4a20",
+      "native_sha256": "2ecb4a4a7a6ec78e3876a453fac68c254a7a074105903a075a293eeec593cef1",
+      "decoded_rms": 0.0937948190231169,
+      "native_rms": 0.16585956821098494,
+      "decoded_peak": 0.756927490234375,
+      "decoded_correlation": 0.9826169615278385
+    },
+    {
+      "id": 404894407,
+      "event": "Play_sfx_Braum_BraumEShieldBuff_block_small",
+      "seconds": 0.6009523809523809,
+      "native_extent_bytes": 6255,
+      "encoded_bytes_before_padding": 5932,
+      "quality": 4,
+      "sha256": "f5ff17b69f6cbe7bc5510cbbfd10186000ca45e7caa8084a1e93c142b3a2c90b",
+      "native_sha256": "0d771694208f7dbc815db33ecebb04563d2070abd5e6a007f01cfca66cd01b44",
+      "decoded_rms": 0.10193306739965914,
+      "native_rms": 0.21105030462171062,
+      "decoded_peak": 0.78863525390625,
+      "decoded_correlation": 0.9914929885073438
+    },
+    {
+      "id": 491993041,
+      "event": "Play_sfx_Braum_BraumEShieldBuff_block_large",
+      "seconds": 1.358639455782313,
+      "native_extent_bytes": 12975,
+      "encoded_bytes_before_padding": 12328,
+      "quality": 4,
+      "sha256": "8c79416f491edda93f7144b3d069bc9491b27130cb06db0948a8b2f8bc7c631b",
+      "native_sha256": "eaf02c34331811d77dd4c1e034e0e1641bafe1164810018ef287a3649cdabc09",
+      "decoded_rms": 0.0700738100351448,
+      "native_rms": 0.15143515050673262,
+      "decoded_peak": 0.751953125,
+      "decoded_correlation": 0.9888801831224883
+    },
+    {
+      "id": 509535745,
+      "event": "Play_sfx_Braum_BraumQMissile_OnMissileCast",
+      "seconds": 1.4095238095238096,
+      "native_extent_bytes": 11767,
+      "encoded_bytes_before_padding": 11596,
+      "quality": 2,
+      "sha256": "371bbc49e5c686d3caf87f65af7a591fae0bd71b932b3b30da96ead52172a20f",
+      "native_sha256": "a07475fe0637dc65fd60ba97528d54a8a694cd260a9c930c1dfbdd8b6452fbf5",
+      "decoded_rms": 0.07784847956892184,
+      "native_rms": 0.21179137832279546,
+      "decoded_peak": 0.771087646484375,
+      "decoded_correlation": 0.9851069436743508
+    },
+    {
+      "id": 541689440,
+      "event": "Play_sfx_Braum_BraumEShieldBuff_OnBuffActivate",
+      "seconds": 7.989501133786848,
+      "native_extent_bytes": 82481,
+      "encoded_bytes_before_padding": 75878,
+      "quality": 4,
+      "sha256": "054352764742d391994759500bc6305908b015b19f280815649f2c6d69aa78ea",
+      "native_sha256": "1fb8f308368679261e71aeecd457fd8de0b131701e4e8fecdbc70d9f6db436b0",
+      "decoded_rms": 0.02217655167348518,
+      "native_rms": 0.03233544425082155,
+      "decoded_peak": 0.280242919921875,
+      "decoded_correlation": 0.9909768204442461
+    },
+    {
+      "id": 543374652,
+      "event": "Play_sfx_Braum_BraumEShieldBuff_block_layer",
+      "seconds": 1.9124943310657596,
+      "native_extent_bytes": 16411,
+      "encoded_bytes_before_padding": 16020,
+      "quality": 4,
+      "sha256": "c8c804d334ea3469d167d5c6c8e40000d7ca749080a742cc2825e5844bf72297",
+      "native_sha256": "fd35724d691b569e090751f690f8b626ebb222121362df3f6b19043d98a20872",
+      "decoded_rms": 0.09993055052192858,
+      "native_rms": 0.16974027282522974,
+      "decoded_peak": 0.753387451171875,
+      "decoded_correlation": 0.9917332793308657
+    },
+    {
+      "id": 557873384,
+      "event": "Play_sfx_Braum_BraumEShieldBuff_OnBuffActivate",
+      "seconds": 7.989501133786848,
+      "native_extent_bytes": 80118,
+      "encoded_bytes_before_padding": 76398,
+      "quality": 4,
+      "sha256": "4664e34ece4c26282334317fc09b850a40065078903ae441f91e095f807d096e",
+      "native_sha256": "2fd3d5ef4501fb5db7f21fe58898fd4de35de0630fafbcd2542579f6303ab09e",
+      "decoded_rms": 0.027939719843425366,
+      "native_rms": 0.04034346102393285,
+      "decoded_peak": 0.36871337890625,
+      "decoded_correlation": 0.9900985772075772
+    },
+    {
+      "id": 599708390,
+      "event": "Play_sfx_Braum_BraumEShieldBuff_block_small",
+      "seconds": 0.881609977324263,
+      "native_extent_bytes": 7707,
+      "encoded_bytes_before_padding": 7420,
+      "quality": 2,
+      "sha256": "a3dd9b36e1133b075bf2b609c0b84b3c99c541f0cc9c2cc5527e722a869e03ed",
+      "native_sha256": "b5d4e149f1089ed08df89fda63eb118eabd55998c4c811a2491093fea4f72338",
+      "decoded_rms": 0.0910023784162511,
+      "native_rms": 0.14055736086709833,
+      "decoded_peak": 0.784332275390625,
+      "decoded_correlation": 0.9888796062429404
+    },
+    {
+      "id": 611305689,
+      "event": "Play_sfx_Braum_BraumEShieldBuff_block_small",
+      "seconds": 0.7142857142857143,
+      "native_extent_bytes": 6266,
+      "encoded_bytes_before_padding": 6158,
+      "quality": 2,
+      "sha256": "c3a0654be11e1b75882fc1a81becd80ad4cc09aca37cccae8dbd6985a8326dbc",
+      "native_sha256": "fc95d8304f353052fa22b8c307cd494111ee427fe7c0d1494f3f19d1bffc0990",
+      "decoded_rms": 0.10280750771467613,
+      "native_rms": 0.18375087555862502,
+      "decoded_peak": 0.776580810546875,
+      "decoded_correlation": 0.992204686951433
+    },
+    {
+      "id": 676011000,
+      "event": "Play_sfx_Braum_BraumQMissile_OnMissileCast",
+      "seconds": 1.5879591836734694,
+      "native_extent_bytes": 12821,
+      "encoded_bytes_before_padding": 9940,
+      "quality": 0,
+      "sha256": "c7ae35901e4c4c0ce7f4f317753ce0671600b5c95568d11fb2a69ae3a87f2422",
+      "native_sha256": "8141e35f6c95d4cdc9ce4482d4091828ae134ae58c913aca833dadc6abccb05a",
+      "decoded_rms": 0.0822547650159385,
+      "native_rms": 0.19555608393655458,
+      "decoded_peak": 0.7984619140625,
+      "decoded_correlation": 0.9735143861403668
+    },
+    {
+      "id": 680861900,
+      "event": "Play_sfx_Braum_BraumQMissile_hit",
+      "seconds": 1.7887301587301587,
+      "native_extent_bytes": 14932,
+      "encoded_bytes_before_padding": 14704,
+      "quality": 2,
+      "sha256": "fa3d3af8409d247bd1fdfe1f30fa843dc22e4af30498ae5d5554f39183f122da",
+      "native_sha256": "7f890bd59de66a063e8b63a9b6b8f4ca5d6e0708f0207717355df3fc0db12f54",
+      "decoded_rms": 0.061528975439658136,
+      "native_rms": 0.18653811677152562,
+      "decoded_peak": 0.749786376953125,
+      "decoded_correlation": 0.9873530379116829
+    },
+    {
+      "id": 884714472,
+      "event": "Play_sfx_Braum_BraumEShieldBuff_OnBuffDeactivate",
+      "seconds": 1.0624489795918368,
+      "native_extent_bytes": 10051,
+      "encoded_bytes_before_padding": 9964,
+      "quality": 4,
+      "sha256": "12c3626045eb23ffe1ac277f006f4969efcdf5ed35e0f91ca9c2982398bd97fd",
+      "native_sha256": "b2f6cbb01c2adfdf25300a2a41ee44e17df9a79fc5ed1dd53ba7e951475675ec",
+      "decoded_rms": 0.09802887258745167,
+      "native_rms": 0.14658238762262252,
+      "decoded_peak": 0.66436767578125,
+      "decoded_correlation": 0.9891737487754297
+    },
+    {
+      "id": 1071447244,
+      "event": "Play_sfx_Braum_BraumQMissile_hit",
+      "seconds": 1.8793197278911564,
+      "native_extent_bytes": 17136,
+      "encoded_bytes_before_padding": 15898,
+      "quality": 2,
+      "sha256": "4243aaa0bba79b04632f86f56bc48a6c104a5b4cfd3d9b91f6e02cdbfb848389",
+      "native_sha256": "a5fdf15b0e6d6a5820b5ad0eb2dde0d77f96bf99c451da0ba49609402f352c46",
+      "decoded_rms": 0.05511407409508044,
+      "native_rms": 0.1693482708944953,
+      "decoded_peak": 0.77099609375,
+      "decoded_correlation": 0.9825820454401026
+    }
+  ],
+  "bank_sha256": "5c1883757c284ca3872ab01cbcb1c9e4e64a0ffb21954d2bc751be01c3b2b2b3",
+  "original_bank_sha256": "ff0c24d3e5d98ad4a8d35011d05a773b95e29d131683b9b4aabe2e3599ba67ce",
+  "event_bank_sha256_unchanged": "ac2776d10f1eae9eb71fb812cab8ef654016bce797467e4a4b8866b7307314cd",
+  "bank_path": "assets/sounds/wwise2016/sfx/characters/braum/skins/base/braum_base_sfx_audio.bnk",
+  "bank_version": 145,
+  "native_media_count": 114,
+  "unchanged_media_count": 94,
+  "all_nonmedia_bytes_exact": true,
+  "all_parent_payloads_exact": true,
+  "shared_event_impact": "Each replaced media ID reaches exactly one audited event. Q generic cast shared with basic attacks remains unchanged. Native event/switch/stop/attenuation graph remains untouched.",
+  "tools": [
+    {
+      "name": "wav2wem v0.1",
+      "url": "https://github.com/pas2k/wav2wem/releases/tag/v0.1",
+      "sha256": "5a10738a73d5451ede6a526a7aa0bfe7f42b41faffe78c9b62ec9f223f91d736"
+    },
+    {
+      "name": "vgmstream r2117",
+      "url": "https://github.com/vgmstream/vgmstream/releases/tag/r2117",
+      "sha256": "29df08c557ada8269c92a6abfe3886ad2f65849b0b26ba78a0819b363bbc5b85"
+    }
+  ],
+  "reused_evidence": "All refinement v2 visual payloads exact; repaired SFX v2 bank exact. No new encoding, VFX/texture/geometry regeneration.",
+  "remaining": "Manual Q/E/R playback, volume, beeps and E stop/death behavior; W/general attacks/native VO unchanged; overall VFX acceptance pending.",
+  "repair_parent": "build/sfx_v1/Braum_Clash_Electrical_SFX_v1.fantome",
+  "repair_parent_sha256": "9916e02768574cf4a3b9da56e0eaa90e653360a94e73e80b16f2eb40e6081403",
+  "repair": "uHashCodebook = FNV-1 of compressed setup bytes (excluding packet-size prefix); exact algorithm matches all 114 original media. Only 4 header bytes per replaced WEM changed from v1.",
+  "repairs": [
+    {
+      "id": 21321056,
+      "old_uid": 550434184,
+      "correct_uid": 4235668595,
+      "setup_sha256": "fd1fdbfdd69c333d30b356f88c271de274ae95e2393aa84b8f2deab98941d09e"
+    },
+    {
+      "id": 77410398,
+      "old_uid": 550434184,
+      "correct_uid": 3767826657,
+      "setup_sha256": "6517e2ed6415da36cdb373b2989afd86dd2b6a15deda9274948032c1b8eb2245"
+    },
+    {
+      "id": 103689118,
+      "old_uid": 550434184,
+      "correct_uid": 4235668595,
+      "setup_sha256": "fd1fdbfdd69c333d30b356f88c271de274ae95e2393aa84b8f2deab98941d09e"
+    },
+    {
+      "id": 169392210,
+      "old_uid": 550434184,
+      "correct_uid": 3767826657,
+      "setup_sha256": "6517e2ed6415da36cdb373b2989afd86dd2b6a15deda9274948032c1b8eb2245"
+    },
+    {
+      "id": 190232138,
+      "old_uid": 550434184,
+      "correct_uid": 997642109,
+      "setup_sha256": "9323ada087e6cf6f9a1cd69b4e8e7208ed10da3a4775514ae957e084988a3af3"
+    },
+    {
+      "id": 278315751,
+      "old_uid": 550434184,
+      "correct_uid": 3767826657,
+      "setup_sha256": "6517e2ed6415da36cdb373b2989afd86dd2b6a15deda9274948032c1b8eb2245"
+    },
+    {
+      "id": 309351640,
+      "old_uid": 550434184,
+      "correct_uid": 4235668595,
+      "setup_sha256": "fd1fdbfdd69c333d30b356f88c271de274ae95e2393aa84b8f2deab98941d09e"
+    },
+    {
+      "id": 382806313,
+      "old_uid": 550434184,
+      "correct_uid": 4235668595,
+      "setup_sha256": "fd1fdbfdd69c333d30b356f88c271de274ae95e2393aa84b8f2deab98941d09e"
+    },
+    {
+      "id": 404894407,
+      "old_uid": 550434184,
+      "correct_uid": 3767826657,
+      "setup_sha256": "6517e2ed6415da36cdb373b2989afd86dd2b6a15deda9274948032c1b8eb2245"
+    },
+    {
+      "id": 491993041,
+      "old_uid": 550434184,
+      "correct_uid": 3767826657,
+      "setup_sha256": "6517e2ed6415da36cdb373b2989afd86dd2b6a15deda9274948032c1b8eb2245"
+    },
+    {
+      "id": 509535745,
+      "old_uid": 550434184,
+      "correct_uid": 4235668595,
+      "setup_sha256": "fd1fdbfdd69c333d30b356f88c271de274ae95e2393aa84b8f2deab98941d09e"
+    },
+    {
+      "id": 541689440,
+      "old_uid": 550434184,
+      "correct_uid": 3767826657,
+      "setup_sha256": "6517e2ed6415da36cdb373b2989afd86dd2b6a15deda9274948032c1b8eb2245"
+    },
+    {
+      "id": 543374652,
+      "old_uid": 550434184,
+      "correct_uid": 3767826657,
+      "setup_sha256": "6517e2ed6415da36cdb373b2989afd86dd2b6a15deda9274948032c1b8eb2245"
+    },
+    {
+      "id": 557873384,
+      "old_uid": 550434184,
+      "correct_uid": 3767826657,
+      "setup_sha256": "6517e2ed6415da36cdb373b2989afd86dd2b6a15deda9274948032c1b8eb2245"
+    },
+    {
+      "id": 599708390,
+      "old_uid": 550434184,
+      "correct_uid": 4235668595,
+      "setup_sha256": "fd1fdbfdd69c333d30b356f88c271de274ae95e2393aa84b8f2deab98941d09e"
+    },
+    {
+      "id": 611305689,
+      "old_uid": 550434184,
+      "correct_uid": 4235668595,
+      "setup_sha256": "fd1fdbfdd69c333d30b356f88c271de274ae95e2393aa84b8f2deab98941d09e"
+    },
+    {
+      "id": 676011000,
+      "old_uid": 550434184,
+      "correct_uid": 997642109,
+      "setup_sha256": "9323ada087e6cf6f9a1cd69b4e8e7208ed10da3a4775514ae957e084988a3af3"
+    },
+    {
+      "id": 680861900,
+      "old_uid": 550434184,
+      "correct_uid": 4235668595,
+      "setup_sha256": "fd1fdbfdd69c333d30b356f88c271de274ae95e2393aa84b8f2deab98941d09e"
+    },
+    {
+      "id": 884714472,
+      "old_uid": 550434184,
+      "correct_uid": 3767826657,
+      "setup_sha256": "6517e2ed6415da36cdb373b2989afd86dd2b6a15deda9274948032c1b8eb2245"
+    },
+    {
+      "id": 1071447244,
+      "old_uid": 550434184,
+      "correct_uid": 4235668595,
+      "setup_sha256": "fd1fdbfdd69c333d30b356f88c271de274ae95e2393aa84b8f2deab98941d09e"
+    }
+  ],
+  "reused_decode_evidence": "v1 masters, all compressed packets, sample counts and decoding metadata except setup cache hash byte-identical; reuse existing per-media decode/correlation/peak results. Native engine cache identifier verified separately across entire bank.",
+  "runtime": "Awaiting user test; do not equate vgmstream decoding with engine cache compatibility.",
+  "audio_parent": "build/sfx_v2/Braum_Clash_Electrical_SFX_v2.fantome",
+  "audio_parent_sha256": "57176e4aadc47910226b1ad257691bb0a79ec9c9f9f523272b0947ddba9182ac"
+}

@@ -1,0 +1,43 @@
+{
+  "status": "REJECTED / diagnostic only: No body triangle intersections in 13 E/R samples, but visible open palm/finger separation and conspicuous side support remain. Not a convincing grip.",
+  "input_sha256": "2501fd57112bb324515e56dc33cb986905f0e50813f5aa946c56ad27e24f030a",
+  "new_object": "CCE_auxiliary_grip_trial",
+  "offset": -0.06,
+  "vertices": 72,
+  "faces": 42,
+  "world_run14_center": [
+    0.47044774889945984,
+    -0.5823854207992554,
+    0.9039638042449951
+  ],
+  "world_run14_ends": [
+    [
+      0.4495745301246643,
+      -0.6050478219985962,
+      0.8467298746109009
+    ],
+    [
+      0.49132096767425537,
+      -0.5597230195999146,
+      0.9611977338790894
+    ]
+  ],
+  "world_run14_anchors": [
+    [
+      0.19681213796138763,
+      -0.5570480227470398,
+      0.8331350684165955
+    ],
+    [
+      0.28138551115989685,
+      -0.3664022982120514,
+      0.9339888691902161
+    ]
+  ],
+  "method": "Auxiliary 12-sided grip and two supports attached to physical CCE side rail20. Center offset specified in report toward rail from native palm midpoint; axis Index1-Pinky1. All old geometry and weights unchanged.",
+  "knuckle_center": true,
+  "half_length": 0.065,
+  "normal_offset": true,
+  "advance": 0,
+  "scene_sha256": "af9284dbd22425bfa1d4497e23e1a0b23c3dc7d1ac68202c56706a7102098e41"
+}

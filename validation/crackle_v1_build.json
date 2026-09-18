@@ -1,0 +1,415 @@
+{
+  "status": "PASS affected offline checks; E layer/size correction pending screenshot",
+  "archive": "build\\crackle_v1\\Braum_Clash_White_Core_Crackle_v1.fantome",
+  "sha256": "bc51d5d16093f3d5c46fc75de43a1862fef1480302a3356b229fd081a1a7e44e",
+  "parent_sha256": "04123b8cdd518d310f97c58a851cda1af45ed9f0227e4b124c40409a3298f867",
+  "generated_source_sha256": "ea61c5f8593a493d1fe8893b7ca3f4337159982f5cdd2daf9c837e5c04682726",
+  "changes": [
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_E_Shield_cas",
+      "emitters": [
+        {
+          "emitter": "ini_2",
+          "flipbook": false
+        },
+        {
+          "emitter": "line",
+          "flipbook": true
+        },
+        {
+          "emitter": "ground_sub",
+          "flipbook": false
+        },
+        {
+          "emitter": "Inchant_shield_2",
+          "flipbook": true
+        },
+        {
+          "emitter": "Inchant_flash",
+          "flipbook": true
+        },
+        {
+          "emitter": "Inchant_shield",
+          "flipbook": true
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_E_Block_BA_cas",
+      "emitters": [
+        {
+          "emitter": "ring",
+          "flipbook": false
+        },
+        {
+          "emitter": "flash",
+          "flipbook": true
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_E_Block_BA_cas2",
+      "emitters": [
+        {
+          "emitter": "shield_blink",
+          "flipbook": true
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_E_Block_Spell_cas",
+      "emitters": [
+        {
+          "emitter": "black",
+          "flipbook": false
+        },
+        {
+          "emitter": "splash",
+          "flipbook": true
+        },
+        {
+          "emitter": "ring",
+          "flipbook": false
+        },
+        {
+          "emitter": "hitbubble",
+          "flipbook": false
+        },
+        {
+          "emitter": "flash",
+          "flipbook": true
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_E_Block_Spell_cas2",
+      "emitters": [
+        {
+          "emitter": "shield_blink",
+          "flipbook": true
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_E_Block_Spell_self",
+      "emitters": [
+        {
+          "emitter": "splash",
+          "flipbook": true
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_E_shield_end",
+      "emitters": [
+        {
+          "emitter": "spark2",
+          "flipbook": true
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_E_Shield_first_block_end",
+      "emitters": [
+        {
+          "emitter": "spark2",
+          "flipbook": true
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_Q_mis",
+      "emitters": [
+        {
+          "emitter": "Spark",
+          "flipbook": true
+        },
+        {
+          "emitter": "tail",
+          "flipbook": true
+        },
+        {
+          "emitter": "Trail_2",
+          "flipbook": true
+        },
+        {
+          "emitter": "Trail",
+          "flipbook": true
+        },
+        {
+          "emitter": "Shield_flash",
+          "flipbook": false
+        },
+        {
+          "emitter": "ground_shape",
+          "flipbook": true
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_Q_hit_tar",
+      "emitters": [
+        {
+          "emitter": "swirls",
+          "flipbook": true
+        },
+        {
+          "emitter": "slow_trail",
+          "flipbook": true
+        },
+        {
+          "emitter": "orbit",
+          "flipbook": true
+        },
+        {
+          "emitter": "flash2",
+          "flipbook": true
+        },
+        {
+          "emitter": "flash",
+          "flipbook": false
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_Q_Hit_Monster_tar",
+      "emitters": [
+        {
+          "emitter": "slow_trail",
+          "flipbook": true
+        },
+        {
+          "emitter": "orbit",
+          "flipbook": true
+        },
+        {
+          "emitter": "flash2",
+          "flipbook": true
+        },
+        {
+          "emitter": "spark",
+          "flipbook": true
+        },
+        {
+          "emitter": "flash",
+          "flipbook": false
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_R_mis",
+      "emitters": [
+        {
+          "emitter": "cracks_right",
+          "flipbook": true
+        },
+        {
+          "emitter": "cracks_left",
+          "flipbook": true
+        },
+        {
+          "emitter": "line",
+          "flipbook": true
+        },
+        {
+          "emitter": "Frozen",
+          "flipbook": true
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_R_Small_mis",
+      "emitters": [
+        {
+          "emitter": "cracks_right",
+          "flipbook": true
+        },
+        {
+          "emitter": "cracks_left",
+          "flipbook": true
+        },
+        {
+          "emitter": "line",
+          "flipbook": true
+        },
+        {
+          "emitter": "Frozen",
+          "flipbook": true
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_R_PBAOE_Cas",
+      "emitters": [
+        {
+          "emitter": "line",
+          "flipbook": true
+        },
+        {
+          "emitter": "Frozen",
+          "flipbook": true
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_R_Firstknockup_tar",
+      "emitters": [
+        {
+          "emitter": "Lightning_Flash",
+          "flipbook": true
+        },
+        {
+          "emitter": "Tornado",
+          "flipbook": true
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_W_Dash_Land",
+      "emitters": [
+        {
+          "emitter": "line",
+          "flipbook": true
+        },
+        {
+          "emitter": "Crack_360",
+          "flipbook": true
+        },
+        {
+          "emitter": "Crack_270",
+          "flipbook": true
+        },
+        {
+          "emitter": "Crack_180",
+          "flipbook": true
+        },
+        {
+          "emitter": "Crack_90",
+          "flipbook": true
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_W_Shield_buf",
+      "emitters": [
+        {
+          "emitter": "frost_circle",
+          "flipbook": true
+        },
+        {
+          "emitter": "armor_sparkle",
+          "flipbook": true
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_R_Slow_Freeze_tar",
+      "emitters": [
+        {
+          "emitter": "swirls",
+          "flipbook": true
+        },
+        {
+          "emitter": "slow_trail",
+          "flipbook": true
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_R_Slow_tar",
+      "emitters": [
+        {
+          "emitter": "orbit",
+          "flipbook": true
+        },
+        {
+          "emitter": "flash2",
+          "flipbook": true
+        },
+        {
+          "emitter": "flash",
+          "flipbook": false
+        }
+      ]
+    },
+    {
+      "system": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_R_small_knockup_tar",
+      "emitters": [
+        {
+          "emitter": "Tornado",
+          "flipbook": true
+        }
+      ]
+    }
+  ],
+  "motion": "16 padded frames, 18 fps, random starting frame; no continuous UV scrolling on converted bolts.",
+  "protected": "Alpha envelopes, lifetimes, rates, scale, transforms, gameplay and non-appearance fields exact. No E emitters removed/resized. Model, loading and stack logic retained.",
+  "textures": "Atlas mip0/2/4 transparent frame borders/nonempty cells; passive source/decoded mip0/2 alpha exact.",
+  "reused": "Accepted model/rig/loading evidence, exact unchanged bytes.",
+  "payloads": [
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/body.tex",
+      "sha256": "a7226f34dc8dc1195d17f9507a13f58b77691b8c9c17db996836815270828acd"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skl",
+      "sha256": "c961a75b7a7ca6831b59d960d06dcd4f699e491c70e41a6d3cec442d7d2f5cd8"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skn",
+      "sha256": "3bd8e207213bb97599c3aff6617cfe62f36c033c84e96ba4f9d09600eec6625c"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/crackle_atlas.tex",
+      "sha256": "e5a91a3c03f87e46b58c68824050f22c60d482ad14533e4479e4e62555a8f821"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/lightning_trail.tex",
+      "sha256": "75a0a1c613b3eb8f6f20c5b85816dacf911adf9af3ef24218fa7e3f4aa3e0707"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/neutral_gloss.tex",
+      "sha256": "171e0ccaed440a26dc34c29c3f14dd490b9ee4093c98748f25726a22351ed97c"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/base.tex",
+      "sha256": "a3472fbbb5a3ebd6e02d4bc547dcbbe69f7b0a02b02de9c84ae20d34dfa04425"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/full.tex",
+      "sha256": "9a9d8008dd6daf10657d1c45fd7d942f9a7803e989f62ccaba383c78dfa57454"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/quarter_1.tex",
+      "sha256": "e379e6530379398ea310826cd49d370f81788986bb1037b5c4f45c431673f7e3"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/quarter_2.tex",
+      "sha256": "0288e3adf49bdff7363aeb9da1697f345508876682dffb34cd027abe0d935ef0"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/quarter_3.tex",
+      "sha256": "eee70d263a24e1b5a2e62c70c87181c47c321c0f8a7c85fadacd49855bdd1034"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/quarter_4.tex",
+      "sha256": "89cf03be508231933247e5f32056240387c2e942398e316c0d436e455aae9328"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/warning.tex",
+      "sha256": "50c9fe7671e5cae1164b6520cf1e2f6dcaa770e1677a24020cded210a033caff"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/shield_frame.tex",
+      "sha256": "cd563a9b177e78b2611cca166a9ec516234622c8e0b40bc6d3ea37f4c1077949"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braumloadscreen.tex",
+      "sha256": "8486bbdc2daa3e3ff77eef14317644858113fb112b635da062bce371936c5dca"
+    },
+    {
+      "path": "data/characters/braum/skins/skin0.bin",
+      "sha256": "8044d94e6527ae7cb98e9dc51149b98e66b696d3b9f8d399e2673dd5f8387a6f"
+    }
+  ]
+}

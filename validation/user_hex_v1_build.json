@@ -1,0 +1,139 @@
+{
+  "status": "PASS texture/alpha/mip/package and mapped visual review; gameplay pending",
+  "archive": "build\\user_hex_v1\\Braum_Clash_Custom_Hex_Full_Lightning_R_v1.fantome",
+  "sha256": "f81b7c04644c856997004b2bc9e1a97e231b16a2fa20a92383deb65f650b6601",
+  "parent_sha256": "e3519cb5d1400a58c6020ea6d7db8b5872f675925aed802f39c6ed5576e68fb8",
+  "textures": [
+    {
+      "texture": "body",
+      "source_sha256": "28771e7db8a176ed73d78ec4b295b676823c4b35704fa6f86e98b1d12bd9d7f3",
+      "output_sha256": "e6bfa81d894c9f6bc6acb974b19f1a8ef991db87afc8a1e1a62810c6f43c14bd",
+      "mips": [
+        {
+          "mip": 0,
+          "dimensions": [
+            2048,
+            2048
+          ],
+          "alpha_exact": true
+        },
+        {
+          "mip": 2,
+          "dimensions": [
+            512,
+            512
+          ],
+          "alpha_exact": true
+        },
+        {
+          "mip": 4,
+          "dimensions": [
+            128,
+            128
+          ],
+          "alpha_exact": true
+        }
+      ],
+      "painted_samples": {
+        "hjhjh_16": 0,
+        "hjhjh_2": 47140,
+        "hjhjh_3": 0,
+        "hjhjh_4": 2115,
+        "Object001": 0,
+        "Object002": 128700,
+        "Object004": 97082,
+        "Object005": 0,
+        "Object006": 58011,
+        "Object007": 39034,
+        "Object009": 0
+      }
+    },
+    {
+      "texture": "shield_frame",
+      "source_sha256": "6dc1dc1d05290ddd46ec426cf18b9ff066e6b5b23be23e092dd50c0e0302e2d1",
+      "output_sha256": "cf32f049fa7be5b1f9269c61d3270f672a77e749bfe014db8565534f0c5f6e17",
+      "mips": [
+        {
+          "mip": 0,
+          "dimensions": [
+            2048,
+            2048
+          ],
+          "alpha_exact": true
+        },
+        {
+          "mip": 2,
+          "dimensions": [
+            512,
+            512
+          ],
+          "alpha_exact": true
+        },
+        {
+          "mip": 4,
+          "dimensions": [
+            128,
+            128
+          ],
+          "alpha_exact": true
+        }
+      ],
+      "painted_samples": {
+        "CCE_mesh_13.001": 164358,
+        "CCE_mesh_14.001": 842975,
+        "CCE_mesh_15.001": 46,
+        "CCE_mesh_16": 211,
+        "CCE_mesh_21.001": 1067,
+        "CCE_mesh_22.001": 941,
+        "CCE_mesh_23.001": 343
+      }
+    }
+  ],
+  "changed_members": [
+    "META/info.json",
+    "WAD/Braum.wad.client/assets/characters/braum/skins/base/braum_clash/body.tex",
+    "WAD/Braum.wad.client/assets/characters/braum/skins/base/braum_clash/shield_frame.tex"
+  ],
+  "protected": "All other archive members byte-identical: accepted geometry/rig/exports, E, other VFX, glass, English VO and louder Q/R.",
+  "reused": "palette_b_full_r_v1 package/backend, geometry/rig and audio evidence: byte-identical members and identical path set. No repeated geometry, BIN or backend conversion.",
+  "limitations": "Palette concept adapted to existing geometry. Hair is painted close crop, not raised curls. Texture shading is broad normal-based form/detail, not a new sculpt or full texture rebake.",
+  "inputs": {
+    "CCE_mesh_13.001.npy": "3c6c3c62ab3a13618ba0431b2a85875af754ac94d805f35bc5796a7ea23a9240",
+    "CCE_mesh_14.001.npy": "e689e02564d7f6338a3f6a2ff5750d153bf23fb5e6fd9f44376f8df5d993f3ec",
+    "CCE_mesh_15.001.npy": "b37d6ff7f002bec70d8bf6e9dc919ff4c9337de78ee843e07455dd5dde588e82",
+    "CCE_mesh_16.npy": "77c17cbabf278ec0a5da8284e3a9ea2cefa2a8f6bc86884f44ab0c232042b856",
+    "CCE_mesh_21.001.npy": "febe1b55bb8dd5a60bb6df5e5689ddb0a87fe48da6deaed59111fc70090c5360",
+    "CCE_mesh_22.001.npy": "a25e85e8b87b8053885adfe697b547d1dc70a46907db03a7c32965e213f18c64",
+    "CCE_mesh_23.001.npy": "230e6010b02f879d916603a8525a3f4fce7b2dd76d6e8163c9e1bbef5fcc4ea5",
+    "hjhjh_16.npy": "bdc2727385c93f05a4e5650632408c45708da10e785abf7b3e28c2ac85f655fb",
+    "hjhjh_2.npy": "76a4ac9875dc33956e6796f82a77fd13aa68ad3f146722e5b62167f951ae23d8",
+    "hjhjh_3.npy": "c7ff6bca49bfd8b1ac8791c4711577024215adf8eca1aef2300be1332bcfff3d",
+    "hjhjh_4.npy": "32a1be5bd3b3e3dd43316ec4e7508abfacd96114f4085c5468eb9bac7c5b2441",
+    "Object001.npy": "4f2100892c47c3d6d2f94f20feb2a000c9d954de9fbea357a23b3d2e6e72eb3d",
+    "Object002.npy": "32a74c7c6378d03c42f95af03233e72b7c3bcb4a2a657094dad65385b778f7a6",
+    "Object004.npy": "e17766fa15002b02c8a98b9dc230a8813b361675f6e131a8a285ae87b5210ff1",
+    "Object005.npy": "cb487087e8715fa0ddb2dc347d6e68aa190a725351550beddc5c3b10365c6cf8",
+    "Object006.npy": "1befb7a5c009145aa0f9f059db3af84882de308ef1d081d413213d9a4233916b",
+    "Object007.npy": "6af5ded24e6488ea8520982b367759a8e4a22cdcf0620a31e6d810b925ea5ef0",
+    "Object009.npy": "49b874139d4d1ec9825e7cc1b9d6bf60fa732fb45625b6702fbad8a60ce2d727"
+  },
+  "palette": {
+    "vest": "#4D6189",
+    "sleeves_and_inside_shirt": "#9E88AA",
+    "trousers": "parent B exact at checked mapped mip pixels",
+    "straps_pouches": "#191C2A",
+    "metal_shield_gadgets": "#252627",
+    "inner_collar": "#53403A",
+    "hair": "#252528"
+  },
+  "trousers": "Original BC3 RGB blocks retained wherever trouser UVs occur at all mips; decoded mapped pixels exact at mip0/2/4.",
+  "visual_review": [
+    "build/user_hex_v1/front.png",
+    "build/user_hex_v1/back.png",
+    "build/user_hex_v1/game_angle.png"
+  ],
+  "guide_sources": {
+    "build\\palette_b_silver_v1\\body_parent.png": "d7ba3702467782d25424a3b04b889e03af996ccd979259d3929170d611cc99ef",
+    "build\\palette_b_silver_v1\\shield_frame_parent.png": "a766770eae409bdd1efdece8ea5d47f8b5481fb48e58fd94151a2b69c21b6b72"
+  }
+}

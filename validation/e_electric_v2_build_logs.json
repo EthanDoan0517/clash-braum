@@ -1,0 +1,61 @@
+[
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\core\\skin0.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\e_electric_v2\\parent.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\e_electric_v2\\skin0.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\e_electric_v2\\package\\WAD\\Braum.wad.client\\data\\characters\\braum\\skins\\skin0.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "bin",
+      "-o",
+      "text",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\e_electric_v2\\package\\WAD\\Braum.wad.client\\data\\characters\\braum\\skins\\skin0.bin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\e_electric_v2\\verified.ritobin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\e_electric_v2\\verified.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\e_electric_v2\\verified.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  }
+]

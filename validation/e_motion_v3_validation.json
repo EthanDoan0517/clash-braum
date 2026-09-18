@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "package_sha256": "9bb6c58c921ab4478b2b78194a5521fb44e8062494fbe5ef0162810ba3a810f3",
+  "changed_path": "data/characters/braum/skins/skin0.bin",
+  "path_hash": "eb9d53354a504663",
+  "extracted_sha256": "a477afd32e552fdfc294a3c02d1099677e69758fa86b607b2f469b20c510b8b4",
+  "isolated_backend_import": true,
+  "reused": "Parent unchanged payload evidence; builder proves unchanged bytes. No manager launch or installed-state changes.",
+  "runtime": "Awaiting user E gameplay feedback"
+}

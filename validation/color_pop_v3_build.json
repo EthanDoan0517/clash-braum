@@ -1,0 +1,75 @@
+{
+  "status": "PASS targeted offline; gameplay pending",
+  "archive": "build\\color_pop_v3\\Braum_Clash_Color_Pop_v3_Clean_Shield.fantome",
+  "sha256": "0d3c8e039d6d6383b669e38526b5b71940e26dbe9e86850bc2e1a3cc573d52d0",
+  "parent_sha256": "bddbf8ca5b05ffae78f45361307aeab71c88d73fdf70ef07de7b7c658adb4748",
+  "removed_emitters": [
+    "Inchant_shield_2",
+    "Inchant_shield"
+  ],
+  "texture_checks": [
+    {
+      "texture": "body",
+      "mip": 0,
+      "alpha_exact": true
+    },
+    {
+      "texture": "body",
+      "mip": 2,
+      "alpha_exact": true
+    },
+    {
+      "texture": "body",
+      "mip": 4,
+      "alpha_exact": true
+    },
+    {
+      "texture": "shield_frame",
+      "mip": 0,
+      "alpha_exact": true
+    },
+    {
+      "texture": "shield_frame",
+      "mip": 2,
+      "alpha_exact": true
+    },
+    {
+      "texture": "shield_frame",
+      "mip": 4,
+      "alpha_exact": true
+    }
+  ],
+  "colors": "Additive chroma .25; body midtone gain .32, shield .25. Source RGB channels never decrease; alpha exact.",
+  "protected": "All other entries/emitters and payloads exact. Accepted geometry/rig, Q/W/R, audio and remaining E timings unchanged.",
+  "reused": "Unchanged geometry/rig evidence; new texture checks and changed-BIN package check only.",
+  "payloads": [
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/body.tex",
+      "sha256": "a7226f34dc8dc1195d17f9507a13f58b77691b8c9c17db996836815270828acd"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skl",
+      "sha256": "c961a75b7a7ca6831b59d960d06dcd4f699e491c70e41a6d3cec442d7d2f5cd8"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skn",
+      "sha256": "3bd8e207213bb97599c3aff6617cfe62f36c033c84e96ba4f9d09600eec6625c"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/lightning_trail.tex",
+      "sha256": "75a0a1c613b3eb8f6f20c5b85816dacf911adf9af3ef24218fa7e3f4aa3e0707"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/neutral_gloss.tex",
+      "sha256": "171e0ccaed440a26dc34c29c3f14dd490b9ee4093c98748f25726a22351ed97c"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/shield_frame.tex",
+      "sha256": "cd563a9b177e78b2611cca166a9ec516234622c8e0b40bc6d3ea37f4c1077949"
+    },
+    {
+      "path": "data/characters/braum/skins/skin0.bin",
+      "sha256": "7984aabe5de6afa1c43e6c1be8d9565308dec603f7859372e1ab34fcfa5478b9"
+    }
+  ]
+}

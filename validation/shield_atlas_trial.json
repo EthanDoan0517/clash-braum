@@ -1,0 +1,209 @@
+{
+  "scene": "clash_braum_shield_atlas_trial.blend",
+  "scene_sha256": "1a17cf0bf7179d7391d5aad10c2020e9fa94c9de4a4c35b69b9f1752f576ffe9",
+  "parent_sha256": "4583ed6263472cbf35c3e4a8bd009defccb1ee2082d33fe34f2edc77cf760b56",
+  "uv_only_change": true,
+  "geometry_weights_topology_corner_normals_material_indices_transforms_exact": true,
+  "mesh_contracts": {
+    "Vanilla_Reference": "24930f0dc0d241eedd7d1d68189a19dda0fa63d81be3977ca2fc0eea94a93270",
+    "Object009": "22e69edc811c3db942da224e33019a8ba0ff3fe3eec46dc8b2e83fe133091626",
+    "Object007": "8f9282868e2111a68f19fcf2d74c67f76a45f102e35a1f9791fcf0b26b1e145d",
+    "Object006": "0a73f8d04ef73858d64588309d34d9df39c91922ce6f1d9d33ba432f2fdc7a7f",
+    "Object005": "d32a520a29d63d8a2c073c0e23bfc756d627f36a21cb692fd3feb509c86645fc",
+    "Object004": "1d9d5092c07f3c61fa7d78bde228cfa66a4ac9eb681862c0ebdef41d17af8f6c",
+    "Object002": "7f19043a36f601363904cbebeb2118f1189c43f0e7ec44751c48f18a8c9e81da",
+    "Object001": "0311d88d7be0cdc9286d10e5489f4e54fa66e476357c8211528d7d50c6eaeffa",
+    "hjhjh_4": "bc4bd5dc3261411099526101521cb5b6c217d712645b25d398817c8024518e16",
+    "hjhjh_3": "f63a65151c9dbc34d48e65869f2fb09deea1706d29366937fd2ee7270252c3cd",
+    "hjhjh_2": "d18e355b85649fb95fd2491a10a0e899aac03f368f08133ab03869b8e4fddf1c",
+    "hjhjh_16": "1caa2da3e5e5a419ebd4ebce4e786cf9808971f725efa88d9517222e22ae46dd",
+    "Poro": "d814ce39bbec2189ace90427f38e541f681393781987fe9ac0e7abc8abb29892",
+    "CCE_mesh_23.001": "ba2b38c7da5974f6a95d77ee166cad51f888e29d5fc054dc79a9621e2526e81a",
+    "CCE_mesh_22.001": "5af79ff8b7bea2f69433302b50599238d38aa86acd90014f7ace9382e2c247ef",
+    "CCE_mesh_21.001": "fd65ea77b99560500b524638639132ca9e8768ea50c4d0127d9a275523c9076c",
+    "CCE_mesh_16": "1ad76e375ffcea89ecd5a805c9bc286abaf66dff672eb697313fae8249ad2339",
+    "CCE_mesh_15.001": "13291fab6df0e09b416b74e700b3b569f434425b2a0b1914075f64402e40fa1e",
+    "CCE_mesh_14.001": "4e16ece640dab49c6f0238715ae9f502ab9246c3520095d15d80abda1ddfb6b0",
+    "CCE_mesh_13.001": "aa45d5b1caa56389f5b62dc13b866c674f8ecad30f3a23edff877a338198bbb1"
+  },
+  "isolated_triangles": [
+    [
+      "CCE_mesh_13.001",
+      110
+    ],
+    [
+      "CCE_mesh_13.001",
+      111
+    ],
+    [
+      "CCE_mesh_13.001",
+      322
+    ],
+    [
+      "CCE_mesh_13.001",
+      323
+    ],
+    [
+      "CCE_mesh_13.001",
+      374
+    ],
+    [
+      "CCE_mesh_13.001",
+      375
+    ],
+    [
+      "CCE_mesh_13.001",
+      376
+    ],
+    [
+      "CCE_mesh_13.001",
+      377
+    ],
+    [
+      "CCE_mesh_13.001",
+      378
+    ],
+    [
+      "CCE_mesh_13.001",
+      1246
+    ],
+    [
+      "CCE_mesh_13.001",
+      1289
+    ],
+    [
+      "CCE_mesh_13.001",
+      1328
+    ],
+    [
+      "CCE_mesh_13.001",
+      1329
+    ],
+    [
+      "CCE_mesh_13.001",
+      1330
+    ],
+    [
+      "CCE_mesh_13.001",
+      1331
+    ],
+    [
+      "CCE_mesh_13.001",
+      1332
+    ],
+    [
+      "CCE_mesh_13.001",
+      1335
+    ],
+    [
+      "CCE_mesh_13.001",
+      1545
+    ],
+    [
+      "CCE_mesh_13.001",
+      1900
+    ],
+    [
+      "CCE_mesh_16",
+      16
+    ],
+    [
+      "CCE_mesh_16",
+      23
+    ],
+    [
+      "CCE_mesh_16",
+      53
+    ],
+    [
+      "CCE_mesh_16",
+      142
+    ],
+    [
+      "CCE_mesh_16",
+      143
+    ],
+    [
+      "CCE_mesh_16",
+      144
+    ],
+    [
+      "CCE_mesh_16",
+      145
+    ],
+    [
+      "CCE_mesh_16",
+      219
+    ],
+    [
+      "CCE_mesh_16",
+      220
+    ],
+    [
+      "CCE_mesh_16",
+      221
+    ],
+    [
+      "CCE_mesh_16",
+      252
+    ],
+    [
+      "CCE_mesh_16",
+      253
+    ],
+    [
+      "CCE_mesh_16",
+      255
+    ],
+    [
+      "CCE_mesh_16",
+      295
+    ],
+    [
+      "CCE_mesh_16",
+      347
+    ],
+    [
+      "CCE_mesh_16",
+      379
+    ],
+    [
+      "CCE_mesh_16",
+      396
+    ],
+    [
+      "CCE_mesh_16",
+      432
+    ],
+    [
+      "CCE_mesh_16",
+      433
+    ],
+    [
+      "CCE_mesh_16",
+      447
+    ],
+    [
+      "CCE_mesh_16",
+      448
+    ],
+    [
+      "CCE_mesh_16",
+      451
+    ],
+    [
+      "CCE_mesh_16",
+      452
+    ],
+    [
+      "CCE_mesh_16",
+      480
+    ],
+    [
+      "CCE_mesh_16",
+      528
+    ]
+  ],
+  "full_animation_evidence": "shield_surface_v2_full_validation.json",
+  "status": "UV-only trial; requires fresh UV check and export. Geometry full-animation evidence reusable through exact contracts."
+}

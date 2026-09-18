@@ -1,0 +1,209 @@
+{
+  "status": "PASS targeted build; gameplay pending",
+  "archive": "build\\refinement_v2\\Braum_Clash_Refinement_v2.fantome",
+  "sha256": "570c9b9c1a2689818b483363aa459f3eb157afa3c68268e0ef311c3d1e1f2e90",
+  "parent_sha256": "94b1270c8e3dd297b1d5d2f00c2a0cfabb3d19e9c72d39a2c2f7f20cc832b939",
+  "textures": [
+    {
+      "key": "w_outline",
+      "sha256": "6ac3a0be1cf18f36e971ccce4eee66f0e5b6ea5d6aadc1ae76b9f341de089864",
+      "mips": [
+        0,
+        2
+      ],
+      "alpha_exact": false
+    },
+    {
+      "key": "passive_full",
+      "sha256": "8a783631c2e94693738ebd63e5234ae9f6b5bec7b2ad89971748ef850f1e3b1d",
+      "mips": [
+        0,
+        2
+      ],
+      "alpha_exact": false
+    },
+    {
+      "key": "passive_base",
+      "sha256": "a132ceec4dce6394901bef6c6871b7ab4806db0dac435c14ecc124232bbb4d26",
+      "mips": [
+        0,
+        2
+      ],
+      "alpha_exact": false
+    },
+    {
+      "key": "passive_quarter_1",
+      "sha256": "1753d65f27c774c3c9c2f3a330101d487f08f1eb8bb2e5c861898970e60a1aba",
+      "mips": [
+        0,
+        2
+      ],
+      "alpha_exact": false
+    },
+    {
+      "key": "passive_quarter_2",
+      "sha256": "d453830aef0cdf49dc3348fc444512694ea64507f2ec04303db3b962e16a697e",
+      "mips": [
+        0,
+        2
+      ],
+      "alpha_exact": false
+    },
+    {
+      "key": "passive_quarter_3",
+      "sha256": "5dd0294098d7d3fef3d0fa2fa255b60965fe1913daf72e08ad990136faefb517",
+      "mips": [
+        0,
+        2
+      ],
+      "alpha_exact": false
+    },
+    {
+      "key": "passive_quarter_4",
+      "sha256": "7404d5dc94321bd98c745ed192e721c9e58e92fcb79b42ac21a913349e5fb893",
+      "mips": [
+        0,
+        2
+      ],
+      "alpha_exact": false
+    },
+    {
+      "key": "passive_warning",
+      "sha256": "27f60a5954fc7d2e9e391a90b74f9f0dde0196fc7cbcc41f554ed245bde1405b",
+      "mips": [
+        0,
+        2
+      ],
+      "alpha_exact": false
+    },
+    {
+      "key": "body",
+      "sha256": "03d874b210a3edb262510bf25b1600b0fa705c7e210d2e7a2e45b221bc7203eb",
+      "mips": [
+        0,
+        2,
+        4
+      ],
+      "alpha_exact": true
+    },
+    {
+      "key": "loading",
+      "sha256": "557c959491c7748c0333fafd51413284055bc69bd88ec9ed61d32dd51ac60046",
+      "mips": [
+        0,
+        2
+      ],
+      "alpha_exact": false
+    }
+  ],
+  "equipment_masks": [
+    {
+      "group": "Object007",
+      "pixels": 227697,
+      "target": [
+        0.34,
+        0.47,
+        0.59
+      ]
+    },
+    {
+      "group": "hjhjh_2",
+      "pixels": 113484,
+      "target": [
+        0.38,
+        0.41,
+        0.34
+      ]
+    },
+    {
+      "group": "Object006",
+      "pixels": 271715,
+      "target": [
+        0.3,
+        0.35,
+        0.41
+      ]
+    }
+  ],
+  "changes": [
+    "W 125->80 scale, alpha-texture outline .35 with holes transparent",
+    "Passive light blue/dark blue, outside and quadrant gaps transparent",
+    "Q core/shell 2.5x scale",
+    "E white core vs deeper blue second surface",
+    "R line 60 vs original 80, ground/side bolts restored over exact dark floor",
+    "Clash portrait cropped 40px higher",
+    "Tools/pouches/straps recolored through object UV masks; trousers protected"
+  ],
+  "protected": "Other entries, model/rig, spell timings/attachments, dark R floor and source body alpha unchanged.",
+  "reused": "Unchanged geometry/rig and crackle atlas evidence.",
+  "payloads": [
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/body.tex",
+      "sha256": "03d874b210a3edb262510bf25b1600b0fa705c7e210d2e7a2e45b221bc7203eb"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skl",
+      "sha256": "c961a75b7a7ca6831b59d960d06dcd4f699e491c70e41a6d3cec442d7d2f5cd8"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skn",
+      "sha256": "3bd8e207213bb97599c3aff6617cfe62f36c033c84e96ba4f9d09600eec6625c"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/crackle_atlas.tex",
+      "sha256": "e5a91a3c03f87e46b58c68824050f22c60d482ad14533e4479e4e62555a8f821"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/lightning_trail.tex",
+      "sha256": "75a0a1c613b3eb8f6f20c5b85816dacf911adf9af3ef24218fa7e3f4aa3e0707"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/neutral_gloss.tex",
+      "sha256": "171e0ccaed440a26dc34c29c3f14dd490b9ee4093c98748f25726a22351ed97c"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/base.tex",
+      "sha256": "a132ceec4dce6394901bef6c6871b7ab4806db0dac435c14ecc124232bbb4d26"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/full.tex",
+      "sha256": "8a783631c2e94693738ebd63e5234ae9f6b5bec7b2ad89971748ef850f1e3b1d"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/quarter_1.tex",
+      "sha256": "1753d65f27c774c3c9c2f3a330101d487f08f1eb8bb2e5c861898970e60a1aba"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/quarter_2.tex",
+      "sha256": "d453830aef0cdf49dc3348fc444512694ea64507f2ec04303db3b962e16a697e"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/quarter_3.tex",
+      "sha256": "5dd0294098d7d3fef3d0fa2fa255b60965fe1913daf72e08ad990136faefb517"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/quarter_4.tex",
+      "sha256": "7404d5dc94321bd98c745ed192e721c9e58e92fcb79b42ac21a913349e5fb893"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/warning.tex",
+      "sha256": "27f60a5954fc7d2e9e391a90b74f9f0dde0196fc7cbcc41f554ed245bde1405b"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/shield_frame.tex",
+      "sha256": "cd563a9b177e78b2611cca166a9ec516234622c8e0b40bc6d3ea37f4c1077949"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/w_outline.tex",
+      "sha256": "6ac3a0be1cf18f36e971ccce4eee66f0e5b6ea5d6aadc1ae76b9f341de089864"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braumloadscreen.tex",
+      "sha256": "557c959491c7748c0333fafd51413284055bc69bd88ec9ed61d32dd51ac60046"
+    },
+    {
+      "path": "data/characters/braum/skins/skin0.bin",
+      "sha256": "dc616f51202e367aa816ee8a9ac8f7781118d332ae9e3190a070df40512fe346"
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "source": "clash electricity sfx.wav",
+  "sha256": "d7917b6aba28e4acba256526e063db0f837813bb635d73ece8f892ee77facf05",
+  "seconds": 12.939979166666667,
+  "sample_rate": 48000,
+  "channels": 2,
+  "peak": 0.138458251953125,
+  "seconds_analysis": [
+    {
+      "second": 0,
+      "rms": 0.0,
+      "peaks_hz": [
+        24000.0,
+        23988.3,
+        23976.6,
+        23964.8,
+        23953.1,
+        23941.4,
+        23929.7,
+        23918.0
+      ]
+    },
+    {
+      "second": 1,
+      "rms": 0.0020802119009448467,
+      "peaks_hz": [
+        1101.6,
+        1769.5,
+        1781.2,
+        1089.8,
+        1066.4,
+        2578.1,
+        2589.8,
+        2566.4
+      ]
+    },
+    {
+      "second": 2,
+      "rms": 0.007192926128038931,
+      "peaks_hz": [
+        152.3,
+        164.1,
+        140.6,
+        128.9,
+        58.6,
+        117.2,
+        105.5,
+        175.8
+      ]
+    },
+    {
+      "second": 3,
+      "rms": 0.011056488015614135,
+      "peaks_hz": [
+        105.5,
+        82.0,
+        117.2,
+        128.9,
+        140.6,
+        93.8,
+        152.3,
+        70.3
+      ]
+    },
+    {
+      "second": 4,
+      "rms": 0.013866106630482138,
+      "peaks_hz": [
+        164.1,
+        46.9,
+        82.0,
+        35.2,
+        175.8,
+        152.3,
+        70.3,
+        93.8
+      ]
+    },
+    {
+      "second": 5,
+      "rms": 0.0112860806451225,
+      "peaks_hz": [
+        164.1,
+        175.8,
+        82.0,
+        246.1,
+        93.8,
+        152.3,
+        234.4,
+        328.1
+      ]
+    },
+    {
+      "second": 6,
+      "rms": 0.011560867668173424,
+      "peaks_hz": [
+        164.1,
+        175.8,
+        82.0,
+        246.1,
+        93.8,
+        152.3,
+        234.4,
+        70.3
+      ]
+    },
+    {
+      "second": 7,
+      "rms": 0.01101276925311826,
+      "peaks_hz": [
+        164.1,
+        175.8,
+        246.1,
+        152.3,
+        82.0,
+        234.4,
+        93.8,
+        328.1
+      ]
+    },
+    {
+      "second": 8,
+      "rms": 0.014996418177243944,
+      "peaks_hz": [
+        164.1,
+        46.9,
+        82.0,
+        35.2,
+        175.8,
+        152.3,
+        246.1,
+        93.8
+      ]
+    },
+    {
+      "second": 9,
+      "rms": 0.010355596827403347,
+      "peaks_hz": [
+        164.1,
+        82.0,
+        175.8,
+        93.8,
+        246.1,
+        152.3,
+        23.4,
+        70.3
+      ]
+    },
+    {
+      "second": 10,
+      "rms": 0.0011068769785643182,
+      "peaks_hz": [
+        35.2,
+        46.9,
+        152.3,
+        164.1,
+        105.5,
+        175.8,
+        117.2,
+        140.6
+      ]
+    },
+    {
+      "second": 11,
+      "rms": 0.0001639929584539768,
+      "peaks_hz": [
+        117.2,
+        105.5,
+        93.8,
+        128.9,
+        82.0,
+        70.3,
+        58.6,
+        140.6
+      ]
+    }
+  ],
+  "native_media": [
+    {
+      "id": 21321056,
+      "seconds": 1.046938775510204,
+      "rms": 0.118799797257112,
+      "peak": 0.931365966796875,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\21321056.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 46170 (0:01.047 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 69 kbps\nsample type: float\nplay duration: 46170 samples (0:01.047 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumEShieldBuff_OnBuffDeactivate"
+      ]
+    },
+    {
+      "id": 77410398,
+      "seconds": 1.0385260770975058,
+      "rms": 0.129832211038233,
+      "peak": 0.881072998046875,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\77410398.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 45799 (0:01.039 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 70 kbps\nsample type: float\nplay duration: 45799 samples (0:01.039 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumEShieldBuff_OnBuffDeactivate"
+      ]
+    },
+    {
+      "id": 103689118,
+      "seconds": 1.8285714285714285,
+      "rms": 0.17654746055143522,
+      "peak": 1.0,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\103689118.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 80640 (0:01.829 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 67 kbps\nsample type: float\nplay duration: 80640 samples (0:01.829 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumQMissile_hit"
+      ]
+    },
+    {
+      "id": 169392210,
+      "seconds": 1.4038548752834468,
+      "rms": 0.1559609484055023,
+      "peak": 1.0,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\169392210.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 61910 (0:01.404 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 73 kbps\nsample type: float\nplay duration: 61910 samples (0:01.404 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumEShieldBuff_block_large"
+      ]
+    },
+    {
+      "id": 190232138,
+      "seconds": 1.4793650793650794,
+      "rms": 0.19792672025191402,
+      "peak": 1.0,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\190232138.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 65240 (0:01.479 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 64 kbps\nsample type: float\nplay duration: 65240 samples (0:01.479 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumQMissile_OnMissileCast"
+      ]
+    },
+    {
+      "id": 278315751,
+      "seconds": 1.3741950113378685,
+      "rms": 0.1505388948601503,
+      "peak": 1.0,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\278315751.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 60602 (0:01.374 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 76 kbps\nsample type: float\nplay duration: 60602 samples (0:01.374 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumEShieldBuff_block_large"
+      ]
+    },
+    {
+      "id": 309351640,
+      "seconds": 0.7312471655328798,
+      "rms": 0.16348338613104252,
+      "peak": 0.989959716796875,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\309351640.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 32248 (0:00.731 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 71 kbps\nsample type: float\nplay duration: 32248 samples (0:00.731 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumRWrapper_OnCast"
+      ]
+    },
+    {
+      "id": 382806313,
+      "seconds": 0.7626303854875284,
+      "rms": 0.16585956821098494,
+      "peak": 1.0,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\382806313.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 33632 (0:00.763 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 66 kbps\nsample type: float\nplay duration: 33632 samples (0:00.763 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumEShieldBuff_block_small"
+      ]
+    },
+    {
+      "id": 404894407,
+      "seconds": 0.6009523809523809,
+      "rms": 0.21105030462171062,
+      "peak": 1.0,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\404894407.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 26502 (0:00.601 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 80 kbps\nsample type: float\nplay duration: 26502 samples (0:00.601 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumEShieldBuff_block_small"
+      ]
+    },
+    {
+      "id": 491993041,
+      "seconds": 1.358639455782313,
+      "rms": 0.15143515050673262,
+      "peak": 1.0,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\491993041.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 59916 (0:01.359 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 75 kbps\nsample type: float\nplay duration: 59916 samples (0:01.359 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumEShieldBuff_block_large"
+      ]
+    },
+    {
+      "id": 509535745,
+      "seconds": 1.4095238095238096,
+      "rms": 0.21179137832279546,
+      "peak": 1.0,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\509535745.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 62160 (0:01.410 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 65 kbps\nsample type: float\nplay duration: 62160 samples (0:01.410 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumQMissile_OnMissileCast"
+      ]
+    },
+    {
+      "id": 541689440,
+      "seconds": 7.989501133786848,
+      "rms": 0.03233544425082155,
+      "peak": 0.6451416015625,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\541689440.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 352337 (0:07.990 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 82 kbps\nsample type: float\nplay duration: 352337 samples (0:07.990 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumEShieldBuff_OnBuffActivate"
+      ]
+    },
+    {
+      "id": 543374652,
+      "seconds": 1.9124943310657596,
+      "rms": 0.16974027282522974,
+      "peak": 1.0,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\543374652.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 84341 (0:01.912 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 67 kbps\nsample type: float\nplay duration: 84341 samples (0:01.912 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumEShieldBuff_block_layer"
+      ]
+    },
+    {
+      "id": 557873384,
+      "seconds": 7.989501133786848,
+      "rms": 0.04034346102393285,
+      "peak": 0.4981689453125,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\557873384.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 352337 (0:07.990 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 79 kbps\nsample type: float\nplay duration: 352337 samples (0:07.990 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumEShieldBuff_OnBuffActivate"
+      ]
+    },
+    {
+      "id": 599708390,
+      "seconds": 0.881609977324263,
+      "rms": 0.14055736086709833,
+      "peak": 1.0,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\599708390.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 38879 (0:00.882 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 68 kbps\nsample type: float\nplay duration: 38879 samples (0:00.882 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumEShieldBuff_block_small"
+      ]
+    },
+    {
+      "id": 611305689,
+      "seconds": 0.7142857142857143,
+      "rms": 0.18375087555862502,
+      "peak": 1.0,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\611305689.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 31500 (0:00.714 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 67 kbps\nsample type: float\nplay duration: 31500 samples (0:00.714 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumEShieldBuff_block_small"
+      ]
+    },
+    {
+      "id": 676011000,
+      "seconds": 1.5879591836734694,
+      "rms": 0.19555608393655458,
+      "peak": 1.0,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\676011000.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 70029 (0:01.588 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 63 kbps\nsample type: float\nplay duration: 70029 samples (0:01.588 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumQMissile_OnMissileCast"
+      ]
+    },
+    {
+      "id": 680861900,
+      "seconds": 1.7887301587301587,
+      "rms": 0.18653811677152562,
+      "peak": 1.0,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\680861900.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 78883 (0:01.789 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 65 kbps\nsample type: float\nplay duration: 78883 samples (0:01.789 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumQMissile_hit"
+      ]
+    },
+    {
+      "id": 884714472,
+      "seconds": 1.0624489795918368,
+      "rms": 0.14658238762262252,
+      "peak": 1.0,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\884714472.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 46854 (0:01.062 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 74 kbps\nsample type: float\nplay duration: 46854 samples (0:01.062 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumEShieldBuff_OnBuffDeactivate"
+      ]
+    },
+    {
+      "id": 1071447244,
+      "seconds": 1.8793197278911564,
+      "rms": 0.1693482708944953,
+      "peak": 1.0,
+      "metadata": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_source_review\\1071447244.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 82878 (0:01.879 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 72 kbps\nsample type: float\nplay duration: 82878 samples (0:01.879 seconds)\n",
+      "events": [
+        "Play_sfx_Braum_BraumQMissile_hit"
+      ]
+    }
+  ]
+}

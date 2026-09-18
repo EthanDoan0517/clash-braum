@@ -1,0 +1,19 @@
+{
+  "scene": "clash_braum_deformation.blend",
+  "scene_sha256": "aea972123a8d0a8e7703bf063559db0afdcb0fc1e4a99bb37d85196c56007972",
+  "vanilla_reference": false,
+  "renders": [
+    {
+      "clip": "braum_recall",
+      "frame": 65,
+      "focus": "body",
+      "file": "validation\\previews\\deformation\\braum_recall_065_body.png"
+    },
+    {
+      "clip": "braum_dance_loop",
+      "frame": 50,
+      "focus": "body",
+      "file": "validation\\previews\\deformation\\braum_dance_loop_050_body.png"
+    }
+  ]
+}

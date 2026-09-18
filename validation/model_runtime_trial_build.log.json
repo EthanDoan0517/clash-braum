@@ -1,0 +1,231 @@
+[
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\textures\\body_atlas_trial\\clash_body_basecolor.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-14T00:12:36.518495Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\textures\\body_atlas_trial\\clash_body_basecolor.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "info",
+      "-i",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex"
+    ],
+    "returncode": 0,
+    "stdout": "info: C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex\n    format : Bc3\n    dimensions : 2048x2048\n    mipmaps : 12 (has_mipmaps: true)\n    resource : Texture\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\body_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-14T00:12:36.786745Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\body_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\body_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-14T00:12:36.830226Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\body_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\body_mip4.png",
+      "--mipmap",
+      "4"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-14T00:12:36.846146Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\body_mip4.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\textures\\shield_material_trial\\clash_shield_basecolor.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\shield_frame.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-14T00:12:36.867045Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\textures\\shield_material_trial\\clash_shield_basecolor.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\shield_frame.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "info",
+      "-i",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\shield_frame.tex"
+    ],
+    "returncode": 0,
+    "stdout": "info: C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\shield_frame.tex\n    format : Bc3\n    dimensions : 2048x2048\n    mipmaps : 12 (has_mipmaps: true)\n    resource : Texture\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\shield_frame.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\shield_frame_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-14T00:12:37.139195Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\shield_frame.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\shield_frame_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\shield_frame.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\shield_frame_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-14T00:12:37.181502Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\shield_frame.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\shield_frame_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\shield_frame.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\shield_frame_mip4.png",
+      "--mipmap",
+      "4"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-14T00:12:37.196606Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\shield_frame.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\shield_frame_mip4.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\neutral_gloss.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\neutral_gloss.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-14T00:12:37.246464Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\neutral_gloss.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\neutral_gloss.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "bin",
+      "-o",
+      "text",
+      "-d",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\sources",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\Braum.wad\\eb9d53354a504663.bin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\skin0_source.ritobin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\skin0_source.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\skin0_noop.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\skin0_trial.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\data\\characters\\braum\\skins\\skin0.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "bin",
+      "-o",
+      "text",
+      "-d",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\sources",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\Braum.wad\\eb9d53354a504663.bin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\original_verified.ritobin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "bin",
+      "-o",
+      "text",
+      "-d",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\sources",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\package\\WAD\\Braum.wad.client\\data\\characters\\braum\\skins\\skin0.bin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\model_runtime_trial\\candidate_verified.ritobin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  }
+]

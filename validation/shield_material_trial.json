@@ -1,0 +1,94 @@
+{
+  "status": "SHIELD MATERIAL TRIAL: authored charcoal coating and hardware value separation; gameplay review pending",
+  "scene": "clash_braum_shield_material_trial.blend",
+  "scene_sha256": "0dd0b9e0d8d12b7349868b0ca9b27dfade2fe3595895ca8a42ad482e9944cd79",
+  "parent_sha256": "e0f0664f45d6474fe988e3dcd07c7aad77311207e660c0af52d77260185fdafc",
+  "textures": {
+    "basecolor": {
+      "path": "work\\textures\\shield_material_trial\\clash_shield_basecolor.png",
+      "sha256": "ebc32f500ab13843150fe6ce0365f3e827e6f04d64e4d3adcf9d335df0edf249"
+    },
+    "roughness": {
+      "path": "work\\textures\\shield_material_trial\\clash_shield_roughness.png",
+      "sha256": "41ae661481357a6828e4b73e05b49422d9c78becf61fb9296caafc3920c8f88a"
+    },
+    "metallic": {
+      "path": "work\\textures\\shield_material_trial\\clash_shield_metallic.png",
+      "sha256": "0068b7b4600bebf90fb04408e9eae1d5c54595aadd948cb21f2fa0275ee5e9d4"
+    }
+  },
+  "settings": {
+    "CCE_mesh_23.001": {
+      "linear_color": [
+        0.065,
+        0.072,
+        0.078,
+        1
+      ],
+      "roughness": 0.48,
+      "metallic": 0.45
+    },
+    "CCE_mesh_22.001": {
+      "linear_color": [
+        0.065,
+        0.072,
+        0.078,
+        1
+      ],
+      "roughness": 0.48,
+      "metallic": 0.45
+    },
+    "CCE_mesh_21.001": {
+      "linear_color": [
+        0.065,
+        0.072,
+        0.078,
+        1
+      ],
+      "roughness": 0.48,
+      "metallic": 0.45
+    },
+    "CCE_mesh_16": {
+      "linear_color": [
+        0.065,
+        0.072,
+        0.078,
+        1
+      ],
+      "roughness": 0.48,
+      "metallic": 0.45
+    },
+    "CCE_mesh_15.001": {
+      "linear_color": [
+        0.065,
+        0.072,
+        0.078,
+        1
+      ],
+      "roughness": 0.48,
+      "metallic": 0.45
+    },
+    "CCE_mesh_14.001": {
+      "linear_color": [
+        0.023,
+        0.029,
+        0.034,
+        1
+      ],
+      "roughness": 0.68,
+      "metallic": 0.15
+    },
+    "CCE_mesh_13.001": {
+      "linear_color": [
+        0.047,
+        0.058,
+        0.067,
+        1
+      ],
+      "roughness": 0.48,
+      "metallic": 0.45
+    }
+  },
+  "geometry_weights_normals_uvs_exact": true,
+  "limits": "Replacement coating, not recovered source textures. No glass pane or electrical VFX. Metallic/roughness are Blender preview channels; runtime gloss mapping needs explicit integration."
+}

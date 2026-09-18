@@ -1,0 +1,704 @@
+[
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\21321056.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\21321056.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\21321056.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "2",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\21321056.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\21321056.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\21321056.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\21321056.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\21321056.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\21321056.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 46170 (0:01.047 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 68 kbps\nsample type: float\nplay duration: 46170 samples (0:01.047 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\77410398.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\77410398.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\77410398.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\77410398.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\77410398.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\77410398.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 45799 (0:01.039 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 70 kbps\nsample type: float\nplay duration: 45799 samples (0:01.039 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\103689118.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\103689118.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\103689118.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "2",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\103689118.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\103689118.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\103689118.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\103689118.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\103689118.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\103689118.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 80640 (0:01.829 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 67 kbps\nsample type: float\nplay duration: 80640 samples (0:01.829 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\169392210.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\169392210.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\169392210.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\169392210.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\169392210.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\169392210.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 61910 (0:01.404 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 69 kbps\nsample type: float\nplay duration: 61910 samples (0:01.404 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\190232138.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\190232138.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\190232138.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "2",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\190232138.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\190232138.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\190232138.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "0",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\190232138.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\190232138.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\190232138.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\190232138.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\190232138.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\190232138.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 65240 (0:01.479 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 49 kbps\nsample type: float\nplay duration: 65240 samples (0:01.479 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\278315751.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\278315751.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\278315751.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\278315751.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\278315751.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\278315751.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 60602 (0:01.374 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 72 kbps\nsample type: float\nplay duration: 60602 samples (0:01.374 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\309351640.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\309351640.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\309351640.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "2",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\309351640.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\309351640.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\309351640.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\309351640.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\309351640.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\309351640.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 32248 (0:00.731 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 67 kbps\nsample type: float\nplay duration: 32248 samples (0:00.731 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\382806313.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\382806313.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\382806313.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "2",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\382806313.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\382806313.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\382806313.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\382806313.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\382806313.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\382806313.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 33632 (0:00.763 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 67 kbps\nsample type: float\nplay duration: 33632 samples (0:00.763 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\404894407.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\404894407.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\404894407.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\404894407.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\404894407.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\404894407.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 26502 (0:00.601 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 77 kbps\nsample type: float\nplay duration: 26502 samples (0:00.601 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\491993041.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\491993041.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\491993041.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\491993041.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\491993041.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\491993041.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 59916 (0:01.359 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 72 kbps\nsample type: float\nplay duration: 59916 samples (0:01.359 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\509535745.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\509535745.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\509535745.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "2",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\509535745.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\509535745.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\509535745.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\509535745.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\509535745.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\509535745.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 62160 (0:01.410 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 65 kbps\nsample type: float\nplay duration: 62160 samples (0:01.410 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\541689440.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\541689440.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\541689440.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\541689440.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\541689440.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\541689440.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 352337 (0:07.990 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 75 kbps\nsample type: float\nplay duration: 352337 samples (0:07.990 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\543374652.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\543374652.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\543374652.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\543374652.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\543374652.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\543374652.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 84341 (0:01.912 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 66 kbps\nsample type: float\nplay duration: 84341 samples (0:01.912 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\557873384.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\557873384.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\557873384.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\557873384.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\557873384.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\557873384.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 352337 (0:07.990 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 76 kbps\nsample type: float\nplay duration: 352337 samples (0:07.990 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\599708390.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\599708390.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\599708390.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "2",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\599708390.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\599708390.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\599708390.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\599708390.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\599708390.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\599708390.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 38879 (0:00.882 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 66 kbps\nsample type: float\nplay duration: 38879 samples (0:00.882 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\611305689.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\611305689.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\611305689.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "2",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\611305689.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\611305689.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\611305689.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\611305689.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\611305689.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\611305689.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 31500 (0:00.714 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 67 kbps\nsample type: float\nplay duration: 31500 samples (0:00.714 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\676011000.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\676011000.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\676011000.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "2",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\676011000.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\676011000.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\676011000.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "0",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\676011000.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\676011000.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\676011000.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\676011000.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\676011000.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\676011000.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 70029 (0:01.588 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 49 kbps\nsample type: float\nplay duration: 70029 samples (0:01.588 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\680861900.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\680861900.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\680861900.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "2",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\680861900.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\680861900.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\680861900.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\680861900.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\680861900.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\680861900.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 78883 (0:01.789 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 65 kbps\nsample type: float\nplay duration: 78883 samples (0:01.789 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\884714472.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\884714472.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\884714472.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\884714472.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\884714472.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\884714472.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 46854 (0:01.062 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 74 kbps\nsample type: float\nplay duration: 46854 samples (0:01.062 seconds)\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "4",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\1071447244.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\1071447244.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\1071447244.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\wav2wem.exe",
+      "-q",
+      "2",
+      "-no-hash",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\1071447244.wem",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\masters\\1071447244.wav"
+    ],
+    "returncode": 0,
+    "stdout": "wrote C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\1071447244.wem\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\audio_tools\\vgmstream-r2117\\vgmstream-cli.exe",
+      "-i",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\decoded\\1071447244.wav",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\1071447244.wem"
+    ],
+    "returncode": 0,
+    "stdout": "decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\sfx_v1\\wem\\1071447244.wem\nsample rate: 44100 Hz\nchannels: 1\nchannel mask: 0x4 / FC\nstream total samples: 82878 (0:01.879 seconds)\nencoding: Custom Vorbis\nlayout: flat\nmetadata from: Audiokinetic Wwise RIFF header\nbitrate: 67 kbps\nsample type: float\nplay duration: 82878 samples (0:01.879 seconds)\n",
+    "stderr": ""
+  }
+]

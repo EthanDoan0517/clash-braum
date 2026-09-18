@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "archive_sha256": "57176e4aadc47910226b1ad257691bb0a79ec9c9f9f523272b0947ddba9182ac",
+  "changed_bank_sha256": "5c1883757c284ca3872ab01cbcb1c9e4e64a0ffb21954d2bc751be01c3b2b2b3",
+  "changed_bank_path_hash": "668ac17b89a8d8ea",
+  "changed_media": 20,
+  "unchanged_media": 94,
+  "native_event_plugin_and_memory_sizes_verified": 20,
+  "all_parent_payloads_exact": true,
+  "isolated_backend_bank_path_and_bytes_exact": true,
+  "reused": "v1 decoding/sample count/peak/correlation evidence reused: only setup cache hash changed, compressed data byte-exact. Parent visual evidence reused; changed bank checked once in isolated backend.",
+  "runtime": "User must retest bank playback: W/basic attacks as controls, then Q/E/R, E expiry/death stops and beep/volume. v1 was silent in game despite decoder success.",
+  "native_setup_hash_contract_verified": 114,
+  "distinct_setup_hashes": 3
+}

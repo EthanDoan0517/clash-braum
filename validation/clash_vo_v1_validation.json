@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "archive": "build/clash_vo_v1/Braum_Clash_English_VO_v1.fantome",
+  "sha256": "03482d67b41b4ca3636e7a0770363654689c1e88306bb10249f191bad9d92bec",
+  "wpk_slots_verified": 115,
+  "independent_parser_volume_verified": true,
+  "approved_e_unchanged": true,
+  "isolated_backend_both_changed_payloads_exact": true,
+  "reused": "All 66 used clips match independently decoded media evidence. All prior payloads except seven Q/R gain floats are byte-identical; no repeated visual or geometry checks.",
+  "runtime": "User English-VO playback/context/stop/volume and Q/R loudness test pending."
+}

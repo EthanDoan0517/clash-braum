@@ -1,0 +1,32 @@
+{
+  "status": "PASS affected texture checks; gameplay pending",
+  "archive": "build\\color_pop_v2\\Braum_Clash_Color_Pop_v2_E_Motion.fantome",
+  "sha256": "bddbf8ca5b05ffae78f45361307aeab71c88d73fdf70ef07de7b7c658adb4748",
+  "parent_sha256": "9bb6c58c921ab4478b2b78194a5521fb44e8062494fbe5ef0162810ba3a810f3",
+  "source_sha256": "4d2ff9ac79d900a206822c81def031c2d0cad02f922c87f8b4c095ed09401922",
+  "body_tex_sha256": "20b079acd78efd5ef8739d85c5987e75f837f2e6e69121451d85f3c379befc33",
+  "formula": "RGB += max(1-max(RGB)/0.45,0)^2 * (0.18,0.195,0.22); alpha exact",
+  "checks": [
+    {
+      "mip": 0,
+      "alpha_exact": true,
+      "opaque_peak_min": 25
+    },
+    {
+      "mip": 2,
+      "alpha_exact": true,
+      "opaque_peak_min": 49
+    },
+    {
+      "mip": 4,
+      "alpha_exact": true,
+      "opaque_peak_min": 49
+    }
+  ],
+  "bright_pixels_exact": true,
+  "channel_values_never_decreased": true,
+  "protected": "All payloads except body.tex byte-identical to E Motion v3, including shield, BIN, geometry and rig.",
+  "reused": "validation/e_motion_v3_validation.json: identical BIN and paths; Color Pop v1 shield evidence: identical bytes.",
+  "diagnosis": "User identifies lower body, upper arms and strap as black. First color pass preserved true black and low-value fabric. Shadow floor addresses texture darkness; runtime lighting/material cause not excluded.",
+  "preview": "build/color_pop_v2/comparison.png"
+}

@@ -1,0 +1,433 @@
+{
+  "scene": "clash_braum_handle_surface_trial.blend",
+  "scene_sha256": "489806e14a2b165b5d1f5dcfabbf680463804d64a5b0450ccbd303a1dc19b4b4",
+  "all_original_mesh_geometry_weights_topology_uv_exact": true,
+  "method": "BVH triangle intersection pairs with all source body groups; unsigned hand/digit vertex proximity to auxiliary handle only. Does not detect fully enclosed disconnected surfaces or prove pressure contact.",
+  "poses": [
+    {
+      "clip": "braum_spell3_idle-180",
+      "frame": 29,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.7264025211334229,
+        "Object009_R": 0.15626095235347748,
+        "Object004_L": 0.7264036536216736,
+        "Object004_R": 0.15587660670280457
+      }
+    },
+    {
+      "clip": "braum_spell3_idle-90",
+      "frame": 29,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.7263781428337097,
+        "Object009_R": 0.15625330805778503,
+        "Object004_L": 0.7263796329498291,
+        "Object004_R": 0.15587115287780762
+      }
+    },
+    {
+      "clip": "braum_spell3_idle0",
+      "frame": 29,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.7263845205307007,
+        "Object009_R": 0.1562272012233734,
+        "Object004_L": 0.7263862490653992,
+        "Object004_R": 0.15584802627563477
+      }
+    },
+    {
+      "clip": "braum_spell3_idle180",
+      "frame": 29,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.7264211773872375,
+        "Object009_R": 0.15626350045204163,
+        "Object004_L": 0.7264223098754883,
+        "Object004_R": 0.15587754547595978
+      }
+    },
+    {
+      "clip": "braum_spell3_idle90",
+      "frame": 29,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.7263807058334351,
+        "Object009_R": 0.15620647370815277,
+        "Object004_L": 0.7263827919960022,
+        "Object004_R": 0.15582911670207977
+      }
+    },
+    {
+      "clip": "braum_spell3_run-179",
+      "frame": 14,
+      "intersections": {
+        "Object004": {
+          "face_pairs": 55,
+          "handle_faces": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            11
+          ],
+          "body_faces": [
+            4618,
+            4622,
+            4798,
+            4822,
+            4823,
+            4824,
+            4826,
+            4837,
+            4839,
+            4841,
+            4843,
+            4845,
+            4846,
+            4847,
+            4848,
+            5608,
+            5609,
+            5610,
+            5611,
+            5617,
+            5620,
+            5651,
+            5652,
+            5653,
+            5654,
+            5655,
+            5657,
+            5661,
+            5663,
+            5664,
+            5665,
+            5666,
+            5667,
+            5668,
+            5669,
+            5670,
+            5671,
+            6190,
+            6232,
+            6234,
+            6236,
+            6237
+          ]
+        }
+      },
+      "hand_vertex_proximity": {
+        "Object009_L": 0.0029313962440937757,
+        "Object009_R": 0.1543656289577484,
+        "Object004_L": 1.3905299056204967e-05,
+        "Object004_R": 0.15396903455257416
+      }
+    },
+    {
+      "clip": "braum_spell3_run-90",
+      "frame": 14,
+      "intersections": {
+        "Object004": {
+          "face_pairs": 55,
+          "handle_faces": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            11
+          ],
+          "body_faces": [
+            4618,
+            4622,
+            4798,
+            4822,
+            4823,
+            4824,
+            4826,
+            4837,
+            4839,
+            4841,
+            4843,
+            4845,
+            4846,
+            4847,
+            4848,
+            5608,
+            5609,
+            5610,
+            5611,
+            5617,
+            5620,
+            5652,
+            5653,
+            5654,
+            5655,
+            5657,
+            5661,
+            5663,
+            5664,
+            5665,
+            5666,
+            5667,
+            5668,
+            5669,
+            5670,
+            5671,
+            6190,
+            6232,
+            6234,
+            6236,
+            6237
+          ]
+        }
+      },
+      "hand_vertex_proximity": {
+        "Object009_L": 0.00362311489880085,
+        "Object009_R": 0.15387088060379028,
+        "Object004_L": 0.00024064448371063918,
+        "Object004_R": 0.153459370136261
+      }
+    },
+    {
+      "clip": "braum_spell3_run0",
+      "frame": 14,
+      "intersections": {
+        "Object004": {
+          "face_pairs": 55,
+          "handle_faces": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            11
+          ],
+          "body_faces": [
+            4618,
+            4622,
+            4798,
+            4822,
+            4823,
+            4824,
+            4826,
+            4837,
+            4839,
+            4841,
+            4843,
+            4845,
+            4846,
+            4847,
+            4848,
+            5608,
+            5609,
+            5610,
+            5611,
+            5617,
+            5620,
+            5652,
+            5653,
+            5654,
+            5655,
+            5657,
+            5661,
+            5663,
+            5664,
+            5665,
+            5666,
+            5667,
+            5668,
+            5669,
+            5670,
+            5671,
+            6190,
+            6232,
+            6234,
+            6236,
+            6237
+          ]
+        }
+      },
+      "hand_vertex_proximity": {
+        "Object009_L": 0.0035921866074204445,
+        "Object009_R": 0.15383608639240265,
+        "Object004_L": 0.00011081877892138436,
+        "Object004_R": 0.1534307301044464
+      }
+    },
+    {
+      "clip": "braum_spell3_run179",
+      "frame": 14,
+      "intersections": {
+        "Object004": {
+          "face_pairs": 55,
+          "handle_faces": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            11
+          ],
+          "body_faces": [
+            4618,
+            4622,
+            4798,
+            4822,
+            4823,
+            4824,
+            4826,
+            4837,
+            4839,
+            4841,
+            4843,
+            4845,
+            4846,
+            4847,
+            4848,
+            5608,
+            5609,
+            5610,
+            5611,
+            5617,
+            5620,
+            5651,
+            5652,
+            5653,
+            5654,
+            5655,
+            5657,
+            5661,
+            5663,
+            5664,
+            5665,
+            5666,
+            5667,
+            5668,
+            5669,
+            5670,
+            5671,
+            6190,
+            6232,
+            6234,
+            6236,
+            6237
+          ]
+        }
+      },
+      "hand_vertex_proximity": {
+        "Object009_L": 0.00291571207344532,
+        "Object009_R": 0.15437200665473938,
+        "Object004_L": 1.5560008250758983e-05,
+        "Object004_R": 0.15397663414478302
+      }
+    },
+    {
+      "clip": "braum_spell3_run90",
+      "frame": 14,
+      "intersections": {
+        "Object004": {
+          "face_pairs": 55,
+          "handle_faces": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            11
+          ],
+          "body_faces": [
+            4618,
+            4622,
+            4798,
+            4822,
+            4823,
+            4824,
+            4826,
+            4837,
+            4839,
+            4841,
+            4843,
+            4845,
+            4846,
+            4847,
+            4848,
+            5608,
+            5609,
+            5610,
+            5611,
+            5617,
+            5620,
+            5652,
+            5653,
+            5654,
+            5655,
+            5657,
+            5661,
+            5663,
+            5664,
+            5665,
+            5666,
+            5667,
+            5668,
+            5669,
+            5670,
+            5671,
+            6190,
+            6232,
+            6234,
+            6236,
+            6237
+          ]
+        }
+      },
+      "hand_vertex_proximity": {
+        "Object009_L": 0.0036302136722952127,
+        "Object009_R": 0.15371818840503693,
+        "Object004_L": 1.3513307521861861e-06,
+        "Object004_R": 0.15332402288913727
+      }
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 3,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.3747960329055786,
+        "Object009_R": 0.38980039954185486,
+        "Object004_L": 0.3702813684940338,
+        "Object004_R": 0.39299246668815613
+      }
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 15,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.4463973641395569,
+        "Object009_R": 0.78765869140625,
+        "Object004_L": 0.44345733523368835,
+        "Object004_R": 0.7796210050582886
+      }
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 26,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 1.4428555965423584,
+        "Object009_R": 1.9744529724121094,
+        "Object004_L": 1.4671385288238525,
+        "Object004_R": 1.9928478002548218
+      }
+    }
+  ]
+}

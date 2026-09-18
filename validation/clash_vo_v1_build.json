@@ -1,0 +1,73 @@
+{
+  "status": "PASS build; targeted package validation PASS in clash_vo_v1_validation.json",
+  "archive": "build/clash_vo_v1/Braum_Clash_English_VO_v1.fantome",
+  "sha256": "03482d67b41b4ca3636e7a0770363654689c1e88306bb10249f191bad9d92bec",
+  "parent": "build/directional_sfx_v3/Braum_Clash_Directional_v1_SFX_v3.fantome",
+  "parent_sha256": "485a6aa1577c2731299ef28d1c7b2125032e3cce5290f6043478f0ce8396c018",
+  "vo_path": "assets/sounds/wwise2016/vo/en_us/characters/braum/skins/base/braum_base_vo_audio.wpk",
+  "wpk_sha256": "03acff63bf63285565ae36ae4b6f85fc245eaf6c4954e80ca5c4a2175c7af438",
+  "native_wpk_sha256": "b22ef1d7513197d94b7299f72b3e5efb40e8d40ab6f519947f3d0bc00d65db4a",
+  "media_count": 115,
+  "unique_clips_used": 66,
+  "event_count": 41,
+  "source": "Clash voice line.wav",
+  "source_sha256": "c5aaa16eb68b31f152bcbae413db3a5f07adbeb4500fa58eef5167b92538143a",
+  "vo_events_unchanged": true,
+  "all_vo_streamed_without_prefetch": true,
+  "wpk_noop_exact": true,
+  "sfx_volume_changes": [
+    {
+      "media_id": 509535745,
+      "sound_id": 2215306,
+      "offset": 1278,
+      "old_db": 10,
+      "new_db": 16
+    },
+    {
+      "media_id": 190232138,
+      "sound_id": 499909813,
+      "offset": 1338,
+      "old_db": 10,
+      "new_db": 16
+    },
+    {
+      "media_id": 676011000,
+      "sound_id": 624636442,
+      "offset": 1398,
+      "old_db": 10,
+      "new_db": 16
+    },
+    {
+      "media_id": 103689118,
+      "sound_id": 328681646,
+      "offset": 1991,
+      "old_db": 10,
+      "new_db": 16
+    },
+    {
+      "media_id": 1071447244,
+      "sound_id": 462301326,
+      "offset": 2051,
+      "old_db": 10,
+      "new_db": 16
+    },
+    {
+      "media_id": 680861900,
+      "sound_id": 820468991,
+      "offset": 2111,
+      "old_db": 10,
+      "new_db": 16
+    },
+    {
+      "media_id": 309351640,
+      "sound_id": 24222117,
+      "offset": 3410,
+      "old_db": 10,
+      "new_db": 16
+    }
+  ],
+  "sfx_event_bank_sha256": "a92e2092b244fa5b697196765a17154b678d3c1bd869fd0071c33d8b32c03595",
+  "approved_e_audio_and_fields_exact": true,
+  "reused": "All preexisting media and visuals exact; only seven SFX Volume values changed. 69 prepared clips independently decoded with corrected setup hashes; package uses a subset in 115 slots. VO event graph/timing/spatial/random/stop behavior unchanged.",
+  "runtime": "English VO context/cut boundaries/volume/repetition/death/emotes and Q/R loudness require user gameplay. E volume remains accepted."
+}

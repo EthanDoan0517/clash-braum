@@ -1,0 +1,224 @@
+[
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_parent.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_parent.png"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-18T00:19:27.663250Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_parent.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_parent.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-18T00:19:35.255543Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_parent.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_parent_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-18T00:19:36.406587Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_parent.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_parent_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-18T00:19:36.472640Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_parent.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_parent_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-18T00:19:36.726332Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_parent.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_parent_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-18T00:19:36.754720Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_parent.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_parent_mip4.png",
+      "--mipmap",
+      "4"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-18T00:19:36.813245Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_parent.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_parent_mip4.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_mip4.png",
+      "--mipmap",
+      "4"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-18T00:19:36.835134Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\body_mip4.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_parent.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_parent.png"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-18T00:19:36.887082Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_parent.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_parent.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-18T00:19:39.712568Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_parent.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_parent_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-18T00:19:40.748905Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_parent.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_parent_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-18T00:19:40.803648Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_parent.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_parent_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-18T00:19:40.994777Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_parent.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_parent_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-18T00:19:41.020453Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_parent.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_parent_mip4.png",
+      "--mipmap",
+      "4"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-18T00:19:41.072172Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_parent.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_parent_mip4.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_mip4.png",
+      "--mipmap",
+      "4"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-18T00:19:41.095682Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\user_hex_v1\\shield_frame_mip4.png\n",
+    "stderr": ""
+  }
+]

@@ -1,0 +1,873 @@
+{
+  "input": "work\\scenes\\clash_braum_animation_review.blend",
+  "input_sha256": "e5a781f964f89a74c2f11c82b6dbed882d204e2e3b0dbcf818fe9595bf6fb642",
+  "hands": [
+    {
+      "side": "L",
+      "digit_shell_ids": {
+        "Thumb": 326,
+        "Index": 377,
+        "Middle": 382,
+        "Ring": 388,
+        "Pinky": 585
+      },
+      "source_wrist": [
+        0.7459999918937683,
+        -0.09200000017881393,
+        1.1160000562667847
+      ],
+      "native_wrist": [
+        0.7540136575698853,
+        -0.06912776827812195,
+        1.06984543800354
+      ],
+      "uniform_scale": 0.9797972696766876,
+      "rotation": [
+        [
+          0.9913339725112401,
+          -0.0942363636136438,
+          0.09152301742163205
+        ],
+        [
+          0.12626839652074448,
+          0.8757417861649119,
+          -0.46597490920088036
+        ],
+        [
+          -0.0362387497737337,
+          0.47349322248324266,
+          0.8800516583003924
+        ]
+      ],
+      "translation": [
+        -0.09172093868255615,
+        0.4332282841205597,
+        0.19317150115966797
+      ],
+      "digit_center_fit_errors": {
+        "Thumb": 0.031689742630968194,
+        "Index": 0.00973790398333457,
+        "Middle": 0.01082014007591825,
+        "Ring": 0.013031331168252747,
+        "Pinky": 0.022783496818926385
+      },
+      "vertices_changed": 1038,
+      "method": "Orientation-preserving similarity fit; digit-specific two-joint weights; smooth cuff transition"
+    },
+    {
+      "side": "R",
+      "digit_shell_ids": {
+        "Thumb": 0,
+        "Index": 51,
+        "Middle": 57,
+        "Ring": 60,
+        "Pinky": 65
+      },
+      "source_wrist": [
+        -0.7459999918937683,
+        -0.09200000017881393,
+        1.1160000562667847
+      ],
+      "native_wrist": [
+        -0.7540093660354614,
+        -0.06912782788276672,
+        1.0698503255844116
+      ],
+      "uniform_scale": 0.9798083048915216,
+      "rotation": [
+        [
+          0.9913330477763281,
+          0.09423286930662536,
+          -0.09153663052973449
+        ],
+        [
+          -0.12627191905554125,
+          0.8757394807173593,
+          -0.46597828744580017
+        ],
+        [
+          0.03625177022612086,
+          0.47349818189210613,
+          0.8800484537230562
+        ]
+      ],
+      "translation": [
+        0.0917477011680603,
+        0.43323490023612976,
+        0.1931789517402649
+      ],
+      "digit_center_fit_errors": {
+        "Thumb": 0.031688348326992195,
+        "Index": 0.009737531154294102,
+        "Middle": 0.010820613992722258,
+        "Ring": 0.013031109853012401,
+        "Pinky": 0.02278304908287911
+      },
+      "vertices_changed": 1038,
+      "method": "Orientation-preserving similarity fit; digit-specific two-joint weights; smooth cuff transition"
+    }
+  ],
+  "rigid_components": [
+    {
+      "object": "Object004",
+      "component": 87,
+      "vertices": 104,
+      "bone": "R_Elbow"
+    },
+    {
+      "object": "Object004",
+      "component": 804,
+      "vertices": 104,
+      "bone": "L_Elbow"
+    },
+    {
+      "object": "Object002",
+      "component": 1021,
+      "vertices": 75,
+      "bone": "Spine1"
+    },
+    {
+      "object": "Object002",
+      "component": 1218,
+      "vertices": 134,
+      "bone": "L_Clavicle"
+    },
+    {
+      "object": "Object002",
+      "component": 1235,
+      "vertices": 40,
+      "bone": "L_Clavicle"
+    },
+    {
+      "object": "Object002",
+      "component": 1540,
+      "vertices": 134,
+      "bone": "R_Clavicle"
+    },
+    {
+      "object": "Object002",
+      "component": 1557,
+      "vertices": 40,
+      "bone": "R_Clavicle"
+    },
+    {
+      "object": "hjhjh_2",
+      "component": 0,
+      "vertices": 318,
+      "bone": "Root"
+    },
+    {
+      "object": "hjhjh_2",
+      "component": 192,
+      "vertices": 28,
+      "bone": "Root"
+    },
+    {
+      "object": "hjhjh_2",
+      "component": 208,
+      "vertices": 82,
+      "bone": "Root"
+    },
+    {
+      "object": "hjhjh_2",
+      "component": 295,
+      "vertices": 16,
+      "bone": "Root"
+    },
+    {
+      "object": "hjhjh_2",
+      "component": 348,
+      "vertices": 90,
+      "bone": "Root"
+    },
+    {
+      "object": "hjhjh_2",
+      "component": 407,
+      "vertices": 90,
+      "bone": "Root"
+    },
+    {
+      "object": "hjhjh_2",
+      "component": 431,
+      "vertices": 170,
+      "bone": "Root"
+    },
+    {
+      "object": "hjhjh_2",
+      "component": 449,
+      "vertices": 87,
+      "bone": "Root"
+    },
+    {
+      "object": "hjhjh_2",
+      "component": 688,
+      "vertices": 83,
+      "bone": "Spine2"
+    },
+    {
+      "object": "hjhjh_2",
+      "component": 739,
+      "vertices": 83,
+      "bone": "Spine2"
+    },
+    {
+      "object": "hjhjh_2",
+      "component": 794,
+      "vertices": 59,
+      "bone": "Spine2"
+    },
+    {
+      "object": "hjhjh_2",
+      "component": 797,
+      "vertices": 59,
+      "bone": "Spine2"
+    },
+    {
+      "object": "hjhjh_2",
+      "component": 803,
+      "vertices": 221,
+      "bone": "L_Hip"
+    },
+    {
+      "object": "Object007",
+      "component": 0,
+      "vertices": 25,
+      "bone": "Spine3"
+    },
+    {
+      "object": "Object007",
+      "component": 24,
+      "vertices": 25,
+      "bone": "Spine3"
+    },
+    {
+      "object": "Object007",
+      "component": 49,
+      "vertices": 64,
+      "bone": "Spine3"
+    },
+    {
+      "object": "Object007",
+      "component": 113,
+      "vertices": 24,
+      "bone": "Spine3"
+    },
+    {
+      "object": "Object007",
+      "component": 116,
+      "vertices": 64,
+      "bone": "Spine3"
+    },
+    {
+      "object": "Object007",
+      "component": 122,
+      "vertices": 16,
+      "bone": "Spine3"
+    },
+    {
+      "object": "Object007",
+      "component": 133,
+      "vertices": 190,
+      "bone": "Spine1"
+    },
+    {
+      "object": "Object007",
+      "component": 156,
+      "vertices": 214,
+      "bone": "Spine1"
+    },
+    {
+      "object": "Object007",
+      "component": 250,
+      "vertices": 78,
+      "bone": "Spine1"
+    },
+    {
+      "object": "Object007",
+      "component": 536,
+      "vertices": 195,
+      "bone": "Spine3"
+    },
+    {
+      "object": "Object007",
+      "component": 558,
+      "vertices": 70,
+      "bone": "Spine3"
+    },
+    {
+      "object": "Object007",
+      "component": 592,
+      "vertices": 35,
+      "bone": "Spine3"
+    },
+    {
+      "object": "Object007",
+      "component": 603,
+      "vertices": 208,
+      "bone": "Spine3"
+    },
+    {
+      "object": "Object007",
+      "component": 606,
+      "vertices": 125,
+      "bone": "Spine3"
+    },
+    {
+      "object": "Object007",
+      "component": 613,
+      "vertices": 62,
+      "bone": "Spine3"
+    },
+    {
+      "object": "Object007",
+      "component": 783,
+      "vertices": 56,
+      "bone": "Spine3"
+    },
+    {
+      "object": "Object007",
+      "component": 1428,
+      "vertices": 68,
+      "bone": "Root"
+    },
+    {
+      "object": "Object007",
+      "component": 1445,
+      "vertices": 48,
+      "bone": "Root"
+    },
+    {
+      "object": "Object007",
+      "component": 1453,
+      "vertices": 48,
+      "bone": "Root"
+    },
+    {
+      "object": "Object007",
+      "component": 1668,
+      "vertices": 146,
+      "bone": "Spine2"
+    },
+    {
+      "object": "Object007",
+      "component": 1672,
+      "vertices": 146,
+      "bone": "Spine2"
+    },
+    {
+      "object": "Object007",
+      "component": 1676,
+      "vertices": 146,
+      "bone": "Spine2"
+    },
+    {
+      "object": "Object007",
+      "component": 1680,
+      "vertices": 146,
+      "bone": "Spine2"
+    },
+    {
+      "object": "Object007",
+      "component": 1996,
+      "vertices": 44,
+      "bone": "R_Hip"
+    },
+    {
+      "object": "Object007",
+      "component": 2022,
+      "vertices": 91,
+      "bone": "R_Hip"
+    },
+    {
+      "object": "Object007",
+      "component": 2623,
+      "vertices": 214,
+      "bone": "L_Hip"
+    },
+    {
+      "object": "Object007",
+      "component": 2798,
+      "vertices": 83,
+      "bone": "R_Clavicle"
+    },
+    {
+      "object": "Object007",
+      "component": 3328,
+      "vertices": 48,
+      "bone": "Root"
+    },
+    {
+      "object": "Object001",
+      "component": 548,
+      "vertices": 214,
+      "bone": "L_Hip"
+    },
+    {
+      "object": "Object001",
+      "component": 1235,
+      "vertices": 284,
+      "bone": "R_Hip"
+    },
+    {
+      "object": "Object006",
+      "component": 34,
+      "vertices": 114,
+      "bone": "L_Hip"
+    },
+    {
+      "object": "Object006",
+      "component": 45,
+      "vertices": 160,
+      "bone": "L_Hip"
+    },
+    {
+      "object": "Object006",
+      "component": 145,
+      "vertices": 64,
+      "bone": "L_Hip"
+    },
+    {
+      "object": "Object006",
+      "component": 268,
+      "vertices": 56,
+      "bone": "L_Hip"
+    },
+    {
+      "object": "Object006",
+      "component": 298,
+      "vertices": 160,
+      "bone": "L_Hip"
+    },
+    {
+      "object": "Object006",
+      "component": 326,
+      "vertices": 160,
+      "bone": "R_Hip"
+    },
+    {
+      "object": "Object006",
+      "component": 334,
+      "vertices": 142,
+      "bone": "R_Hip"
+    },
+    {
+      "object": "Object006",
+      "component": 500,
+      "vertices": 64,
+      "bone": "R_Hip"
+    },
+    {
+      "object": "Object006",
+      "component": 534,
+      "vertices": 160,
+      "bone": "R_Hip"
+    },
+    {
+      "object": "Object006",
+      "component": 539,
+      "vertices": 150,
+      "bone": "R_Hip"
+    },
+    {
+      "object": "Object006",
+      "component": 603,
+      "vertices": 64,
+      "bone": "R_Hip"
+    },
+    {
+      "object": "Object006",
+      "component": 754,
+      "vertices": 160,
+      "bone": "L_Hip"
+    },
+    {
+      "object": "Object006",
+      "component": 769,
+      "vertices": 102,
+      "bone": "L_Hip"
+    },
+    {
+      "object": "Object006",
+      "component": 813,
+      "vertices": 64,
+      "bone": "L_Hip"
+    },
+    {
+      "object": "Object006",
+      "component": 826,
+      "vertices": 26,
+      "bone": "L_Hip"
+    },
+    {
+      "object": "Object006",
+      "component": 1094,
+      "vertices": 100,
+      "bone": "L_Hip"
+    },
+    {
+      "object": "Object006",
+      "component": 1190,
+      "vertices": 28,
+      "bone": "Spine3"
+    },
+    {
+      "object": "Object006",
+      "component": 1194,
+      "vertices": 160,
+      "bone": "Spine3"
+    },
+    {
+      "object": "Object006",
+      "component": 1239,
+      "vertices": 166,
+      "bone": "Spine3"
+    },
+    {
+      "object": "Object006",
+      "component": 1317,
+      "vertices": 39,
+      "bone": "R_Clavicle"
+    },
+    {
+      "object": "Object006",
+      "component": 1320,
+      "vertices": 28,
+      "bone": "R_Clavicle"
+    },
+    {
+      "object": "Object006",
+      "component": 1388,
+      "vertices": 160,
+      "bone": "Root"
+    },
+    {
+      "object": "Object006",
+      "component": 1656,
+      "vertices": 160,
+      "bone": "Root"
+    },
+    {
+      "object": "Object006",
+      "component": 2607,
+      "vertices": 100,
+      "bone": "Root"
+    },
+    {
+      "object": "Object006",
+      "component": 2681,
+      "vertices": 78,
+      "bone": "Spine3"
+    },
+    {
+      "object": "Object006",
+      "component": 2693,
+      "vertices": 28,
+      "bone": "Spine3"
+    },
+    {
+      "object": "Object006",
+      "component": 3329,
+      "vertices": 28,
+      "bone": "L_Clavicle"
+    },
+    {
+      "object": "Object006",
+      "component": 3337,
+      "vertices": 39,
+      "bone": "L_Clavicle"
+    },
+    {
+      "object": "Object006",
+      "component": 0,
+      "vertices": 34,
+      "bone": "Spine3",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.037861477583646774
+    },
+    {
+      "object": "Object006",
+      "component": 163,
+      "vertices": 26,
+      "bone": "L_Hip",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.009564531967043877
+    },
+    {
+      "object": "Object006",
+      "component": 518,
+      "vertices": 26,
+      "bone": "R_Hip",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.0120038241147995
+    },
+    {
+      "object": "Object006",
+      "component": 596,
+      "vertices": 26,
+      "bone": "R_Hip",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.007304741069674492
+    },
+    {
+      "object": "Object006",
+      "component": 1071,
+      "vertices": 12,
+      "bone": "L_Hip",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.0027189194224774837
+    },
+    {
+      "object": "Object006",
+      "component": 1715,
+      "vertices": 12,
+      "bone": "Root",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.006825274787843227
+    },
+    {
+      "object": "Object006",
+      "component": 2981,
+      "vertices": 12,
+      "bone": "Root",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.0024927735794335604
+    },
+    {
+      "object": "Object006",
+      "component": 3173,
+      "vertices": 30,
+      "bone": "Spine3",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.021407421678304672
+    },
+    {
+      "object": "Object007",
+      "component": 677,
+      "vertices": 18,
+      "bone": "Spine3",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.013662975281476974
+    },
+    {
+      "object": "Object007",
+      "component": 741,
+      "vertices": 8,
+      "bone": "Spine3",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.019648171961307526
+    },
+    {
+      "object": "Object007",
+      "component": 747,
+      "vertices": 14,
+      "bone": "Spine3",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.02163694053888321
+    },
+    {
+      "object": "Object007",
+      "component": 757,
+      "vertices": 8,
+      "bone": "Spine3",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.012214615941047668
+    },
+    {
+      "object": "Object007",
+      "component": 765,
+      "vertices": 8,
+      "bone": "Spine3",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.012514041736721992
+    },
+    {
+      "object": "Object007",
+      "component": 925,
+      "vertices": 18,
+      "bone": "Spine3",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.00755194341763854
+    },
+    {
+      "object": "Object007",
+      "component": 1436,
+      "vertices": 40,
+      "bone": "Root",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.022871877998113632
+    },
+    {
+      "object": "Object007",
+      "component": 1441,
+      "vertices": 36,
+      "bone": "Root",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.01924177259206772
+    },
+    {
+      "object": "Object007",
+      "component": 1816,
+      "vertices": 8,
+      "bone": "Spine2",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.007546916604042053
+    },
+    {
+      "object": "Object007",
+      "component": 1824,
+      "vertices": 8,
+      "bone": "Spine2",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.00729578360915184
+    },
+    {
+      "object": "Object007",
+      "component": 1828,
+      "vertices": 8,
+      "bone": "Spine2",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.007532499730587006
+    },
+    {
+      "object": "Object007",
+      "component": 1832,
+      "vertices": 8,
+      "bone": "Spine2",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.007795271929353476
+    },
+    {
+      "object": "Object007",
+      "component": 1993,
+      "vertices": 14,
+      "bone": "R_Hip",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.03475974500179291
+    },
+    {
+      "object": "Object007",
+      "component": 2380,
+      "vertices": 24,
+      "bone": "R_Hip",
+      "method": "Adjacent fastener: >=80% agree, <=0.04 distance, <=0.11 span",
+      "max_attachment_distance": 0.019616760313510895
+    },
+    {
+      "object": "Object006",
+      "component": 1366,
+      "vertices": 209,
+      "bone": "Root"
+    }
+  ],
+  "cloth_smoothing": [
+    {
+      "object": "Object002",
+      "component": 0,
+      "vertices": 2124,
+      "iterations": 8,
+      "neighbor_blend": 0.45,
+      "fixed_nodes": 0,
+      "position_weld_tolerance": 1e-05
+    },
+    {
+      "object": "Object001",
+      "component": 0,
+      "vertices": 1657,
+      "iterations": 8,
+      "neighbor_blend": 0.45,
+      "fixed_nodes": 0,
+      "position_weld_tolerance": 1e-05
+    },
+    {
+      "object": "hjhjh_4",
+      "component": 0,
+      "vertices": 1995,
+      "iterations": 8,
+      "neighbor_blend": 0.45,
+      "fixed_nodes": 1616,
+      "position_weld_tolerance": 1e-05
+    },
+    {
+      "object": "Object004",
+      "component": 0,
+      "vertices": 508,
+      "iterations": 8,
+      "neighbor_blend": 0.45,
+      "fixed_nodes": 0,
+      "position_weld_tolerance": 1e-05
+    },
+    {
+      "object": "Object004",
+      "component": 12,
+      "vertices": 472,
+      "iterations": 8,
+      "neighbor_blend": 0.45,
+      "fixed_nodes": 0,
+      "position_weld_tolerance": 1e-05
+    },
+    {
+      "object": "Object004",
+      "component": 217,
+      "vertices": 508,
+      "iterations": 8,
+      "neighbor_blend": 0.45,
+      "fixed_nodes": 0,
+      "position_weld_tolerance": 1e-05
+    },
+    {
+      "object": "Object004",
+      "component": 253,
+      "vertices": 454,
+      "iterations": 8,
+      "neighbor_blend": 0.45,
+      "fixed_nodes": 0,
+      "position_weld_tolerance": 1e-05
+    },
+    {
+      "object": "Object009",
+      "component": 652,
+      "vertices": 158,
+      "iterations": 8,
+      "neighbor_blend": 0.45,
+      "fixed_nodes": 27,
+      "position_weld_tolerance": 1e-05
+    },
+    {
+      "object": "Object009",
+      "component": 810,
+      "vertices": 158,
+      "iterations": 8,
+      "neighbor_blend": 0.45,
+      "fixed_nodes": 27,
+      "position_weld_tolerance": 1e-05
+    }
+  ],
+  "status": "Stage 3 refinement revision; deformation review required",
+  "deformation_input_sha256": "8069690f834eedf7b81361d784cf290be8215606bdbf95ac4c21ba5580cdcc6c",
+  "deformation_changes": [
+    {
+      "object": "Object009",
+      "component": 652,
+      "vertices": 64,
+      "method": "Axial elbow-to-hand blend, t .55..1; proximal blend .45...65"
+    },
+    {
+      "object": "Object009",
+      "component": 810,
+      "vertices": 64,
+      "method": "Axial elbow-to-hand blend, t .55..1; proximal blend .45...65"
+    },
+    {
+      "object": "Object001",
+      "component": 0,
+      "vertices": 561,
+      "method": "Seat spine influence to Root; fade z 1.04..1.14; retain hips/knees"
+    },
+    {
+      "object": "Object006",
+      "component": 1366,
+      "vertices": 209,
+      "method": "Continuous belt follows Root"
+    }
+  ]
+}

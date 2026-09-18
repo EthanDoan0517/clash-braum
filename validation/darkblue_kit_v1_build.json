@@ -1,0 +1,404 @@
+{
+  "status": "PASS targeted build; gameplay pending",
+  "archive": "build\\darkblue_kit_v1\\Braum_Clash_Dark_Blue_Kit_v1.fantome",
+  "sha256": "90f25df781d135076f05ae5cb8341298c71a60aa89237145a31a436ec538fca8",
+  "parent_sha256": "0d3c8e039d6d6383b669e38526b5b71940e26dbe9e86850bc2e1a3cc573d52d0",
+  "changes": [
+    {
+      "system": "Braum_Q_mis",
+      "emitters": [
+        {
+          "emitter": "Ice_dust",
+          "action": "remove frost/shard"
+        },
+        {
+          "emitter": "Ice_shard",
+          "action": "remove frost/shard"
+        },
+        {
+          "emitter": "Ice_head",
+          "action": "remove frost/shard"
+        },
+        {
+          "emitter": "Head_glow",
+          "action": "RGB only"
+        },
+        {
+          "emitter": "Spark",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "tail",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "Trail_2",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "Trail",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "Shield_flash",
+          "action": "RGB only"
+        },
+        {
+          "emitter": "ring",
+          "action": "RGB only"
+        },
+        {
+          "emitter": "ground_shape",
+          "action": "electric texture + RGB + scroll"
+        }
+      ]
+    },
+    {
+      "system": "Braum_Q_hit_tar",
+      "emitters": [
+        {
+          "emitter": "swirls",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "slow_trail",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "orbit",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "flash2",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "smoke",
+          "action": "remove frost/shard"
+        },
+        {
+          "emitter": "flash",
+          "action": "RGB only"
+        },
+        {
+          "emitter": "ice_shard",
+          "action": "remove frost/shard"
+        }
+      ]
+    },
+    {
+      "system": "Braum_Q_Hit_Monster_tar",
+      "emitters": [
+        {
+          "emitter": "slow_trail",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "orbit",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "flash2",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "spark",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "smoke",
+          "action": "remove frost/shard"
+        },
+        {
+          "emitter": "flash",
+          "action": "RGB only"
+        },
+        {
+          "emitter": "ice_shard",
+          "action": "remove frost/shard"
+        }
+      ]
+    },
+    {
+      "system": "Braum_W_Dash_Land",
+      "emitters": [
+        {
+          "emitter": "line",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "rockshards",
+          "action": "remove frost/shard"
+        },
+        {
+          "emitter": "Crack_360",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "Crack_270",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "Crack_180",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "Crack_90",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "smoke",
+          "action": "remove frost/shard"
+        }
+      ]
+    },
+    {
+      "system": "Braum_W_Shield_buf",
+      "emitters": [
+        {
+          "emitter": "Decal_shield",
+          "action": "RGB only"
+        },
+        {
+          "emitter": "Decal_blur",
+          "action": "RGB only"
+        },
+        {
+          "emitter": "frost_circle",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "glow",
+          "action": "RGB only"
+        },
+        {
+          "emitter": "ring",
+          "action": "RGB only"
+        },
+        {
+          "emitter": "wispy",
+          "action": "remove frost/shard"
+        },
+        {
+          "emitter": "armor_sparkle",
+          "action": "electric texture + RGB + scroll"
+        }
+      ]
+    },
+    {
+      "system": "Braum_R_mis",
+      "emitters": [
+        {
+          "emitter": "cracks_right",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "cracks_left",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "shards",
+          "action": "remove frost/shard"
+        },
+        {
+          "emitter": "nova",
+          "action": "RGB only"
+        },
+        {
+          "emitter": "line",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "spatter",
+          "action": "remove frost/shard"
+        },
+        {
+          "emitter": "cold_smoke",
+          "action": "remove frost/shard"
+        },
+        {
+          "emitter": "Frozen",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "iceshard_center",
+          "action": "remove frost/shard"
+        }
+      ]
+    },
+    {
+      "system": "Braum_R_Small_mis",
+      "emitters": [
+        {
+          "emitter": "cracks_right",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "cracks_left",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "shards",
+          "action": "remove frost/shard"
+        },
+        {
+          "emitter": "nova",
+          "action": "RGB only"
+        },
+        {
+          "emitter": "line",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "spatter",
+          "action": "remove frost/shard"
+        },
+        {
+          "emitter": "cold_smoke",
+          "action": "remove frost/shard"
+        },
+        {
+          "emitter": "Frozen",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "GroundBurn",
+          "action": "RGB only"
+        },
+        {
+          "emitter": "iceshard_center",
+          "action": "remove frost/shard"
+        }
+      ]
+    },
+    {
+      "system": "Braum_R_PBAOE_Cas",
+      "emitters": [
+        {
+          "emitter": "line",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "Frozen",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "GroundBurn",
+          "action": "RGB only"
+        },
+        {
+          "emitter": "RockShards",
+          "action": "remove frost/shard"
+        }
+      ]
+    },
+    {
+      "system": "Braum_R_Firstknockup_tar",
+      "emitters": [
+        {
+          "emitter": "suck_in",
+          "action": "RGB only"
+        },
+        {
+          "emitter": "Lightning_Flash",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "wind",
+          "action": "remove frost/shard"
+        },
+        {
+          "emitter": "Tornado",
+          "action": "electric texture + RGB + scroll"
+        }
+      ]
+    },
+    {
+      "system": "Braum_R_Slow_Freeze_tar",
+      "emitters": [
+        {
+          "emitter": "swirls",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "slow_trail",
+          "action": "electric texture + RGB + scroll"
+        }
+      ]
+    },
+    {
+      "system": "Braum_R_Slow_tar",
+      "emitters": [
+        {
+          "emitter": "orbit",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "flash2",
+          "action": "electric texture + RGB + scroll"
+        },
+        {
+          "emitter": "flash",
+          "action": "RGB only"
+        }
+      ]
+    },
+    {
+      "system": "Braum_R_small_knockup_tar",
+      "emitters": [
+        {
+          "emitter": "Tornado",
+          "action": "electric texture + RGB + scroll"
+        }
+      ]
+    }
+  ],
+  "E": "Restored scrolling inner enchant emitters; removed non-scrolling First_block mesh only. Other block/expiry effects retained.",
+  "loading": {
+    "source": "clash new.avif",
+    "source_sha256": "9141663ef6983162081086afe12c908f0233cca3ec1cbd4ce0d782b3e338e3be",
+    "path": "WAD/Braum.wad.client/assets/characters/braum/skins/base/braumloadscreen.tex",
+    "dimensions": [
+      308,
+      560
+    ],
+    "crop": "centered portrait"
+  },
+  "protected": "Body/shield textures, model/rig, team telegraphs/endcaps, sound/recall and unrelated entries exact; surviving emitter timelines/alpha/scale/attachments/rates exact.",
+  "limitations": "R ice meshes removed; electrical ground/travel effects retain footprint/timing, but visual readability must be tested. E outer-shell identification follows corrected user description and requires confirmation.",
+  "reused": "Model/color and shared lightning texture checks: exact unchanged bytes.",
+  "payloads": [
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/body.tex",
+      "sha256": "a7226f34dc8dc1195d17f9507a13f58b77691b8c9c17db996836815270828acd"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skl",
+      "sha256": "c961a75b7a7ca6831b59d960d06dcd4f699e491c70e41a6d3cec442d7d2f5cd8"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skn",
+      "sha256": "3bd8e207213bb97599c3aff6617cfe62f36c033c84e96ba4f9d09600eec6625c"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/lightning_trail.tex",
+      "sha256": "75a0a1c613b3eb8f6f20c5b85816dacf911adf9af3ef24218fa7e3f4aa3e0707"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/neutral_gloss.tex",
+      "sha256": "171e0ccaed440a26dc34c29c3f14dd490b9ee4093c98748f25726a22351ed97c"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/shield_frame.tex",
+      "sha256": "cd563a9b177e78b2611cca166a9ec516234622c8e0b40bc6d3ea37f4c1077949"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braumloadscreen.tex",
+      "sha256": "8486bbdc2daa3e3ff77eef14317644858113fb112b635da062bce371936c5dca"
+    },
+    {
+      "path": "data/characters/braum/skins/skin0.bin",
+      "sha256": "76e498d44bce2533ce4a69230ee8e961a53a9834371040b68536363edb1df26f"
+    }
+  ]
+}

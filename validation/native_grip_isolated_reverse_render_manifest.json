@@ -1,0 +1,18 @@
+{
+  "scene": "clash_braum_torso.blend",
+  "scene_sha256": "2501fd57112bb324515e56dc33cb986905f0e50813f5aa946c56ad27e24f030a",
+  "vanilla_reference": true,
+  "isolate_grip": true,
+  "only_objects": null,
+  "camera_direction": "-3,7,3",
+  "edge_focus": null,
+  "ortho_scale": null,
+  "renders": [
+    {
+      "clip": "braum_spell3_run0",
+      "frame": 14,
+      "focus": "L_Hand",
+      "file": "validation\\previews\\native_grip_isolated_reverse\\braum_spell3_run0_014_L_Hand.png"
+    }
+  ]
+}

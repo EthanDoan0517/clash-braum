@@ -1,0 +1,205 @@
+[
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\e_motion_v3\\skin0.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\parent.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\skin0.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\package\\WAD\\Braum.wad.client\\data\\characters\\braum\\skins\\skin0.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "bin",
+      "-o",
+      "text",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\package\\WAD\\Braum.wad.client\\data\\characters\\braum\\skins\\skin0.bin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\verified.ritobin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\verified.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\verified.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v2\\body.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\body_parent.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T04:23:14.376848Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v2\\body.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\body_parent.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\body.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T04:23:15.589128Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\body.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\body_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T04:23:15.910071Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\body_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\body_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T04:23:16.156102Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\body_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\body_mip4.png",
+      "--mipmap",
+      "4"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T04:23:16.198081Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\body_mip4.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v1\\shield_frame.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\shield_frame_parent.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T04:23:16.237248Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v1\\shield_frame.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\shield_frame_parent.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\shield_frame.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\shield_frame.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T04:23:17.556430Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\shield_frame.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\shield_frame.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\shield_frame.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\shield_frame_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T04:23:17.867373Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\shield_frame.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\shield_frame_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\shield_frame.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\shield_frame_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T04:23:18.066055Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\shield_frame.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\shield_frame_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\shield_frame.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\shield_frame_mip4.png",
+      "--mipmap",
+      "4"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T04:23:18.106356Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\shield_frame.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\color_pop_v3\\shield_frame_mip4.png\n",
+    "stderr": ""
+  }
+]

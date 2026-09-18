@@ -1,0 +1,65 @@
+{
+  "status": "BODY ATLAS PREVIEW TRIAL: source base color/opacity and tangent normal baked; visual and export checks required",
+  "scene": "clash_braum_body_atlas_preview_trial.blend",
+  "scene_sha256": "e0f0664f45d6474fe988e3dcd07c7aad77311207e660c0af52d77260185fdafc",
+  "source_sha256": "f48d9934e8e6e4e9498362a80eb85a832ade6e72d4508fab7fccba84984fcd9f",
+  "textures": {
+    "basecolor": {
+      "path": "work\\textures\\body_atlas_trial\\clash_body_basecolor.png",
+      "sha256": "bf1fcca0ef3fdcebd8ebb9ce9056ddab9c1fb94cd6a30252c9ba19fd8db5aab9",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    "opacity": {
+      "path": "work\\textures\\body_atlas_trial\\clash_body_opacity.png",
+      "sha256": "185bca2250bf9f3e4c25108a62691df170c939a3d3a3d190bf5a64f44155e1bd",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    "normal": {
+      "path": "work\\textures\\body_atlas_trial\\clash_body_normal.png",
+      "sha256": "9926d15f9bdae2abf3564e3530ce86422cbba61f8db7918321a86948a3ad05a3",
+      "size": [
+        2048,
+        2048
+      ]
+    }
+  },
+  "bake_channels": {
+    "basecolor": {
+      "min": 0.0,
+      "max": 1.0,
+      "nonzero_rgb_values": 1129031
+    },
+    "opacity": {
+      "min": 0.0,
+      "max": 1.0,
+      "nonzero_rgb_values": 4135098
+    },
+    "normal": {
+      "min": 0.0,
+      "max": 1.0,
+      "nonzero_rgb_values": 12582776
+    }
+  },
+  "body_material": "Braum",
+  "body_objects": [
+    "hjhjh_2",
+    "hjhjh_3",
+    "hjhjh_4",
+    "hjhjh_16",
+    "Object001",
+    "Object002",
+    "Object004",
+    "Object005",
+    "Object006",
+    "Object007",
+    "Object009"
+  ],
+  "method": "Cycles rest-pose self bake, 2048 square, 1 sample, 4px dilation. SourceUV remains explicit in source materials. Emission base color and opacity; tangent normal bake. Shared preview Principled roughness .55/specular .22.",
+  "limits": "Prototype atlas density and mipmap quality need gameplay review; source material reconstruction remains approximate. Not final Riot material/shader or DDS integration."
+}

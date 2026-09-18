@@ -1,0 +1,416 @@
+[
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\textures\\brightness_v1\\body.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\body.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-14T06:41:46.705489Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\textures\\brightness_v1\\body.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\body.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\body.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\body_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-14T06:41:46.992385Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\body.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\body_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\body.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\body_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-14T06:41:47.035474Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\body.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\body_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\body.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\body_mip4.png",
+      "--mipmap",
+      "4"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-14T06:41:47.052559Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\body.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\body_mip4.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\textures\\brightness_v1\\shield_frame.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\shield_frame.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-14T06:41:47.855873Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\textures\\brightness_v1\\shield_frame.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\shield_frame.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\shield_frame.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\shield_frame_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-14T06:41:48.134888Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\shield_frame.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\shield_frame_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\shield_frame.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\shield_frame_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-14T06:41:48.181979Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\shield_frame.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\shield_frame_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\shield_frame.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\shield_frame_mip4.png",
+      "--mipmap",
+      "4"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-14T06:41:48.199359Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\shield_frame.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\shield_frame_mip4.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "bin",
+      "-o",
+      "text",
+      "-d",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\sources",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\Braum.wad\\eb9d53354a504663.bin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\eb9d53354a504663.ritobin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\eb9d53354a504663.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\eb9d53354a504663_noop.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "bin",
+      "-o",
+      "text",
+      "-d",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\sources",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\Braum.wad\\2dc39c165f3aa923.bin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\2dc39c165f3aa923.ritobin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\2dc39c165f3aa923.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\2dc39c165f3aa923_noop.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "bin",
+      "-o",
+      "text",
+      "-d",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\sources",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\Braum.wad\\b8d6f27624ae797b.bin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\b8d6f27624ae797b.ritobin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\b8d6f27624ae797b.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\b8d6f27624ae797b_noop.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "bin",
+      "-o",
+      "text",
+      "-d",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\sources",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\Braum.wad\\f2ef4463d62600e6.bin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\f2ef4463d62600e6.ritobin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\f2ef4463d62600e6.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\f2ef4463d62600e6_noop.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\brightness\\skin0.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\brightness\\package\\WAD\\Braum.wad.client\\data\\characters\\braum\\skins\\skin0.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "bin",
+      "-o",
+      "text",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\brightness\\package\\WAD\\Braum.wad.client\\data\\characters\\braum\\skins\\skin0.bin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\brightness\\verified.ritobin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\brightness\\verified.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\brightness\\verified.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\e\\skin0.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\e\\package\\WAD\\Braum.wad.client\\data\\characters\\braum\\skins\\skin0.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "bin",
+      "-o",
+      "text",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\e\\package\\WAD\\Braum.wad.client\\data\\characters\\braum\\skins\\skin0.bin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\e\\verified.ritobin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\e\\verified.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\e\\verified.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\eq\\skin0.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\eq\\package\\WAD\\Braum.wad.client\\data\\characters\\braum\\skins\\skin0.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "bin",
+      "-o",
+      "text",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\eq\\package\\WAD\\Braum.wad.client\\data\\characters\\braum\\skins\\skin0.bin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\eq\\verified.ritobin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\eq\\verified.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\eq\\verified.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\core\\skin0.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\core\\package\\WAD\\Braum.wad.client\\data\\characters\\braum\\skins\\skin0.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "bin",
+      "-o",
+      "text",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\core\\package\\WAD\\Braum.wad.client\\data\\characters\\braum\\skins\\skin0.bin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\core\\verified.ritobin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\core\\verified.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\lightning_v1\\core\\verified.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  }
+]

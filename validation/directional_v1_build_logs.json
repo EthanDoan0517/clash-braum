@@ -1,0 +1,104 @@
+[
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\w_outline.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\w_outline.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:52:13.684833Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\w_outline.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\w_outline.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\w_outline.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\w_outline_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:52:13.712038Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\w_outline.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\w_outline_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\w_outline.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\w_outline_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:52:13.736950Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\w_outline.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\w_outline_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\skin0.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\parent.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\skin0.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\package\\WAD\\Braum.wad.client\\data\\characters\\braum\\skins\\skin0.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "bin",
+      "-o",
+      "text",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\package\\WAD\\Braum.wad.client\\data\\characters\\braum\\skins\\skin0.bin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\verified.ritobin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\verified.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\directional_v1\\verified.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  }
+]

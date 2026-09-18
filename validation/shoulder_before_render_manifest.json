@@ -1,0 +1,37 @@
+{
+  "scene": "clash_braum_deformation.blend",
+  "scene_sha256": "aea972123a8d0a8e7703bf063559db0afdcb0fc1e4a99bb37d85196c56007972",
+  "vanilla_reference": false,
+  "isolate_grip": false,
+  "only_objects": [
+    "Object002",
+    "Object004"
+  ],
+  "camera_direction": "-3,-7,2",
+  "renders": [
+    {
+      "clip": "braum_recall",
+      "frame": 65,
+      "focus": "torso",
+      "file": "validation\\previews\\shoulder_before\\braum_recall_065_torso.png"
+    },
+    {
+      "clip": "braum_idle_01_loop",
+      "frame": 17,
+      "focus": "torso",
+      "file": "validation\\previews\\shoulder_before\\braum_idle_01_loop_017_torso.png"
+    },
+    {
+      "clip": "braum_spell3_idle180",
+      "frame": 29,
+      "focus": "torso",
+      "file": "validation\\previews\\shoulder_before\\braum_spell3_idle180_029_torso.png"
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 3,
+      "focus": "torso",
+      "file": "validation\\previews\\shoulder_before\\braum_spell4_003_torso.png"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "scene": "clash_braum_shield_surface_trial.blend",
+  "scene_sha256": "f438ca70513c4cacc7267e2e019dfe3102727024cf21c37bef88ad6b1b1f7971",
+  "resolution": 720,
+  "vanilla_reference": false,
+  "isolate_grip": true,
+  "hand_surfaces": false,
+  "only_objects": null,
+  "camera_direction": "-3,7,3",
+  "edge_focus": null,
+  "ortho_scale": null,
+  "candidate_weights": null,
+  "marked_vertices": null,
+  "marker_colors": "red, green, blue, yellow in index order",
+  "renders": [
+    {
+      "clip": "braum_spell3_run0",
+      "frame": 14,
+      "focus": "L_Hand",
+      "file": "validation\\previews\\shield_review_restored_back\\braum_spell3_run0_014_L_Hand.png"
+    },
+    {
+      "clip": "braum_spell3_idle180",
+      "frame": 29,
+      "focus": "R_Hand",
+      "file": "validation\\previews\\shield_review_restored_back\\braum_spell3_idle180_029_R_Hand.png"
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 15,
+      "focus": "L_Hand",
+      "file": "validation\\previews\\shield_review_restored_back\\braum_spell4_015_L_Hand.png"
+    }
+  ]
+}

@@ -5,12 +5,15 @@ ROOT=Path(__file__).resolve().parents[2]
 p=argparse.ArgumentParser()
 p.add_argument('--scene',default='clash_braum_rig_refined.blend')
 p.add_argument('--output',default='cloth_defects.json')
+p.add_argument('--case',action='append',help='Optional clip:frame diagnostic, repeatable')
 args=p.parse_args(sys.argv[sys.argv.index('--')+1:] if '--' in sys.argv else [])
 assert Path(args.scene).name==args.scene and Path(args.output).name==args.output
 bpy.ops.wm.open_mainfile(filepath=str(ROOT/'work/scenes'/args.scene),load_ui=False,use_scripts=False)
 regions=json.loads((ROOT/'validation/rig_regions.json').read_text())
 rig=bpy.data.objects['Braum_Native'];report=[]
-for clip,frame in [('braum_recall',65),('braum_dance_loop',50)]:
+cases=[('braum_recall',65),('braum_dance_loop',50)]
+if args.case:cases=[(name,int(frame)) for name,frame in (c.split(':') for c in args.case)]
+for clip,frame in cases:
     action=bpy.data.actions[clip];rig.animation_data.action=action;rig.animation_data.action_slot=action.slots[0]
     bpy.context.scene.frame_set(frame);deps=bpy.context.evaluated_depsgraph_get()
     for obj in bpy.context.scene.objects:

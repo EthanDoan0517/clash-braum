@@ -1,0 +1,29 @@
+{
+  "scene": "clash_braum_body_atlas_layout_trial.blend",
+  "scene_sha256": "742ef616d363a9af5d2cd8deb2d503e279f0ed41b11104314371e634ba085784",
+  "resolution": 360,
+  "vanilla_reference": false,
+  "isolate_grip": false,
+  "hand_surfaces": false,
+  "only_objects": null,
+  "camera_direction": "3,-7,8",
+  "edge_focus": null,
+  "ortho_scale": 5.0,
+  "candidate_weights": null,
+  "marked_vertices": null,
+  "marker_colors": "red, green, blue, yellow in index order",
+  "renders": [
+    {
+      "clip": "braum_idle_01_loop",
+      "frame": 17,
+      "focus": "body",
+      "file": "validation\\previews\\body_atlas_source_coordinates\\braum_idle_01_loop_017_body.png"
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 17,
+      "focus": "body",
+      "file": "validation\\previews\\body_atlas_source_coordinates\\braum_spell4_017_body.png"
+    }
+  ]
+}

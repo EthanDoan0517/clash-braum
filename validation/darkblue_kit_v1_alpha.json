@@ -1,0 +1,62 @@
+[
+  {
+    "system": "Braum_Q_mis",
+    "survivors": 9,
+    "alpha_exact_or_explicit_default": true
+  },
+  {
+    "system": "Braum_Q_hit_tar",
+    "survivors": 5,
+    "alpha_exact_or_explicit_default": true
+  },
+  {
+    "system": "Braum_Q_Hit_Monster_tar",
+    "survivors": 5,
+    "alpha_exact_or_explicit_default": true
+  },
+  {
+    "system": "Braum_W_Dash_Land",
+    "survivors": 6,
+    "alpha_exact_or_explicit_default": true
+  },
+  {
+    "system": "Braum_W_Shield_buf",
+    "survivors": 6,
+    "alpha_exact_or_explicit_default": true
+  },
+  {
+    "system": "Braum_R_mis",
+    "survivors": 5,
+    "alpha_exact_or_explicit_default": true
+  },
+  {
+    "system": "Braum_R_Small_mis",
+    "survivors": 6,
+    "alpha_exact_or_explicit_default": true
+  },
+  {
+    "system": "Braum_R_PBAOE_Cas",
+    "survivors": 3,
+    "alpha_exact_or_explicit_default": true
+  },
+  {
+    "system": "Braum_R_Firstknockup_tar",
+    "survivors": 3,
+    "alpha_exact_or_explicit_default": true
+  },
+  {
+    "system": "Braum_R_Slow_Freeze_tar",
+    "survivors": 2,
+    "alpha_exact_or_explicit_default": true
+  },
+  {
+    "system": "Braum_R_Slow_tar",
+    "survivors": 3,
+    "alpha_exact_or_explicit_default": true
+  },
+  {
+    "system": "Braum_R_small_knockup_tar",
+    "survivors": 1,
+    "alpha_exact_or_explicit_default": true
+  }
+]

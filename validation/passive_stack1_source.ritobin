@@ -1,0 +1,314 @@
+    "Characters/Braum/Skins/Skin0/Particles/Braum_Base_P_stack_1" = VfxSystemDefinitionData {
+        ComplexEmitterDefinitionData: list[pointer] = {
+            VfxEmitterDefinitionData {
+                Rate: embed = ValueFloat {
+                    ConstantValue: f32 = 1
+                }
+                ParticleLifetime: embed = ValueFloat {
+                    ConstantValue: f32 = 5.5
+                }
+                IsSingleParticle: flag = true
+                EmitterName: string = "ground_stack_base"
+                BindWeight: embed = ValueFloat {
+                    ConstantValue: f32 = 1
+                }
+                SpawnShape: pointer = 0xee39916f {
+                    EmitOffset: vec3 = { 0, 0, -100 }
+                }
+                FlexShapeDefinition: pointer = VfxFlexShapeDefinitionData {
+                    ScaleBirthScaleByBoundObjectSize: f32 = 0.00600000005
+                    ScaleEmitOffsetByBoundObjectSize: f32 = 0.00400000019
+                }
+                Primitive: pointer = VfxPrimitiveArbitraryQuad {}
+                BlendMode: u8 = 1
+                Color: embed = ValueColor {
+                    Dynamics: pointer = VfxAnimatedColorVariableData {
+                        Times: list[f32] = {
+                            0
+                            0.0500000007
+                            0.800000012
+                            1
+                        }
+                        Values: list[vec4] = {
+                            { 1, 1, 1, 1 }
+                            { 1, 1, 1, 1 }
+                            { 1, 1, 1, 1 }
+                            { 1, 1, 1, 0 }
+                        }
+                    }
+                }
+                Pass: i16 = 5
+                MiscRenderFlags: u8 = 1
+                BirthRotation0: embed = ValueVector3 {
+                    ConstantValue: vec3 = { 90, -90, 0 }
+                }
+                IsLocalOrientation: flag = false
+                BirthScale0: embed = ValueVector3 {
+                    ConstantValue: vec3 = { 90, 90, 90 }
+                }
+                Texture: string = "ASSETS/Characters/Braum/Skins/Base/Particles/Braum_Base_P_base.tex"
+            }
+            VfxEmitterDefinitionData {
+                Rate: embed = ValueFloat {
+                    ConstantValue: f32 = 1
+                }
+                ParticleLifetime: embed = ValueFloat {
+                    ConstantValue: f32 = 5.5
+                }
+                IsSingleParticle: flag = true
+                EmitterName: string = "ground_stack_01"
+                BindWeight: embed = ValueFloat {
+                    ConstantValue: f32 = 1
+                }
+                SpawnShape: pointer = 0xee39916f {
+                    EmitOffset: vec3 = { 0, 0, -100 }
+                }
+                FlexShapeDefinition: pointer = VfxFlexShapeDefinitionData {
+                    ScaleBirthScaleByBoundObjectSize: f32 = 0.00600000005
+                    ScaleEmitOffsetByBoundObjectSize: f32 = 0.00400000019
+                }
+                Primitive: pointer = VfxPrimitiveArbitraryQuad {}
+                BlendMode: u8 = 1
+                Color: embed = ValueColor {
+                    Dynamics: pointer = VfxAnimatedColorVariableData {
+                        Times: list[f32] = {
+                            0
+                            0.0500000007
+                            0.800000012
+                            1
+                        }
+                        Values: list[vec4] = {
+                            { 1, 1, 1, 0 }
+                            { 1, 1, 1, 1 }
+                            { 1, 1, 1, 1 }
+                            { 1, 1, 1, 0 }
+                        }
+                    }
+                }
+                Pass: i16 = 6
+                MiscRenderFlags: u8 = 1
+                BirthRotation0: embed = ValueVector3 {
+                    ConstantValue: vec3 = { 90, -90, 0 }
+                }
+                IsLocalOrientation: flag = false
+                BirthScale0: embed = ValueVector3 {
+                    ConstantValue: vec3 = { 90, 90, 90 }
+                }
+                Scale0: embed = ValueVector3 {
+                    Dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        Times: list[f32] = {
+                            0
+                            0.0250000004
+                            1
+                        }
+                        Values: list[vec3] = {
+                            { 2, 2, 2 }
+                            { 1, 1, 1 }
+                            { 1, 1, 1 }
+                        }
+                    }
+                }
+                Texture: string = "ASSETS/Characters/Braum/Skins/Base/Particles/Braum_Base_P_stack_01.tex"
+            }
+            VfxEmitterDefinitionData {
+                Rate: embed = ValueFloat {
+                    ConstantValue: f32 = 40
+                }
+                ParticleLifetime: embed = ValueFloat {
+                    ConstantValue: f32 = 0.75
+                    Dynamics: pointer = VfxAnimatedFloatVariableData {
+                        ProbabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {
+                                KeyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                KeyValues: list[f32] = {
+                                    0.5
+                                    1.25
+                                }
+                            }
+                        }
+                        Times: list[f32] = {
+                            0
+                        }
+                        Values: list[f32] = {
+                            0.75
+                        }
+                    }
+                }
+                IsSingleParticle: flag = true
+                EmitterName: string = "sparks"
+                BirthVelocity: embed = ValueVector3 {
+                    ConstantValue: vec3 = { 3, 3, 3 }
+                    Dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        ProbabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {
+                                KeyTimes: list[f32] = {
+                                    0
+                                    0.100000001
+                                    0.899999976
+                                    1
+                                }
+                                KeyValues: list[f32] = {
+                                    -400
+                                    -150
+                                    150
+                                    400
+                                }
+                            }
+                            VfxProbabilityTableData {
+                                KeyTimes: list[f32] = {
+                                    0
+                                    0.100000001
+                                    0.899999976
+                                    1
+                                }
+                                KeyValues: list[f32] = {
+                                    -400
+                                    -150
+                                    150
+                                    400
+                                }
+                            }
+                            VfxProbabilityTableData {
+                                KeyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                KeyValues: list[f32] = {
+                                    0
+                                    200
+                                }
+                            }
+                        }
+                        Times: list[f32] = {
+                            0
+                        }
+                        Values: list[vec3] = {
+                            { 3, 3, 3 }
+                        }
+                    }
+                }
+                BirthDrag: embed = ValueVector3 {
+                    ConstantValue: vec3 = { 7, 7, 7 }
+                }
+                BindWeight: embed = ValueFloat {
+                    ConstantValue: f32 = 1
+                }
+                SpawnShape: pointer = VfxShapeLegacy {
+                    EmitOffset: embed = ValueVector3 {
+                        ConstantValue: vec3 = { -1, 1, 1 }
+                        Dynamics: pointer = VfxAnimatedVector3fVariableData {
+                            ProbabilityTables: list[pointer] = {
+                                VfxProbabilityTableData {
+                                    KeyTimes: list[f32] = {
+                                        0
+                                        1
+                                    }
+                                    KeyValues: list[f32] = {
+                                        80
+                                        50
+                                    }
+                                }
+                                VfxProbabilityTableData {
+                                    KeyTimes: list[f32] = {
+                                        0
+                                        1
+                                    }
+                                    KeyValues: list[f32] = {
+                                        0
+                                        30
+                                    }
+                                }
+                                VfxProbabilityTableData {
+                                    KeyTimes: list[f32] = {
+                                        0
+                                        1
+                                    }
+                                    KeyValues: list[f32] = {
+                                        -90
+                                        -110
+                                    }
+                                }
+                            }
+                            Times: list[f32] = {
+                                0
+                            }
+                            Values: list[vec3] = {
+                                { -1, 1, 1 }
+                            }
+                        }
+                    }
+                }
+                BlendMode: u8 = 4
+                Color: embed = ValueColor {
+                    Dynamics: pointer = VfxAnimatedColorVariableData {
+                        Times: list[f32] = {
+                            0
+                            0.0500000007
+                            0.5
+                            1
+                        }
+                        Values: list[vec4] = {
+                            { 1, 1, 1, 1 }
+                            { 1, 1, 1, 1 }
+                            { 1, 1, 1, 0.5 }
+                            { 1, 1, 1, 0 }
+                        }
+                    }
+                }
+                Pass: i16 = 7
+                IsUniformScale: flag = true
+                IsRandomStartFrame: flag = true
+                IsLocalOrientation: flag = false
+                BirthScale0: embed = ValueVector3 {
+                    ConstantValue: vec3 = { 30, 30, 30 }
+                    Dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        ProbabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {
+                                KeyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                KeyValues: list[f32] = {
+                                    0.75
+                                    1.20000005
+                                }
+                            }
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                        }
+                        Times: list[f32] = {
+                            0
+                        }
+                        Values: list[vec3] = {
+                            { 30, 30, 30 }
+                        }
+                    }
+                }
+                Scale0: embed = ValueVector3 {
+                    Dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        Times: list[f32] = {
+                            0
+                            0.100000001
+                            0.5
+                            1
+                        }
+                        Values: list[vec3] = {
+                            { 5, 5, 5 }
+                            { 1, 1, 1 }
+                            { 1, 1, 1 }
+                            { 0, 0, 0 }
+                        }
+                    }
+                }
+                Texture: string = "ASSETS/Characters/Braum/Skins/Base/Particles/Braum_Base_Q_End_spark_mis.tex"
+                NumFrames: u16 = 4
+                TexDiv: vec2 = { 2, 2 }
+            }
+        }
+        ParticleName: string = "Braum_Base_P_stack_1"
+        ParticlePath: string = "Characters/Braum/Skins/Skin0/Particles/Braum_Base_P_stack_1"
+        ObjectPath: hash = "Characters/Braum/Skins/Skin0/Particles/Braum_Base_P_stack_1"
+    }

@@ -1,0 +1,4217 @@
+{
+  "status": "STAGE 4 TRIAL: protected body contract and sampled shield surface checks passed; visual/export review required",
+  "parent_sha256": "2501fd57112bb324515e56dc33cb986905f0e50813f5aa946c56ad27e24f030a",
+  "scene": "clash_braum_shield_split_collapse_trial.blend",
+  "method": {
+    "weld_threshold": null,
+    "decimate_type": "COLLAPSE",
+    "ratio": 0.5,
+    "max_sample_surface_error": 0.003,
+    "angle_limit_radians": 0.0001,
+    "dissolve_delimit": [
+      "NORMAL",
+      "MATERIAL",
+      "SEAM",
+      "SHARP",
+      "UV"
+    ],
+    "dissolve_boundaries": false
+  },
+  "protected_mesh_signatures": {
+    "Vanilla_Reference": "b23fbc74246502b453ff945a6afbd9131c49bc369f24a403e88983a948029c1b",
+    "Object009": "bb74d81d1f5d2300c2fb5a369652dbf08c878c4eb81ab4c408cd69d60ece178e",
+    "Object007": "abe1bbc75f067841a927ef890bbe1b8e80086294e6445546f0922898204f9b04",
+    "Object006": "e582ae8351757d7bad8ac3f61bcde04f0a191db910f6df6c4bd4ee76e0369fa2",
+    "Object005": "ed0ccd9b8c28bb2c21b1378ed95d350cc05268f43b8ba5abb6b8caf43248a57a",
+    "Object004": "23d4a09c139d27ad090b679b68d9552e1082bb0595d684202a7833b22a28de43",
+    "Object002": "3e1471a64c89f6054c7444984a5fa663940adab2fd0990da55bc160ae8f254ef",
+    "Object001": "2548a186e289ce0e1e94d209c0444757333ef3294f3e9559b5a1ffb06bc1d173",
+    "hjhjh_4": "88117cc7f1554a9387e280692c6b871ce9b3f4b0ec0dddd56e46333b957e68b2",
+    "hjhjh_3": "fbac2969aa382d48c452a5e0127571d736e6be25da5f920fe46a63087f4d8e3a",
+    "hjhjh_2": "35b40c25fc3be369923b70460ec182783ddf3727d598708ac5af11f72faf3e38",
+    "hjhjh_16": "7b76bb0745bf35b4abcd8f4d8bf9209cad4bd3b522c060a2aa124b4fb52fe4ba",
+    "Poro": "4e22f89e3fb7b198e91f319193542e32df1f661b990e747763679c3bca39a144"
+  },
+  "protected_meshes_exact": true,
+  "shield_weights_rigid": true,
+  "uv_finite": true,
+  "before_shield_triangles": 12256,
+  "after_shield_triangles": 11441,
+  "objects": [
+    {
+      "object": "CCE_mesh_13.001",
+      "retained": false,
+      "proposed_triangles": 2375,
+      "before_vertices": 5123,
+      "after_vertices": 5123,
+      "before_triangles": 4750,
+      "after_triangles": 4750,
+      "candidate_to_source_max_sample_distance": 0.0031632701866328716,
+      "source_to_candidate_max_sample_distance": 0.0028884808998554945,
+      "source_triangle_mapping": []
+    },
+    {
+      "object": "CCE_mesh_14.001",
+      "retained": false,
+      "proposed_triangles": 2937,
+      "before_vertices": 7293,
+      "after_vertices": 7293,
+      "before_triangles": 5874,
+      "after_triangles": 5874,
+      "candidate_to_source_max_sample_distance": 0.0049436623230576515,
+      "source_to_candidate_max_sample_distance": 0.010794170200824738,
+      "source_triangle_mapping": []
+    },
+    {
+      "object": "CCE_mesh_15.001",
+      "retained": true,
+      "proposed_triangles": 24,
+      "before_vertices": 52,
+      "after_vertices": 29,
+      "before_triangles": 48,
+      "after_triangles": 24,
+      "candidate_to_source_max_sample_distance": 0.0008996687247417867,
+      "source_to_candidate_max_sample_distance": 0.0009273780160583556,
+      "source_triangle_mapping": [
+        {
+          "triangle": 0,
+          "nearest_source_triangle_at_centroid": 1,
+          "max_sample_distance": 6.088832378736697e-05
+        },
+        {
+          "triangle": 1,
+          "nearest_source_triangle_at_centroid": 15,
+          "max_sample_distance": 6.088832378736697e-05
+        },
+        {
+          "triangle": 2,
+          "nearest_source_triangle_at_centroid": 0,
+          "max_sample_distance": 6.088832378736697e-05
+        },
+        {
+          "triangle": 3,
+          "nearest_source_triangle_at_centroid": 2,
+          "max_sample_distance": 6.088832378736697e-05
+        },
+        {
+          "triangle": 4,
+          "nearest_source_triangle_at_centroid": 3,
+          "max_sample_distance": 6.088832378736697e-05
+        },
+        {
+          "triangle": 5,
+          "nearest_source_triangle_at_centroid": 5,
+          "max_sample_distance": 6.088832378736697e-05
+        },
+        {
+          "triangle": 6,
+          "nearest_source_triangle_at_centroid": 7,
+          "max_sample_distance": 6.088832378736697e-05
+        },
+        {
+          "triangle": 7,
+          "nearest_source_triangle_at_centroid": 8,
+          "max_sample_distance": 6.088832378736697e-05
+        },
+        {
+          "triangle": 8,
+          "nearest_source_triangle_at_centroid": 9,
+          "max_sample_distance": 6.088832378736697e-05
+        },
+        {
+          "triangle": 9,
+          "nearest_source_triangle_at_centroid": 10,
+          "max_sample_distance": 6.088832378736697e-05
+        },
+        {
+          "triangle": 10,
+          "nearest_source_triangle_at_centroid": 11,
+          "max_sample_distance": 6.088832378736697e-05
+        },
+        {
+          "triangle": 11,
+          "nearest_source_triangle_at_centroid": 11,
+          "max_sample_distance": 6.088832378736697e-05
+        },
+        {
+          "triangle": 12,
+          "nearest_source_triangle_at_centroid": 14,
+          "max_sample_distance": 6.088832378736697e-05
+        },
+        {
+          "triangle": 13,
+          "nearest_source_triangle_at_centroid": 14,
+          "max_sample_distance": 6.088832378736697e-05
+        },
+        {
+          "triangle": 14,
+          "nearest_source_triangle_at_centroid": 17,
+          "max_sample_distance": 0.00020620458235498518
+        },
+        {
+          "triangle": 15,
+          "nearest_source_triangle_at_centroid": 19,
+          "max_sample_distance": 0.0003712681937031448
+        },
+        {
+          "triangle": 16,
+          "nearest_source_triangle_at_centroid": 23,
+          "max_sample_distance": 0.0005106301978230476
+        },
+        {
+          "triangle": 17,
+          "nearest_source_triangle_at_centroid": 27,
+          "max_sample_distance": 0.00048536492977291346
+        },
+        {
+          "triangle": 18,
+          "nearest_source_triangle_at_centroid": 30,
+          "max_sample_distance": 0.0004149691085331142
+        },
+        {
+          "triangle": 19,
+          "nearest_source_triangle_at_centroid": 33,
+          "max_sample_distance": 0.0004129409499000758
+        },
+        {
+          "triangle": 20,
+          "nearest_source_triangle_at_centroid": 35,
+          "max_sample_distance": 0.00044546276330947876
+        },
+        {
+          "triangle": 21,
+          "nearest_source_triangle_at_centroid": 38,
+          "max_sample_distance": 0.00020220848091412336
+        },
+        {
+          "triangle": 22,
+          "nearest_source_triangle_at_centroid": 42,
+          "max_sample_distance": 0.0008996687247417867
+        },
+        {
+          "triangle": 23,
+          "nearest_source_triangle_at_centroid": 45,
+          "max_sample_distance": 0.0008365786052308977
+        }
+      ]
+    },
+    {
+      "object": "CCE_mesh_16",
+      "retained": true,
+      "proposed_triangles": 530,
+      "before_vertices": 999,
+      "after_vertices": 633,
+      "before_triangles": 1060,
+      "after_triangles": 530,
+      "candidate_to_source_max_sample_distance": 0.00035750376991927624,
+      "source_to_candidate_max_sample_distance": 0.00036095947143621743,
+      "source_triangle_mapping": [
+        {
+          "triangle": 0,
+          "nearest_source_triangle_at_centroid": 0,
+          "max_sample_distance": 0.00010154924530070275
+        },
+        {
+          "triangle": 1,
+          "nearest_source_triangle_at_centroid": 3,
+          "max_sample_distance": 0.00013759628927800804
+        },
+        {
+          "triangle": 2,
+          "nearest_source_triangle_at_centroid": 7,
+          "max_sample_distance": 0.00012284413969609886
+        },
+        {
+          "triangle": 3,
+          "nearest_source_triangle_at_centroid": 8,
+          "max_sample_distance": 7.980837835930288e-05
+        },
+        {
+          "triangle": 4,
+          "nearest_source_triangle_at_centroid": 11,
+          "max_sample_distance": 2.731428025981586e-07
+        },
+        {
+          "triangle": 5,
+          "nearest_source_triangle_at_centroid": 12,
+          "max_sample_distance": 1.4901161193847656e-08
+        },
+        {
+          "triangle": 6,
+          "nearest_source_triangle_at_centroid": 13,
+          "max_sample_distance": 1.4901161193847656e-08
+        },
+        {
+          "triangle": 7,
+          "nearest_source_triangle_at_centroid": 14,
+          "max_sample_distance": 2.6697625798988156e-07
+        },
+        {
+          "triangle": 8,
+          "nearest_source_triangle_at_centroid": 15,
+          "max_sample_distance": 0.0
+        },
+        {
+          "triangle": 9,
+          "nearest_source_triangle_at_centroid": 16,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 10,
+          "nearest_source_triangle_at_centroid": 17,
+          "max_sample_distance": 1.4901161193847656e-08
+        },
+        {
+          "triangle": 11,
+          "nearest_source_triangle_at_centroid": 18,
+          "max_sample_distance": 1.2013700256829907e-07
+        },
+        {
+          "triangle": 12,
+          "nearest_source_triangle_at_centroid": 20,
+          "max_sample_distance": 1.4901161193847656e-08
+        },
+        {
+          "triangle": 13,
+          "nearest_source_triangle_at_centroid": 21,
+          "max_sample_distance": 1.2013700256829907e-07
+        },
+        {
+          "triangle": 14,
+          "nearest_source_triangle_at_centroid": 22,
+          "max_sample_distance": 1.2287812012345967e-07
+        },
+        {
+          "triangle": 15,
+          "nearest_source_triangle_at_centroid": 23,
+          "max_sample_distance": 1.4901161193847656e-07
+        },
+        {
+          "triangle": 16,
+          "nearest_source_triangle_at_centroid": 24,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 17,
+          "nearest_source_triangle_at_centroid": 25,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 18,
+          "nearest_source_triangle_at_centroid": 26,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 19,
+          "nearest_source_triangle_at_centroid": 27,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 20,
+          "nearest_source_triangle_at_centroid": 28,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 21,
+          "nearest_source_triangle_at_centroid": 29,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 22,
+          "nearest_source_triangle_at_centroid": 30,
+          "max_sample_distance": 7.450580596923828e-08
+        },
+        {
+          "triangle": 23,
+          "nearest_source_triangle_at_centroid": 31,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 24,
+          "nearest_source_triangle_at_centroid": 32,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 25,
+          "nearest_source_triangle_at_centroid": 33,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 26,
+          "nearest_source_triangle_at_centroid": 34,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 27,
+          "nearest_source_triangle_at_centroid": 35,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 28,
+          "nearest_source_triangle_at_centroid": 36,
+          "max_sample_distance": 8.940696716308594e-08
+        },
+        {
+          "triangle": 29,
+          "nearest_source_triangle_at_centroid": 37,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 30,
+          "nearest_source_triangle_at_centroid": 38,
+          "max_sample_distance": 1.2013700256829907e-07
+        },
+        {
+          "triangle": 31,
+          "nearest_source_triangle_at_centroid": 39,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 32,
+          "nearest_source_triangle_at_centroid": 40,
+          "max_sample_distance": 8.940696716308594e-08
+        },
+        {
+          "triangle": 33,
+          "nearest_source_triangle_at_centroid": 41,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 34,
+          "nearest_source_triangle_at_centroid": 42,
+          "max_sample_distance": 7.450580596923828e-08
+        },
+        {
+          "triangle": 35,
+          "nearest_source_triangle_at_centroid": 43,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 36,
+          "nearest_source_triangle_at_centroid": 44,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 37,
+          "nearest_source_triangle_at_centroid": 45,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 38,
+          "nearest_source_triangle_at_centroid": 46,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 39,
+          "nearest_source_triangle_at_centroid": 48,
+          "max_sample_distance": 8.701034676050767e-05
+        },
+        {
+          "triangle": 40,
+          "nearest_source_triangle_at_centroid": 49,
+          "max_sample_distance": 8.701034676050767e-05
+        },
+        {
+          "triangle": 41,
+          "nearest_source_triangle_at_centroid": 52,
+          "max_sample_distance": 7.450580596923828e-08
+        },
+        {
+          "triangle": 42,
+          "nearest_source_triangle_at_centroid": 53,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 43,
+          "nearest_source_triangle_at_centroid": 54,
+          "max_sample_distance": 1.043081283569336e-07
+        },
+        {
+          "triangle": 44,
+          "nearest_source_triangle_at_centroid": 55,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 45,
+          "nearest_source_triangle_at_centroid": 56,
+          "max_sample_distance": 7.450580596923828e-08
+        },
+        {
+          "triangle": 46,
+          "nearest_source_triangle_at_centroid": 57,
+          "max_sample_distance": 7.450580596923828e-08
+        },
+        {
+          "triangle": 47,
+          "nearest_source_triangle_at_centroid": 58,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 48,
+          "nearest_source_triangle_at_centroid": 59,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 49,
+          "nearest_source_triangle_at_centroid": 61,
+          "max_sample_distance": 7.76924571255222e-05
+        },
+        {
+          "triangle": 50,
+          "nearest_source_triangle_at_centroid": 65,
+          "max_sample_distance": 7.76924571255222e-05
+        },
+        {
+          "triangle": 51,
+          "nearest_source_triangle_at_centroid": 66,
+          "max_sample_distance": 8.630988304503262e-05
+        },
+        {
+          "triangle": 52,
+          "nearest_source_triangle_at_centroid": 67,
+          "max_sample_distance": 8.767168765189126e-05
+        },
+        {
+          "triangle": 53,
+          "nearest_source_triangle_at_centroid": 70,
+          "max_sample_distance": 0.0001368830562569201
+        },
+        {
+          "triangle": 54,
+          "nearest_source_triangle_at_centroid": 72,
+          "max_sample_distance": 5.2586576202884316e-05
+        },
+        {
+          "triangle": 55,
+          "nearest_source_triangle_at_centroid": 75,
+          "max_sample_distance": 8.069975592661649e-05
+        },
+        {
+          "triangle": 56,
+          "nearest_source_triangle_at_centroid": 80,
+          "max_sample_distance": 8.069975592661649e-05
+        },
+        {
+          "triangle": 57,
+          "nearest_source_triangle_at_centroid": 85,
+          "max_sample_distance": 6.1701430240646e-05
+        },
+        {
+          "triangle": 58,
+          "nearest_source_triangle_at_centroid": 83,
+          "max_sample_distance": 4.7229696065187454e-05
+        },
+        {
+          "triangle": 59,
+          "nearest_source_triangle_at_centroid": 84,
+          "max_sample_distance": 4.7229696065187454e-05
+        },
+        {
+          "triangle": 60,
+          "nearest_source_triangle_at_centroid": 86,
+          "max_sample_distance": 3.888555875164457e-05
+        },
+        {
+          "triangle": 61,
+          "nearest_source_triangle_at_centroid": 91,
+          "max_sample_distance": 8.069975592661649e-05
+        },
+        {
+          "triangle": 62,
+          "nearest_source_triangle_at_centroid": 94,
+          "max_sample_distance": 0.00019074785814154893
+        },
+        {
+          "triangle": 63,
+          "nearest_source_triangle_at_centroid": 97,
+          "max_sample_distance": 5.437164145405404e-05
+        },
+        {
+          "triangle": 64,
+          "nearest_source_triangle_at_centroid": 98,
+          "max_sample_distance": 5.437164145405404e-05
+        },
+        {
+          "triangle": 65,
+          "nearest_source_triangle_at_centroid": 99,
+          "max_sample_distance": 0.00019074785814154893
+        },
+        {
+          "triangle": 66,
+          "nearest_source_triangle_at_centroid": 117,
+          "max_sample_distance": 9.919988224282861e-05
+        },
+        {
+          "triangle": 67,
+          "nearest_source_triangle_at_centroid": 104,
+          "max_sample_distance": 5.437164145405404e-05
+        },
+        {
+          "triangle": 68,
+          "nearest_source_triangle_at_centroid": 105,
+          "max_sample_distance": 9.919988224282861e-05
+        },
+        {
+          "triangle": 69,
+          "nearest_source_triangle_at_centroid": 106,
+          "max_sample_distance": 5.5867742048576474e-05
+        },
+        {
+          "triangle": 70,
+          "nearest_source_triangle_at_centroid": 107,
+          "max_sample_distance": 0.00010337350977351889
+        },
+        {
+          "triangle": 71,
+          "nearest_source_triangle_at_centroid": 111,
+          "max_sample_distance": 0.00010337350977351889
+        },
+        {
+          "triangle": 72,
+          "nearest_source_triangle_at_centroid": 114,
+          "max_sample_distance": 0.00014049341552890837
+        },
+        {
+          "triangle": 73,
+          "nearest_source_triangle_at_centroid": 119,
+          "max_sample_distance": 0.00014049341552890837
+        },
+        {
+          "triangle": 74,
+          "nearest_source_triangle_at_centroid": 122,
+          "max_sample_distance": 4.9357091484125704e-05
+        },
+        {
+          "triangle": 75,
+          "nearest_source_triangle_at_centroid": 124,
+          "max_sample_distance": 6.676023622276261e-05
+        },
+        {
+          "triangle": 76,
+          "nearest_source_triangle_at_centroid": 92,
+          "max_sample_distance": 0.00011952780914725736
+        },
+        {
+          "triangle": 77,
+          "nearest_source_triangle_at_centroid": 133,
+          "max_sample_distance": 0.00013476725143846124
+        },
+        {
+          "triangle": 78,
+          "nearest_source_triangle_at_centroid": 135,
+          "max_sample_distance": 0.00013476725143846124
+        },
+        {
+          "triangle": 79,
+          "nearest_source_triangle_at_centroid": 137,
+          "max_sample_distance": 0.00013476725143846124
+        },
+        {
+          "triangle": 80,
+          "nearest_source_triangle_at_centroid": 61,
+          "max_sample_distance": 8.767168765189126e-05
+        },
+        {
+          "triangle": 81,
+          "nearest_source_triangle_at_centroid": 145,
+          "max_sample_distance": 8.767168765189126e-05
+        },
+        {
+          "triangle": 82,
+          "nearest_source_triangle_at_centroid": 142,
+          "max_sample_distance": 0.00013476725143846124
+        },
+        {
+          "triangle": 83,
+          "nearest_source_triangle_at_centroid": 149,
+          "max_sample_distance": 8.432214235654101e-05
+        },
+        {
+          "triangle": 84,
+          "nearest_source_triangle_at_centroid": 149,
+          "max_sample_distance": 8.432214235654101e-05
+        },
+        {
+          "triangle": 85,
+          "nearest_source_triangle_at_centroid": 151,
+          "max_sample_distance": 8.432214235654101e-05
+        },
+        {
+          "triangle": 86,
+          "nearest_source_triangle_at_centroid": 155,
+          "max_sample_distance": 8.432214235654101e-05
+        },
+        {
+          "triangle": 87,
+          "nearest_source_triangle_at_centroid": 156,
+          "max_sample_distance": 1.4901161193847656e-08
+        },
+        {
+          "triangle": 88,
+          "nearest_source_triangle_at_centroid": 157,
+          "max_sample_distance": 1.4901161193847656e-08
+        },
+        {
+          "triangle": 89,
+          "nearest_source_triangle_at_centroid": 158,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 90,
+          "nearest_source_triangle_at_centroid": 159,
+          "max_sample_distance": 8.432214235654101e-05
+        },
+        {
+          "triangle": 91,
+          "nearest_source_triangle_at_centroid": 160,
+          "max_sample_distance": 1.4901161193847656e-08
+        },
+        {
+          "triangle": 92,
+          "nearest_source_triangle_at_centroid": 161,
+          "max_sample_distance": 1.4901161193847656e-08
+        },
+        {
+          "triangle": 93,
+          "nearest_source_triangle_at_centroid": 162,
+          "max_sample_distance": 1.2013700256829907e-07
+        },
+        {
+          "triangle": 94,
+          "nearest_source_triangle_at_centroid": 164,
+          "max_sample_distance": 3.7910907849436626e-05
+        },
+        {
+          "triangle": 95,
+          "nearest_source_triangle_at_centroid": 165,
+          "max_sample_distance": 0.00010144367115572095
+        },
+        {
+          "triangle": 96,
+          "nearest_source_triangle_at_centroid": 166,
+          "max_sample_distance": 4.8006892029661685e-05
+        },
+        {
+          "triangle": 97,
+          "nearest_source_triangle_at_centroid": 708,
+          "max_sample_distance": 4.8006892029661685e-05
+        },
+        {
+          "triangle": 98,
+          "nearest_source_triangle_at_centroid": 170,
+          "max_sample_distance": 0.00010736543481471017
+        },
+        {
+          "triangle": 99,
+          "nearest_source_triangle_at_centroid": 715,
+          "max_sample_distance": 6.970630784053355e-05
+        },
+        {
+          "triangle": 100,
+          "nearest_source_triangle_at_centroid": 176,
+          "max_sample_distance": 6.970630784053355e-05
+        },
+        {
+          "triangle": 101,
+          "nearest_source_triangle_at_centroid": 180,
+          "max_sample_distance": 0.00011526484740898013
+        },
+        {
+          "triangle": 102,
+          "nearest_source_triangle_at_centroid": 721,
+          "max_sample_distance": 0.00010835489229066297
+        },
+        {
+          "triangle": 103,
+          "nearest_source_triangle_at_centroid": 186,
+          "max_sample_distance": 6.665698310825974e-05
+        },
+        {
+          "triangle": 104,
+          "nearest_source_triangle_at_centroid": 739,
+          "max_sample_distance": 0.00010337350977351889
+        },
+        {
+          "triangle": 105,
+          "nearest_source_triangle_at_centroid": 189,
+          "max_sample_distance": 0.00010337350977351889
+        },
+        {
+          "triangle": 106,
+          "nearest_source_triangle_at_centroid": 190,
+          "max_sample_distance": 0.00010016105807153508
+        },
+        {
+          "triangle": 107,
+          "nearest_source_triangle_at_centroid": 742,
+          "max_sample_distance": 7.845638174330816e-05
+        },
+        {
+          "triangle": 108,
+          "nearest_source_triangle_at_centroid": 201,
+          "max_sample_distance": 0.000100933582871221
+        },
+        {
+          "triangle": 109,
+          "nearest_source_triangle_at_centroid": 203,
+          "max_sample_distance": 0.000100933582871221
+        },
+        {
+          "triangle": 110,
+          "nearest_source_triangle_at_centroid": 204,
+          "max_sample_distance": 4.079623249708675e-05
+        },
+        {
+          "triangle": 111,
+          "nearest_source_triangle_at_centroid": 205,
+          "max_sample_distance": 5.437164145405404e-05
+        },
+        {
+          "triangle": 112,
+          "nearest_source_triangle_at_centroid": 213,
+          "max_sample_distance": 0.00010337350977351889
+        },
+        {
+          "triangle": 113,
+          "nearest_source_triangle_at_centroid": 217,
+          "max_sample_distance": 0.00010835489229066297
+        },
+        {
+          "triangle": 114,
+          "nearest_source_triangle_at_centroid": 221,
+          "max_sample_distance": 0.00010041437781183049
+        },
+        {
+          "triangle": 115,
+          "nearest_source_triangle_at_centroid": 224,
+          "max_sample_distance": 6.676023622276261e-05
+        },
+        {
+          "triangle": 116,
+          "nearest_source_triangle_at_centroid": 226,
+          "max_sample_distance": 6.466316699516028e-05
+        },
+        {
+          "triangle": 117,
+          "nearest_source_triangle_at_centroid": 230,
+          "max_sample_distance": 0.00013476725143846124
+        },
+        {
+          "triangle": 118,
+          "nearest_source_triangle_at_centroid": 236,
+          "max_sample_distance": 0.00013476725143846124
+        },
+        {
+          "triangle": 119,
+          "nearest_source_triangle_at_centroid": 234,
+          "max_sample_distance": 0.00016099399363156408
+        },
+        {
+          "triangle": 120,
+          "nearest_source_triangle_at_centroid": 253,
+          "max_sample_distance": 0.00016099399363156408
+        },
+        {
+          "triangle": 121,
+          "nearest_source_triangle_at_centroid": 237,
+          "max_sample_distance": 7.318824646063149e-05
+        },
+        {
+          "triangle": 122,
+          "nearest_source_triangle_at_centroid": 240,
+          "max_sample_distance": 7.318824646063149e-05
+        },
+        {
+          "triangle": 123,
+          "nearest_source_triangle_at_centroid": 241,
+          "max_sample_distance": 2.0497780496953055e-05
+        },
+        {
+          "triangle": 124,
+          "nearest_source_triangle_at_centroid": 254,
+          "max_sample_distance": 7.318824646063149e-05
+        },
+        {
+          "triangle": 125,
+          "nearest_source_triangle_at_centroid": 255,
+          "max_sample_distance": 7.318824646063149e-05
+        },
+        {
+          "triangle": 126,
+          "nearest_source_triangle_at_centroid": 259,
+          "max_sample_distance": 8.432214235654101e-05
+        },
+        {
+          "triangle": 127,
+          "nearest_source_triangle_at_centroid": 260,
+          "max_sample_distance": 1.4901161193847656e-08
+        },
+        {
+          "triangle": 128,
+          "nearest_source_triangle_at_centroid": 261,
+          "max_sample_distance": 1.4901161193847656e-08
+        },
+        {
+          "triangle": 129,
+          "nearest_source_triangle_at_centroid": 262,
+          "max_sample_distance": 7.450580596923828e-08
+        },
+        {
+          "triangle": 130,
+          "nearest_source_triangle_at_centroid": 263,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 131,
+          "nearest_source_triangle_at_centroid": 264,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 132,
+          "nearest_source_triangle_at_centroid": 265,
+          "max_sample_distance": 1.1920928955078125e-07
+        },
+        {
+          "triangle": 133,
+          "nearest_source_triangle_at_centroid": 266,
+          "max_sample_distance": 8.940696716308594e-08
+        },
+        {
+          "triangle": 134,
+          "nearest_source_triangle_at_centroid": 267,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 135,
+          "nearest_source_triangle_at_centroid": 268,
+          "max_sample_distance": 1.1920928955078125e-07
+        },
+        {
+          "triangle": 136,
+          "nearest_source_triangle_at_centroid": 269,
+          "max_sample_distance": 7.822754923836328e-07
+        },
+        {
+          "triangle": 137,
+          "nearest_source_triangle_at_centroid": 270,
+          "max_sample_distance": 9.397188023285707e-07
+        },
+        {
+          "triangle": 138,
+          "nearest_source_triangle_at_centroid": 272,
+          "max_sample_distance": 1.0994593822033494e-06
+        },
+        {
+          "triangle": 139,
+          "nearest_source_triangle_at_centroid": 274,
+          "max_sample_distance": 1.2102091204724275e-06
+        },
+        {
+          "triangle": 140,
+          "nearest_source_triangle_at_centroid": 275,
+          "max_sample_distance": 2.384185791015625e-07
+        },
+        {
+          "triangle": 141,
+          "nearest_source_triangle_at_centroid": 276,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 142,
+          "nearest_source_triangle_at_centroid": 277,
+          "max_sample_distance": 1.2287812012345967e-07
+        },
+        {
+          "triangle": 143,
+          "nearest_source_triangle_at_centroid": 278,
+          "max_sample_distance": 7.450580596923828e-08
+        },
+        {
+          "triangle": 144,
+          "nearest_source_triangle_at_centroid": 279,
+          "max_sample_distance": 2.602375843707705e-07
+        },
+        {
+          "triangle": 145,
+          "nearest_source_triangle_at_centroid": 280,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 146,
+          "nearest_source_triangle_at_centroid": 281,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 147,
+          "nearest_source_triangle_at_centroid": 282,
+          "max_sample_distance": 2.384185791015625e-07
+        },
+        {
+          "triangle": 148,
+          "nearest_source_triangle_at_centroid": 283,
+          "max_sample_distance": 2.384185791015625e-07
+        },
+        {
+          "triangle": 149,
+          "nearest_source_triangle_at_centroid": 284,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 150,
+          "nearest_source_triangle_at_centroid": 285,
+          "max_sample_distance": 1.4901161193847656e-08
+        },
+        {
+          "triangle": 151,
+          "nearest_source_triangle_at_centroid": 286,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 152,
+          "nearest_source_triangle_at_centroid": 287,
+          "max_sample_distance": 2.4978896817628993e-07
+        },
+        {
+          "triangle": 153,
+          "nearest_source_triangle_at_centroid": 288,
+          "max_sample_distance": 2.602375843707705e-07
+        },
+        {
+          "triangle": 154,
+          "nearest_source_triangle_at_centroid": 289,
+          "max_sample_distance": 2.5463114639023843e-07
+        },
+        {
+          "triangle": 155,
+          "nearest_source_triangle_at_centroid": 290,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 156,
+          "nearest_source_triangle_at_centroid": 291,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 157,
+          "nearest_source_triangle_at_centroid": 292,
+          "max_sample_distance": 8.940696716308594e-08
+        },
+        {
+          "triangle": 158,
+          "nearest_source_triangle_at_centroid": 293,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 159,
+          "nearest_source_triangle_at_centroid": 294,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 160,
+          "nearest_source_triangle_at_centroid": 295,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 161,
+          "nearest_source_triangle_at_centroid": 296,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 162,
+          "nearest_source_triangle_at_centroid": 297,
+          "max_sample_distance": 1.4901161193847656e-08
+        },
+        {
+          "triangle": 163,
+          "nearest_source_triangle_at_centroid": 298,
+          "max_sample_distance": 5.464887635753257e-07
+        },
+        {
+          "triangle": 164,
+          "nearest_source_triangle_at_centroid": 299,
+          "max_sample_distance": 5.464887635753257e-07
+        },
+        {
+          "triangle": 165,
+          "nearest_source_triangle_at_centroid": 301,
+          "max_sample_distance": 1.119869580179511e-06
+        },
+        {
+          "triangle": 166,
+          "nearest_source_triangle_at_centroid": 302,
+          "max_sample_distance": 1.462744648961234e-06
+        },
+        {
+          "triangle": 167,
+          "nearest_source_triangle_at_centroid": 304,
+          "max_sample_distance": 1.119869580179511e-06
+        },
+        {
+          "triangle": 168,
+          "nearest_source_triangle_at_centroid": 305,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 169,
+          "nearest_source_triangle_at_centroid": 306,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 170,
+          "nearest_source_triangle_at_centroid": 307,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 171,
+          "nearest_source_triangle_at_centroid": 308,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 172,
+          "nearest_source_triangle_at_centroid": 309,
+          "max_sample_distance": 1.5840151945667458e-07
+        },
+        {
+          "triangle": 173,
+          "nearest_source_triangle_at_centroid": 310,
+          "max_sample_distance": 7.450580596923828e-08
+        },
+        {
+          "triangle": 174,
+          "nearest_source_triangle_at_centroid": 311,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 175,
+          "nearest_source_triangle_at_centroid": 312,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 176,
+          "nearest_source_triangle_at_centroid": 313,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 177,
+          "nearest_source_triangle_at_centroid": 314,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 178,
+          "nearest_source_triangle_at_centroid": 315,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 179,
+          "nearest_source_triangle_at_centroid": 316,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 180,
+          "nearest_source_triangle_at_centroid": 317,
+          "max_sample_distance": 1.3819571904605255e-06
+        },
+        {
+          "triangle": 181,
+          "nearest_source_triangle_at_centroid": 319,
+          "max_sample_distance": 1.0264509455737425e-06
+        },
+        {
+          "triangle": 182,
+          "nearest_source_triangle_at_centroid": 321,
+          "max_sample_distance": 9.830249609876773e-07
+        },
+        {
+          "triangle": 183,
+          "nearest_source_triangle_at_centroid": 322,
+          "max_sample_distance": 8.392410109081538e-07
+        },
+        {
+          "triangle": 184,
+          "nearest_source_triangle_at_centroid": 323,
+          "max_sample_distance": 1.2013700256829907e-07
+        },
+        {
+          "triangle": 185,
+          "nearest_source_triangle_at_centroid": 324,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 186,
+          "nearest_source_triangle_at_centroid": 325,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 187,
+          "nearest_source_triangle_at_centroid": 326,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 188,
+          "nearest_source_triangle_at_centroid": 327,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 189,
+          "nearest_source_triangle_at_centroid": 328,
+          "max_sample_distance": 1.1920928955078125e-07
+        },
+        {
+          "triangle": 190,
+          "nearest_source_triangle_at_centroid": 329,
+          "max_sample_distance": 7.450580596923828e-08
+        },
+        {
+          "triangle": 191,
+          "nearest_source_triangle_at_centroid": 330,
+          "max_sample_distance": 2.4575624024691933e-07
+        },
+        {
+          "triangle": 192,
+          "nearest_source_triangle_at_centroid": 331,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 193,
+          "nearest_source_triangle_at_centroid": 332,
+          "max_sample_distance": 2.4027400513659813e-07
+        },
+        {
+          "triangle": 194,
+          "nearest_source_triangle_at_centroid": 333,
+          "max_sample_distance": 2.4575624024691933e-07
+        },
+        {
+          "triangle": 195,
+          "nearest_source_triangle_at_centroid": 334,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 196,
+          "nearest_source_triangle_at_centroid": 335,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 197,
+          "nearest_source_triangle_at_centroid": 336,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 198,
+          "nearest_source_triangle_at_centroid": 337,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 199,
+          "nearest_source_triangle_at_centroid": 338,
+          "max_sample_distance": 1.4901161193847656e-08
+        },
+        {
+          "triangle": 200,
+          "nearest_source_triangle_at_centroid": 340,
+          "max_sample_distance": 1.236132811754942e-05
+        },
+        {
+          "triangle": 201,
+          "nearest_source_triangle_at_centroid": 341,
+          "max_sample_distance": 2.6324223654228263e-05
+        },
+        {
+          "triangle": 202,
+          "nearest_source_triangle_at_centroid": 342,
+          "max_sample_distance": 7.450580596923828e-08
+        },
+        {
+          "triangle": 203,
+          "nearest_source_triangle_at_centroid": 343,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 204,
+          "nearest_source_triangle_at_centroid": 344,
+          "max_sample_distance": 0.0
+        },
+        {
+          "triangle": 205,
+          "nearest_source_triangle_at_centroid": 345,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 206,
+          "nearest_source_triangle_at_centroid": 346,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 207,
+          "nearest_source_triangle_at_centroid": 347,
+          "max_sample_distance": 1.4901161193847656e-08
+        },
+        {
+          "triangle": 208,
+          "nearest_source_triangle_at_centroid": 348,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 209,
+          "nearest_source_triangle_at_centroid": 349,
+          "max_sample_distance": 7.450580596923828e-08
+        },
+        {
+          "triangle": 210,
+          "nearest_source_triangle_at_centroid": 350,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 211,
+          "nearest_source_triangle_at_centroid": 351,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 212,
+          "nearest_source_triangle_at_centroid": 352,
+          "max_sample_distance": 1.2731557319511921e-07
+        },
+        {
+          "triangle": 213,
+          "nearest_source_triangle_at_centroid": 353,
+          "max_sample_distance": 2.767767739442206e-07
+        },
+        {
+          "triangle": 214,
+          "nearest_source_triangle_at_centroid": 354,
+          "max_sample_distance": 1.7506017684354447e-05
+        },
+        {
+          "triangle": 215,
+          "nearest_source_triangle_at_centroid": 357,
+          "max_sample_distance": 4.596863072947599e-05
+        },
+        {
+          "triangle": 216,
+          "nearest_source_triangle_at_centroid": 358,
+          "max_sample_distance": 5.2580562623916194e-05
+        },
+        {
+          "triangle": 217,
+          "nearest_source_triangle_at_centroid": 361,
+          "max_sample_distance": 4.052263466292061e-05
+        },
+        {
+          "triangle": 218,
+          "nearest_source_triangle_at_centroid": 362,
+          "max_sample_distance": 5.531243732548319e-05
+        },
+        {
+          "triangle": 219,
+          "nearest_source_triangle_at_centroid": 364,
+          "max_sample_distance": 4.010307748103514e-05
+        },
+        {
+          "triangle": 220,
+          "nearest_source_triangle_at_centroid": 993,
+          "max_sample_distance": 4.010307748103514e-05
+        },
+        {
+          "triangle": 221,
+          "nearest_source_triangle_at_centroid": 368,
+          "max_sample_distance": 7.301965524675325e-05
+        },
+        {
+          "triangle": 222,
+          "nearest_source_triangle_at_centroid": 372,
+          "max_sample_distance": 2.3126622181735e-05
+        },
+        {
+          "triangle": 223,
+          "nearest_source_triangle_at_centroid": 373,
+          "max_sample_distance": 9.493817742622923e-06
+        },
+        {
+          "triangle": 224,
+          "nearest_source_triangle_at_centroid": 374,
+          "max_sample_distance": 1.1445265954534989e-05
+        },
+        {
+          "triangle": 225,
+          "nearest_source_triangle_at_centroid": 375,
+          "max_sample_distance": 6.468085484812036e-05
+        },
+        {
+          "triangle": 226,
+          "nearest_source_triangle_at_centroid": 377,
+          "max_sample_distance": 4.2419731471454725e-05
+        },
+        {
+          "triangle": 227,
+          "nearest_source_triangle_at_centroid": 379,
+          "max_sample_distance": 2.4978896817628993e-07
+        },
+        {
+          "triangle": 228,
+          "nearest_source_triangle_at_centroid": 380,
+          "max_sample_distance": 8.940696716308594e-08
+        },
+        {
+          "triangle": 229,
+          "nearest_source_triangle_at_centroid": 381,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 230,
+          "nearest_source_triangle_at_centroid": 382,
+          "max_sample_distance": 0.0
+        },
+        {
+          "triangle": 231,
+          "nearest_source_triangle_at_centroid": 383,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 232,
+          "nearest_source_triangle_at_centroid": 384,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 233,
+          "nearest_source_triangle_at_centroid": 385,
+          "max_sample_distance": 1.4901161193847656e-08
+        },
+        {
+          "triangle": 234,
+          "nearest_source_triangle_at_centroid": 386,
+          "max_sample_distance": 2.425733214295178e-07
+        },
+        {
+          "triangle": 235,
+          "nearest_source_triangle_at_centroid": 387,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 236,
+          "nearest_source_triangle_at_centroid": 388,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 237,
+          "nearest_source_triangle_at_centroid": 389,
+          "max_sample_distance": 1.4901161193847656e-08
+        },
+        {
+          "triangle": 238,
+          "nearest_source_triangle_at_centroid": 390,
+          "max_sample_distance": 1.4901161193847656e-08
+        },
+        {
+          "triangle": 239,
+          "nearest_source_triangle_at_centroid": 391,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 240,
+          "nearest_source_triangle_at_centroid": 392,
+          "max_sample_distance": 1.2731557319511921e-07
+        },
+        {
+          "triangle": 241,
+          "nearest_source_triangle_at_centroid": 393,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 242,
+          "nearest_source_triangle_at_centroid": 394,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 243,
+          "nearest_source_triangle_at_centroid": 395,
+          "max_sample_distance": 7.450580596923828e-08
+        },
+        {
+          "triangle": 244,
+          "nearest_source_triangle_at_centroid": 396,
+          "max_sample_distance": 7.450580596923828e-08
+        },
+        {
+          "triangle": 245,
+          "nearest_source_triangle_at_centroid": 397,
+          "max_sample_distance": 5.851199966855347e-05
+        },
+        {
+          "triangle": 246,
+          "nearest_source_triangle_at_centroid": 399,
+          "max_sample_distance": 9.87801977316849e-05
+        },
+        {
+          "triangle": 247,
+          "nearest_source_triangle_at_centroid": 401,
+          "max_sample_distance": 4.8051773774204776e-05
+        },
+        {
+          "triangle": 248,
+          "nearest_source_triangle_at_centroid": 402,
+          "max_sample_distance": 9.447466436540708e-05
+        },
+        {
+          "triangle": 249,
+          "nearest_source_triangle_at_centroid": 405,
+          "max_sample_distance": 9.447466436540708e-05
+        },
+        {
+          "triangle": 250,
+          "nearest_source_triangle_at_centroid": 406,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 251,
+          "nearest_source_triangle_at_centroid": 407,
+          "max_sample_distance": 0.00014922475384082645
+        },
+        {
+          "triangle": 252,
+          "nearest_source_triangle_at_centroid": 408,
+          "max_sample_distance": 0.00014922475384082645
+        },
+        {
+          "triangle": 253,
+          "nearest_source_triangle_at_centroid": 410,
+          "max_sample_distance": 0.00014922475384082645
+        },
+        {
+          "triangle": 254,
+          "nearest_source_triangle_at_centroid": 411,
+          "max_sample_distance": 0.00014922475384082645
+        },
+        {
+          "triangle": 255,
+          "nearest_source_triangle_at_centroid": 412,
+          "max_sample_distance": 0.00014922475384082645
+        },
+        {
+          "triangle": 256,
+          "nearest_source_triangle_at_centroid": 413,
+          "max_sample_distance": 7.450580596923828e-08
+        },
+        {
+          "triangle": 257,
+          "nearest_source_triangle_at_centroid": 414,
+          "max_sample_distance": 1.4901161193847656e-08
+        },
+        {
+          "triangle": 258,
+          "nearest_source_triangle_at_centroid": 415,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 259,
+          "nearest_source_triangle_at_centroid": 416,
+          "max_sample_distance": 2.3888378564151935e-07
+        },
+        {
+          "triangle": 260,
+          "nearest_source_triangle_at_centroid": 419,
+          "max_sample_distance": 0.00013260639389045537
+        },
+        {
+          "triangle": 261,
+          "nearest_source_triangle_at_centroid": 422,
+          "max_sample_distance": 7.841865590307862e-05
+        },
+        {
+          "triangle": 262,
+          "nearest_source_triangle_at_centroid": 423,
+          "max_sample_distance": 7.841865590307862e-05
+        },
+        {
+          "triangle": 263,
+          "nearest_source_triangle_at_centroid": 425,
+          "max_sample_distance": 3.810951966443099e-05
+        },
+        {
+          "triangle": 264,
+          "nearest_source_triangle_at_centroid": 426,
+          "max_sample_distance": 5.082022107671946e-05
+        },
+        {
+          "triangle": 265,
+          "nearest_source_triangle_at_centroid": 429,
+          "max_sample_distance": 0.0001078590503311716
+        },
+        {
+          "triangle": 266,
+          "nearest_source_triangle_at_centroid": 431,
+          "max_sample_distance": 0.00010697225661715493
+        },
+        {
+          "triangle": 267,
+          "nearest_source_triangle_at_centroid": 433,
+          "max_sample_distance": 5.530376802198589e-05
+        },
+        {
+          "triangle": 268,
+          "nearest_source_triangle_at_centroid": 434,
+          "max_sample_distance": 5.0548849685583264e-05
+        },
+        {
+          "triangle": 269,
+          "nearest_source_triangle_at_centroid": 435,
+          "max_sample_distance": 5.0548849685583264e-05
+        },
+        {
+          "triangle": 270,
+          "nearest_source_triangle_at_centroid": 437,
+          "max_sample_distance": 8.581362635595724e-05
+        },
+        {
+          "triangle": 271,
+          "nearest_source_triangle_at_centroid": 438,
+          "max_sample_distance": 0.00010115543409483507
+        },
+        {
+          "triangle": 272,
+          "nearest_source_triangle_at_centroid": 441,
+          "max_sample_distance": 6.691549788229167e-05
+        },
+        {
+          "triangle": 273,
+          "nearest_source_triangle_at_centroid": 443,
+          "max_sample_distance": 6.691549788229167e-05
+        },
+        {
+          "triangle": 274,
+          "nearest_source_triangle_at_centroid": 444,
+          "max_sample_distance": 8.874289778759703e-05
+        },
+        {
+          "triangle": 275,
+          "nearest_source_triangle_at_centroid": 447,
+          "max_sample_distance": 8.874289778759703e-05
+        },
+        {
+          "triangle": 276,
+          "nearest_source_triangle_at_centroid": 447,
+          "max_sample_distance": 8.874289778759703e-05
+        },
+        {
+          "triangle": 277,
+          "nearest_source_triangle_at_centroid": 450,
+          "max_sample_distance": 8.874289778759703e-05
+        },
+        {
+          "triangle": 278,
+          "nearest_source_triangle_at_centroid": 453,
+          "max_sample_distance": 8.874289778759703e-05
+        },
+        {
+          "triangle": 279,
+          "nearest_source_triangle_at_centroid": 456,
+          "max_sample_distance": 9.748241427587345e-05
+        },
+        {
+          "triangle": 280,
+          "nearest_source_triangle_at_centroid": 457,
+          "max_sample_distance": 0.00010236575326416641
+        },
+        {
+          "triangle": 281,
+          "nearest_source_triangle_at_centroid": 460,
+          "max_sample_distance": 0.00010236575326416641
+        },
+        {
+          "triangle": 282,
+          "nearest_source_triangle_at_centroid": 463,
+          "max_sample_distance": 0.00010213103087153286
+        },
+        {
+          "triangle": 283,
+          "nearest_source_triangle_at_centroid": 465,
+          "max_sample_distance": 0.00010587833094177768
+        },
+        {
+          "triangle": 284,
+          "nearest_source_triangle_at_centroid": 469,
+          "max_sample_distance": 0.00010213103087153286
+        },
+        {
+          "triangle": 285,
+          "nearest_source_triangle_at_centroid": 472,
+          "max_sample_distance": 0.00014075585932005197
+        },
+        {
+          "triangle": 286,
+          "nearest_source_triangle_at_centroid": 475,
+          "max_sample_distance": 1.1100274605269078e-05
+        },
+        {
+          "triangle": 287,
+          "nearest_source_triangle_at_centroid": 476,
+          "max_sample_distance": 1.1100274605269078e-05
+        },
+        {
+          "triangle": 288,
+          "nearest_source_triangle_at_centroid": 478,
+          "max_sample_distance": 3.1912990380078554e-05
+        },
+        {
+          "triangle": 289,
+          "nearest_source_triangle_at_centroid": 482,
+          "max_sample_distance": 4.807754885405302e-05
+        },
+        {
+          "triangle": 290,
+          "nearest_source_triangle_at_centroid": 486,
+          "max_sample_distance": 7.737991836620495e-05
+        },
+        {
+          "triangle": 291,
+          "nearest_source_triangle_at_centroid": 489,
+          "max_sample_distance": 5.5226577387657017e-05
+        },
+        {
+          "triangle": 292,
+          "nearest_source_triangle_at_centroid": 494,
+          "max_sample_distance": 6.733843474648893e-05
+        },
+        {
+          "triangle": 293,
+          "nearest_source_triangle_at_centroid": 497,
+          "max_sample_distance": 9.043173486134037e-05
+        },
+        {
+          "triangle": 294,
+          "nearest_source_triangle_at_centroid": 502,
+          "max_sample_distance": 7.339706644415855e-05
+        },
+        {
+          "triangle": 295,
+          "nearest_source_triangle_at_centroid": 507,
+          "max_sample_distance": 7.339706644415855e-05
+        },
+        {
+          "triangle": 296,
+          "nearest_source_triangle_at_centroid": 511,
+          "max_sample_distance": 7.339706644415855e-05
+        },
+        {
+          "triangle": 297,
+          "nearest_source_triangle_at_centroid": 516,
+          "max_sample_distance": 0.00020804029190912843
+        },
+        {
+          "triangle": 298,
+          "nearest_source_triangle_at_centroid": 520,
+          "max_sample_distance": 6.499596929643303e-05
+        },
+        {
+          "triangle": 299,
+          "nearest_source_triangle_at_centroid": 522,
+          "max_sample_distance": 1.1920928955078125e-07
+        },
+        {
+          "triangle": 300,
+          "nearest_source_triangle_at_centroid": 523,
+          "max_sample_distance": 0.00012323727423790842
+        },
+        {
+          "triangle": 301,
+          "nearest_source_triangle_at_centroid": 525,
+          "max_sample_distance": 3.699776061694138e-05
+        },
+        {
+          "triangle": 302,
+          "nearest_source_triangle_at_centroid": 526,
+          "max_sample_distance": 0.00010915428720181808
+        },
+        {
+          "triangle": 303,
+          "nearest_source_triangle_at_centroid": 528,
+          "max_sample_distance": 0.00010915428720181808
+        },
+        {
+          "triangle": 304,
+          "nearest_source_triangle_at_centroid": 531,
+          "max_sample_distance": 0.00010915428720181808
+        },
+        {
+          "triangle": 305,
+          "nearest_source_triangle_at_centroid": 530,
+          "max_sample_distance": 0.00010915428720181808
+        },
+        {
+          "triangle": 306,
+          "nearest_source_triangle_at_centroid": 533,
+          "max_sample_distance": 6.250743172131479e-05
+        },
+        {
+          "triangle": 307,
+          "nearest_source_triangle_at_centroid": 535,
+          "max_sample_distance": 7.795904821250588e-05
+        },
+        {
+          "triangle": 308,
+          "nearest_source_triangle_at_centroid": 539,
+          "max_sample_distance": 0.00012889546633232385
+        },
+        {
+          "triangle": 309,
+          "nearest_source_triangle_at_centroid": 540,
+          "max_sample_distance": 0.00012889546633232385
+        },
+        {
+          "triangle": 310,
+          "nearest_source_triangle_at_centroid": 544,
+          "max_sample_distance": 0.00011736377200577408
+        },
+        {
+          "triangle": 311,
+          "nearest_source_triangle_at_centroid": 547,
+          "max_sample_distance": 0.00011736377200577408
+        },
+        {
+          "triangle": 312,
+          "nearest_source_triangle_at_centroid": 551,
+          "max_sample_distance": 8.758188778301701e-05
+        },
+        {
+          "triangle": 313,
+          "nearest_source_triangle_at_centroid": 554,
+          "max_sample_distance": 9.501937893219292e-05
+        },
+        {
+          "triangle": 314,
+          "nearest_source_triangle_at_centroid": 556,
+          "max_sample_distance": 9.501937893219292e-05
+        },
+        {
+          "triangle": 315,
+          "nearest_source_triangle_at_centroid": 560,
+          "max_sample_distance": 9.501937893219292e-05
+        },
+        {
+          "triangle": 316,
+          "nearest_source_triangle_at_centroid": 563,
+          "max_sample_distance": 0.00011933022324228659
+        },
+        {
+          "triangle": 317,
+          "nearest_source_triangle_at_centroid": 568,
+          "max_sample_distance": 0.00011730818368960172
+        },
+        {
+          "triangle": 318,
+          "nearest_source_triangle_at_centroid": 571,
+          "max_sample_distance": 0.00011730818368960172
+        },
+        {
+          "triangle": 319,
+          "nearest_source_triangle_at_centroid": 575,
+          "max_sample_distance": 0.00012868620979133993
+        },
+        {
+          "triangle": 320,
+          "nearest_source_triangle_at_centroid": 576,
+          "max_sample_distance": 0.00012868620979133993
+        },
+        {
+          "triangle": 321,
+          "nearest_source_triangle_at_centroid": 580,
+          "max_sample_distance": 7.799723971402273e-05
+        },
+        {
+          "triangle": 322,
+          "nearest_source_triangle_at_centroid": 583,
+          "max_sample_distance": 0.00011393953900551423
+        },
+        {
+          "triangle": 323,
+          "nearest_source_triangle_at_centroid": 587,
+          "max_sample_distance": 6.76937706884928e-05
+        },
+        {
+          "triangle": 324,
+          "nearest_source_triangle_at_centroid": 590,
+          "max_sample_distance": 8.089653420029208e-05
+        },
+        {
+          "triangle": 325,
+          "nearest_source_triangle_at_centroid": 592,
+          "max_sample_distance": 6.164851947687566e-05
+        },
+        {
+          "triangle": 326,
+          "nearest_source_triangle_at_centroid": 594,
+          "max_sample_distance": 7.372880645561963e-05
+        },
+        {
+          "triangle": 327,
+          "nearest_source_triangle_at_centroid": 598,
+          "max_sample_distance": 0.00010758055577753112
+        },
+        {
+          "triangle": 328,
+          "nearest_source_triangle_at_centroid": 599,
+          "max_sample_distance": 0.0001163211782113649
+        },
+        {
+          "triangle": 329,
+          "nearest_source_triangle_at_centroid": 604,
+          "max_sample_distance": 1.2287812012345967e-07
+        },
+        {
+          "triangle": 330,
+          "nearest_source_triangle_at_centroid": 605,
+          "max_sample_distance": 1.1920928955078125e-07
+        },
+        {
+          "triangle": 331,
+          "nearest_source_triangle_at_centroid": 606,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 332,
+          "nearest_source_triangle_at_centroid": 607,
+          "max_sample_distance": 2.4575624024691933e-07
+        },
+        {
+          "triangle": 333,
+          "nearest_source_triangle_at_centroid": 608,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 334,
+          "nearest_source_triangle_at_centroid": 609,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 335,
+          "nearest_source_triangle_at_centroid": 610,
+          "max_sample_distance": 2.4575624024691933e-07
+        },
+        {
+          "triangle": 336,
+          "nearest_source_triangle_at_centroid": 612,
+          "max_sample_distance": 1.25630128877674e-06
+        },
+        {
+          "triangle": 337,
+          "nearest_source_triangle_at_centroid": 614,
+          "max_sample_distance": 1.25630128877674e-06
+        },
+        {
+          "triangle": 338,
+          "nearest_source_triangle_at_centroid": 615,
+          "max_sample_distance": 1.25630128877674e-06
+        },
+        {
+          "triangle": 339,
+          "nearest_source_triangle_at_centroid": 616,
+          "max_sample_distance": 6.419616624953051e-07
+        },
+        {
+          "triangle": 340,
+          "nearest_source_triangle_at_centroid": 617,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 341,
+          "nearest_source_triangle_at_centroid": 618,
+          "max_sample_distance": 8.940696716308594e-08
+        },
+        {
+          "triangle": 342,
+          "nearest_source_triangle_at_centroid": 619,
+          "max_sample_distance": 0.00010024234507000074
+        },
+        {
+          "triangle": 343,
+          "nearest_source_triangle_at_centroid": 620,
+          "max_sample_distance": 0.00017077427764888853
+        },
+        {
+          "triangle": 344,
+          "nearest_source_triangle_at_centroid": 623,
+          "max_sample_distance": 0.00017077427764888853
+        },
+        {
+          "triangle": 345,
+          "nearest_source_triangle_at_centroid": 623,
+          "max_sample_distance": 0.00017077427764888853
+        },
+        {
+          "triangle": 346,
+          "nearest_source_triangle_at_centroid": 625,
+          "max_sample_distance": 0.00017077427764888853
+        },
+        {
+          "triangle": 347,
+          "nearest_source_triangle_at_centroid": 626,
+          "max_sample_distance": 0.00010575987835181877
+        },
+        {
+          "triangle": 348,
+          "nearest_source_triangle_at_centroid": 627,
+          "max_sample_distance": 0.00010619768727337942
+        },
+        {
+          "triangle": 349,
+          "nearest_source_triangle_at_centroid": 629,
+          "max_sample_distance": 0.00010619768727337942
+        },
+        {
+          "triangle": 350,
+          "nearest_source_triangle_at_centroid": 631,
+          "max_sample_distance": 0.00016665225848555565
+        },
+        {
+          "triangle": 351,
+          "nearest_source_triangle_at_centroid": 633,
+          "max_sample_distance": 0.00016665225848555565
+        },
+        {
+          "triangle": 352,
+          "nearest_source_triangle_at_centroid": 635,
+          "max_sample_distance": 0.00016999998479150236
+        },
+        {
+          "triangle": 353,
+          "nearest_source_triangle_at_centroid": 648,
+          "max_sample_distance": 0.00016999998479150236
+        },
+        {
+          "triangle": 354,
+          "nearest_source_triangle_at_centroid": 639,
+          "max_sample_distance": 0.00017077427764888853
+        },
+        {
+          "triangle": 355,
+          "nearest_source_triangle_at_centroid": 648,
+          "max_sample_distance": 0.00016999998479150236
+        },
+        {
+          "triangle": 356,
+          "nearest_source_triangle_at_centroid": 650,
+          "max_sample_distance": 0.00016999998479150236
+        },
+        {
+          "triangle": 357,
+          "nearest_source_triangle_at_centroid": 652,
+          "max_sample_distance": 0.00016978525673039258
+        },
+        {
+          "triangle": 358,
+          "nearest_source_triangle_at_centroid": 652,
+          "max_sample_distance": 0.00016978525673039258
+        },
+        {
+          "triangle": 359,
+          "nearest_source_triangle_at_centroid": 655,
+          "max_sample_distance": 0.00017077427764888853
+        },
+        {
+          "triangle": 360,
+          "nearest_source_triangle_at_centroid": 642,
+          "max_sample_distance": 0.00017077427764888853
+        },
+        {
+          "triangle": 361,
+          "nearest_source_triangle_at_centroid": 658,
+          "max_sample_distance": 0.00017077427764888853
+        },
+        {
+          "triangle": 362,
+          "nearest_source_triangle_at_centroid": 644,
+          "max_sample_distance": 0.00014998532424215227
+        },
+        {
+          "triangle": 363,
+          "nearest_source_triangle_at_centroid": 661,
+          "max_sample_distance": 0.00014998532424215227
+        },
+        {
+          "triangle": 364,
+          "nearest_source_triangle_at_centroid": 663,
+          "max_sample_distance": 0.00010355143604101613
+        },
+        {
+          "triangle": 365,
+          "nearest_source_triangle_at_centroid": 665,
+          "max_sample_distance": 0.00016978525673039258
+        },
+        {
+          "triangle": 366,
+          "nearest_source_triangle_at_centroid": 667,
+          "max_sample_distance": 0.00016317746485583484
+        },
+        {
+          "triangle": 367,
+          "nearest_source_triangle_at_centroid": 668,
+          "max_sample_distance": 0.00016317746485583484
+        },
+        {
+          "triangle": 368,
+          "nearest_source_triangle_at_centroid": 669,
+          "max_sample_distance": 0.00016317746485583484
+        },
+        {
+          "triangle": 369,
+          "nearest_source_triangle_at_centroid": 673,
+          "max_sample_distance": 0.00010185839346377179
+        },
+        {
+          "triangle": 370,
+          "nearest_source_triangle_at_centroid": 674,
+          "max_sample_distance": 0.00016067642718553543
+        },
+        {
+          "triangle": 371,
+          "nearest_source_triangle_at_centroid": 677,
+          "max_sample_distance": 0.00016067642718553543
+        },
+        {
+          "triangle": 372,
+          "nearest_source_triangle_at_centroid": 791,
+          "max_sample_distance": 0.00016067642718553543
+        },
+        {
+          "triangle": 373,
+          "nearest_source_triangle_at_centroid": 680,
+          "max_sample_distance": 9.7550408099778e-05
+        },
+        {
+          "triangle": 374,
+          "nearest_source_triangle_at_centroid": 681,
+          "max_sample_distance": 0.00016675388906151056
+        },
+        {
+          "triangle": 375,
+          "nearest_source_triangle_at_centroid": 682,
+          "max_sample_distance": 0.00016675388906151056
+        },
+        {
+          "triangle": 376,
+          "nearest_source_triangle_at_centroid": 683,
+          "max_sample_distance": 0.00010185839346377179
+        },
+        {
+          "triangle": 377,
+          "nearest_source_triangle_at_centroid": 686,
+          "max_sample_distance": 0.00016323619638569653
+        },
+        {
+          "triangle": 378,
+          "nearest_source_triangle_at_centroid": 937,
+          "max_sample_distance": 0.00016323619638569653
+        },
+        {
+          "triangle": 379,
+          "nearest_source_triangle_at_centroid": 694,
+          "max_sample_distance": 0.00016323619638569653
+        },
+        {
+          "triangle": 380,
+          "nearest_source_triangle_at_centroid": 694,
+          "max_sample_distance": 0.00016323619638569653
+        },
+        {
+          "triangle": 381,
+          "nearest_source_triangle_at_centroid": 697,
+          "max_sample_distance": 0.00016323619638569653
+        },
+        {
+          "triangle": 382,
+          "nearest_source_triangle_at_centroid": 699,
+          "max_sample_distance": 0.00016063380462583154
+        },
+        {
+          "triangle": 383,
+          "nearest_source_triangle_at_centroid": 701,
+          "max_sample_distance": 0.00016063380462583154
+        },
+        {
+          "triangle": 384,
+          "nearest_source_triangle_at_centroid": 704,
+          "max_sample_distance": 6.589115218957886e-05
+        },
+        {
+          "triangle": 385,
+          "nearest_source_triangle_at_centroid": 703,
+          "max_sample_distance": 4.347418143879622e-05
+        },
+        {
+          "triangle": 386,
+          "nearest_source_triangle_at_centroid": 706,
+          "max_sample_distance": 0.0001719985593808815
+        },
+        {
+          "triangle": 387,
+          "nearest_source_triangle_at_centroid": 708,
+          "max_sample_distance": 0.0001719985593808815
+        },
+        {
+          "triangle": 388,
+          "nearest_source_triangle_at_centroid": 711,
+          "max_sample_distance": 0.0001719985593808815
+        },
+        {
+          "triangle": 389,
+          "nearest_source_triangle_at_centroid": 715,
+          "max_sample_distance": 0.0001719985593808815
+        },
+        {
+          "triangle": 390,
+          "nearest_source_triangle_at_centroid": 716,
+          "max_sample_distance": 0.0001719985593808815
+        },
+        {
+          "triangle": 391,
+          "nearest_source_triangle_at_centroid": 56,
+          "max_sample_distance": 0.00016675388906151056
+        },
+        {
+          "triangle": 392,
+          "nearest_source_triangle_at_centroid": 732,
+          "max_sample_distance": 0.00016675388906151056
+        },
+        {
+          "triangle": 393,
+          "nearest_source_triangle_at_centroid": 727,
+          "max_sample_distance": 0.00016675388906151056
+        },
+        {
+          "triangle": 394,
+          "nearest_source_triangle_at_centroid": 740,
+          "max_sample_distance": 0.0001378886663587764
+        },
+        {
+          "triangle": 395,
+          "nearest_source_triangle_at_centroid": 738,
+          "max_sample_distance": 0.00011968351464020088
+        },
+        {
+          "triangle": 396,
+          "nearest_source_triangle_at_centroid": 742,
+          "max_sample_distance": 0.00011968351464020088
+        },
+        {
+          "triangle": 397,
+          "nearest_source_triangle_at_centroid": 743,
+          "max_sample_distance": 0.0001719985593808815
+        },
+        {
+          "triangle": 398,
+          "nearest_source_triangle_at_centroid": 744,
+          "max_sample_distance": 0.00010415328870294616
+        },
+        {
+          "triangle": 399,
+          "nearest_source_triangle_at_centroid": 748,
+          "max_sample_distance": 0.00016063380462583154
+        },
+        {
+          "triangle": 400,
+          "nearest_source_triangle_at_centroid": 750,
+          "max_sample_distance": 0.00016063380462583154
+        },
+        {
+          "triangle": 401,
+          "nearest_source_triangle_at_centroid": 754,
+          "max_sample_distance": 0.00016323619638569653
+        },
+        {
+          "triangle": 402,
+          "nearest_source_triangle_at_centroid": 756,
+          "max_sample_distance": 0.00016323619638569653
+        },
+        {
+          "triangle": 403,
+          "nearest_source_triangle_at_centroid": 757,
+          "max_sample_distance": 0.00016665225848555565
+        },
+        {
+          "triangle": 404,
+          "nearest_source_triangle_at_centroid": 759,
+          "max_sample_distance": 0.00016665225848555565
+        },
+        {
+          "triangle": 405,
+          "nearest_source_triangle_at_centroid": 771,
+          "max_sample_distance": 0.00016999998479150236
+        },
+        {
+          "triangle": 406,
+          "nearest_source_triangle_at_centroid": 772,
+          "max_sample_distance": 0.00016978525673039258
+        },
+        {
+          "triangle": 407,
+          "nearest_source_triangle_at_centroid": 777,
+          "max_sample_distance": 0.00016978525673039258
+        },
+        {
+          "triangle": 408,
+          "nearest_source_triangle_at_centroid": 783,
+          "max_sample_distance": 0.0001719985593808815
+        },
+        {
+          "triangle": 409,
+          "nearest_source_triangle_at_centroid": 784,
+          "max_sample_distance": 0.0001719985593808815
+        },
+        {
+          "triangle": 410,
+          "nearest_source_triangle_at_centroid": 785,
+          "max_sample_distance": 0.00016317746485583484
+        },
+        {
+          "triangle": 411,
+          "nearest_source_triangle_at_centroid": 795,
+          "max_sample_distance": 0.00016675388906151056
+        },
+        {
+          "triangle": 412,
+          "nearest_source_triangle_at_centroid": 796,
+          "max_sample_distance": 0.0001019100018311292
+        },
+        {
+          "triangle": 413,
+          "nearest_source_triangle_at_centroid": 789,
+          "max_sample_distance": 0.00016317746485583484
+        },
+        {
+          "triangle": 414,
+          "nearest_source_triangle_at_centroid": 801,
+          "max_sample_distance": 0.00016067642718553543
+        },
+        {
+          "triangle": 415,
+          "nearest_source_triangle_at_centroid": 764,
+          "max_sample_distance": 0.00016999998479150236
+        },
+        {
+          "triangle": 416,
+          "nearest_source_triangle_at_centroid": 805,
+          "max_sample_distance": 0.00016999998479150236
+        },
+        {
+          "triangle": 417,
+          "nearest_source_triangle_at_centroid": 806,
+          "max_sample_distance": 0.00016063380462583154
+        },
+        {
+          "triangle": 418,
+          "nearest_source_triangle_at_centroid": 808,
+          "max_sample_distance": 0.00010594967170618474
+        },
+        {
+          "triangle": 419,
+          "nearest_source_triangle_at_centroid": 809,
+          "max_sample_distance": 8.290558616863564e-05
+        },
+        {
+          "triangle": 420,
+          "nearest_source_triangle_at_centroid": 811,
+          "max_sample_distance": 0.0001406407100148499
+        },
+        {
+          "triangle": 421,
+          "nearest_source_triangle_at_centroid": 816,
+          "max_sample_distance": 0.0001406407100148499
+        },
+        {
+          "triangle": 422,
+          "nearest_source_triangle_at_centroid": 811,
+          "max_sample_distance": 0.00010769566870294511
+        },
+        {
+          "triangle": 423,
+          "nearest_source_triangle_at_centroid": 813,
+          "max_sample_distance": 0.00011184209870407358
+        },
+        {
+          "triangle": 424,
+          "nearest_source_triangle_at_centroid": 814,
+          "max_sample_distance": 0.0001286212500417605
+        },
+        {
+          "triangle": 425,
+          "nearest_source_triangle_at_centroid": 818,
+          "max_sample_distance": 7.177033694460988e-05
+        },
+        {
+          "triangle": 426,
+          "nearest_source_triangle_at_centroid": 819,
+          "max_sample_distance": 7.177033694460988e-05
+        },
+        {
+          "triangle": 427,
+          "nearest_source_triangle_at_centroid": 822,
+          "max_sample_distance": 7.922862278064713e-05
+        },
+        {
+          "triangle": 428,
+          "nearest_source_triangle_at_centroid": 826,
+          "max_sample_distance": 7.922862278064713e-05
+        },
+        {
+          "triangle": 429,
+          "nearest_source_triangle_at_centroid": 830,
+          "max_sample_distance": 7.922862278064713e-05
+        },
+        {
+          "triangle": 430,
+          "nearest_source_triangle_at_centroid": 836,
+          "max_sample_distance": 0.00010349178046453744
+        },
+        {
+          "triangle": 431,
+          "nearest_source_triangle_at_centroid": 840,
+          "max_sample_distance": 0.00010349178046453744
+        },
+        {
+          "triangle": 432,
+          "nearest_source_triangle_at_centroid": 845,
+          "max_sample_distance": 4.4987416913500056e-05
+        },
+        {
+          "triangle": 433,
+          "nearest_source_triangle_at_centroid": 846,
+          "max_sample_distance": 4.4987416913500056e-05
+        },
+        {
+          "triangle": 434,
+          "nearest_source_triangle_at_centroid": 847,
+          "max_sample_distance": 6.9589700615324546e-06
+        },
+        {
+          "triangle": 435,
+          "nearest_source_triangle_at_centroid": 848,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 436,
+          "nearest_source_triangle_at_centroid": 849,
+          "max_sample_distance": 1.2013700256829907e-07
+        },
+        {
+          "triangle": 437,
+          "nearest_source_triangle_at_centroid": 850,
+          "max_sample_distance": 1.2013700256829907e-07
+        },
+        {
+          "triangle": 438,
+          "nearest_source_triangle_at_centroid": 851,
+          "max_sample_distance": 9.815031808102503e-05
+        },
+        {
+          "triangle": 439,
+          "nearest_source_triangle_at_centroid": 851,
+          "max_sample_distance": 9.815031808102503e-05
+        },
+        {
+          "triangle": 440,
+          "nearest_source_triangle_at_centroid": 854,
+          "max_sample_distance": 0.00011231743701500818
+        },
+        {
+          "triangle": 441,
+          "nearest_source_triangle_at_centroid": 855,
+          "max_sample_distance": 0.00012987850641366094
+        },
+        {
+          "triangle": 442,
+          "nearest_source_triangle_at_centroid": 857,
+          "max_sample_distance": 2.8021509933751076e-05
+        },
+        {
+          "triangle": 443,
+          "nearest_source_triangle_at_centroid": 862,
+          "max_sample_distance": 6.33509480394423e-05
+        },
+        {
+          "triangle": 444,
+          "nearest_source_triangle_at_centroid": 859,
+          "max_sample_distance": 6.33509480394423e-05
+        },
+        {
+          "triangle": 445,
+          "nearest_source_triangle_at_centroid": 864,
+          "max_sample_distance": 7.367772923316807e-05
+        },
+        {
+          "triangle": 446,
+          "nearest_source_triangle_at_centroid": 871,
+          "max_sample_distance": 7.367772923316807e-05
+        },
+        {
+          "triangle": 447,
+          "nearest_source_triangle_at_centroid": 875,
+          "max_sample_distance": 4.686001921072602e-05
+        },
+        {
+          "triangle": 448,
+          "nearest_source_triangle_at_centroid": 880,
+          "max_sample_distance": 7.305239705601707e-05
+        },
+        {
+          "triangle": 449,
+          "nearest_source_triangle_at_centroid": 883,
+          "max_sample_distance": 4.686001921072602e-05
+        },
+        {
+          "triangle": 450,
+          "nearest_source_triangle_at_centroid": 885,
+          "max_sample_distance": 4.686001921072602e-05
+        },
+        {
+          "triangle": 451,
+          "nearest_source_triangle_at_centroid": 886,
+          "max_sample_distance": 9.217654223903082e-06
+        },
+        {
+          "triangle": 452,
+          "nearest_source_triangle_at_centroid": 889,
+          "max_sample_distance": 7.007772364886478e-05
+        },
+        {
+          "triangle": 453,
+          "nearest_source_triangle_at_centroid": 890,
+          "max_sample_distance": 5.127621261635795e-05
+        },
+        {
+          "triangle": 454,
+          "nearest_source_triangle_at_centroid": 888,
+          "max_sample_distance": 7.52679115976207e-05
+        },
+        {
+          "triangle": 455,
+          "nearest_source_triangle_at_centroid": 895,
+          "max_sample_distance": 0.00014960458793211728
+        },
+        {
+          "triangle": 456,
+          "nearest_source_triangle_at_centroid": 896,
+          "max_sample_distance": 0.00014960458793211728
+        },
+        {
+          "triangle": 457,
+          "nearest_source_triangle_at_centroid": 897,
+          "max_sample_distance": 0.00014960458793211728
+        },
+        {
+          "triangle": 458,
+          "nearest_source_triangle_at_centroid": 898,
+          "max_sample_distance": 6.983034836594015e-05
+        },
+        {
+          "triangle": 459,
+          "nearest_source_triangle_at_centroid": 900,
+          "max_sample_distance": 6.983034836594015e-05
+        },
+        {
+          "triangle": 460,
+          "nearest_source_triangle_at_centroid": 905,
+          "max_sample_distance": 5.477024751598947e-05
+        },
+        {
+          "triangle": 461,
+          "nearest_source_triangle_at_centroid": 902,
+          "max_sample_distance": 6.983034836594015e-05
+        },
+        {
+          "triangle": 462,
+          "nearest_source_triangle_at_centroid": 904,
+          "max_sample_distance": 6.983034836594015e-05
+        },
+        {
+          "triangle": 463,
+          "nearest_source_triangle_at_centroid": 907,
+          "max_sample_distance": 5.477024751598947e-05
+        },
+        {
+          "triangle": 464,
+          "nearest_source_triangle_at_centroid": 908,
+          "max_sample_distance": 5.477024751598947e-05
+        },
+        {
+          "triangle": 465,
+          "nearest_source_triangle_at_centroid": 910,
+          "max_sample_distance": 0.0001262875593965873
+        },
+        {
+          "triangle": 466,
+          "nearest_source_triangle_at_centroid": 848,
+          "max_sample_distance": 0.0001262875593965873
+        },
+        {
+          "triangle": 467,
+          "nearest_source_triangle_at_centroid": 920,
+          "max_sample_distance": 0.00014960458793211728
+        },
+        {
+          "triangle": 468,
+          "nearest_source_triangle_at_centroid": 924,
+          "max_sample_distance": 0.00014960458793211728
+        },
+        {
+          "triangle": 469,
+          "nearest_source_triangle_at_centroid": 926,
+          "max_sample_distance": 0.00016653601778671145
+        },
+        {
+          "triangle": 470,
+          "nearest_source_triangle_at_centroid": 930,
+          "max_sample_distance": 0.00014960458793211728
+        },
+        {
+          "triangle": 471,
+          "nearest_source_triangle_at_centroid": 934,
+          "max_sample_distance": 0.00011330029519740492
+        },
+        {
+          "triangle": 472,
+          "nearest_source_triangle_at_centroid": 931,
+          "max_sample_distance": 8.625590999145061e-05
+        },
+        {
+          "triangle": 473,
+          "nearest_source_triangle_at_centroid": 935,
+          "max_sample_distance": 4.872201316175051e-05
+        },
+        {
+          "triangle": 474,
+          "nearest_source_triangle_at_centroid": 937,
+          "max_sample_distance": 5.980577043374069e-05
+        },
+        {
+          "triangle": 475,
+          "nearest_source_triangle_at_centroid": 939,
+          "max_sample_distance": 5.980577043374069e-05
+        },
+        {
+          "triangle": 476,
+          "nearest_source_triangle_at_centroid": 942,
+          "max_sample_distance": 2.611173658806365e-05
+        },
+        {
+          "triangle": 477,
+          "nearest_source_triangle_at_centroid": 944,
+          "max_sample_distance": 2.4579690034443047e-06
+        },
+        {
+          "triangle": 478,
+          "nearest_source_triangle_at_centroid": 1031,
+          "max_sample_distance": 0.00017712193948682398
+        },
+        {
+          "triangle": 479,
+          "nearest_source_triangle_at_centroid": 947,
+          "max_sample_distance": 0.0001333783147856593
+        },
+        {
+          "triangle": 480,
+          "nearest_source_triangle_at_centroid": 949,
+          "max_sample_distance": 7.524363900301978e-05
+        },
+        {
+          "triangle": 481,
+          "nearest_source_triangle_at_centroid": 29,
+          "max_sample_distance": 0.0001333783147856593
+        },
+        {
+          "triangle": 482,
+          "nearest_source_triangle_at_centroid": 1002,
+          "max_sample_distance": 0.0001333783147856593
+        },
+        {
+          "triangle": 483,
+          "nearest_source_triangle_at_centroid": 956,
+          "max_sample_distance": 0.00035750376991927624
+        },
+        {
+          "triangle": 484,
+          "nearest_source_triangle_at_centroid": 959,
+          "max_sample_distance": 0.0001443449582438916
+        },
+        {
+          "triangle": 485,
+          "nearest_source_triangle_at_centroid": 963,
+          "max_sample_distance": 8.885647548595443e-05
+        },
+        {
+          "triangle": 486,
+          "nearest_source_triangle_at_centroid": 967,
+          "max_sample_distance": 8.885647548595443e-05
+        },
+        {
+          "triangle": 487,
+          "nearest_source_triangle_at_centroid": 968,
+          "max_sample_distance": 7.714877574471757e-05
+        },
+        {
+          "triangle": 488,
+          "nearest_source_triangle_at_centroid": 966,
+          "max_sample_distance": 7.295209070434794e-05
+        },
+        {
+          "triangle": 489,
+          "nearest_source_triangle_at_centroid": 972,
+          "max_sample_distance": 6.049316652934067e-05
+        },
+        {
+          "triangle": 490,
+          "nearest_source_triangle_at_centroid": 969,
+          "max_sample_distance": 8.908779273042455e-05
+        },
+        {
+          "triangle": 491,
+          "nearest_source_triangle_at_centroid": 976,
+          "max_sample_distance": 0.00011629329674178734
+        },
+        {
+          "triangle": 492,
+          "nearest_source_triangle_at_centroid": 977,
+          "max_sample_distance": 0.00010204857971984893
+        },
+        {
+          "triangle": 493,
+          "nearest_source_triangle_at_centroid": 981,
+          "max_sample_distance": 8.094622899079695e-05
+        },
+        {
+          "triangle": 494,
+          "nearest_source_triangle_at_centroid": 984,
+          "max_sample_distance": 0.0001313821558142081
+        },
+        {
+          "triangle": 495,
+          "nearest_source_triangle_at_centroid": 983,
+          "max_sample_distance": 0.0001313821558142081
+        },
+        {
+          "triangle": 496,
+          "nearest_source_triangle_at_centroid": 986,
+          "max_sample_distance": 8.45570393721573e-05
+        },
+        {
+          "triangle": 497,
+          "nearest_source_triangle_at_centroid": 994,
+          "max_sample_distance": 0.00011629329674178734
+        },
+        {
+          "triangle": 498,
+          "nearest_source_triangle_at_centroid": 996,
+          "max_sample_distance": 7.714877574471757e-05
+        },
+        {
+          "triangle": 499,
+          "nearest_source_triangle_at_centroid": 997,
+          "max_sample_distance": 8.885647548595443e-05
+        },
+        {
+          "triangle": 500,
+          "nearest_source_triangle_at_centroid": 1012,
+          "max_sample_distance": 2.102152029692661e-05
+        },
+        {
+          "triangle": 501,
+          "nearest_source_triangle_at_centroid": 1015,
+          "max_sample_distance": 5.1974311645608395e-05
+        },
+        {
+          "triangle": 502,
+          "nearest_source_triangle_at_centroid": 1016,
+          "max_sample_distance": 6.018415297148749e-05
+        },
+        {
+          "triangle": 503,
+          "nearest_source_triangle_at_centroid": 1020,
+          "max_sample_distance": 0.00014960458793211728
+        },
+        {
+          "triangle": 504,
+          "nearest_source_triangle_at_centroid": 1025,
+          "max_sample_distance": 0.00010185839346377179
+        },
+        {
+          "triangle": 505,
+          "nearest_source_triangle_at_centroid": 1026,
+          "max_sample_distance": 0.00010185839346377179
+        },
+        {
+          "triangle": 506,
+          "nearest_source_triangle_at_centroid": 1031,
+          "max_sample_distance": 0.00011171557707712054
+        },
+        {
+          "triangle": 507,
+          "nearest_source_triangle_at_centroid": 1031,
+          "max_sample_distance": 9.79982505668886e-05
+        },
+        {
+          "triangle": 508,
+          "nearest_source_triangle_at_centroid": 1038,
+          "max_sample_distance": 0.0001719739375403151
+        },
+        {
+          "triangle": 509,
+          "nearest_source_triangle_at_centroid": 1039,
+          "max_sample_distance": 0.0001719739375403151
+        },
+        {
+          "triangle": 510,
+          "nearest_source_triangle_at_centroid": 1040,
+          "max_sample_distance": 0.0001719739375403151
+        },
+        {
+          "triangle": 511,
+          "nearest_source_triangle_at_centroid": 1041,
+          "max_sample_distance": 0.0001719739375403151
+        },
+        {
+          "triangle": 512,
+          "nearest_source_triangle_at_centroid": 952,
+          "max_sample_distance": 8.546349999960512e-05
+        },
+        {
+          "triangle": 513,
+          "nearest_source_triangle_at_centroid": 957,
+          "max_sample_distance": 0.00021201286290306598
+        },
+        {
+          "triangle": 514,
+          "nearest_source_triangle_at_centroid": 1044,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 515,
+          "nearest_source_triangle_at_centroid": 1045,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 516,
+          "nearest_source_triangle_at_centroid": 1046,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 517,
+          "nearest_source_triangle_at_centroid": 1047,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 518,
+          "nearest_source_triangle_at_centroid": 1048,
+          "max_sample_distance": 1.2287812012345967e-07
+        },
+        {
+          "triangle": 519,
+          "nearest_source_triangle_at_centroid": 1049,
+          "max_sample_distance": 1.1920928955078125e-07
+        },
+        {
+          "triangle": 520,
+          "nearest_source_triangle_at_centroid": 1050,
+          "max_sample_distance": 4.470348358154297e-08
+        },
+        {
+          "triangle": 521,
+          "nearest_source_triangle_at_centroid": 1051,
+          "max_sample_distance": 1.2287812012345967e-07
+        },
+        {
+          "triangle": 522,
+          "nearest_source_triangle_at_centroid": 1052,
+          "max_sample_distance": 2.4027400513659813e-07
+        },
+        {
+          "triangle": 523,
+          "nearest_source_triangle_at_centroid": 1053,
+          "max_sample_distance": 1.2287812012345967e-07
+        },
+        {
+          "triangle": 524,
+          "nearest_source_triangle_at_centroid": 1054,
+          "max_sample_distance": 1.2013700256829907e-07
+        },
+        {
+          "triangle": 525,
+          "nearest_source_triangle_at_centroid": 1055,
+          "max_sample_distance": 1.1920928955078125e-07
+        },
+        {
+          "triangle": 526,
+          "nearest_source_triangle_at_centroid": 1056,
+          "max_sample_distance": 2.682209014892578e-07
+        },
+        {
+          "triangle": 527,
+          "nearest_source_triangle_at_centroid": 1057,
+          "max_sample_distance": 1.1920928955078125e-07
+        },
+        {
+          "triangle": 528,
+          "nearest_source_triangle_at_centroid": 1058,
+          "max_sample_distance": 1.2731557319511921e-07
+        },
+        {
+          "triangle": 529,
+          "nearest_source_triangle_at_centroid": 1059,
+          "max_sample_distance": 1.1920928955078125e-07
+        }
+      ]
+    },
+    {
+      "object": "CCE_mesh_21.001",
+      "retained": true,
+      "proposed_triangles": 257,
+      "before_vertices": 388,
+      "after_vertices": 259,
+      "before_triangles": 514,
+      "after_triangles": 257,
+      "candidate_to_source_max_sample_distance": 0.00048356418847106397,
+      "source_to_candidate_max_sample_distance": 0.0005837484495714307,
+      "source_triangle_mapping": [
+        {
+          "triangle": 0,
+          "nearest_source_triangle_at_centroid": 0,
+          "max_sample_distance": 0.0
+        },
+        {
+          "triangle": 1,
+          "nearest_source_triangle_at_centroid": 1,
+          "max_sample_distance": 1.1920928955078125e-07
+        },
+        {
+          "triangle": 2,
+          "nearest_source_triangle_at_centroid": 7,
+          "max_sample_distance": 0.0003520169702824205
+        },
+        {
+          "triangle": 3,
+          "nearest_source_triangle_at_centroid": 12,
+          "max_sample_distance": 0.0004802884941454977
+        },
+        {
+          "triangle": 4,
+          "nearest_source_triangle_at_centroid": 10,
+          "max_sample_distance": 0.00048032982158474624
+        },
+        {
+          "triangle": 5,
+          "nearest_source_triangle_at_centroid": 2,
+          "max_sample_distance": 0.00048032982158474624
+        },
+        {
+          "triangle": 6,
+          "nearest_source_triangle_at_centroid": 20,
+          "max_sample_distance": 0.0004537916393019259
+        },
+        {
+          "triangle": 7,
+          "nearest_source_triangle_at_centroid": 13,
+          "max_sample_distance": 0.000440564239397645
+        },
+        {
+          "triangle": 8,
+          "nearest_source_triangle_at_centroid": 14,
+          "max_sample_distance": 0.000440564239397645
+        },
+        {
+          "triangle": 9,
+          "nearest_source_triangle_at_centroid": 15,
+          "max_sample_distance": 0.00043240474769845605
+        },
+        {
+          "triangle": 10,
+          "nearest_source_triangle_at_centroid": 17,
+          "max_sample_distance": 0.0003556666197255254
+        },
+        {
+          "triangle": 11,
+          "nearest_source_triangle_at_centroid": 18,
+          "max_sample_distance": 0.00043243152322247624
+        },
+        {
+          "triangle": 12,
+          "nearest_source_triangle_at_centroid": 22,
+          "max_sample_distance": 0.00045381730888038874
+        },
+        {
+          "triangle": 13,
+          "nearest_source_triangle_at_centroid": 23,
+          "max_sample_distance": 0.00035285623744130135
+        },
+        {
+          "triangle": 14,
+          "nearest_source_triangle_at_centroid": 26,
+          "max_sample_distance": 0.00045381730888038874
+        },
+        {
+          "triangle": 15,
+          "nearest_source_triangle_at_centroid": 28,
+          "max_sample_distance": 0.0004551030870061368
+        },
+        {
+          "triangle": 16,
+          "nearest_source_triangle_at_centroid": 30,
+          "max_sample_distance": 0.0004551030870061368
+        },
+        {
+          "triangle": 17,
+          "nearest_source_triangle_at_centroid": 31,
+          "max_sample_distance": 0.0003568408137653023
+        },
+        {
+          "triangle": 18,
+          "nearest_source_triangle_at_centroid": 34,
+          "max_sample_distance": 0.00045501350541599095
+        },
+        {
+          "triangle": 19,
+          "nearest_source_triangle_at_centroid": 36,
+          "max_sample_distance": 0.00045030383625999093
+        },
+        {
+          "triangle": 20,
+          "nearest_source_triangle_at_centroid": 38,
+          "max_sample_distance": 0.00045054341899231076
+        },
+        {
+          "triangle": 21,
+          "nearest_source_triangle_at_centroid": 37,
+          "max_sample_distance": 0.00048228894593194127
+        },
+        {
+          "triangle": 22,
+          "nearest_source_triangle_at_centroid": 42,
+          "max_sample_distance": 0.00048228894593194127
+        },
+        {
+          "triangle": 23,
+          "nearest_source_triangle_at_centroid": 45,
+          "max_sample_distance": 0.00035769829992204905
+        },
+        {
+          "triangle": 24,
+          "nearest_source_triangle_at_centroid": 46,
+          "max_sample_distance": 0.00047674038796685636
+        },
+        {
+          "triangle": 25,
+          "nearest_source_triangle_at_centroid": 48,
+          "max_sample_distance": 0.00043756337254308164
+        },
+        {
+          "triangle": 26,
+          "nearest_source_triangle_at_centroid": 50,
+          "max_sample_distance": 0.00043756337254308164
+        },
+        {
+          "triangle": 27,
+          "nearest_source_triangle_at_centroid": 51,
+          "max_sample_distance": 0.00035769829992204905
+        },
+        {
+          "triangle": 28,
+          "nearest_source_triangle_at_centroid": 54,
+          "max_sample_distance": 0.0004371503891889006
+        },
+        {
+          "triangle": 29,
+          "nearest_source_triangle_at_centroid": 56,
+          "max_sample_distance": 0.0004316220583859831
+        },
+        {
+          "triangle": 30,
+          "nearest_source_triangle_at_centroid": 58,
+          "max_sample_distance": 0.00043167409603483975
+        },
+        {
+          "triangle": 31,
+          "nearest_source_triangle_at_centroid": 59,
+          "max_sample_distance": 0.00035568239400163293
+        },
+        {
+          "triangle": 32,
+          "nearest_source_triangle_at_centroid": 61,
+          "max_sample_distance": 0.00043167409603483975
+        },
+        {
+          "triangle": 33,
+          "nearest_source_triangle_at_centroid": 62,
+          "max_sample_distance": 0.00043243152322247624
+        },
+        {
+          "triangle": 34,
+          "nearest_source_triangle_at_centroid": 69,
+          "max_sample_distance": 0.00025159510551020503
+        },
+        {
+          "triangle": 35,
+          "nearest_source_triangle_at_centroid": 72,
+          "max_sample_distance": 0.00031350404606200755
+        },
+        {
+          "triangle": 36,
+          "nearest_source_triangle_at_centroid": 75,
+          "max_sample_distance": 0.00030714538297615945
+        },
+        {
+          "triangle": 37,
+          "nearest_source_triangle_at_centroid": 73,
+          "max_sample_distance": 0.0003136033774353564
+        },
+        {
+          "triangle": 38,
+          "nearest_source_triangle_at_centroid": 77,
+          "max_sample_distance": 0.00030732262530364096
+        },
+        {
+          "triangle": 39,
+          "nearest_source_triangle_at_centroid": 74,
+          "max_sample_distance": 0.0003136033774353564
+        },
+        {
+          "triangle": 40,
+          "nearest_source_triangle_at_centroid": 82,
+          "max_sample_distance": 0.00030732262530364096
+        },
+        {
+          "triangle": 41,
+          "nearest_source_triangle_at_centroid": 81,
+          "max_sample_distance": 0.0002502593561075628
+        },
+        {
+          "triangle": 42,
+          "nearest_source_triangle_at_centroid": 84,
+          "max_sample_distance": 0.00030344462720677257
+        },
+        {
+          "triangle": 43,
+          "nearest_source_triangle_at_centroid": 86,
+          "max_sample_distance": 0.0003846327599603683
+        },
+        {
+          "triangle": 44,
+          "nearest_source_triangle_at_centroid": 90,
+          "max_sample_distance": 0.0002497271925676614
+        },
+        {
+          "triangle": 45,
+          "nearest_source_triangle_at_centroid": 89,
+          "max_sample_distance": 0.0002497271925676614
+        },
+        {
+          "triangle": 46,
+          "nearest_source_triangle_at_centroid": 94,
+          "max_sample_distance": 0.00038107234286144376
+        },
+        {
+          "triangle": 47,
+          "nearest_source_triangle_at_centroid": 98,
+          "max_sample_distance": 0.0003038158465642482
+        },
+        {
+          "triangle": 48,
+          "nearest_source_triangle_at_centroid": 97,
+          "max_sample_distance": 0.0002497687528375536
+        },
+        {
+          "triangle": 49,
+          "nearest_source_triangle_at_centroid": 100,
+          "max_sample_distance": 0.00030944409081712365
+        },
+        {
+          "triangle": 50,
+          "nearest_source_triangle_at_centroid": 102,
+          "max_sample_distance": 0.00030947040067985654
+        },
+        {
+          "triangle": 51,
+          "nearest_source_triangle_at_centroid": 106,
+          "max_sample_distance": 0.00030947040067985654
+        },
+        {
+          "triangle": 52,
+          "nearest_source_triangle_at_centroid": 105,
+          "max_sample_distance": 0.0002497687528375536
+        },
+        {
+          "triangle": 53,
+          "nearest_source_triangle_at_centroid": 108,
+          "max_sample_distance": 0.00031631370075047016
+        },
+        {
+          "triangle": 54,
+          "nearest_source_triangle_at_centroid": 110,
+          "max_sample_distance": 0.00031631370075047016
+        },
+        {
+          "triangle": 55,
+          "nearest_source_triangle_at_centroid": 114,
+          "max_sample_distance": 0.0003162254288326949
+        },
+        {
+          "triangle": 56,
+          "nearest_source_triangle_at_centroid": 113,
+          "max_sample_distance": 0.00024807467707432806
+        },
+        {
+          "triangle": 57,
+          "nearest_source_triangle_at_centroid": 116,
+          "max_sample_distance": 0.00031972533906809986
+        },
+        {
+          "triangle": 58,
+          "nearest_source_triangle_at_centroid": 118,
+          "max_sample_distance": 0.00031972533906809986
+        },
+        {
+          "triangle": 59,
+          "nearest_source_triangle_at_centroid": 122,
+          "max_sample_distance": 0.0003195983008481562
+        },
+        {
+          "triangle": 60,
+          "nearest_source_triangle_at_centroid": 121,
+          "max_sample_distance": 0.00024922838201746345
+        },
+        {
+          "triangle": 61,
+          "nearest_source_triangle_at_centroid": 124,
+          "max_sample_distance": 0.000318393373163417
+        },
+        {
+          "triangle": 62,
+          "nearest_source_triangle_at_centroid": 126,
+          "max_sample_distance": 0.000318393373163417
+        },
+        {
+          "triangle": 63,
+          "nearest_source_triangle_at_centroid": 78,
+          "max_sample_distance": 0.0003182804211974144
+        },
+        {
+          "triangle": 64,
+          "nearest_source_triangle_at_centroid": 128,
+          "max_sample_distance": 0.00025159510551020503
+        },
+        {
+          "triangle": 65,
+          "nearest_source_triangle_at_centroid": 132,
+          "max_sample_distance": 0.00024614398716948926
+        },
+        {
+          "triangle": 66,
+          "nearest_source_triangle_at_centroid": 139,
+          "max_sample_distance": 0.000247875606874004
+        },
+        {
+          "triangle": 67,
+          "nearest_source_triangle_at_centroid": 141,
+          "max_sample_distance": 0.0002498669200576842
+        },
+        {
+          "triangle": 68,
+          "nearest_source_triangle_at_centroid": 148,
+          "max_sample_distance": 0.0003333195927552879
+        },
+        {
+          "triangle": 69,
+          "nearest_source_triangle_at_centroid": 149,
+          "max_sample_distance": 0.00030773080652579665
+        },
+        {
+          "triangle": 70,
+          "nearest_source_triangle_at_centroid": 150,
+          "max_sample_distance": 0.00033769651781767607
+        },
+        {
+          "triangle": 71,
+          "nearest_source_triangle_at_centroid": 134,
+          "max_sample_distance": 0.00033769651781767607
+        },
+        {
+          "triangle": 72,
+          "nearest_source_triangle_at_centroid": 152,
+          "max_sample_distance": 0.00030799079104326665
+        },
+        {
+          "triangle": 73,
+          "nearest_source_triangle_at_centroid": 156,
+          "max_sample_distance": 0.00030799079104326665
+        },
+        {
+          "triangle": 74,
+          "nearest_source_triangle_at_centroid": 154,
+          "max_sample_distance": 0.0003168803232256323
+        },
+        {
+          "triangle": 75,
+          "nearest_source_triangle_at_centroid": 157,
+          "max_sample_distance": 0.00030297660850919783
+        },
+        {
+          "triangle": 76,
+          "nearest_source_triangle_at_centroid": 158,
+          "max_sample_distance": 0.00030297660850919783
+        },
+        {
+          "triangle": 77,
+          "nearest_source_triangle_at_centroid": 155,
+          "max_sample_distance": 0.0003168803232256323
+        },
+        {
+          "triangle": 78,
+          "nearest_source_triangle_at_centroid": 159,
+          "max_sample_distance": 0.0003197044716216624
+        },
+        {
+          "triangle": 79,
+          "nearest_source_triangle_at_centroid": 161,
+          "max_sample_distance": 0.0003197044716216624
+        },
+        {
+          "triangle": 80,
+          "nearest_source_triangle_at_centroid": 162,
+          "max_sample_distance": 0.00031960345222614706
+        },
+        {
+          "triangle": 81,
+          "nearest_source_triangle_at_centroid": 163,
+          "max_sample_distance": 0.00031916782609187067
+        },
+        {
+          "triangle": 82,
+          "nearest_source_triangle_at_centroid": 165,
+          "max_sample_distance": 0.00024780910462141037
+        },
+        {
+          "triangle": 83,
+          "nearest_source_triangle_at_centroid": 166,
+          "max_sample_distance": 0.00031916782609187067
+        },
+        {
+          "triangle": 84,
+          "nearest_source_triangle_at_centroid": 168,
+          "max_sample_distance": 0.00031916372245177627
+        },
+        {
+          "triangle": 85,
+          "nearest_source_triangle_at_centroid": 170,
+          "max_sample_distance": 0.00033619528403505683
+        },
+        {
+          "triangle": 86,
+          "nearest_source_triangle_at_centroid": 173,
+          "max_sample_distance": 0.00024610155378468335
+        },
+        {
+          "triangle": 87,
+          "nearest_source_triangle_at_centroid": 174,
+          "max_sample_distance": 0.00033619528403505683
+        },
+        {
+          "triangle": 88,
+          "nearest_source_triangle_at_centroid": 179,
+          "max_sample_distance": 0.000335164659190923
+        },
+        {
+          "triangle": 89,
+          "nearest_source_triangle_at_centroid": 178,
+          "max_sample_distance": 0.0003096267464570701
+        },
+        {
+          "triangle": 90,
+          "nearest_source_triangle_at_centroid": 180,
+          "max_sample_distance": 0.0003092008992098272
+        },
+        {
+          "triangle": 91,
+          "nearest_source_triangle_at_centroid": 182,
+          "max_sample_distance": 0.0003025739861186594
+        },
+        {
+          "triangle": 92,
+          "nearest_source_triangle_at_centroid": 185,
+          "max_sample_distance": 0.00024923335877247155
+        },
+        {
+          "triangle": 93,
+          "nearest_source_triangle_at_centroid": 186,
+          "max_sample_distance": 0.0003030083898920566
+        },
+        {
+          "triangle": 94,
+          "nearest_source_triangle_at_centroid": 188,
+          "max_sample_distance": 0.0003030083898920566
+        },
+        {
+          "triangle": 95,
+          "nearest_source_triangle_at_centroid": 191,
+          "max_sample_distance": 0.0003026580670848489
+        },
+        {
+          "triangle": 96,
+          "nearest_source_triangle_at_centroid": 193,
+          "max_sample_distance": 0.00024923335877247155
+        },
+        {
+          "triangle": 97,
+          "nearest_source_triangle_at_centroid": 196,
+          "max_sample_distance": 0.00024997806758619845
+        },
+        {
+          "triangle": 98,
+          "nearest_source_triangle_at_centroid": 199,
+          "max_sample_distance": 0.00030275562312453985
+        },
+        {
+          "triangle": 99,
+          "nearest_source_triangle_at_centroid": 255,
+          "max_sample_distance": 0.00030505412723869085
+        },
+        {
+          "triangle": 100,
+          "nearest_source_triangle_at_centroid": 200,
+          "max_sample_distance": 0.00030275562312453985
+        },
+        {
+          "triangle": 101,
+          "nearest_source_triangle_at_centroid": 201,
+          "max_sample_distance": 0.00030270215938799083
+        },
+        {
+          "triangle": 102,
+          "nearest_source_triangle_at_centroid": 204,
+          "max_sample_distance": 0.0002508627949282527
+        },
+        {
+          "triangle": 103,
+          "nearest_source_triangle_at_centroid": 203,
+          "max_sample_distance": 0.0003057003777939826
+        },
+        {
+          "triangle": 104,
+          "nearest_source_triangle_at_centroid": 207,
+          "max_sample_distance": 0.0003057003777939826
+        },
+        {
+          "triangle": 105,
+          "nearest_source_triangle_at_centroid": 209,
+          "max_sample_distance": 0.0003056023851968348
+        },
+        {
+          "triangle": 106,
+          "nearest_source_triangle_at_centroid": 212,
+          "max_sample_distance": 0.00025186201673932374
+        },
+        {
+          "triangle": 107,
+          "nearest_source_triangle_at_centroid": 211,
+          "max_sample_distance": 0.0003113403799943626
+        },
+        {
+          "triangle": 108,
+          "nearest_source_triangle_at_centroid": 215,
+          "max_sample_distance": 0.00031179608777165413
+        },
+        {
+          "triangle": 109,
+          "nearest_source_triangle_at_centroid": 217,
+          "max_sample_distance": 0.00031179608777165413
+        },
+        {
+          "triangle": 110,
+          "nearest_source_triangle_at_centroid": 220,
+          "max_sample_distance": 0.00025186201673932374
+        },
+        {
+          "triangle": 111,
+          "nearest_source_triangle_at_centroid": 219,
+          "max_sample_distance": 0.00031732325442135334
+        },
+        {
+          "triangle": 112,
+          "nearest_source_triangle_at_centroid": 223,
+          "max_sample_distance": 0.00031732325442135334
+        },
+        {
+          "triangle": 113,
+          "nearest_source_triangle_at_centroid": 225,
+          "max_sample_distance": 0.0003172947617713362
+        },
+        {
+          "triangle": 114,
+          "nearest_source_triangle_at_centroid": 228,
+          "max_sample_distance": 0.00025009000091813505
+        },
+        {
+          "triangle": 115,
+          "nearest_source_triangle_at_centroid": 226,
+          "max_sample_distance": 0.0003198841877747327
+        },
+        {
+          "triangle": 116,
+          "nearest_source_triangle_at_centroid": 231,
+          "max_sample_distance": 0.0003198841877747327
+        },
+        {
+          "triangle": 117,
+          "nearest_source_triangle_at_centroid": 233,
+          "max_sample_distance": 0.0003198704216629267
+        },
+        {
+          "triangle": 118,
+          "nearest_source_triangle_at_centroid": 236,
+          "max_sample_distance": 0.0002476332592777908
+        },
+        {
+          "triangle": 119,
+          "nearest_source_triangle_at_centroid": 234,
+          "max_sample_distance": 0.0003178440092597157
+        },
+        {
+          "triangle": 120,
+          "nearest_source_triangle_at_centroid": 239,
+          "max_sample_distance": 0.00031794540700502694
+        },
+        {
+          "triangle": 121,
+          "nearest_source_triangle_at_centroid": 241,
+          "max_sample_distance": 0.00031794540700502694
+        },
+        {
+          "triangle": 122,
+          "nearest_source_triangle_at_centroid": 244,
+          "max_sample_distance": 0.0002494294894859195
+        },
+        {
+          "triangle": 123,
+          "nearest_source_triangle_at_centroid": 242,
+          "max_sample_distance": 0.00031151948496699333
+        },
+        {
+          "triangle": 124,
+          "nearest_source_triangle_at_centroid": 247,
+          "max_sample_distance": 0.00031171448063105345
+        },
+        {
+          "triangle": 125,
+          "nearest_source_triangle_at_centroid": 249,
+          "max_sample_distance": 0.00031171448063105345
+        },
+        {
+          "triangle": 126,
+          "nearest_source_triangle_at_centroid": 252,
+          "max_sample_distance": 0.00024997806758619845
+        },
+        {
+          "triangle": 127,
+          "nearest_source_triangle_at_centroid": 256,
+          "max_sample_distance": 0.00030505412723869085
+        },
+        {
+          "triangle": 128,
+          "nearest_source_triangle_at_centroid": 250,
+          "max_sample_distance": 0.00030503750895150006
+        },
+        {
+          "triangle": 129,
+          "nearest_source_triangle_at_centroid": 258,
+          "max_sample_distance": 0.0003389439079910517
+        },
+        {
+          "triangle": 130,
+          "nearest_source_triangle_at_centroid": 268,
+          "max_sample_distance": 0.0003387035394553095
+        },
+        {
+          "triangle": 131,
+          "nearest_source_triangle_at_centroid": 261,
+          "max_sample_distance": 0.0003389439079910517
+        },
+        {
+          "triangle": 132,
+          "nearest_source_triangle_at_centroid": 263,
+          "max_sample_distance": 0.00031471860711462796
+        },
+        {
+          "triangle": 133,
+          "nearest_source_triangle_at_centroid": 268,
+          "max_sample_distance": 0.0003056750865653157
+        },
+        {
+          "triangle": 134,
+          "nearest_source_triangle_at_centroid": 267,
+          "max_sample_distance": 0.00031471860711462796
+        },
+        {
+          "triangle": 135,
+          "nearest_source_triangle_at_centroid": 270,
+          "max_sample_distance": 0.000305773108266294
+        },
+        {
+          "triangle": 136,
+          "nearest_source_triangle_at_centroid": 274,
+          "max_sample_distance": 0.000305773108266294
+        },
+        {
+          "triangle": 137,
+          "nearest_source_triangle_at_centroid": 273,
+          "max_sample_distance": 0.00025083281798288226
+        },
+        {
+          "triangle": 138,
+          "nearest_source_triangle_at_centroid": 276,
+          "max_sample_distance": 0.00030275562312453985
+        },
+        {
+          "triangle": 139,
+          "nearest_source_triangle_at_centroid": 278,
+          "max_sample_distance": 0.00030280908686108887
+        },
+        {
+          "triangle": 140,
+          "nearest_source_triangle_at_centroid": 282,
+          "max_sample_distance": 0.00030280908686108887
+        },
+        {
+          "triangle": 141,
+          "nearest_source_triangle_at_centroid": 281,
+          "max_sample_distance": 0.00024991424288600683
+        },
+        {
+          "triangle": 142,
+          "nearest_source_triangle_at_centroid": 284,
+          "max_sample_distance": 0.00030509778298437595
+        },
+        {
+          "triangle": 143,
+          "nearest_source_triangle_at_centroid": 286,
+          "max_sample_distance": 0.0003051241801586002
+        },
+        {
+          "triangle": 144,
+          "nearest_source_triangle_at_centroid": 288,
+          "max_sample_distance": 0.0003051241801586002
+        },
+        {
+          "triangle": 145,
+          "nearest_source_triangle_at_centroid": 289,
+          "max_sample_distance": 0.0003396660613361746
+        },
+        {
+          "triangle": 146,
+          "nearest_source_triangle_at_centroid": 290,
+          "max_sample_distance": 0.0003396660613361746
+        },
+        {
+          "triangle": 147,
+          "nearest_source_triangle_at_centroid": 296,
+          "max_sample_distance": 0.00031511494307778776
+        },
+        {
+          "triangle": 148,
+          "nearest_source_triangle_at_centroid": 296,
+          "max_sample_distance": 0.00033745597465895116
+        },
+        {
+          "triangle": 149,
+          "nearest_source_triangle_at_centroid": 299,
+          "max_sample_distance": 0.00031511494307778776
+        },
+        {
+          "triangle": 150,
+          "nearest_source_triangle_at_centroid": 301,
+          "max_sample_distance": 0.00031506374944001436
+        },
+        {
+          "triangle": 151,
+          "nearest_source_triangle_at_centroid": 304,
+          "max_sample_distance": 0.00031943211797624826
+        },
+        {
+          "triangle": 152,
+          "nearest_source_triangle_at_centroid": 302,
+          "max_sample_distance": 0.0002484538417775184
+        },
+        {
+          "triangle": 153,
+          "nearest_source_triangle_at_centroid": 307,
+          "max_sample_distance": 0.00031943211797624826
+        },
+        {
+          "triangle": 154,
+          "nearest_source_triangle_at_centroid": 309,
+          "max_sample_distance": 0.000319379149004817
+        },
+        {
+          "triangle": 155,
+          "nearest_source_triangle_at_centroid": 312,
+          "max_sample_distance": 0.0003189470444340259
+        },
+        {
+          "triangle": 156,
+          "nearest_source_triangle_at_centroid": 310,
+          "max_sample_distance": 0.00024860131088644266
+        },
+        {
+          "triangle": 157,
+          "nearest_source_triangle_at_centroid": 315,
+          "max_sample_distance": 0.0003189470444340259
+        },
+        {
+          "triangle": 158,
+          "nearest_source_triangle_at_centroid": 317,
+          "max_sample_distance": 0.00031471860711462796
+        },
+        {
+          "triangle": 159,
+          "nearest_source_triangle_at_centroid": 316,
+          "max_sample_distance": 0.00031893057166598737
+        },
+        {
+          "triangle": 160,
+          "nearest_source_triangle_at_centroid": 321,
+          "max_sample_distance": 0.00025127813569270074
+        },
+        {
+          "triangle": 161,
+          "nearest_source_triangle_at_centroid": 323,
+          "max_sample_distance": 0.0004827072552870959
+        },
+        {
+          "triangle": 162,
+          "nearest_source_triangle_at_centroid": 324,
+          "max_sample_distance": 0.0004827072552870959
+        },
+        {
+          "triangle": 163,
+          "nearest_source_triangle_at_centroid": 325,
+          "max_sample_distance": 0.0004480711359065026
+        },
+        {
+          "triangle": 164,
+          "nearest_source_triangle_at_centroid": 327,
+          "max_sample_distance": 0.0004480711359065026
+        },
+        {
+          "triangle": 165,
+          "nearest_source_triangle_at_centroid": 330,
+          "max_sample_distance": 0.00044799313764087856
+        },
+        {
+          "triangle": 166,
+          "nearest_source_triangle_at_centroid": 333,
+          "max_sample_distance": 0.0003577610768843442
+        },
+        {
+          "triangle": 167,
+          "nearest_source_triangle_at_centroid": 332,
+          "max_sample_distance": 0.00045410095481202006
+        },
+        {
+          "triangle": 168,
+          "nearest_source_triangle_at_centroid": 336,
+          "max_sample_distance": 0.0004542045062407851
+        },
+        {
+          "triangle": 169,
+          "nearest_source_triangle_at_centroid": 338,
+          "max_sample_distance": 0.0004542045062407851
+        },
+        {
+          "triangle": 170,
+          "nearest_source_triangle_at_centroid": 341,
+          "max_sample_distance": 0.0003539239405654371
+        },
+        {
+          "triangle": 171,
+          "nearest_source_triangle_at_centroid": 340,
+          "max_sample_distance": 0.00045495564700104296
+        },
+        {
+          "triangle": 172,
+          "nearest_source_triangle_at_centroid": 344,
+          "max_sample_distance": 0.00045495564700104296
+        },
+        {
+          "triangle": 173,
+          "nearest_source_triangle_at_centroid": 346,
+          "max_sample_distance": 0.00045490515185520053
+        },
+        {
+          "triangle": 174,
+          "nearest_source_triangle_at_centroid": 349,
+          "max_sample_distance": 0.00035361171467229724
+        },
+        {
+          "triangle": 175,
+          "nearest_source_triangle_at_centroid": 348,
+          "max_sample_distance": 0.00044859328772872686
+        },
+        {
+          "triangle": 176,
+          "nearest_source_triangle_at_centroid": 351,
+          "max_sample_distance": 0.00044859328772872686
+        },
+        {
+          "triangle": 177,
+          "nearest_source_triangle_at_centroid": 355,
+          "max_sample_distance": 0.00044859328772872686
+        },
+        {
+          "triangle": 178,
+          "nearest_source_triangle_at_centroid": 355,
+          "max_sample_distance": 0.0004802609619218856
+        },
+        {
+          "triangle": 179,
+          "nearest_source_triangle_at_centroid": 360,
+          "max_sample_distance": 0.00048356418847106397
+        },
+        {
+          "triangle": 180,
+          "nearest_source_triangle_at_centroid": 361,
+          "max_sample_distance": 0.00048356418847106397
+        },
+        {
+          "triangle": 181,
+          "nearest_source_triangle_at_centroid": 363,
+          "max_sample_distance": 0.0004342493193689734
+        },
+        {
+          "triangle": 182,
+          "nearest_source_triangle_at_centroid": 364,
+          "max_sample_distance": 0.0004342493193689734
+        },
+        {
+          "triangle": 183,
+          "nearest_source_triangle_at_centroid": 366,
+          "max_sample_distance": 0.0004341701278463006
+        },
+        {
+          "triangle": 184,
+          "nearest_source_triangle_at_centroid": 369,
+          "max_sample_distance": 0.000355885160388425
+        },
+        {
+          "triangle": 185,
+          "nearest_source_triangle_at_centroid": 367,
+          "max_sample_distance": 0.0004310852091293782
+        },
+        {
+          "triangle": 186,
+          "nearest_source_triangle_at_centroid": 372,
+          "max_sample_distance": 0.0004310852091293782
+        },
+        {
+          "triangle": 187,
+          "nearest_source_triangle_at_centroid": 374,
+          "max_sample_distance": 0.0004310064250603318
+        },
+        {
+          "triangle": 188,
+          "nearest_source_triangle_at_centroid": 377,
+          "max_sample_distance": 0.0003571983252186328
+        },
+        {
+          "triangle": 189,
+          "nearest_source_triangle_at_centroid": 375,
+          "max_sample_distance": 0.0004351988900452852
+        },
+        {
+          "triangle": 190,
+          "nearest_source_triangle_at_centroid": 380,
+          "max_sample_distance": 0.0004351988900452852
+        },
+        {
+          "triangle": 191,
+          "nearest_source_triangle_at_centroid": 383,
+          "max_sample_distance": 0.0004351988900452852
+        },
+        {
+          "triangle": 192,
+          "nearest_source_triangle_at_centroid": 383,
+          "max_sample_distance": 0.0004822968039661646
+        },
+        {
+          "triangle": 193,
+          "nearest_source_triangle_at_centroid": 386,
+          "max_sample_distance": 0.00048264063661918044
+        },
+        {
+          "triangle": 194,
+          "nearest_source_triangle_at_centroid": 396,
+          "max_sample_distance": 0.00048224168131127954
+        },
+        {
+          "triangle": 195,
+          "nearest_source_triangle_at_centroid": 389,
+          "max_sample_distance": 0.00048264063661918044
+        },
+        {
+          "triangle": 196,
+          "nearest_source_triangle_at_centroid": 391,
+          "max_sample_distance": 0.0004480419447645545
+        },
+        {
+          "triangle": 197,
+          "nearest_source_triangle_at_centroid": 396,
+          "max_sample_distance": 0.00043522563646547496
+        },
+        {
+          "triangle": 198,
+          "nearest_source_triangle_at_centroid": 395,
+          "max_sample_distance": 0.0004480419447645545
+        },
+        {
+          "triangle": 199,
+          "nearest_source_triangle_at_centroid": 398,
+          "max_sample_distance": 0.00043524790089577436
+        },
+        {
+          "triangle": 200,
+          "nearest_source_triangle_at_centroid": 402,
+          "max_sample_distance": 0.00043524790089577436
+        },
+        {
+          "triangle": 201,
+          "nearest_source_triangle_at_centroid": 401,
+          "max_sample_distance": 0.0003571493143681437
+        },
+        {
+          "triangle": 202,
+          "nearest_source_triangle_at_centroid": 404,
+          "max_sample_distance": 0.00043097970774397254
+        },
+        {
+          "triangle": 203,
+          "nearest_source_triangle_at_centroid": 406,
+          "max_sample_distance": 0.00043103317148052156
+        },
+        {
+          "triangle": 204,
+          "nearest_source_triangle_at_centroid": 410,
+          "max_sample_distance": 0.00043103317148052156
+        },
+        {
+          "triangle": 205,
+          "nearest_source_triangle_at_centroid": 409,
+          "max_sample_distance": 0.00035587974707596004
+        },
+        {
+          "triangle": 206,
+          "nearest_source_triangle_at_centroid": 412,
+          "max_sample_distance": 0.0004342493193689734
+        },
+        {
+          "triangle": 207,
+          "nearest_source_triangle_at_centroid": 414,
+          "max_sample_distance": 0.0004343194013927132
+        },
+        {
+          "triangle": 208,
+          "nearest_source_triangle_at_centroid": 416,
+          "max_sample_distance": 0.0004343194013927132
+        },
+        {
+          "triangle": 209,
+          "nearest_source_triangle_at_centroid": 417,
+          "max_sample_distance": 0.00048354503815062344
+        },
+        {
+          "triangle": 210,
+          "nearest_source_triangle_at_centroid": 419,
+          "max_sample_distance": 0.00048354503815062344
+        },
+        {
+          "triangle": 211,
+          "nearest_source_triangle_at_centroid": 424,
+          "max_sample_distance": 0.00048027720185928047
+        },
+        {
+          "triangle": 212,
+          "nearest_source_triangle_at_centroid": 424,
+          "max_sample_distance": 0.0004486382531467825
+        },
+        {
+          "triangle": 213,
+          "nearest_source_triangle_at_centroid": 425,
+          "max_sample_distance": 0.0004486382531467825
+        },
+        {
+          "triangle": 214,
+          "nearest_source_triangle_at_centroid": 431,
+          "max_sample_distance": 0.0004486382531467825
+        },
+        {
+          "triangle": 215,
+          "nearest_source_triangle_at_centroid": 429,
+          "max_sample_distance": 0.0003537115117069334
+        },
+        {
+          "triangle": 216,
+          "nearest_source_triangle_at_centroid": 432,
+          "max_sample_distance": 0.0004550007579382509
+        },
+        {
+          "triangle": 217,
+          "nearest_source_triangle_at_centroid": 433,
+          "max_sample_distance": 0.0004550007579382509
+        },
+        {
+          "triangle": 218,
+          "nearest_source_triangle_at_centroid": 439,
+          "max_sample_distance": 0.0004549477598629892
+        },
+        {
+          "triangle": 219,
+          "nearest_source_triangle_at_centroid": 437,
+          "max_sample_distance": 0.00035392839345149696
+        },
+        {
+          "triangle": 220,
+          "nearest_source_triangle_at_centroid": 440,
+          "max_sample_distance": 0.000454208959126845
+        },
+        {
+          "triangle": 221,
+          "nearest_source_triangle_at_centroid": 441,
+          "max_sample_distance": 0.000454208959126845
+        },
+        {
+          "triangle": 222,
+          "nearest_source_triangle_at_centroid": 445,
+          "max_sample_distance": 0.0004541835514828563
+        },
+        {
+          "triangle": 223,
+          "nearest_source_triangle_at_centroid": 446,
+          "max_sample_distance": 0.0004480191273614764
+        },
+        {
+          "triangle": 224,
+          "nearest_source_triangle_at_centroid": 449,
+          "max_sample_distance": 0.00035772164119407535
+        },
+        {
+          "triangle": 225,
+          "nearest_source_triangle_at_centroid": 453,
+          "max_sample_distance": 0.0003528883680701256
+        },
+        {
+          "triangle": 226,
+          "nearest_source_triangle_at_centroid": 455,
+          "max_sample_distance": 0.00035677754203788936
+        },
+        {
+          "triangle": 227,
+          "nearest_source_triangle_at_centroid": 459,
+          "max_sample_distance": 0.0003519913007039577
+        },
+        {
+          "triangle": 228,
+          "nearest_source_triangle_at_centroid": 468,
+          "max_sample_distance": 0.00045506402966566384
+        },
+        {
+          "triangle": 229,
+          "nearest_source_triangle_at_centroid": 470,
+          "max_sample_distance": 0.00045493338257074356
+        },
+        {
+          "triangle": 230,
+          "nearest_source_triangle_at_centroid": 471,
+          "max_sample_distance": 0.0004504419630393386
+        },
+        {
+          "triangle": 231,
+          "nearest_source_triangle_at_centroid": 472,
+          "max_sample_distance": 0.00045051806955598295
+        },
+        {
+          "triangle": 232,
+          "nearest_source_triangle_at_centroid": 462,
+          "max_sample_distance": 0.00048228894593194127
+        },
+        {
+          "triangle": 233,
+          "nearest_source_triangle_at_centroid": 474,
+          "max_sample_distance": 0.00048228894593194127
+        },
+        {
+          "triangle": 234,
+          "nearest_source_triangle_at_centroid": 477,
+          "max_sample_distance": 0.0004766851488966495
+        },
+        {
+          "triangle": 235,
+          "nearest_source_triangle_at_centroid": 513,
+          "max_sample_distance": 0.0003577786555979401
+        },
+        {
+          "triangle": 236,
+          "nearest_source_triangle_at_centroid": 478,
+          "max_sample_distance": 0.0004376131691969931
+        },
+        {
+          "triangle": 237,
+          "nearest_source_triangle_at_centroid": 479,
+          "max_sample_distance": 0.0004376131691969931
+        },
+        {
+          "triangle": 238,
+          "nearest_source_triangle_at_centroid": 467,
+          "max_sample_distance": 0.00045506402966566384
+        },
+        {
+          "triangle": 239,
+          "nearest_source_triangle_at_centroid": 480,
+          "max_sample_distance": 0.0004537146014627069
+        },
+        {
+          "triangle": 240,
+          "nearest_source_triangle_at_centroid": 482,
+          "max_sample_distance": 0.0004537146014627069
+        },
+        {
+          "triangle": 241,
+          "nearest_source_triangle_at_centroid": 483,
+          "max_sample_distance": 0.0004536997003015131
+        },
+        {
+          "triangle": 242,
+          "nearest_source_triangle_at_centroid": 484,
+          "max_sample_distance": 0.0004802884941454977
+        },
+        {
+          "triangle": 243,
+          "nearest_source_triangle_at_centroid": 486,
+          "max_sample_distance": 0.0004802884941454977
+        },
+        {
+          "triangle": 244,
+          "nearest_source_triangle_at_centroid": 464,
+          "max_sample_distance": 0.00048023523413576186
+        },
+        {
+          "triangle": 245,
+          "nearest_source_triangle_at_centroid": 488,
+          "max_sample_distance": 0.0004405909567140043
+        },
+        {
+          "triangle": 246,
+          "nearest_source_triangle_at_centroid": 489,
+          "max_sample_distance": 0.0004405909567140043
+        },
+        {
+          "triangle": 247,
+          "nearest_source_triangle_at_centroid": 491,
+          "max_sample_distance": 0.0004324896144680679
+        },
+        {
+          "triangle": 248,
+          "nearest_source_triangle_at_centroid": 493,
+          "max_sample_distance": 0.0004324896144680679
+        },
+        {
+          "triangle": 249,
+          "nearest_source_triangle_at_centroid": 494,
+          "max_sample_distance": 0.000355759693775326
+        },
+        {
+          "triangle": 250,
+          "nearest_source_triangle_at_centroid": 498,
+          "max_sample_distance": 0.0004324628389440477
+        },
+        {
+          "triangle": 251,
+          "nearest_source_triangle_at_centroid": 501,
+          "max_sample_distance": 0.000355759693775326
+        },
+        {
+          "triangle": 252,
+          "nearest_source_triangle_at_centroid": 500,
+          "max_sample_distance": 0.00043143026414327323
+        },
+        {
+          "triangle": 253,
+          "nearest_source_triangle_at_centroid": 504,
+          "max_sample_distance": 0.0004315887053962797
+        },
+        {
+          "triangle": 254,
+          "nearest_source_triangle_at_centroid": 508,
+          "max_sample_distance": 0.0003577786555979401
+        },
+        {
+          "triangle": 255,
+          "nearest_source_triangle_at_centroid": 506,
+          "max_sample_distance": 0.0004315887053962797
+        },
+        {
+          "triangle": 256,
+          "nearest_source_triangle_at_centroid": 509,
+          "max_sample_distance": 0.00043717678636312485
+        }
+      ]
+    },
+    {
+      "object": "CCE_mesh_22.001",
+      "retained": true,
+      "proposed_triangles": 4,
+      "before_vertices": 9,
+      "after_vertices": 6,
+      "before_triangles": 8,
+      "after_triangles": 4,
+      "candidate_to_source_max_sample_distance": 3.1007307370600756e-06,
+      "source_to_candidate_max_sample_distance": 3.222098257538164e-06,
+      "source_triangle_mapping": [
+        {
+          "triangle": 0,
+          "nearest_source_triangle_at_centroid": 1,
+          "max_sample_distance": 2.9802322387695312e-08
+        },
+        {
+          "triangle": 1,
+          "nearest_source_triangle_at_centroid": 2,
+          "max_sample_distance": 1.1920928955078125e-07
+        },
+        {
+          "triangle": 2,
+          "nearest_source_triangle_at_centroid": 0,
+          "max_sample_distance": 5.960464477539063e-08
+        },
+        {
+          "triangle": 3,
+          "nearest_source_triangle_at_centroid": 5,
+          "max_sample_distance": 3.1007307370600756e-06
+        }
+      ]
+    },
+    {
+      "object": "CCE_mesh_23.001",
+      "retained": true,
+      "proposed_triangles": 2,
+      "before_vertices": 4,
+      "after_vertices": 4,
+      "before_triangles": 2,
+      "after_triangles": 2,
+      "candidate_to_source_max_sample_distance": 1.1920928955078125e-07,
+      "source_to_candidate_max_sample_distance": 1.1920928955078125e-07,
+      "source_triangle_mapping": [
+        {
+          "triangle": 0,
+          "nearest_source_triangle_at_centroid": 0,
+          "max_sample_distance": 0.0
+        },
+        {
+          "triangle": 1,
+          "nearest_source_triangle_at_centroid": 1,
+          "max_sample_distance": 1.1920928955078125e-07
+        }
+      ]
+    }
+  ],
+  "scene_sha256": "388e6366d6e99a4616dda8730ccc2d9dc7c119c403e07d135f6c34e3a77123bf"
+}

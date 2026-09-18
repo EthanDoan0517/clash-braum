@@ -1,0 +1,46 @@
+{
+  "pass_contract": true,
+  "scene_sha256": "e0f0664f45d6474fe988e3dcd07c7aad77311207e660c0af52d77260185fdafc",
+  "geometry_weights_topology_transforms_corner_normals_exact": true,
+  "all_67_torso_corrections_preserved": true,
+  "legacy_uvs_preserved": true,
+  "active_body_uv": "BodyAtlas",
+  "normal_space": "TANGENT +X +Y +Z; strength 1",
+  "texture_stats": {
+    "basecolor": {
+      "sha256": "bf1fcca0ef3fdcebd8ebb9ce9056ddab9c1fb94cd6a30252c9ba19fd8db5aab9",
+      "size": [
+        2048,
+        2048
+      ],
+      "min": 0.0,
+      "max": 1.0
+    },
+    "opacity": {
+      "sha256": "185bca2250bf9f3e4c25108a62691df170c939a3d3a3d190bf5a64f44155e1bd",
+      "size": [
+        2048,
+        2048
+      ],
+      "min": 0.0,
+      "max": 1.0
+    },
+    "normal": {
+      "sha256": "9926d15f9bdae2abf3564e3530ce86422cbba61f8db7918321a86948a3ad05a3",
+      "size": [
+        2048,
+        2048
+      ],
+      "min": 0.0,
+      "max": 1.0,
+      "covered_vector_length_percentiles": [
+        0.03012216091156006,
+        0.9623997211456299,
+        1.000015377998352,
+        1.0046184062957764,
+        1.0133975744247437
+      ]
+    }
+  },
+  "scope": "Reloaded PNG and saved-scene contracts. Render comparison establishes preview equivalence; Riot shader and mip behavior require runtime integration."
+}

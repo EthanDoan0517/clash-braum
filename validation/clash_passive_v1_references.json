@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "custom_paths": [
+    "assets/characters/braum/skins/base/braum_clash/body.tex",
+    "assets/characters/braum/skins/base/braum_clash/braum_clash.skl",
+    "assets/characters/braum/skins/base/braum_clash/braum_clash.skn",
+    "assets/characters/braum/skins/base/braum_clash/lightning_trail.tex",
+    "assets/characters/braum/skins/base/braum_clash/neutral_gloss.tex",
+    "assets/characters/braum/skins/base/braum_clash/passive/base.tex",
+    "assets/characters/braum/skins/base/braum_clash/passive/full.tex",
+    "assets/characters/braum/skins/base/braum_clash/passive/quarter_1.tex",
+    "assets/characters/braum/skins/base/braum_clash/passive/quarter_2.tex",
+    "assets/characters/braum/skins/base/braum_clash/passive/quarter_3.tex",
+    "assets/characters/braum/skins/base/braum_clash/passive/quarter_4.tex",
+    "assets/characters/braum/skins/base/braum_clash/passive/warning.tex",
+    "assets/characters/braum/skins/base/braum_clash/shield_frame.tex"
+  ],
+  "all_packaged": true
+}

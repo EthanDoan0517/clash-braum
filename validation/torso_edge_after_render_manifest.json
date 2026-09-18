@@ -1,0 +1,26 @@
+{
+  "scene": "clash_braum_torso_coupled.blend",
+  "scene_sha256": "6639d326f65d08622924550739cfe6fb0d6d41be2c87693a27b9975254fe7b92",
+  "vanilla_reference": false,
+  "isolate_grip": false,
+  "only_objects": [
+    "Object002"
+  ],
+  "camera_direction": "3,7,2",
+  "edge_focus": "Object002:143:190",
+  "ortho_scale": 0.4,
+  "renders": [
+    {
+      "clip": "braum_spell4",
+      "frame": 17,
+      "focus": "torso",
+      "file": "validation\\previews\\torso_edge_after\\braum_spell4_017_torso.png"
+    },
+    {
+      "clip": "braum_dance_loop",
+      "frame": 50,
+      "focus": "torso",
+      "file": "validation\\previews\\torso_edge_after\\braum_dance_loop_050_torso.png"
+    }
+  ]
+}

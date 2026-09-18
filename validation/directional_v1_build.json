@@ -1,0 +1,101 @@
+{
+  "status": "PASS affected offline checks; gameplay pending",
+  "archive": "build\\directional_v1\\Braum_Clash_Directional_v1_SFX_v2.fantome",
+  "sha256": "c53da97f6431779d07de58529397493c31a053be36eab4e37b29abff5000f63a",
+  "parent_sha256": "fba996378d8961d525a7abc3ce43c9fa09d3fb7361fb35b37121cc0efb33c622",
+  "changes": [
+    "E: added mirrored right-edge emitter; original left edge and all current E behavior unchanged.",
+    "Q: core and arc now native 3D missile-head meshes with native local rotation and fixed direction; no free spin or camera-facing geometry.",
+    "R: only two main side-bolt layers retained; dense line/ground arcs and secondary bolts removed; dark floor exact."
+  ],
+  "mesh": {
+    "vertices": 162,
+    "faces": 320,
+    "reflection_axis": "native Z (horizontal across shield before native Y rotation)",
+    "bounds_preserved": true,
+    "areas_and_winding_verified": true,
+    "source_sha256": "e1b85a332d9036701f0e51c51b6024679972256d165dd492264a1acc41a81129",
+    "output_sha256": "4efd05d7fed9f03609423eab2ea524b357204c67ff03d44c35d21bbe6fbd6155"
+  },
+  "W": "Source logo without quadrant splits; continuous contour with 2.2px Gaussian halo inward/outward, same blue RGB and restrained alpha. Mip0/2 checked.",
+  "protected": "Accepted character SKN/SKL, model/texture colors, passive, loading art, SFX v2 bank bytes and unchanged events exact. Existing E left-side and R ground unchanged.",
+  "reused": "SFX v2 evidence and all unchanged visual assets; no audio decode or character deformation checks repeated.",
+  "payloads": [
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/body.tex",
+      "sha256": "03d874b210a3edb262510bf25b1600b0fa705c7e210d2e7a2e45b221bc7203eb"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skl",
+      "sha256": "c961a75b7a7ca6831b59d960d06dcd4f699e491c70e41a6d3cec442d7d2f5cd8"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skn",
+      "sha256": "3bd8e207213bb97599c3aff6617cfe62f36c033c84e96ba4f9d09600eec6625c"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/crackle_atlas.tex",
+      "sha256": "e5a91a3c03f87e46b58c68824050f22c60d482ad14533e4479e4e62555a8f821"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/e_right_edge.scb",
+      "sha256": "4efd05d7fed9f03609423eab2ea524b357204c67ff03d44c35d21bbe6fbd6155"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/lightning_trail.tex",
+      "sha256": "75a0a1c613b3eb8f6f20c5b85816dacf911adf9af3ef24218fa7e3f4aa3e0707"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/neutral_gloss.tex",
+      "sha256": "171e0ccaed440a26dc34c29c3f14dd490b9ee4093c98748f25726a22351ed97c"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/base.tex",
+      "sha256": "a132ceec4dce6394901bef6c6871b7ab4806db0dac435c14ecc124232bbb4d26"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/full.tex",
+      "sha256": "8a783631c2e94693738ebd63e5234ae9f6b5bec7b2ad89971748ef850f1e3b1d"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/quarter_1.tex",
+      "sha256": "1753d65f27c774c3c9c2f3a330101d487f08f1eb8bb2e5c861898970e60a1aba"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/quarter_2.tex",
+      "sha256": "d453830aef0cdf49dc3348fc444512694ea64507f2ec04303db3b962e16a697e"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/quarter_3.tex",
+      "sha256": "5dd0294098d7d3fef3d0fa2fa255b60965fe1913daf72e08ad990136faefb517"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/quarter_4.tex",
+      "sha256": "7404d5dc94321bd98c745ed192e721c9e58e92fcb79b42ac21a913349e5fb893"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/warning.tex",
+      "sha256": "27f60a5954fc7d2e9e391a90b74f9f0dde0196fc7cbcc41f554ed245bde1405b"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/shield_frame.tex",
+      "sha256": "cd563a9b177e78b2611cca166a9ec516234622c8e0b40bc6d3ea37f4c1077949"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/w_outline.tex",
+      "sha256": "e2f708aec396c2257cb32acfb170fbc4a9b49cae18443f122f0a9ad4807eab6e"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braumloadscreen.tex",
+      "sha256": "557c959491c7748c0333fafd51413284055bc69bd88ec9ed61d32dd51ac60046"
+    },
+    {
+      "path": "assets/sounds/wwise2016/sfx/characters/braum/skins/base/braum_base_sfx_audio.bnk",
+      "sha256": "5c1883757c284ca3872ab01cbcb1c9e4e64a0ffb21954d2bc751be01c3b2b2b3"
+    },
+    {
+      "path": "data/characters/braum/skins/skin0.bin",
+      "sha256": "1b618949a28ddd976f51803a3ab86833f5b573ccac216e170cf7eb03af9e4012"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "status": "PASS targeted offline; gameplay pending",
+  "archive": "build\\e_electric_v2\\Braum_Clash_E_Electric_v2.fantome",
+  "sha256": "c316e44b068ac844e36265c86263ef701aeecc3d64b4ab17abb2ebd708607dab",
+  "parent_sha256": "2a8653b83ae63f704db7e4a398330e84e6d2104aa0e16eb647b4fe3b4bafdae8",
+  "changes": [
+    {
+      "system": "Braum_E_Shield_cas",
+      "removed_emitters": [
+        "Ice_Override",
+        "Inchant_shield_ice",
+        "smoke"
+      ]
+    },
+    {
+      "system": "Braum_E_Block_Spell_cas",
+      "removed_emitters": [
+        "debris",
+        "smoke"
+      ]
+    },
+    {
+      "system": "Braum_E_shield_end",
+      "removed_emitters": [
+        "shield_break1",
+        "shield_break2"
+      ]
+    },
+    {
+      "system": "Braum_E_shield_first_block",
+      "removed_emitters": [
+        "smoke"
+      ]
+    },
+    {
+      "system": "Braum_E_Shield_first_block_end",
+      "removed_emitters": [
+        "shield_break1",
+        "shield_break2"
+      ]
+    }
+  ],
+  "removed_ice_masks": 2,
+  "activation": "Inchant_flash texture/RGB converted with v1 protected-field guard",
+  "guards": [
+    "Parent text compiles to hash-bound v1 BIN",
+    "Only five E entries changed",
+    "Surviving emitter fields exact except two ice masks and activation texture/RGB",
+    "All other payloads exact, including accepted geometry, brightness and lightning texture",
+    "Candidate BIN byte-stable roundtrip",
+    "ZIP CRC and all member bytes exact"
+  ],
+  "reused_evidence": [
+    "validation/lightning_v1_validation.json: unchanged non-BIN payload paths/bytes and toolchain; no repeat geometry or texture checks"
+  ],
+  "limitations": [
+    "Existing enchant/block mesh carriers remain; E silhouette/alignment and intensity require gameplay.",
+    "Q/W/R remain v1; no custom SFX/VO; no runtime acceptance."
+  ],
+  "payloads": [
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/body.tex",
+      "sha256": "9917bf895ac072971b5d1a7ed783f885d0199debf1a84d267903900d750f69ff"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skl",
+      "sha256": "c961a75b7a7ca6831b59d960d06dcd4f699e491c70e41a6d3cec442d7d2f5cd8"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skn",
+      "sha256": "3bd8e207213bb97599c3aff6617cfe62f36c033c84e96ba4f9d09600eec6625c"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/lightning_trail.tex",
+      "sha256": "75a0a1c613b3eb8f6f20c5b85816dacf911adf9af3ef24218fa7e3f4aa3e0707"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/neutral_gloss.tex",
+      "sha256": "171e0ccaed440a26dc34c29c3f14dd490b9ee4093c98748f25726a22351ed97c"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/shield_frame.tex",
+      "sha256": "9a043af164ee9e258203fbf9abc2d05f6569090ed38d99b51299cccd378571b6"
+    },
+    {
+      "path": "data/characters/braum/skins/skin0.bin",
+      "sha256": "088d1189dcf93c1e55bf36797c861cbc9209ab121542054c768506e89f18d1a3"
+    }
+  ]
+}

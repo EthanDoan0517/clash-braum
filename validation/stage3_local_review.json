@@ -1,0 +1,9 @@
+{
+  "current_scene": "work/scenes/clash_braum_torso.blend",
+  "current_scene_sha256": "2501fd57112bb324515e56dc33cb986905f0e50813f5aa946c56ad27e24f030a",
+  "accepted_new_checkpoint": false,
+  "torso_disposition": "Preserve all 67 original seam corrections. Endpoint143 .1 blend lowers R17/dance maxima but produces small new dance50 silhouette notch. Larger local blends worsen p99 or neighboring strain.",
+  "grip_disposition": "Nearest running-E left surface is side rail CCE_mesh_14.001 physical shell20, not the central right-hand hardware940 in CCE_mesh_13.001. Auxiliary handle trials either intersect the glove or leave an open grip. None accepted.",
+  "full_validation_and_export": "Not run: no visually preferable candidate accepted; parent full validation and export remain authoritative.",
+  "next_action": "Model a contoured local side grip from actual glove palm and finger surfaces, with support endpoints outside the thumb/pinky envelope. A straight joint-centered bar is not adequate. Use 13-pose triangle intersections plus matched front/reverse hand-surface views; preserve existing CCE geometry and all body weights. Recall cuff and remaining torso art gates remain open."
+}

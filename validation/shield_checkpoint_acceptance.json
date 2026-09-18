@@ -1,0 +1,22 @@
+{
+  "status": "ACCEPTED OFFLINE SHIELD REDUCTION / ATLAS-READY UV CHECKPOINT; runtime and textures incomplete",
+  "checkpoint": "clash_braum_shield_reduced_accepted.blend",
+  "scene_sha256": "1a17cf0bf7179d7391d5aad10c2020e9fa94c9de4a4c35b69b9f1752f576ffe9",
+  "parent_gameplay_sha256": "2501fd57112bb324515e56dc33cb986905f0e50813f5aa946c56ad27e24f030a",
+  "shield_triangles_before": 12256,
+  "shield_triangles_after": 9062,
+  "export_vertices": 47034,
+  "export_triangles": 51253,
+  "body_and_all_67_torso_seam_corrections_preserved": true,
+  "visual_review": "Matched shield front/back and directional-E grips: no new gameplay-visible silhouette/aperture/contact issue. Source corner-normal reconstruction fixes broad shading damage from the rejected Data Transfer draft. Fine normal interpolation differences remain on small hardware.",
+  "uv_review": "Shared ShieldAtlas, legacy UVs retained. 44 triangles isolated after real 2D overlap test; fresh sweep-line/polygon-clipping check passes. 23.94% area coverage; density/mipmap quality remains a texture-stage concern.",
+  "evidence": {
+    "full_animation": "shield_surface_v2_full_validation.json",
+    "uv_only_geometry_identity": "shield_atlas_trial.json",
+    "targeted": "shield_surface_v2_targeted.json",
+    "uv": "shield_atlas_repaired_uv_validation.json",
+    "export": "model_shield_reduced_export.json"
+  },
+  "limits": "59-action structural validation covers the exact final geometry/weights via the UV-only identity contract. Not an all-frame collision certificate. Shield materials remain temporary. No runtime build is claimed.",
+  "next": "Body atlas pipeline, protected-region-aware geometry reduction, final material integration."
+}

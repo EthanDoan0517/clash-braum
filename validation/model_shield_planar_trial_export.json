@@ -1,0 +1,193 @@
+{
+  "vertices": 49998,
+  "triangles": 54443,
+  "joints": 97,
+  "palette": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    27,
+    29,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    49,
+    51,
+    53,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    68,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    94,
+    95
+  ],
+  "submeshes": [
+    {
+      "name": "body_main (1) (1)",
+      "vertex_start": 0,
+      "vertex_count": 1068,
+      "index_start": 0,
+      "index_count": 5274
+    },
+    {
+      "name": "boots (1)",
+      "vertex_start": 1068,
+      "vertex_count": 6479,
+      "index_start": 5274,
+      "index_count": 19278
+    },
+    {
+      "name": "boots",
+      "vertex_start": 7547,
+      "vertex_count": 7955,
+      "index_start": 24552,
+      "index_count": 19860
+    },
+    {
+      "name": "body_main_skirt",
+      "vertex_start": 15502,
+      "vertex_count": 71,
+      "index_start": 44412,
+      "index_count": 192
+    },
+    {
+      "name": "body_main (1)",
+      "vertex_start": 15573,
+      "vertex_count": 4618,
+      "index_start": 44604,
+      "index_count": 21054
+    },
+    {
+      "name": "body_main",
+      "vertex_start": 20191,
+      "vertex_count": 3297,
+      "index_start": 65658,
+      "index_count": 15477
+    },
+    {
+      "name": "body_main_skin",
+      "vertex_start": 23488,
+      "vertex_count": 3611,
+      "index_start": 81135,
+      "index_count": 15618
+    },
+    {
+      "name": "head",
+      "vertex_start": 27099,
+      "vertex_count": 2185,
+      "index_start": 96753,
+      "index_count": 11874
+    },
+    {
+      "name": "hair_front (1)",
+      "vertex_start": 29284,
+      "vertex_count": 131,
+      "index_start": 108627,
+      "index_count": 495
+    },
+    {
+      "name": "boots (2)",
+      "vertex_start": 29415,
+      "vertex_count": 2170,
+      "index_start": 109122,
+      "index_count": 8190
+    },
+    {
+      "name": "eye",
+      "vertex_start": 31585,
+      "vertex_count": 1209,
+      "index_start": 117312,
+      "index_count": 6207
+    },
+    {
+      "name": "Poro",
+      "vertex_start": 32794,
+      "vertex_count": 769,
+      "index_start": 123519,
+      "index_count": 3054
+    },
+    {
+      "name": "ShieldFrame",
+      "vertex_start": 33563,
+      "vertex_count": 16435,
+      "index_start": 126573,
+      "index_count": 36756
+    }
+  ],
+  "max_weight_sum_error": 4.470348358154297e-08,
+  "bounds": [
+    [
+      -86.00235748291016,
+      214.38540649414062
+    ],
+    [
+      -0.546380341053009,
+      195.04942321777344
+    ],
+    [
+      -20.63152503967285,
+      28.004873275756836
+    ]
+  ],
+  "status": "DEVELOPMENT ONLY: no texture atlas, skin0 BIN or game validation; not a release package",
+  "preserved_poro_triangles": 1018,
+  "poro_max_errors": {
+    "position": 1.9073486328125e-06,
+    "uv": 0,
+    "normal": 2.384185791015625e-07,
+    "weight": 5.960464477539063e-08
+  },
+  "shield_rigid": true,
+  "exact_native_joint_records": true,
+  "input_scene": "clash_braum_shield_planar_trial.blend",
+  "candidate_weights": null,
+  "authored_candidate_weights": null,
+  "input_scene_sha256": "02cdeb267171e6cf8bfbd09d60a002326730d170ed5b75e3ada032ca332c1868"
+}

@@ -1,0 +1,244 @@
+{
+  "scene": "clash_braum_body_atlas_ready_trial.blend",
+  "scene_sha256": "b7a1f13c12124cf7011f142d5b860f1b45204fbb494324c20439061f91402b2a",
+  "triangles": 41173,
+  "zero_area_uv_triangles": [],
+  "uv_bounds_finite_unit_square": true,
+  "sum_uv_triangle_area": 0.3011415487644886,
+  "broadphase_pairs_checked": 147765,
+  "interior_overlaps": [
+    {
+      "a": [
+        "hjhjh_4",
+        3367
+      ],
+      "b": [
+        "Object007",
+        55
+      ],
+      "overlap_area": 5.207313791277812e-08
+    },
+    {
+      "a": [
+        "hjhjh_4",
+        3368
+      ],
+      "b": [
+        "Object007",
+        55
+      ],
+      "overlap_area": 1.512541636383702e-07
+    },
+    {
+      "a": [
+        "hjhjh_4",
+        3367
+      ],
+      "b": [
+        "Object007",
+        56
+      ],
+      "overlap_area": 1.5589064927823415e-08
+    },
+    {
+      "a": [
+        "Object007",
+        55
+      ],
+      "b": [
+        "hjhjh_4",
+        3278
+      ],
+      "overlap_area": 3.25276033330546e-08
+    },
+    {
+      "a": [
+        "Object007",
+        54
+      ],
+      "b": [
+        "hjhjh_4",
+        3278
+      ],
+      "overlap_area": 1.0051834115065716e-07
+    },
+    {
+      "a": [
+        "Object007",
+        55
+      ],
+      "b": [
+        "hjhjh_4",
+        3361
+      ],
+      "overlap_area": 1.5201955166910253e-07
+    },
+    {
+      "a": [
+        "Object007",
+        54
+      ],
+      "b": [
+        "hjhjh_4",
+        3361
+      ],
+      "overlap_area": 7.040839716809799e-08
+    },
+    {
+      "a": [
+        "hjhjh_4",
+        3278
+      ],
+      "b": [
+        "Object007",
+        53
+      ],
+      "overlap_area": 8.049637917340036e-08
+    },
+    {
+      "a": [
+        "hjhjh_4",
+        3361
+      ],
+      "b": [
+        "Object007",
+        53
+      ],
+      "overlap_area": 3.236699319675296e-08
+    },
+    {
+      "a": [
+        "Object007",
+        53
+      ],
+      "b": [
+        "hjhjh_4",
+        3279
+      ],
+      "overlap_area": 2.7846357331107185e-08
+    },
+    {
+      "a": [
+        "hjhjh_4",
+        3278
+      ],
+      "b": [
+        "Object007",
+        51
+      ],
+      "overlap_area": 2.2679029987315857e-08
+    },
+    {
+      "a": [
+        "hjhjh_4",
+        3361
+      ],
+      "b": [
+        "Object007",
+        51
+      ],
+      "overlap_area": 1.7864471901773982e-08
+    },
+    {
+      "a": [
+        "hjhjh_4",
+        3279
+      ],
+      "b": [
+        "Object007",
+        51
+      ],
+      "overlap_area": 2.0737941203163857e-07
+    },
+    {
+      "a": [
+        "hjhjh_4",
+        3278
+      ],
+      "b": [
+        "Object007",
+        52
+      ],
+      "overlap_area": 4.9301996984940644e-08
+    },
+    {
+      "a": [
+        "hjhjh_4",
+        3361
+      ],
+      "b": [
+        "Object007",
+        52
+      ],
+      "overlap_area": 2.7027810489688164e-08
+    },
+    {
+      "a": [
+        "hjhjh_4",
+        3279
+      ],
+      "b": [
+        "Object007",
+        52
+      ],
+      "overlap_area": 1.4800338571374638e-07
+    },
+    {
+      "a": [
+        "Object007",
+        50
+      ],
+      "b": [
+        "hjhjh_4",
+        3344
+      ],
+      "overlap_area": 5.501053901291186e-08
+    },
+    {
+      "a": [
+        "Object007",
+        51
+      ],
+      "b": [
+        "hjhjh_4",
+        3344
+      ],
+      "overlap_area": 2.9686720454114024e-07
+    },
+    {
+      "a": [
+        "Object007",
+        51
+      ],
+      "b": [
+        "hjhjh_4",
+        3345
+      ],
+      "overlap_area": 3.3658157760907415e-08
+    },
+    {
+      "a": [
+        "hjhjh_4",
+        2125
+      ],
+      "b": [
+        "Object006",
+        5998
+      ],
+      "overlap_area": 5.58851348086975e-07
+    },
+    {
+      "a": [
+        "hjhjh_4",
+        2125
+      ],
+      "b": [
+        "Object006",
+        5997
+      ],
+      "overlap_area": 3.763180440041758e-07
+    }
+  ],
+  "pass": false,
+  "scope": "2D sweep-line bounding boxes followed by polygon clipping across all matching meshes; positive overlap area >1e-11 is reported. Edge contacts do not count. No texture-bleed or mipmap certificate."
+}

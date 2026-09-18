@@ -1,0 +1,16 @@
+{
+  "scene": "clash_braum_shoulders.blend",
+  "scene_sha256": "4c84f69f977120a5ac8acc51c0d4d8006637c466551d8a8494da4ecb4f40b7bf",
+  "vanilla_reference": false,
+  "isolate_grip": true,
+  "only_objects": null,
+  "camera_direction": "-3,7,3",
+  "renders": [
+    {
+      "clip": "braum_spell3_run0",
+      "frame": 14,
+      "focus": "L_Hand",
+      "file": "validation\\previews\\running_e_grip_before\\braum_spell3_run0_014_L_Hand.png"
+    }
+  ]
+}

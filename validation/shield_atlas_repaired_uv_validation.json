@@ -1,0 +1,12 @@
+{
+  "scene": "clash_braum_shield_atlas_trial.blend",
+  "scene_sha256": "1a17cf0bf7179d7391d5aad10c2020e9fa94c9de4a4c35b69b9f1752f576ffe9",
+  "triangles": 9062,
+  "zero_area_uv_triangles": [],
+  "uv_bounds_finite_unit_square": true,
+  "sum_uv_triangle_area": 0.23941664749472294,
+  "broadphase_pairs_checked": 20653,
+  "interior_overlaps": [],
+  "pass": true,
+  "scope": "2D sweep-line bounding boxes followed by polygon clipping across all matching meshes; positive overlap area >1e-11 is reported. Edge contacts do not count. No texture-bleed or mipmap certificate."
+}

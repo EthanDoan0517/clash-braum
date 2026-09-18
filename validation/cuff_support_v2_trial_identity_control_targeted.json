@@ -1,0 +1,764 @@
+{
+  "trial": "cuff_support_v2_trial",
+  "cases": [
+    [
+      "braum_recall",
+      60
+    ],
+    [
+      "braum_recall",
+      65
+    ],
+    [
+      "braum_recall",
+      70
+    ],
+    [
+      "braum_dance_loop",
+      45
+    ],
+    [
+      "braum_dance_loop",
+      50
+    ],
+    [
+      "braum_dance_loop",
+      55
+    ],
+    [
+      "braum_spell4",
+      3
+    ],
+    [
+      "braum_spell4",
+      15
+    ],
+    [
+      "braum_spell4",
+      16
+    ],
+    [
+      "braum_spell4",
+      17
+    ],
+    [
+      "braum_spell4",
+      18
+    ],
+    [
+      "braum_spell4",
+      26
+    ],
+    [
+      "braum_idle_01_loop",
+      17
+    ],
+    [
+      "braum_spell3_idle180",
+      29
+    ],
+    [
+      "braum_run_02",
+      12
+    ],
+    [
+      "braum_spell3_run0",
+      14
+    ],
+    [
+      "braum_spell3_run-90",
+      14
+    ]
+  ],
+  "revisions": {
+    "before": [
+      {
+        "clip": "braum_recall",
+        "frame": 60,
+        "object": "Object009",
+        "pair_count": 167,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.4853967296059265
+      },
+      {
+        "clip": "braum_recall",
+        "frame": 60,
+        "object": "Object004",
+        "pair_count": 108,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.726596816414683
+      },
+      {
+        "clip": "braum_recall",
+        "frame": 65,
+        "object": "Object009",
+        "pair_count": 180,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 3.918592636198624
+      },
+      {
+        "clip": "braum_recall",
+        "frame": 65,
+        "object": "Object004",
+        "pair_count": 217,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 11.03087826076606
+      },
+      {
+        "clip": "braum_recall",
+        "frame": 70,
+        "object": "Object009",
+        "pair_count": 160,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.2500775898712602
+      },
+      {
+        "clip": "braum_recall",
+        "frame": 70,
+        "object": "Object004",
+        "pair_count": 83,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.1827878959242994
+      },
+      {
+        "clip": "braum_dance_loop",
+        "frame": 45,
+        "object": "Object009",
+        "pair_count": 166,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.6935730607493735
+      },
+      {
+        "clip": "braum_dance_loop",
+        "frame": 45,
+        "object": "Object004",
+        "pair_count": 163,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.6662459128442952
+      },
+      {
+        "clip": "braum_dance_loop",
+        "frame": 50,
+        "object": "Object009",
+        "pair_count": 175,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.7537075988971869
+      },
+      {
+        "clip": "braum_dance_loop",
+        "frame": 50,
+        "object": "Object004",
+        "pair_count": 190,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.7128250579762287
+      },
+      {
+        "clip": "braum_dance_loop",
+        "frame": 55,
+        "object": "Object009",
+        "pair_count": 149,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.0829396021114754
+      },
+      {
+        "clip": "braum_dance_loop",
+        "frame": 55,
+        "object": "Object004",
+        "pair_count": 136,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.344682559306394
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 3,
+        "object": "Object009",
+        "pair_count": 405,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 14.578766620401986
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 3,
+        "object": "Object004",
+        "pair_count": 508,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 58.16439615699146
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 15,
+        "object": "Object009",
+        "pair_count": 281,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.4686733420890377
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 15,
+        "object": "Object004",
+        "pair_count": 409,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.0400284544534166
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 16,
+        "object": "Object009",
+        "pair_count": 307,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 3.7879620008550665
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 16,
+        "object": "Object004",
+        "pair_count": 293,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 10.925271248107633
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 17,
+        "object": "Object009",
+        "pair_count": 370,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 9.02904086283098
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 17,
+        "object": "Object004",
+        "pair_count": 746,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 29.45248664264338
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 18,
+        "object": "Object009",
+        "pair_count": 576,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.213076870492281
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 18,
+        "object": "Object004",
+        "pair_count": 435,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.4847893337250966
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 26,
+        "object": "Object009",
+        "pair_count": 201,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.3528994450728158
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 26,
+        "object": "Object004",
+        "pair_count": 177,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.7603930075278647
+      },
+      {
+        "clip": "braum_idle_01_loop",
+        "frame": 17,
+        "object": "Object009",
+        "pair_count": 161,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.7991265443956965
+      },
+      {
+        "clip": "braum_idle_01_loop",
+        "frame": 17,
+        "object": "Object004",
+        "pair_count": 170,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.9745941261020143
+      },
+      {
+        "clip": "braum_spell3_idle180",
+        "frame": 29,
+        "object": "Object009",
+        "pair_count": 200,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.5590392135846414
+      },
+      {
+        "clip": "braum_spell3_idle180",
+        "frame": 29,
+        "object": "Object004",
+        "pair_count": 292,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.007902002715763
+      },
+      {
+        "clip": "braum_run_02",
+        "frame": 12,
+        "object": "Object009",
+        "pair_count": 443,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.6218549796910964
+      },
+      {
+        "clip": "braum_run_02",
+        "frame": 12,
+        "object": "Object004",
+        "pair_count": 308,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.7221496504181193
+      },
+      {
+        "clip": "braum_spell3_run0",
+        "frame": 14,
+        "object": "Object009",
+        "pair_count": 154,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.5939150594364002
+      },
+      {
+        "clip": "braum_spell3_run0",
+        "frame": 14,
+        "object": "Object004",
+        "pair_count": 157,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.500674751979954
+      },
+      {
+        "clip": "braum_spell3_run-90",
+        "frame": 14,
+        "object": "Object009",
+        "pair_count": 158,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.6271729949430314
+      },
+      {
+        "clip": "braum_spell3_run-90",
+        "frame": 14,
+        "object": "Object004",
+        "pair_count": 162,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.506051885862948
+      }
+    ],
+    "after": [
+      {
+        "clip": "braum_recall",
+        "frame": 60,
+        "object": "Object009",
+        "pair_count": 167,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.4853967296059265
+      },
+      {
+        "clip": "braum_recall",
+        "frame": 60,
+        "object": "Object004",
+        "pair_count": 108,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.726596816414683
+      },
+      {
+        "clip": "braum_recall",
+        "frame": 65,
+        "object": "Object009",
+        "pair_count": 180,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 3.918592636198624
+      },
+      {
+        "clip": "braum_recall",
+        "frame": 65,
+        "object": "Object004",
+        "pair_count": 217,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 11.03087826076606
+      },
+      {
+        "clip": "braum_recall",
+        "frame": 70,
+        "object": "Object009",
+        "pair_count": 160,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.2500775898712602
+      },
+      {
+        "clip": "braum_recall",
+        "frame": 70,
+        "object": "Object004",
+        "pair_count": 83,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.1827878959242994
+      },
+      {
+        "clip": "braum_dance_loop",
+        "frame": 45,
+        "object": "Object009",
+        "pair_count": 166,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.6935730607493735
+      },
+      {
+        "clip": "braum_dance_loop",
+        "frame": 45,
+        "object": "Object004",
+        "pair_count": 163,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.6662459128442952
+      },
+      {
+        "clip": "braum_dance_loop",
+        "frame": 50,
+        "object": "Object009",
+        "pair_count": 175,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.7537075988971869
+      },
+      {
+        "clip": "braum_dance_loop",
+        "frame": 50,
+        "object": "Object004",
+        "pair_count": 190,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.7128250579762287
+      },
+      {
+        "clip": "braum_dance_loop",
+        "frame": 55,
+        "object": "Object009",
+        "pair_count": 149,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.0829396021114754
+      },
+      {
+        "clip": "braum_dance_loop",
+        "frame": 55,
+        "object": "Object004",
+        "pair_count": 136,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.344682559306394
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 3,
+        "object": "Object009",
+        "pair_count": 405,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 14.578766620401986
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 3,
+        "object": "Object004",
+        "pair_count": 508,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 58.16439615699146
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 15,
+        "object": "Object009",
+        "pair_count": 281,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.4686733420890377
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 15,
+        "object": "Object004",
+        "pair_count": 409,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.0400284544534166
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 16,
+        "object": "Object009",
+        "pair_count": 307,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 3.7879620008550665
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 16,
+        "object": "Object004",
+        "pair_count": 293,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 10.925271248107633
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 17,
+        "object": "Object009",
+        "pair_count": 370,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 9.02904086283098
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 17,
+        "object": "Object004",
+        "pair_count": 746,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 29.45248664264338
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 18,
+        "object": "Object009",
+        "pair_count": 576,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.213076870492281
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 18,
+        "object": "Object004",
+        "pair_count": 435,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.4847893337250966
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 26,
+        "object": "Object009",
+        "pair_count": 201,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.3528994450728158
+      },
+      {
+        "clip": "braum_spell4",
+        "frame": 26,
+        "object": "Object004",
+        "pair_count": 177,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.7603930075278647
+      },
+      {
+        "clip": "braum_idle_01_loop",
+        "frame": 17,
+        "object": "Object009",
+        "pair_count": 161,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.7991265443956965
+      },
+      {
+        "clip": "braum_idle_01_loop",
+        "frame": 17,
+        "object": "Object004",
+        "pair_count": 170,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.9745941261020143
+      },
+      {
+        "clip": "braum_spell3_idle180",
+        "frame": 29,
+        "object": "Object009",
+        "pair_count": 200,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.5590392135846414
+      },
+      {
+        "clip": "braum_spell3_idle180",
+        "frame": 29,
+        "object": "Object004",
+        "pair_count": 292,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.007902002715763
+      },
+      {
+        "clip": "braum_run_02",
+        "frame": 12,
+        "object": "Object009",
+        "pair_count": 443,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.6218549796910964
+      },
+      {
+        "clip": "braum_run_02",
+        "frame": 12,
+        "object": "Object004",
+        "pair_count": 308,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.7221496504181193
+      },
+      {
+        "clip": "braum_spell3_run0",
+        "frame": 14,
+        "object": "Object009",
+        "pair_count": 154,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.5939150594364002
+      },
+      {
+        "clip": "braum_spell3_run0",
+        "frame": 14,
+        "object": "Object004",
+        "pair_count": 157,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.500674751979954
+      },
+      {
+        "clip": "braum_spell3_run-90",
+        "frame": 14,
+        "object": "Object009",
+        "pair_count": 158,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 1.6271729949430314
+      },
+      {
+        "clip": "braum_spell3_run-90",
+        "frame": 14,
+        "object": "Object004",
+        "pair_count": 162,
+        "new_source_pairs": [],
+        "removed_source_pairs": [],
+        "intra_source_folds": [],
+        "max_principal_stretch": 2.506051885862948
+      }
+    ]
+  },
+  "scope": "Changed source triangles versus all body/shield; shared actual vertices excluded. Original face identities map subdivisions. Intra-source nonadjacent overlaps also fail.",
+  "protected_contracts_passed": true,
+  "max_corner_normal_error": 1.2879073219007608e-07,
+  "poses_with_new_pairs": 0,
+  "new_source_pair_row_occurrences": 0
+}

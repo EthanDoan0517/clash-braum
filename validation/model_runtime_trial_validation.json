@@ -1,0 +1,33 @@
+{
+  "status": "PASS offline package roundtrip/payload identity; runtime pending",
+  "package_sha256": "f3b055eff6f590f9a8a265aa1a878d4f2f20abf77d52049d495538945f868554",
+  "six_wad_payloads_byte_identical": true,
+  "installed_baseline": [
+    {
+      "path": "data/characters/braum/skins/skin0.bin",
+      "live_sha256": "3f9b4f8c3b621db3354b059ea037d1b065bb83feb5fc9392480d2e028436c576",
+      "source_sha256": "3f9b4f8c3b621db3354b059ea037d1b065bb83feb5fc9392480d2e028436c576",
+      "identical": true
+    },
+    {
+      "path": "data/characters/braum/animations/skin0.bin",
+      "live_sha256": "a125d1cd41cbc779d82cfce0124093216baf970115f1199305006b764e2e2d64",
+      "source_sha256": "a125d1cd41cbc779d82cfce0124093216baf970115f1199305006b764e2e2d64",
+      "identical": true
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_base.skn",
+      "live_sha256": "d6565da22435eca54d888a6f71f6897c15ddadfbdce8f69ff7a02856d62943ca",
+      "source_sha256": "d6565da22435eca54d888a6f71f6897c15ddadfbdce8f69ff7a02856d62943ca",
+      "identical": true
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_base.skl",
+      "live_sha256": "8e14e4c098792739c5137022c20f868232dd4f8685f43c6bb042fa94e9542904",
+      "source_sha256": "8e14e4c098792739c5137022c20f868232dd4f8685f43c6bb042fa94e9542904",
+      "identical": true
+    }
+  ],
+  "installed_key_assets_match_source": true,
+  "limits": "Four key installed assets compared, not whole-WAD pristine provenance. No manager installation or game session performed. Normal/alpha, culling, animation transitions, Poro joke and performance require runtime observation."
+}

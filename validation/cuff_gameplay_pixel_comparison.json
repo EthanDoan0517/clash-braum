@@ -1,0 +1,617 @@
+{
+  "note": "Pixel differences are evidence only, not an automatic visual quality verdict. Sheets retain native 360px renders without scaling.",
+  "rows": [
+    {
+      "view": "front",
+      "clip": "braum_recall",
+      "frame": 60,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "front",
+      "clip": "braum_recall",
+      "frame": 60,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "front",
+      "clip": "braum_recall",
+      "frame": 65,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "front",
+      "clip": "braum_recall",
+      "frame": 65,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 2
+    },
+    {
+      "view": "front",
+      "clip": "braum_recall",
+      "frame": 70,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "front",
+      "clip": "braum_recall",
+      "frame": 70,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "front",
+      "clip": "braum_dance_loop",
+      "frame": 45,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "front",
+      "clip": "braum_dance_loop",
+      "frame": 45,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "front",
+      "clip": "braum_dance_loop",
+      "frame": 50,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "front",
+      "clip": "braum_dance_loop",
+      "frame": 50,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "front",
+      "clip": "braum_dance_loop",
+      "frame": 55,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "front",
+      "clip": "braum_dance_loop",
+      "frame": 55,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "front",
+      "clip": "braum_spell4",
+      "frame": 3,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "front",
+      "clip": "braum_spell4",
+      "frame": 3,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 2
+    },
+    {
+      "view": "front",
+      "clip": "braum_spell4",
+      "frame": 15,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "front",
+      "clip": "braum_spell4",
+      "frame": 15,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 2
+    },
+    {
+      "view": "front",
+      "clip": "braum_spell4",
+      "frame": 17,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "front",
+      "clip": "braum_spell4",
+      "frame": 17,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "front",
+      "clip": "braum_spell4",
+      "frame": 26,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "front",
+      "clip": "braum_spell4",
+      "frame": 26,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "front",
+      "clip": "braum_idle_01_loop",
+      "frame": 17,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "front",
+      "clip": "braum_idle_01_loop",
+      "frame": 17,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "front",
+      "clip": "braum_spell3_idle180",
+      "frame": 29,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "front",
+      "clip": "braum_spell3_idle180",
+      "frame": 29,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "front",
+      "clip": "braum_run_02",
+      "frame": 12,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "front",
+      "clip": "braum_run_02",
+      "frame": 12,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "front",
+      "clip": "braum_spell3_run0",
+      "frame": 14,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "front",
+      "clip": "braum_spell3_run0",
+      "frame": 14,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "front",
+      "clip": "braum_spell3_run-90",
+      "frame": 14,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "front",
+      "clip": "braum_spell3_run-90",
+      "frame": 14,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "front",
+      "clip": "braum_spell4",
+      "frame": 16,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "front",
+      "clip": "braum_spell4",
+      "frame": 16,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 5
+    },
+    {
+      "view": "front",
+      "clip": "braum_spell4",
+      "frame": 18,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "front",
+      "clip": "braum_spell4",
+      "frame": 18,
+      "variant": "ties",
+      "pixels_delta_over_8": 4,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 23
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_recall",
+      "frame": 60,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_recall",
+      "frame": 60,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_recall",
+      "frame": 65,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_recall",
+      "frame": 65,
+      "variant": "ties",
+      "pixels_delta_over_8": 5,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 28
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_recall",
+      "frame": 70,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_recall",
+      "frame": 70,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 2
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_dance_loop",
+      "frame": 45,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_dance_loop",
+      "frame": 45,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_dance_loop",
+      "frame": 50,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_dance_loop",
+      "frame": 50,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 3
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_dance_loop",
+      "frame": 55,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_dance_loop",
+      "frame": 55,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_spell4",
+      "frame": 3,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_spell4",
+      "frame": 3,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 7
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_spell4",
+      "frame": 15,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_spell4",
+      "frame": 15,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_spell4",
+      "frame": 17,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_spell4",
+      "frame": 17,
+      "variant": "ties",
+      "pixels_delta_over_8": 17,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 28
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_spell4",
+      "frame": 26,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_spell4",
+      "frame": 26,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_idle_01_loop",
+      "frame": 17,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_idle_01_loop",
+      "frame": 17,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 2
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_spell3_idle180",
+      "frame": 29,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_spell3_idle180",
+      "frame": 29,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_run_02",
+      "frame": 12,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_run_02",
+      "frame": 12,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 3
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_spell3_run0",
+      "frame": 14,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_spell3_run0",
+      "frame": 14,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_spell3_run-90",
+      "frame": 14,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_spell3_run-90",
+      "frame": 14,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_spell4",
+      "frame": 16,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_spell4",
+      "frame": 16,
+      "variant": "ties",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 1
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_spell4",
+      "frame": 18,
+      "variant": "single",
+      "pixels_delta_over_8": 0,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 0
+    },
+    {
+      "view": "reverse",
+      "clip": "braum_spell4",
+      "frame": 18,
+      "variant": "ties",
+      "pixels_delta_over_8": 1,
+      "pixels_delta_over_32": 0,
+      "max_channel_delta": 11
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "argv": [
+      "C:/Users/etqdo/Downloads/cslol-go/cslol-tools/mod-tools.exe",
+      "import",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\e_electric_v2\\Braum_Clash_E_Electric_v2.fantome",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\e_electric_v2\\validation\\imported"
+    ],
+    "returncode": 0,
+    "stdout": "[INF] Creating tmp directory\n[INF] Unzipping mod\n[INF] Optimizing after unzipping\n[INF] Creating tmp directory\n[INF] Indexing mod wads\n[INF] Resolving conflicts\n[INF] Copying META files\n[INF] Writing wads\n[INF] Writing wad: WAD/Braum.wad.client\n[INF] Removing original directory\n[INF] Moving tmp directory\n[INF] Moving tmp directory\n[INF] Done!\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:/Users/etqdo/Downloads/wadtools-0.5.7-windows-x64/wadtools.exe",
+      "--config",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\config\\wadtools.toml",
+      "--hashtable-dir",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes",
+      "--progress=false",
+      "extract",
+      "-i",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\e_electric_v2\\validation\\imported\\WAD\\Braum.wad.client",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\e_electric_v2\\validation\\payloads",
+      "--hash",
+      "eb9d53354a504663",
+      "--no-bin-paths"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T03:31:33.085765Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'game': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n\u001b[2m2026-09-17T03:31:33.085842Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'lcu': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n\n\u001b[1m\u001b[96mWAD\u001b[39m\u001b[0m: \u001b[97mC:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\e_electric_v2\\validation\\imported\\WAD\\Braum.wad.client\u001b[39m\n\u001b[1m\u001b[96mExtracted\u001b[39m\u001b[0m: \u001b[92m1\u001b[39m chunks (\u001b[97m136.75 KB\u001b[39m)\n\u001b[1m\u001b[96mSkipped\u001b[39m\u001b[0m: \u001b[93m0\u001b[39m existing\n\n\u001b[1m\u001b[96mBy type\u001b[39m\u001b[0m:\n  \u001b[95mproperty_bin            \u001b[39m \u001b[97m1\u001b[39m\n",
+    "stderr": "\u001b[2m2026-09-17T03:31:33.085824Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'game': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n\u001b[2m2026-09-17T03:31:33.085850Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'lcu': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n"
+  }
+]

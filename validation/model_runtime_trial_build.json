@@ -1,0 +1,59 @@
+{
+  "status": "BUILT MODEL-ONLY RUNTIME TRIAL; not accepted, not final Braum_Clash.fantome",
+  "archive": "build\\model_runtime_trial\\Braum_Clash_Model_Trial.fantome",
+  "sha256": "f3b055eff6f590f9a8a265aa1a878d4f2f20abf77d52049d495538945f868554",
+  "scene_sha256": "0dd0b9e0d8d12b7349868b0ca9b27dfade2fe3595895ca8a42ad482e9944cd79",
+  "textures": {
+    "body": {
+      "source_sha256": "bf1fcca0ef3fdcebd8ebb9ce9056ddab9c1fb94cd6a30252c9ba19fd8db5aab9",
+      "sha256": "72cfc2542ea67ec7ad85597fe6f70ae141ce9002facbcfc68b55f57abdcce92b",
+      "mipmaps": true,
+      "format": "BC3"
+    },
+    "shield_frame": {
+      "source_sha256": "ebc32f500ab13843150fe6ce0365f3e827e6f04d64e4d3adcf9d335df0edf249",
+      "sha256": "db01831b726825fcbc3306d629bff245ef999ab13ba9a77477afaca89d23b2b5",
+      "mipmaps": true,
+      "format": "BC3"
+    }
+  },
+  "original_bin_sha256": "3f9b4f8c3b621db3354b059ea037d1b065bb83feb5fc9392480d2e028436c576",
+  "output_bin_sha256": "719800edd0d60f05ac6138dd2dd4c663574583eba8527ca1195b8dd7e5583208",
+  "outside_skin_mesh_settings_identical": true,
+  "original_poro_override_preserved": true,
+  "tool": {
+    "url": "https://github.com/LeagueToolkit/ltk-tex-utils/releases/tag/v0.3.0",
+    "sha256": "00332544d8ff09e90df46af2e3f987d57c7128c8327a37a913a6e9c33df563e4"
+  },
+  "limits": "Legacy implicit diffuse/low-gloss runtime trial. Body normal PNG remains accepted offline but is NOT bound: supplied base shader exposes no established normal input. Alpha/normal fidelity, patch compatibility, culling and performance need actual runtime evidence. No source WAD, manager library or live game changed.",
+  "files": [
+    {
+      "path": "META/info.json",
+      "sha256": "5f3f2e9ebea3e816230097b1e00f53bb043651095aa79bca4e080bdf18e2bbb1"
+    },
+    {
+      "path": "WAD/Braum.wad.client/assets/characters/braum/skins/base/braum_clash/body.tex",
+      "sha256": "72cfc2542ea67ec7ad85597fe6f70ae141ce9002facbcfc68b55f57abdcce92b"
+    },
+    {
+      "path": "WAD/Braum.wad.client/assets/characters/braum/skins/base/braum_clash/braum_clash.skl",
+      "sha256": "c961a75b7a7ca6831b59d960d06dcd4f699e491c70e41a6d3cec442d7d2f5cd8"
+    },
+    {
+      "path": "WAD/Braum.wad.client/assets/characters/braum/skins/base/braum_clash/braum_clash.skn",
+      "sha256": "3bd8e207213bb97599c3aff6617cfe62f36c033c84e96ba4f9d09600eec6625c"
+    },
+    {
+      "path": "WAD/Braum.wad.client/assets/characters/braum/skins/base/braum_clash/neutral_gloss.tex",
+      "sha256": "171e0ccaed440a26dc34c29c3f14dd490b9ee4093c98748f25726a22351ed97c"
+    },
+    {
+      "path": "WAD/Braum.wad.client/assets/characters/braum/skins/base/braum_clash/shield_frame.tex",
+      "sha256": "db01831b726825fcbc3306d629bff245ef999ab13ba9a77477afaca89d23b2b5"
+    },
+    {
+      "path": "WAD/Braum.wad.client/data/characters/braum/skins/skin0.bin",
+      "sha256": "719800edd0d60f05ac6138dd2dd4c663574583eba8527ca1195b8dd7e5583208"
+    }
+  ]
+}

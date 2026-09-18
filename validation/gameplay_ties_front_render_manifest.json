@@ -1,0 +1,119 @@
+{
+  "scene": "clash_braum_torso.blend",
+  "scene_sha256": "2501fd57112bb324515e56dc33cb986905f0e50813f5aa946c56ad27e24f030a",
+  "resolution": 360,
+  "vanilla_reference": false,
+  "isolate_grip": false,
+  "hand_surfaces": false,
+  "only_objects": null,
+  "camera_direction": "3,-7,8",
+  "edge_focus": null,
+  "ortho_scale": 5.0,
+  "candidate_weights": "cuff_seam_tie_candidates.json:ties",
+  "marked_vertices": null,
+  "marker_colors": "red, green, blue, yellow in index order",
+  "renders": [
+    {
+      "clip": "braum_recall",
+      "frame": 60,
+      "focus": "body",
+      "file": "validation\\previews\\gameplay_ties_front\\braum_recall_060_body.png"
+    },
+    {
+      "clip": "braum_recall",
+      "frame": 65,
+      "focus": "body",
+      "file": "validation\\previews\\gameplay_ties_front\\braum_recall_065_body.png"
+    },
+    {
+      "clip": "braum_recall",
+      "frame": 70,
+      "focus": "body",
+      "file": "validation\\previews\\gameplay_ties_front\\braum_recall_070_body.png"
+    },
+    {
+      "clip": "braum_dance_loop",
+      "frame": 45,
+      "focus": "body",
+      "file": "validation\\previews\\gameplay_ties_front\\braum_dance_loop_045_body.png"
+    },
+    {
+      "clip": "braum_dance_loop",
+      "frame": 50,
+      "focus": "body",
+      "file": "validation\\previews\\gameplay_ties_front\\braum_dance_loop_050_body.png"
+    },
+    {
+      "clip": "braum_dance_loop",
+      "frame": 55,
+      "focus": "body",
+      "file": "validation\\previews\\gameplay_ties_front\\braum_dance_loop_055_body.png"
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 3,
+      "focus": "body",
+      "file": "validation\\previews\\gameplay_ties_front\\braum_spell4_003_body.png"
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 15,
+      "focus": "body",
+      "file": "validation\\previews\\gameplay_ties_front\\braum_spell4_015_body.png"
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 17,
+      "focus": "body",
+      "file": "validation\\previews\\gameplay_ties_front\\braum_spell4_017_body.png"
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 26,
+      "focus": "body",
+      "file": "validation\\previews\\gameplay_ties_front\\braum_spell4_026_body.png"
+    },
+    {
+      "clip": "braum_idle_01_loop",
+      "frame": 17,
+      "focus": "body",
+      "file": "validation\\previews\\gameplay_ties_front\\braum_idle_01_loop_017_body.png"
+    },
+    {
+      "clip": "braum_spell3_idle180",
+      "frame": 29,
+      "focus": "body",
+      "file": "validation\\previews\\gameplay_ties_front\\braum_spell3_idle180_029_body.png"
+    },
+    {
+      "clip": "braum_run_02",
+      "frame": 12,
+      "focus": "body",
+      "file": "validation\\previews\\gameplay_ties_front\\braum_run_02_012_body.png"
+    },
+    {
+      "clip": "braum_spell3_run0",
+      "frame": 14,
+      "focus": "body",
+      "file": "validation\\previews\\gameplay_ties_front\\braum_spell3_run0_014_body.png"
+    },
+    {
+      "clip": "braum_spell3_run-90",
+      "frame": 14,
+      "focus": "body",
+      "file": "validation\\previews\\gameplay_ties_front\\braum_spell3_run-90_014_body.png"
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 16,
+      "focus": "body",
+      "file": "validation\\previews\\gameplay_ties_front\\braum_spell4_016_body.png"
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 18,
+      "focus": "body",
+      "file": "validation\\previews\\gameplay_ties_front\\braum_spell4_018_body.png"
+    }
+  ]
+}

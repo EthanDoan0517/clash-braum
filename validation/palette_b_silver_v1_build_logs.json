@@ -1,0 +1,224 @@
+[
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_parent.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_parent.png"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T23:55:47.586471Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_parent.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_parent.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T23:55:56.265994Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_parent.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_parent_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T23:55:56.738768Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_parent.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_parent_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T23:55:56.791474Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_parent.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_parent_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T23:55:56.997544Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_parent.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_parent_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T23:55:57.022897Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_parent.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_parent_mip4.png",
+      "--mipmap",
+      "4"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T23:55:57.064529Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_parent.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_parent_mip4.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_mip4.png",
+      "--mipmap",
+      "4"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T23:55:57.086027Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\body_mip4.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_parent.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_parent.png"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T23:55:57.129211Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_parent.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_parent.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T23:56:00.540155Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_parent.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_parent_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T23:56:00.931075Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_parent.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_parent_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T23:56:00.985580Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_parent.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_parent_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T23:56:01.190896Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_parent.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_parent_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T23:56:01.214833Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_parent.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_parent_mip4.png",
+      "--mipmap",
+      "4"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T23:56:01.253906Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_parent.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_parent_mip4.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_mip4.png",
+      "--mipmap",
+      "4"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T23:56:01.275168Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\palette_b_silver_v1\\shield_frame_mip4.png\n",
+    "stderr": ""
+  }
+]

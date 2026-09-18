@@ -1,0 +1,575 @@
+{
+  "revisions": {
+    "before": {
+      "scene_sha256": "2501fd57112bb324515e56dc33cb986905f0e50813f5aa946c56ad27e24f030a",
+      "poses": [
+        {
+          "max_edge_ratio": 14.206542369092801,
+          "clip": "braum_recall",
+          "frame": 60,
+          "object": "Object004",
+          "max_elongation": 0.07888838254382508,
+          "p99_elongation": 0.017812439333658274,
+          "local_intersection_pairs": 3,
+          "new_local_intersections": [],
+          "removed_local_intersections": []
+        },
+        {
+          "max_edge_ratio": 12.489951045885011,
+          "clip": "braum_recall",
+          "frame": 65,
+          "object": "Object004",
+          "max_elongation": 0.10627390100477375,
+          "p99_elongation": 0.0632918973675283,
+          "local_intersection_pairs": 8,
+          "new_local_intersections": [],
+          "removed_local_intersections": []
+        },
+        {
+          "max_edge_ratio": 5.923390718587158,
+          "clip": "braum_recall",
+          "frame": 70,
+          "object": "Object004",
+          "max_elongation": 0.04340499595859726,
+          "p99_elongation": 0.021843884290439743,
+          "local_intersection_pairs": 8,
+          "new_local_intersections": [],
+          "removed_local_intersections": []
+        },
+        {
+          "max_edge_ratio": 5.525555912832252,
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "object": "Object004",
+          "max_elongation": 0.06554988892502225,
+          "p99_elongation": 0.028768535859552906,
+          "local_intersection_pairs": 4,
+          "new_local_intersections": [],
+          "removed_local_intersections": []
+        },
+        {
+          "max_edge_ratio": 8.311746915233513,
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "object": "Object004",
+          "max_elongation": 0.09647238469346023,
+          "p99_elongation": 0.04601343871580148,
+          "local_intersection_pairs": 4,
+          "new_local_intersections": [],
+          "removed_local_intersections": []
+        },
+        {
+          "max_edge_ratio": 5.9746668023247675,
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "object": "Object004",
+          "max_elongation": 0.06354792414197821,
+          "p99_elongation": 0.028718471488134088,
+          "local_intersection_pairs": 3,
+          "new_local_intersections": [],
+          "removed_local_intersections": []
+        },
+        {
+          "max_edge_ratio": 57.63151256480957,
+          "clip": "braum_spell4",
+          "frame": 3,
+          "object": "Object004",
+          "max_elongation": 0.5512702059261059,
+          "p99_elongation": 0.13911931583942785,
+          "local_intersection_pairs": 4,
+          "new_local_intersections": [],
+          "removed_local_intersections": []
+        },
+        {
+          "max_edge_ratio": 8.78352328455233,
+          "clip": "braum_spell4",
+          "frame": 15,
+          "object": "Object004",
+          "max_elongation": 0.10098848496205698,
+          "p99_elongation": 0.05080099836135183,
+          "local_intersection_pairs": 0,
+          "new_local_intersections": [],
+          "removed_local_intersections": []
+        },
+        {
+          "max_edge_ratio": 29.245185242110562,
+          "clip": "braum_spell4",
+          "frame": 17,
+          "object": "Object004",
+          "max_elongation": 0.290212024470272,
+          "p99_elongation": 0.06828606922666237,
+          "local_intersection_pairs": 2,
+          "new_local_intersections": [],
+          "removed_local_intersections": []
+        },
+        {
+          "max_edge_ratio": 13.879148494093043,
+          "clip": "braum_spell4",
+          "frame": 26,
+          "object": "Object004",
+          "max_elongation": 0.062382073432311044,
+          "p99_elongation": 0.012466698639471504,
+          "local_intersection_pairs": 7,
+          "new_local_intersections": [],
+          "removed_local_intersections": []
+        },
+        {
+          "max_edge_ratio": 7.460232590720634,
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "object": "Object004",
+          "max_elongation": 0.033831979598164454,
+          "p99_elongation": 0.016735039212322517,
+          "local_intersection_pairs": 5,
+          "new_local_intersections": [],
+          "removed_local_intersections": []
+        },
+        {
+          "max_edge_ratio": 9.698620355468687,
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "object": "Object004",
+          "max_elongation": 0.04209588651827604,
+          "p99_elongation": 0.020177973502274838,
+          "local_intersection_pairs": 5,
+          "new_local_intersections": [],
+          "removed_local_intersections": []
+        },
+        {
+          "max_edge_ratio": 12.25608054972371,
+          "clip": "braum_run_02",
+          "frame": 12,
+          "object": "Object004",
+          "max_elongation": 0.08827276736057992,
+          "p99_elongation": 0.025483453089131622,
+          "local_intersection_pairs": 7,
+          "new_local_intersections": [],
+          "removed_local_intersections": []
+        },
+        {
+          "max_edge_ratio": 10.421350640826313,
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "object": "Object004",
+          "max_elongation": 0.045633714664997785,
+          "p99_elongation": 0.018852463732665883,
+          "local_intersection_pairs": 5,
+          "new_local_intersections": [],
+          "removed_local_intersections": []
+        },
+        {
+          "max_edge_ratio": 10.422157633104304,
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "object": "Object004",
+          "max_elongation": 0.04563762345225712,
+          "p99_elongation": 0.019197174670156993,
+          "local_intersection_pairs": 5,
+          "new_local_intersections": [],
+          "removed_local_intersections": []
+        }
+      ]
+    },
+    "after": {
+      "scene_sha256": "2501fd57112bb324515e56dc33cb986905f0e50813f5aa946c56ad27e24f030a",
+      "poses": [
+        {
+          "max_edge_ratio": 14.206542369092801,
+          "clip": "braum_recall",
+          "frame": 60,
+          "object": "Object004",
+          "max_elongation": 0.07888838254382508,
+          "p99_elongation": 0.017812439333658274,
+          "local_intersection_pairs": 0,
+          "new_local_intersections": [],
+          "removed_local_intersections": [
+            [
+              1154,
+              "Object009",
+              1185
+            ],
+            [
+              1155,
+              "Object009",
+              1185
+            ],
+            [
+              1155,
+              "Object009",
+              1186
+            ]
+          ]
+        },
+        {
+          "max_edge_ratio": 12.489951045885011,
+          "clip": "braum_recall",
+          "frame": 65,
+          "object": "Object004",
+          "max_elongation": 0.10627390100477375,
+          "p99_elongation": 0.0632918973675283,
+          "local_intersection_pairs": 4,
+          "new_local_intersections": [],
+          "removed_local_intersections": [
+            [
+              1154,
+              "Object009",
+              1185
+            ],
+            [
+              1155,
+              "Object009",
+              1185
+            ],
+            [
+              1155,
+              "Object009",
+              1186
+            ],
+            [
+              2447,
+              "Object009",
+              1185
+            ]
+          ]
+        },
+        {
+          "max_edge_ratio": 5.923390718587158,
+          "clip": "braum_recall",
+          "frame": 70,
+          "object": "Object004",
+          "max_elongation": 0.04340499595859726,
+          "p99_elongation": 0.021843884290439743,
+          "local_intersection_pairs": 4,
+          "new_local_intersections": [],
+          "removed_local_intersections": [
+            [
+              1154,
+              "Object009",
+              1185
+            ],
+            [
+              1154,
+              "Object009",
+              1186
+            ],
+            [
+              1155,
+              "Object009",
+              1185
+            ],
+            [
+              1155,
+              "Object009",
+              1186
+            ]
+          ]
+        },
+        {
+          "max_edge_ratio": 5.525555912832252,
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "object": "Object004",
+          "max_elongation": 0.06554988892502225,
+          "p99_elongation": 0.028768535859552906,
+          "local_intersection_pairs": 1,
+          "new_local_intersections": [],
+          "removed_local_intersections": [
+            [
+              1155,
+              "Object009",
+              1185
+            ],
+            [
+              1155,
+              "Object009",
+              1186
+            ],
+            [
+              2447,
+              "Object009",
+              1186
+            ]
+          ]
+        },
+        {
+          "max_edge_ratio": 8.311746915233513,
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "object": "Object004",
+          "max_elongation": 0.09647238469346023,
+          "p99_elongation": 0.04601343871580148,
+          "local_intersection_pairs": 1,
+          "new_local_intersections": [],
+          "removed_local_intersections": [
+            [
+              1155,
+              "Object009",
+              1185
+            ],
+            [
+              1155,
+              "Object009",
+              1186
+            ],
+            [
+              2447,
+              "Object009",
+              1186
+            ]
+          ]
+        },
+        {
+          "max_edge_ratio": 5.9746668023247675,
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "object": "Object004",
+          "max_elongation": 0.06354792414197821,
+          "p99_elongation": 0.028718471488134088,
+          "local_intersection_pairs": 0,
+          "new_local_intersections": [],
+          "removed_local_intersections": [
+            [
+              1154,
+              "Object009",
+              1185
+            ],
+            [
+              1155,
+              "Object009",
+              1185
+            ],
+            [
+              1155,
+              "Object009",
+              1186
+            ]
+          ]
+        },
+        {
+          "max_edge_ratio": 57.63151256480957,
+          "clip": "braum_spell4",
+          "frame": 3,
+          "object": "Object004",
+          "max_elongation": 0.5512702059261059,
+          "p99_elongation": 0.13911931583942785,
+          "local_intersection_pairs": 0,
+          "new_local_intersections": [],
+          "removed_local_intersections": [
+            [
+              1155,
+              "Object009",
+              1185
+            ],
+            [
+              1155,
+              "Object009",
+              1186
+            ],
+            [
+              2447,
+              "Object009",
+              1185
+            ],
+            [
+              2447,
+              "Object009",
+              1186
+            ]
+          ]
+        },
+        {
+          "max_edge_ratio": 8.78352328455233,
+          "clip": "braum_spell4",
+          "frame": 15,
+          "object": "Object004",
+          "max_elongation": 0.10098848496205698,
+          "p99_elongation": 0.05080099836135183,
+          "local_intersection_pairs": 0,
+          "new_local_intersections": [],
+          "removed_local_intersections": []
+        },
+        {
+          "max_edge_ratio": 29.245185242110562,
+          "clip": "braum_spell4",
+          "frame": 17,
+          "object": "Object004",
+          "max_elongation": 0.290212024470272,
+          "p99_elongation": 0.06828606922666237,
+          "local_intersection_pairs": 0,
+          "new_local_intersections": [],
+          "removed_local_intersections": [
+            [
+              1154,
+              "Object009",
+              1185
+            ],
+            [
+              1154,
+              "Object009",
+              1186
+            ]
+          ]
+        },
+        {
+          "max_edge_ratio": 13.879148494093043,
+          "clip": "braum_spell4",
+          "frame": 26,
+          "object": "Object004",
+          "max_elongation": 0.062382073432311044,
+          "p99_elongation": 0.012466698639471504,
+          "local_intersection_pairs": 4,
+          "new_local_intersections": [],
+          "removed_local_intersections": [
+            [
+              1154,
+              "Object009",
+              1185
+            ],
+            [
+              1155,
+              "Object009",
+              1185
+            ],
+            [
+              1155,
+              "Object009",
+              1186
+            ]
+          ]
+        },
+        {
+          "max_edge_ratio": 7.460232590720634,
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "object": "Object004",
+          "max_elongation": 0.033831979598164454,
+          "p99_elongation": 0.016735039212322517,
+          "local_intersection_pairs": 2,
+          "new_local_intersections": [],
+          "removed_local_intersections": [
+            [
+              1155,
+              "Object009",
+              1185
+            ],
+            [
+              1155,
+              "Object009",
+              1186
+            ],
+            [
+              2447,
+              "Object009",
+              1186
+            ]
+          ]
+        },
+        {
+          "max_edge_ratio": 9.698620355468687,
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "object": "Object004",
+          "max_elongation": 0.04209588651827604,
+          "p99_elongation": 0.020177973502274838,
+          "local_intersection_pairs": 1,
+          "new_local_intersections": [],
+          "removed_local_intersections": [
+            [
+              1154,
+              "Object009",
+              1185
+            ],
+            [
+              1155,
+              "Object009",
+              1185
+            ],
+            [
+              1155,
+              "Object009",
+              1186
+            ],
+            [
+              2447,
+              "Object009",
+              1186
+            ]
+          ]
+        },
+        {
+          "max_edge_ratio": 12.25608054972371,
+          "clip": "braum_run_02",
+          "frame": 12,
+          "object": "Object004",
+          "max_elongation": 0.08827276736057992,
+          "p99_elongation": 0.025483453089131622,
+          "local_intersection_pairs": 4,
+          "new_local_intersections": [],
+          "removed_local_intersections": [
+            [
+              1154,
+              "Object009",
+              1185
+            ],
+            [
+              1155,
+              "Object009",
+              1185
+            ],
+            [
+              1155,
+              "Object009",
+              1186
+            ]
+          ]
+        },
+        {
+          "max_edge_ratio": 10.421350640826313,
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "object": "Object004",
+          "max_elongation": 0.045633714664997785,
+          "p99_elongation": 0.018852463732665883,
+          "local_intersection_pairs": 4,
+          "new_local_intersections": [],
+          "removed_local_intersections": [
+            [
+              1154,
+              "Object009",
+              1185
+            ]
+          ]
+        },
+        {
+          "max_edge_ratio": 10.422157633104304,
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "object": "Object004",
+          "max_elongation": 0.04563762345225712,
+          "p99_elongation": 0.019197174670156993,
+          "local_intersection_pairs": 3,
+          "new_local_intersections": [],
+          "removed_local_intersections": [
+            [
+              1154,
+              "Object009",
+              1185
+            ],
+            [
+              2447,
+              "Object009",
+              1186
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "candidate_weights": "cuff_seam_combined_candidates.json:combined",
+  "all_rest_geometry_and_unlisted_weights_unchanged": true,
+  "unlisted_rest_geometry_and_weights_unchanged": true,
+  "authored_candidate_positions": {},
+  "topology_and_uv_unchanged": true,
+  "sample_count_per_revision": 15,
+  "intersection_scope": "Faces incident to changed vertices against all body and shield meshes; excludes shared-vertex self pairs, Vanilla_Reference and Poro. No runtime or whole-body collision certification."
+}

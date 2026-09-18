@@ -1,0 +1,44 @@
+{
+  "status": "ACCEPTED OFFLINE BODY ATLAS equivalence to reconstructed source preview; not runtime acceptance",
+  "checkpoint": "clash_braum_body_atlas_accepted.blend",
+  "scene_sha256": "e0f0664f45d6474fe988e3dcd07c7aad77311207e660c0af52d77260185fdafc",
+  "export_vertices": 58314,
+  "export_triangles": 51253,
+  "textures": {
+    "basecolor": {
+      "path": "work\\textures\\body_atlas_trial\\clash_body_basecolor.png",
+      "sha256": "bf1fcca0ef3fdcebd8ebb9ce9056ddab9c1fb94cd6a30252c9ba19fd8db5aab9",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    "opacity": {
+      "path": "work\\textures\\body_atlas_trial\\clash_body_opacity.png",
+      "sha256": "185bca2250bf9f3e4c25108a62691df170c939a3d3a3d190bf5a64f44155e1bd",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    "normal": {
+      "path": "work\\textures\\body_atlas_trial\\clash_body_normal.png",
+      "sha256": "9926d15f9bdae2abf3564e3530ce86422cbba61f8db7918321a86948a3ad05a3",
+      "size": [
+        2048,
+        2048
+      ]
+    }
+  },
+  "visual_review": "Reviewed eight matched gameplay-size views: idle, running E, R17, recall65 from opposing elevated cameras. No material gameplay-visible seam, texture alignment, silhouette/opacity, color/value or hard-surface shading regression. Minor fine-detail filtering differences accepted.",
+  "technical_review": "Zero UV overlaps; source UVs and exact geometry/weights/normals retained; +Y tangent normal strength1; saved alpha matches opacity bake; full3963-frame structural and matched native export pass. Body joined only in export memory into Braum submesh.",
+  "limitations": "13.17% atlas coverage, 2048 square, 4px dilation. Very small UV triangles and filtered normal vectors retain close-up imperfections. Native-size previews show no disruptive bleeding; actual Riot shader, DDS/TEX mipmap/alpha and normal convention remain runtime gates. Existing source material reconstruction excludes custom detail shader. Scene material name Braum.001 is normalized to Braum in export; source reference material retained.",
+  "evidence": [
+    "body_atlas_contract.json",
+    "body_atlas_full_validation.json",
+    "body_atlas_packed_uv_validation.json",
+    "model_body_atlas_export.json",
+    "body_atlas_gameplay_comparison.json"
+  ],
+  "next": "Finish shield textures/materials, then model-only BIN/texture packaging and runtime gate; preserve accepted body/cuff/shield."
+}

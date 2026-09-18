@@ -1,0 +1,53 @@
+{
+  "status": "TRIAL: source-normal transfer and shared shield atlas UVs; requires visual/atlas/full-animation validation",
+  "scene": "clash_braum_shield_surface_trial.blend",
+  "scene_sha256": "f438ca70513c4cacc7267e2e019dfe3102727024cf21c37bef88ad6b1b1f7971",
+  "parent_sha256": "2501fd57112bb324515e56dc33cb986905f0e50813f5aa946c56ad27e24f030a",
+  "geometry_trial_sha256": "14673e09a2ada1d3559fdebc3879b613bf1f300f25c330344e7b0aaa628afef6",
+  "normal_method": "Blender DATA_TRANSFER CUSTOM_NORMAL POLYINTERP_NEAREST from original rest meshes before Armature modifier",
+  "uv_method": "New shared ShieldAtlas layer; multi-object Smart UV Project 66 degrees then Pack Islands .004 fractional margin; legacy layer retained. No shield texture dependency existed.",
+  "objects": [
+    {
+      "object": "CCE_mesh_23.001",
+      "legacy_uv_retained": true,
+      "atlas_layer": "ShieldAtlas",
+      "triangles": 2
+    },
+    {
+      "object": "CCE_mesh_22.001",
+      "legacy_uv_retained": true,
+      "atlas_layer": "ShieldAtlas",
+      "triangles": 4
+    },
+    {
+      "object": "CCE_mesh_21.001",
+      "legacy_uv_retained": true,
+      "atlas_layer": "ShieldAtlas",
+      "triangles": 257
+    },
+    {
+      "object": "CCE_mesh_16",
+      "legacy_uv_retained": true,
+      "atlas_layer": "ShieldAtlas",
+      "triangles": 529
+    },
+    {
+      "object": "CCE_mesh_15.001",
+      "legacy_uv_retained": true,
+      "atlas_layer": "ShieldAtlas",
+      "triangles": 23
+    },
+    {
+      "object": "CCE_mesh_14.001",
+      "legacy_uv_retained": true,
+      "atlas_layer": "ShieldAtlas",
+      "triangles": 5874
+    },
+    {
+      "object": "CCE_mesh_13.001",
+      "legacy_uv_retained": true,
+      "atlas_layer": "ShieldAtlas",
+      "triangles": 2373
+    }
+  ]
+}

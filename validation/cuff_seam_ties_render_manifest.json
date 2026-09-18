@@ -1,0 +1,31 @@
+{
+  "scene": "clash_braum_torso.blend",
+  "scene_sha256": "2501fd57112bb324515e56dc33cb986905f0e50813f5aa946c56ad27e24f030a",
+  "vanilla_reference": false,
+  "isolate_grip": false,
+  "hand_surfaces": false,
+  "only_objects": [
+    "Object004",
+    "Object009"
+  ],
+  "camera_direction": "3,7,2",
+  "edge_focus": "Object004:2671:2673",
+  "ortho_scale": 0.4,
+  "candidate_weights": "cuff_seam_tie_candidates.json:ties",
+  "marked_vertices": null,
+  "marker_colors": "red, green, blue, yellow in index order",
+  "renders": [
+    {
+      "clip": "braum_spell4",
+      "frame": 17,
+      "focus": "L_Hand",
+      "file": "validation\\previews\\cuff_seam_ties\\braum_spell4_017_L_Hand.png"
+    },
+    {
+      "clip": "braum_recall",
+      "frame": 65,
+      "focus": "L_Hand",
+      "file": "validation\\previews\\cuff_seam_ties\\braum_recall_065_L_Hand.png"
+    }
+  ]
+}

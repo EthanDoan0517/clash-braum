@@ -1,0 +1,505 @@
+[
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\w_outline.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\w_outline.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.386570Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\w_outline.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\w_outline.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\w_outline.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\w_outline_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.414055Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\w_outline.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\w_outline_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\w_outline.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\w_outline_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.435290Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\w_outline.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\w_outline_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_full.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\full.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.464367Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_full.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\full.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\full.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_full_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.490830Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\full.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_full_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\full.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_full_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.512129Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\full.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_full_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_base.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\base.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.534953Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_base.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\base.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\base.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_base_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.567991Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\base.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_base_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\base.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_base_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.641913Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\base.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_base_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_1.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_1.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.672531Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_1.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_1.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_1.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_1_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.705357Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_1.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_1_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_1.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_1_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.741244Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_1.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_1_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_2.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_2.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.765065Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_2.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_2.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_2.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_2_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.797491Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_2.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_2_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_2.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_2_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.821180Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_2.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_2_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_3.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_3.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.846887Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_3.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_3.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_3.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_3_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.878260Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_3.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_3_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_3.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_3_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.901983Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_3.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_3_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_4.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_4.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.929404Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_4.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_4.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_4.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_4_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.960894Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_4.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_4_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_4.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_4_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:50.988142Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\quarter_4.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_quarter_4_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_warning.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\warning.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:51.015897Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_warning.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\warning.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\warning.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_warning_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:51.043188Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\warning.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_warning_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\warning.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_warning_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:51.070127Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\passive\\warning.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\passive_warning_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\body.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:54.325958Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\body.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\body_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:54.798715Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\body_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\body_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:55.004499Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\body_mip2.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\body_mip4.png",
+      "--mipmap",
+      "4"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:55.049549Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braum_clash\\body.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\body_mip4.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\readability_v1\\skin0.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\parent.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\skin0.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\data\\characters\\braum\\skins\\skin0.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "bin",
+      "-o",
+      "text",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\data\\characters\\braum\\skins\\skin0.bin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\verified.ritobin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\cslol-go\\cslol-tools\\ritobin_cli.exe",
+      "-i",
+      "text",
+      "-o",
+      "bin",
+      "-k",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\verified.ritobin",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\verified.bin"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "encode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\loading.png",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braumloadscreen.tex",
+      "-f",
+      "bc3",
+      "--generate-mipmaps"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:55.328709Z\u001b[0m \u001b[32m INFO\u001b[0m encoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\loading.png -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braumloadscreen.tex\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braumloadscreen.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\loading_mip0.png",
+      "--mipmap",
+      "0"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:55.394222Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braumloadscreen.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\loading_mip0.png\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\tools\\ltk-tex-utils.exe",
+      "decode",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braumloadscreen.tex",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\loading_mip2.png",
+      "--mipmap",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-17T05:34:55.424736Z\u001b[0m \u001b[32m INFO\u001b[0m decoding C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\package\\WAD\\Braum.wad.client\\assets\\characters\\braum\\skins\\base\\braumloadscreen.tex -> C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\refinement_v2\\loading_mip2.png\n",
+    "stderr": ""
+  }
+]

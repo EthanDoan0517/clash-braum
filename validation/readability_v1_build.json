@@ -1,0 +1,81 @@
+{
+  "status": "PASS targeted build; gameplay pending",
+  "archive": "build\\readability_v1\\Braum_Clash_Readability_v1.fantome",
+  "sha256": "94b1270c8e3dd297b1d5d2f00c2a0cfabb3d19e9c72d39a2c2f7f20cc832b939",
+  "parent_sha256": "bc51d5d16093f3d5c46fc75de43a1862fef1480302a3356b229fd081a1a7e44e",
+  "changes": [
+    "E: remove Inchant_flash camera billboard; all directional mesh/other effects exact.",
+    "Q: add bound white core and crackle shell from native missile-head lifetime/placement; existing Q electricity exact.",
+    "W: landing electrical emitters removed; buff keeps only faint full Clash logo, native decal timing/size/fade retained.",
+    "R: main line rates 80->20, flanking crack bolts removed; Frozen/GroundBurn dark navy ground mask, original ground footprint/life preserved."
+  ],
+  "protected": "Only seven VFX entries changed; resolver/telegraphs/audio/model/rig/body/shield/passive assets exact. W/R appearance changes and R emission reduction explicitly authorized; lifetime/cleanup fields retained.",
+  "loading": "308x560, crop center .455/.5; opaque mip0/2 checked.",
+  "reused": "Unchanged crackle atlas, passive/logo, model/rig texture evidence; no new art or geometry tests.",
+  "payloads": [
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/body.tex",
+      "sha256": "a7226f34dc8dc1195d17f9507a13f58b77691b8c9c17db996836815270828acd"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skl",
+      "sha256": "c961a75b7a7ca6831b59d960d06dcd4f699e491c70e41a6d3cec442d7d2f5cd8"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skn",
+      "sha256": "3bd8e207213bb97599c3aff6617cfe62f36c033c84e96ba4f9d09600eec6625c"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/crackle_atlas.tex",
+      "sha256": "e5a91a3c03f87e46b58c68824050f22c60d482ad14533e4479e4e62555a8f821"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/lightning_trail.tex",
+      "sha256": "75a0a1c613b3eb8f6f20c5b85816dacf911adf9af3ef24218fa7e3f4aa3e0707"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/neutral_gloss.tex",
+      "sha256": "171e0ccaed440a26dc34c29c3f14dd490b9ee4093c98748f25726a22351ed97c"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/base.tex",
+      "sha256": "a3472fbbb5a3ebd6e02d4bc547dcbbe69f7b0a02b02de9c84ae20d34dfa04425"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/full.tex",
+      "sha256": "9a9d8008dd6daf10657d1c45fd7d942f9a7803e989f62ccaba383c78dfa57454"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/quarter_1.tex",
+      "sha256": "e379e6530379398ea310826cd49d370f81788986bb1037b5c4f45c431673f7e3"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/quarter_2.tex",
+      "sha256": "0288e3adf49bdff7363aeb9da1697f345508876682dffb34cd027abe0d935ef0"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/quarter_3.tex",
+      "sha256": "eee70d263a24e1b5a2e62c70c87181c47c321c0f8a7c85fadacd49855bdd1034"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/quarter_4.tex",
+      "sha256": "89cf03be508231933247e5f32056240387c2e942398e316c0d436e455aae9328"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/passive/warning.tex",
+      "sha256": "50c9fe7671e5cae1164b6520cf1e2f6dcaa770e1677a24020cded210a033caff"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_clash/shield_frame.tex",
+      "sha256": "cd563a9b177e78b2611cca166a9ec516234622c8e0b40bc6d3ea37f4c1077949"
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braumloadscreen.tex",
+      "sha256": "b5ff32a6c8d9330622ef35dc4984f59bd50f47b2daf524d5da915bdb88edca56"
+    },
+    {
+      "path": "data/characters/braum/skins/skin0.bin",
+      "sha256": "14a47ed6de924d5250e99c3bb2881ab0c8192322ab92b1c756e9f671ccc28c1f"
+    }
+  ]
+}

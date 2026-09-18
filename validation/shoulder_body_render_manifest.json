@@ -1,0 +1,22 @@
+{
+  "scene": "clash_braum_shoulders.blend",
+  "scene_sha256": "4c84f69f977120a5ac8acc51c0d4d8006637c466551d8a8494da4ecb4f40b7bf",
+  "vanilla_reference": false,
+  "isolate_grip": false,
+  "only_objects": null,
+  "camera_direction": null,
+  "renders": [
+    {
+      "clip": "braum_recall",
+      "frame": 65,
+      "focus": "body",
+      "file": "validation\\previews\\shoulder_body\\braum_recall_065_body.png"
+    },
+    {
+      "clip": "braum_dance_loop",
+      "frame": 50,
+      "focus": "body",
+      "file": "validation\\previews\\shoulder_body\\braum_dance_loop_050_body.png"
+    }
+  ]
+}

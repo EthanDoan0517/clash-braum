@@ -1,0 +1,19 @@
+{
+  "scene": "clash_braum_handle_knuckle_trial.blend",
+  "scene_sha256": "fef6fd6f21409986c8f49b6c739aeecb2b048ed1fc4edc3dee9e115e14bd9a67",
+  "vanilla_reference": false,
+  "isolate_grip": true,
+  "hand_surfaces": true,
+  "only_objects": null,
+  "camera_direction": "3,-7,3",
+  "edge_focus": null,
+  "ortho_scale": null,
+  "renders": [
+    {
+      "clip": "braum_spell3_run0",
+      "frame": 14,
+      "focus": "L_Hand",
+      "file": "validation\\previews\\local_handle_knuckle_front\\braum_spell3_run0_014_L_Hand.png"
+    }
+  ]
+}

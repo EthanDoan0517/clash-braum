@@ -1,0 +1,225 @@
+{
+  "runtime_feedback": "All abilities and attacks silent; voice still plays. v1 rejected.",
+  "installed_banks_match_supplied": {
+    "668ac17b89a8d8ea.bnk": true,
+    "6a0cd1a55c7df583.bnk": true
+  },
+  "native_hash_algorithm_matches": {
+    "setup/crc32": 0,
+    "setup/fnv1": 114,
+    "setup/fnv1a": 0,
+    "setup/xxh32": 0,
+    "setup_packet/crc32": 0,
+    "setup_packet/fnv1": 0,
+    "setup_packet/fnv1a": 0,
+    "setup_packet/xxh32": 0
+  },
+  "native_uid_distinct_setups": {
+    "4235668595": 1
+  },
+  "v1_uid_distinct_setups": {
+    "550434184": 3
+  },
+  "v1_profiles": [
+    {
+      "uid": 550434184,
+      "setup_sha256": "fd1fdbfdd69c333d30b356f88c271de274ae95e2393aa84b8f2deab98941d09e",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 103689118
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "fd1fdbfdd69c333d30b356f88c271de274ae95e2393aa84b8f2deab98941d09e",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 1071447244
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "6517e2ed6415da36cdb373b2989afd86dd2b6a15deda9274948032c1b8eb2245",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 169392210
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "9323ada087e6cf6f9a1cd69b4e8e7208ed10da3a4775514ae957e084988a3af3",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 190232138
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "fd1fdbfdd69c333d30b356f88c271de274ae95e2393aa84b8f2deab98941d09e",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 21321056
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "6517e2ed6415da36cdb373b2989afd86dd2b6a15deda9274948032c1b8eb2245",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 278315751
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "fd1fdbfdd69c333d30b356f88c271de274ae95e2393aa84b8f2deab98941d09e",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 309351640
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "fd1fdbfdd69c333d30b356f88c271de274ae95e2393aa84b8f2deab98941d09e",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 382806313
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "6517e2ed6415da36cdb373b2989afd86dd2b6a15deda9274948032c1b8eb2245",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 404894407
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "6517e2ed6415da36cdb373b2989afd86dd2b6a15deda9274948032c1b8eb2245",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 491993041
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "fd1fdbfdd69c333d30b356f88c271de274ae95e2393aa84b8f2deab98941d09e",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 509535745
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "6517e2ed6415da36cdb373b2989afd86dd2b6a15deda9274948032c1b8eb2245",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 541689440
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "6517e2ed6415da36cdb373b2989afd86dd2b6a15deda9274948032c1b8eb2245",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 543374652
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "6517e2ed6415da36cdb373b2989afd86dd2b6a15deda9274948032c1b8eb2245",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 557873384
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "fd1fdbfdd69c333d30b356f88c271de274ae95e2393aa84b8f2deab98941d09e",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 599708390
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "fd1fdbfdd69c333d30b356f88c271de274ae95e2393aa84b8f2deab98941d09e",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 611305689
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "9323ada087e6cf6f9a1cd69b4e8e7208ed10da3a4775514ae957e084988a3af3",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 676011000
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "fd1fdbfdd69c333d30b356f88c271de274ae95e2393aa84b8f2deab98941d09e",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 680861900
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "6517e2ed6415da36cdb373b2989afd86dd2b6a15deda9274948032c1b8eb2245",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 77410398
+    },
+    {
+      "uid": 550434184,
+      "setup_sha256": "6517e2ed6415da36cdb373b2989afd86dd2b6a15deda9274948032c1b8eb2245",
+      "chunks": [
+        "fmt ",
+        "JUNK",
+        "data"
+      ],
+      "id": 884714472
+    }
+  ]
+}

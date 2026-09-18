@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-14",
+  "assets": [
+    {
+      "path": "data/characters/braum/skins/skin0.bin",
+      "sha256": "3f9b4f8c3b621db3354b059ea037d1b065bb83feb5fc9392480d2e028436c576",
+      "matches_source": true
+    },
+    {
+      "path": "data/characters/braum/animations/skin0.bin",
+      "sha256": "a125d1cd41cbc779d82cfce0124093216baf970115f1199305006b764e2e2d64",
+      "matches_source": true
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_base.skn",
+      "sha256": "d6565da22435eca54d888a6f71f6897c15ddadfbdce8f69ff7a02856d62943ca",
+      "matches_source": true
+    },
+    {
+      "path": "assets/characters/braum/skins/base/braum_base.skl",
+      "sha256": "8e14e4c098792739c5137022c20f868232dd4f8685f43c6bb042fa94e9542904",
+      "matches_source": true
+    }
+  ],
+  "runtime_status": "pending"
+}

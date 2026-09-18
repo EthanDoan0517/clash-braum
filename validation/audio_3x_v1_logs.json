@@ -1,0 +1,111 @@
+[
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\scratch\\wwiser-master\\wwiser.py",
+      "-d",
+      "xml",
+      "-dn",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\sfx_original",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\sfx_original.bnk"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": "wwiser v20260808 (python 3.12.14)\nparser: parsing C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\sfx_original.bnk\nparser: done\nnames: loading names\nnames: couldn't find C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\scratch\\wwiser-master\\wwnames.db3 name file\nnames: done\ndumper: writting C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\sfx_original.xml\ndumper: done\n(done)\n"
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\scratch\\wwiser-master\\wwiser.py",
+      "-d",
+      "xml",
+      "-dn",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\sfx",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\sfx.bnk"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": "wwiser v20260808 (python 3.12.14)\nparser: parsing C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\sfx.bnk\nparser: done\nnames: loading names\nnames: couldn't find C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\scratch\\wwiser-master\\wwnames.db3 name file\nnames: done\ndumper: writting C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\sfx.xml\ndumper: done\n(done)\n"
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\scratch\\wwiser-master\\wwiser.py",
+      "-d",
+      "xml",
+      "-dn",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\voice_original",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\voice_original.bnk"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": "wwiser v20260808 (python 3.12.14)\nparser: parsing C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\voice_original.bnk\nparser: done\nnames: loading names\nnames: couldn't find C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\scratch\\wwiser-master\\wwnames.db3 name file\nnames: done\ndumper: writting C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\voice_original.xml\ndumper: done\n(done)\n"
+  },
+  {
+    "argv": [
+      "C:\\Users\\etqdo\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\scratch\\wwiser-master\\wwiser.py",
+      "-d",
+      "xml",
+      "-dn",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\voice",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\voice.bnk"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": "wwiser v20260808 (python 3.12.14)\nparser: parsing C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\voice.bnk\nparser: done\nnames: loading names\nnames: couldn't find C:\\Users\\etqdo\\Downloads\\Clash Braum project\\audit\\scratch\\wwiser-master\\wwnames.db3 name file\nnames: done\ndumper: writting C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\voice.xml\ndumper: done\n(done)\n"
+  },
+  {
+    "argv": [
+      "C:/Users/etqdo/Downloads/cslol-go/cslol-tools/mod-tools.exe",
+      "import",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\Braum_Clash_Custom_Hex_3x_Voice_SFX_v1.fantome",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\validation\\imported"
+    ],
+    "returncode": 0,
+    "stdout": "[INF] Creating tmp directory\n[INF] Unzipping mod\n[INF] Optimizing after unzipping\n[INF] Creating tmp directory\n[INF] Indexing mod wads\n[INF] Resolving conflicts\n[INF] Copying META files\n[INF] Writing wads\n[INF] Writing wad: WAD/Braum.wad.client\n[INF] Writing wad: WAD/Braum.en_US.wad.client\n[INF] Removing original directory\n[INF] Moving tmp directory\n[INF] Moving tmp directory\n[INF] Done!\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "C:/Users/etqdo/Downloads/wadtools-0.5.7-windows-x64/wadtools.exe",
+      "--config",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\config\\wadtools.toml",
+      "--hashtable-dir",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes",
+      "--progress=false",
+      "extract",
+      "-i",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\validation\\imported\\WAD\\Braum.wad.client",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\validation\\6a0cd1a55c7df583",
+      "--no-bin-paths",
+      "--hash",
+      "6a0cd1a55c7df583"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-18T01:29:38.806825Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'game': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n\u001b[2m2026-09-18T01:29:38.806869Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'lcu': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n\n\u001b[1m\u001b[96mWAD\u001b[39m\u001b[0m: \u001b[97mC:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\validation\\imported\\WAD\\Braum.wad.client\u001b[39m\n\u001b[1m\u001b[96mExtracted\u001b[39m\u001b[0m: \u001b[92m1\u001b[39m chunks (\u001b[97m21.08 KB\u001b[39m)\n\u001b[1m\u001b[96mSkipped\u001b[39m\u001b[0m: \u001b[93m0\u001b[39m existing\n\n\u001b[1m\u001b[96mBy type\u001b[39m\u001b[0m:\n  \u001b[95mwwise_bank              \u001b[39m \u001b[97m1\u001b[39m\n",
+    "stderr": "\u001b[2m2026-09-18T01:29:38.806858Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'game': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n\u001b[2m2026-09-18T01:29:38.806873Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'lcu': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n"
+  },
+  {
+    "argv": [
+      "C:/Users/etqdo/Downloads/wadtools-0.5.7-windows-x64/wadtools.exe",
+      "--config",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\config\\wadtools.toml",
+      "--hashtable-dir",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes",
+      "--progress=false",
+      "extract",
+      "-i",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\validation\\imported\\WAD\\Braum.wad.client",
+      "-o",
+      "C:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\validation\\17802985c2cae524",
+      "--no-bin-paths",
+      "--hash",
+      "17802985c2cae524"
+    ],
+    "returncode": 0,
+    "stdout": "\u001b[2m2026-09-18T01:29:38.847443Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'game': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n\u001b[2m2026-09-18T01:29:38.847484Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'lcu': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n\n\u001b[1m\u001b[96mWAD\u001b[39m\u001b[0m: \u001b[97mC:\\Users\\etqdo\\Downloads\\Clash Braum project\\build\\audio_3x_v1\\validation\\imported\\WAD\\Braum.wad.client\u001b[39m\n\u001b[1m\u001b[96mExtracted\u001b[39m\u001b[0m: \u001b[92m1\u001b[39m chunks (\u001b[97m13.79 KB\u001b[39m)\n\u001b[1m\u001b[96mSkipped\u001b[39m\u001b[0m: \u001b[93m0\u001b[39m existing\n\n\u001b[1m\u001b[96mBy type\u001b[39m\u001b[0m:\n  \u001b[95mwwise_bank              \u001b[39m \u001b[97m1\u001b[39m\n",
+    "stderr": "\u001b[2m2026-09-18T01:29:38.847475Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'game': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n\u001b[2m2026-09-18T01:29:38.847491Z\u001b[0m \u001b[33m WARN\u001b[0m could not open hash table 'lcu': no manifest at C:\\Users\\etqdo\\Downloads\\Clash Braum project\\work\\cache\\hashes\\manifest.json. Run `wadtools download-hashes` to populate the cache.\n"
+  }
+]

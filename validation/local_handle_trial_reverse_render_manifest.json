@@ -1,0 +1,43 @@
+{
+  "scene": "clash_braum_handle_trial.blend",
+  "scene_sha256": "5b0e926fc67223daf29b5f6657b340a3b302221d5543937742b5f4b42e942dda",
+  "vanilla_reference": false,
+  "isolate_grip": true,
+  "hand_surfaces": true,
+  "only_objects": null,
+  "camera_direction": "-3,7,3",
+  "edge_focus": null,
+  "ortho_scale": null,
+  "renders": [
+    {
+      "clip": "braum_spell3_run0",
+      "frame": 14,
+      "focus": "L_Hand",
+      "file": "validation\\previews\\local_handle_trial_reverse\\braum_spell3_run0_014_L_Hand.png"
+    },
+    {
+      "clip": "braum_spell3_run0",
+      "frame": 14,
+      "focus": "R_Hand",
+      "file": "validation\\previews\\local_handle_trial_reverse\\braum_spell3_run0_014_R_Hand.png"
+    },
+    {
+      "clip": "braum_spell3_idle180",
+      "frame": 29,
+      "focus": "R_Hand",
+      "file": "validation\\previews\\local_handle_trial_reverse\\braum_spell3_idle180_029_R_Hand.png"
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 15,
+      "focus": "L_Hand",
+      "file": "validation\\previews\\local_handle_trial_reverse\\braum_spell4_015_L_Hand.png"
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 15,
+      "focus": "R_Hand",
+      "file": "validation\\previews\\local_handle_trial_reverse\\braum_spell4_015_R_Hand.png"
+    }
+  ]
+}

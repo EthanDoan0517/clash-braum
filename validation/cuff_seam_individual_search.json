@@ -1,0 +1,6843 @@
+{
+  "status": "Individual tie diagnostics only; passing samples require combined/wider acceptance",
+  "cases": [
+    [
+      "braum_recall",
+      60
+    ],
+    [
+      "braum_recall",
+      65
+    ],
+    [
+      "braum_recall",
+      70
+    ],
+    [
+      "braum_dance_loop",
+      45
+    ],
+    [
+      "braum_dance_loop",
+      50
+    ],
+    [
+      "braum_dance_loop",
+      55
+    ],
+    [
+      "braum_spell4",
+      3
+    ],
+    [
+      "braum_spell4",
+      15
+    ],
+    [
+      "braum_spell4",
+      17
+    ],
+    [
+      "braum_spell4",
+      26
+    ],
+    [
+      "braum_idle_01_loop",
+      17
+    ],
+    [
+      "braum_spell3_idle180",
+      29
+    ],
+    [
+      "braum_run_02",
+      12
+    ],
+    [
+      "braum_spell3_run0",
+      14
+    ],
+    [
+      "braum_spell3_run-90",
+      14
+    ],
+    [
+      "braum_spell4",
+      16
+    ],
+    [
+      "braum_spell4",
+      18
+    ]
+  ],
+  "results": {
+    "2545": {
+      "match": {
+        "side": "L",
+        "cloth_vertex": 2545,
+        "skin_vertex": 949,
+        "distance": 0.0,
+        "axial_t": 0.9716803526211409,
+        "old_weights": {
+          "L_Hand": 0.945874035358429,
+          "L_Hand_Twist": 0.05355890095233917,
+          "L_Elbow": 0.0005670440732501447
+        },
+        "new_weights": {
+          "L_Hand": 0.988616943359375,
+          "L_Elbow": 0.011383027769625187
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.00016019333507138466
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.004069069214414177
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 7,
+          "seam_gap_before": 0.0002877751076463238
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0009790007890114155
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0008087032442024678
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.001299121745264067
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.022589804633990275
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0014512135545393507
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [
+            [
+              4619,
+              "Object004",
+              5658
+            ],
+            [
+              4620,
+              "Object004",
+              4622
+            ],
+            [
+              4620,
+              "Object004",
+              5658
+            ],
+            [
+              5578,
+              "Object004",
+              5658
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.01291818939217489
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [
+            [
+              5578,
+              "Object004",
+              4617
+            ],
+            [
+              5578,
+              "Object004",
+              5646
+            ]
+          ],
+          "removed_pairs": 7,
+          "seam_gap_before": 0.0008064511984431748
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0009563271078362785
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0009657631263815673
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0006102537890814716
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [
+            [
+              4619,
+              "Object004",
+              5629
+            ],
+            [
+              4619,
+              "Object004",
+              5645
+            ],
+            [
+              4619,
+              "Object004",
+              5646
+            ],
+            [
+              5578,
+              "Object004",
+              5646
+            ]
+          ],
+          "removed_pairs": 7,
+          "seam_gap_before": 0.0010189264044086024
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0009529267418062387
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.004671310305145644
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0013333862188506683
+        }
+      ],
+      "failing_poses": 3
+    },
+    "2547": {
+      "match": {
+        "side": "L",
+        "cloth_vertex": 2547,
+        "skin_vertex": 948,
+        "distance": 0.0,
+        "axial_t": 0.9798920382549469,
+        "old_weights": {
+          "L_Hand": 0.9456291794776917,
+          "L_Hand_Twist": 0.05437082424759865
+        },
+        "new_weights": {
+          "L_Hand": 0.9941883683204651,
+          "L_Elbow": 0.005811634007841349
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0004398889657419405
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.005554787033848669
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0003459720632895198
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0005521756308912155
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.00032731206870366896
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0010220600163084897
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [
+            [
+              4620,
+              "Object004",
+              5632
+            ],
+            [
+              4621,
+              "Object004",
+              5632
+            ],
+            [
+              5601,
+              "Object004",
+              5632
+            ]
+          ],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.03057904087568767
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0017784613241504678
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [
+            [
+              4620,
+              "Object004",
+              4622
+            ],
+            [
+              4620,
+              "Object004",
+              5653
+            ],
+            [
+              4621,
+              "Object004",
+              5653
+            ],
+            [
+              5601,
+              "Object004",
+              5651
+            ],
+            [
+              5601,
+              "Object004",
+              5653
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.01676767660478033
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.001039469126983928
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0004719434916769473
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0013177653366662576
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0006848407370670217
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0010687600675071509
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0009842233554947398
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.006076744849384657
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.001704497170652279
+        }
+      ],
+      "failing_poses": 2
+    },
+    "3081": {
+      "match": {
+        "side": "L",
+        "cloth_vertex": 3081,
+        "skin_vertex": 928,
+        "distance": 0.0,
+        "axial_t": 0.9242356925153203,
+        "old_weights": {
+          "L_Hand": 0.8726910948753357,
+          "L_Hand_Twist": 0.09910376369953156,
+          "L_Elbow": 0.028205156326293945
+        },
+        "new_weights": {
+          "L_Hand": 0.9245047569274902,
+          "L_Elbow": 0.07549522072076797
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0019653405926021196
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0006182098187948468
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.00044335382404705445
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [
+            [
+              5572,
+              "Object004",
+              5608
+            ],
+            [
+              5572,
+              "Object004",
+              5609
+            ],
+            [
+              5573,
+              "Object004",
+              5609
+            ],
+            [
+              5573,
+              "Object004",
+              5617
+            ],
+            [
+              5574,
+              "Object004",
+              5617
+            ],
+            [
+              5579,
+              "Object004",
+              5608
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.003044523989766348
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [
+            [
+              5572,
+              "Object004",
+              5609
+            ],
+            [
+              5573,
+              "Object004",
+              5609
+            ],
+            [
+              5573,
+              "Object004",
+              5617
+            ],
+            [
+              5574,
+              "Object004",
+              5617
+            ],
+            [
+              5579,
+              "Object004",
+              5609
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0024415096019262937
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [
+            [
+              5572,
+              "Object004",
+              5608
+            ],
+            [
+              5572,
+              "Object004",
+              5609
+            ],
+            [
+              5579,
+              "Object004",
+              5608
+            ]
+          ],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0029696140733245784
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [
+            [
+              5572,
+              "Object004",
+              5609
+            ],
+            [
+              5572,
+              "Object004",
+              5617
+            ],
+            [
+              5579,
+              "Object004",
+              5609
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.002819246114303288
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.0023582055091219303
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [
+            [
+              5574,
+              "Object004",
+              5608
+            ],
+            [
+              5574,
+              "Object004",
+              5609
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0051130353882455
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.0009006684846871522
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [
+            [
+              5572,
+              "Object004",
+              5609
+            ],
+            [
+              5573,
+              "Object004",
+              5609
+            ],
+            [
+              5573,
+              "Object004",
+              5617
+            ],
+            [
+              5574,
+              "Object004",
+              5617
+            ],
+            [
+              5579,
+              "Object004",
+              5609
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.002451199322686238
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0022087765910587085
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 6,
+          "seam_gap_before": 0.0007191865835949868
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0007217546137500833
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0008838755515148478
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0024163540378515326
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [
+            [
+              5572,
+              "Object004",
+              5610
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.003989581160190241
+        }
+      ],
+      "failing_poses": 7
+    },
+    "3085": {
+      "match": {
+        "side": "L",
+        "cloth_vertex": 3085,
+        "skin_vertex": 926,
+        "distance": 0.0,
+        "axial_t": 0.9401097189128537,
+        "old_weights": {
+          "L_Hand": 0.8974618911743164,
+          "L_Hand_Twist": 0.07062467187643051,
+          "L_Elbow": 0.022314200177788734,
+          "L_Thumb1": 0.009599234908819199
+        },
+        "new_weights": {
+          "L_Hand": 0.9515763521194458,
+          "L_Elbow": 0.04842367395758629
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0007417302294212102
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0022879475537973632
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.00037716557021066715
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [
+            [
+              5574,
+              "Object004",
+              5620
+            ],
+            [
+              5575,
+              "Object004",
+              5620
+            ],
+            [
+              5576,
+              "Object004",
+              5620
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0022696022416001274
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [
+            [
+              5574,
+              "Object004",
+              5620
+            ],
+            [
+              5575,
+              "Object004",
+              5620
+            ],
+            [
+              5576,
+              "Object004",
+              5620
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0019065346678363675
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0024235986528399526
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.011598303543995906
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0016807657714919691
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.008746397530041812
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.00102009495444493
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [
+            [
+              5574,
+              "Object004",
+              5620
+            ],
+            [
+              5575,
+              "Object004",
+              5620
+            ],
+            [
+              5576,
+              "Object004",
+              5620
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0020150832496325763
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.001243527685635773
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0009985225593894486
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0012868866253466012
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0013485773207217544
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0031847938120839287
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [
+            [
+              5575,
+              "Object004",
+              5617
+            ],
+            [
+              5575,
+              "Object009",
+              1668
+            ],
+            [
+              5576,
+              "Object009",
+              1668
+            ],
+            [
+              5576,
+              "Object009",
+              1669
+            ]
+          ],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.002955303423283233
+        }
+      ],
+      "failing_poses": 4
+    },
+    "3087": {
+      "match": {
+        "side": "L",
+        "cloth_vertex": 3087,
+        "skin_vertex": 925,
+        "distance": 0.0,
+        "axial_t": 0.9566412552341899,
+        "old_weights": {
+          "L_Hand": 0.8949508666992188,
+          "L_Elbow": 0.0758238285779953,
+          "L_Thumb1": 0.029225297272205353
+        },
+        "new_weights": {
+          "L_Hand": 0.9739375114440918,
+          "L_Elbow": 0.02606251649558544
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0017733830424851499
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.012909890568917766
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0004993314005874917
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0016153194144239954
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0009480313518616672
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.003400147664410016
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [],
+          "removed_pairs": 9,
+          "seam_gap_before": 0.06960033395679367
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.002198681838374539
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [
+            [
+              5576,
+              "Object004",
+              5668
+            ],
+            [
+              5577,
+              "Object004",
+              5663
+            ],
+            [
+              5577,
+              "Object004",
+              5668
+            ],
+            [
+              5578,
+              "Object004",
+              5660
+            ]
+          ],
+          "removed_pairs": 6,
+          "seam_gap_before": 0.04105584401379295
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [
+            [
+              5577,
+              "Object004",
+              4617
+            ],
+            [
+              5578,
+              "Object004",
+              4617
+            ]
+          ],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.003141622960629689
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0019482672242430782
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.003584300210344998
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [
+            [
+              5577,
+              "Object004",
+              4617
+            ],
+            [
+              5578,
+              "Object004",
+              4617
+            ]
+          ],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0031252176365272545
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.003187126792972955
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0031810865591857408
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.013623115023692631
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [
+            [
+              5578,
+              "Object004",
+              5621
+            ]
+          ],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.0023317712685590776
+        }
+      ],
+      "failing_poses": 4
+    },
+    "3088": {
+      "match": {
+        "side": "L",
+        "cloth_vertex": 3088,
+        "skin_vertex": 930,
+        "distance": 0.0,
+        "axial_t": 0.9115042050203365,
+        "old_weights": {
+          "L_Hand": 0.8535259366035461,
+          "L_Hand_Twist": 0.11465785652399063,
+          "L_Elbow": 0.031816188246011734
+        },
+        "new_weights": {
+          "L_Hand": 0.899188756942749,
+          "L_Elbow": 0.10081121325492859
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [
+            [
+              5579,
+              "Object004",
+              5610
+            ],
+            [
+              5579,
+              "Object004",
+              5611
+            ],
+            [
+              5580,
+              "Object004",
+              5611
+            ],
+            [
+              5581,
+              "Object004",
+              5611
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0019762661311560916
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0030273177591131108
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.00039800920655073014
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [
+            [
+              5580,
+              "Object004",
+              5611
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.002862301897002563
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [
+            [
+              5579,
+              "Object004",
+              5610
+            ],
+            [
+              5580,
+              "Object004",
+              5610
+            ],
+            [
+              5581,
+              "Object004",
+              5610
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.002196942507809427
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0021351830008799516
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.02061152484088819
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [
+            [
+              5579,
+              "Object009",
+              1672
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.002596570697864334
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [
+            [
+              5579,
+              "Object004",
+              5611
+            ]
+          ],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.00937938591191681
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0012175800637203873
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.002199475053977863
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.002457979172025714
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0004043134194835793
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.00015101376679696067
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0002649338024002221
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.00393104456520543
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.003462030387290716
+        }
+      ],
+      "failing_poses": 5
+    },
+    "3090": {
+      "match": {
+        "side": "L",
+        "cloth_vertex": 3090,
+        "skin_vertex": 931,
+        "distance": 0.0,
+        "axial_t": 0.9063264979129397,
+        "old_weights": {
+          "L_Hand": 0.8036021590232849,
+          "L_Elbow": 0.19639787077903748
+        },
+        "new_weights": {
+          "L_Hand": 0.8880443572998047,
+          "L_Elbow": 0.1119556650519371
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [
+            [
+              5581,
+              "Object004",
+              6237
+            ],
+            [
+              5582,
+              "Object004",
+              6236
+            ],
+            [
+              5582,
+              "Object004",
+              6237
+            ],
+            [
+              5583,
+              "Object004",
+              6236
+            ]
+          ],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0037300984829339652
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.02283437149857378
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.001184597575344517
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [
+            [
+              5581,
+              "Object004",
+              6237
+            ],
+            [
+              5582,
+              "Object004",
+              6237
+            ],
+            [
+              5583,
+              "Object004",
+              6237
+            ]
+          ],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.003958180455405544
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.002719575655082348
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [
+            [
+              5582,
+              "Object004",
+              6236
+            ],
+            [
+              5583,
+              "Object004",
+              6236
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.008190090678116256
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.12452646626599226
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [
+            [
+              5581,
+              "Object004",
+              6232
+            ],
+            [
+              5582,
+              "Object004",
+              6232
+            ],
+            [
+              5583,
+              "Object004",
+              6231
+            ],
+            [
+              5583,
+              "Object004",
+              6232
+            ]
+          ],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.00722555040701158
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [
+            [
+              5583,
+              "Object004",
+              4624
+            ],
+            [
+              5583,
+              "Object004",
+              4625
+            ],
+            [
+              5583,
+              "Object004",
+              6234
+            ]
+          ],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.068736266202005
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.003885830035865095
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [
+            [
+              5581,
+              "Object004",
+              6237
+            ],
+            [
+              5582,
+              "Object004",
+              6237
+            ],
+            [
+              5583,
+              "Object004",
+              6237
+            ]
+          ],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.005062335875796593
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.00688740986927534
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.001864507427046432
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0015846433412558699
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0013839732674449266
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.023021954625797515
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.007543783385997877
+        }
+      ],
+      "failing_poses": 6
+    },
+    "3092": {
+      "match": {
+        "side": "L",
+        "cloth_vertex": 3092,
+        "skin_vertex": 934,
+        "distance": 0.0,
+        "axial_t": 0.9064590196681777,
+        "old_weights": {
+          "L_Hand": 0.7851531505584717,
+          "L_Elbow": 0.21484683454036713
+        },
+        "new_weights": {
+          "L_Hand": 0.8883354067802429,
+          "L_Elbow": 0.11166457086801529
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [
+            [
+              5583,
+              "Object004",
+              6234
+            ],
+            [
+              5584,
+              "Object004",
+              6234
+            ],
+            [
+              5585,
+              "Object004",
+              6232
+            ],
+            [
+              5585,
+              "Object004",
+              6234
+            ],
+            [
+              5586,
+              "Object004",
+              6232
+            ]
+          ],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0042043655929076724
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.028255374574254425
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0014500397377412164
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.004602568168513507
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.00444410945219025
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [
+            [
+              5583,
+              "Object004",
+              6236
+            ],
+            [
+              5584,
+              "Object004",
+              6236
+            ],
+            [
+              5585,
+              "Object004",
+              6236
+            ],
+            [
+              5586,
+              "Object004",
+              6236
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.00917061668466633
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [
+            [
+              5583,
+              "Object004",
+              4790
+            ],
+            [
+              5584,
+              "Object004",
+              4790
+            ],
+            [
+              5585,
+              "Object004",
+              4790
+            ],
+            [
+              5585,
+              "Object004",
+              4792
+            ],
+            [
+              5586,
+              "Object004",
+              4628
+            ],
+            [
+              5586,
+              "Object004",
+              4792
+            ]
+          ],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.15339459451329823
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [
+            [
+              5583,
+              "Object004",
+              4794
+            ],
+            [
+              5584,
+              "Object004",
+              4794
+            ],
+            [
+              5585,
+              "Object004",
+              4792
+            ],
+            [
+              5585,
+              "Object004",
+              4793
+            ],
+            [
+              5585,
+              "Object004",
+              4794
+            ],
+            [
+              5586,
+              "Object004",
+              4792
+            ]
+          ],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.00953537491616794
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [
+            [
+              5583,
+              "Object004",
+              4625
+            ],
+            [
+              5583,
+              "Object004",
+              4627
+            ],
+            [
+              5583,
+              "Object004",
+              4791
+            ],
+            [
+              5583,
+              "Object004",
+              6219
+            ],
+            [
+              5583,
+              "Object004",
+              6234
+            ],
+            [
+              5584,
+              "Object004",
+              6234
+            ],
+            [
+              5585,
+              "Object004",
+              6231
+            ],
+            [
+              5585,
+              "Object004",
+              6232
+            ],
+            [
+              5585,
+              "Object004",
+              6234
+            ],
+            [
+              5585,
+              "Object009",
+              1689
+            ],
+            [
+              5585,
+              "Object009",
+              1693
+            ],
+            [
+              5586,
+              "Object004",
+              5604
+            ],
+            [
+              5586,
+              "Object004",
+              5605
+            ],
+            [
+              5586,
+              "Object004",
+              6231
+            ],
+            [
+              5586,
+              "Object004",
+              6232
+            ],
+            [
+              5586,
+              "Object009",
+              1689
+            ]
+          ],
+          "removed_pairs": 11,
+          "seam_gap_before": 0.08210759892434989
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.005540760983185448
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [
+            [
+              5585,
+              "Object004",
+              5582
+            ],
+            [
+              5586,
+              "Object004",
+              5582
+            ]
+          ],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.006791422106087485
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [
+            [
+              5583,
+              "Object004",
+              4792
+            ],
+            [
+              5583,
+              "Object009",
+              1679
+            ],
+            [
+              5584,
+              "Object004",
+              4792
+            ],
+            [
+              5585,
+              "Object004",
+              4792
+            ],
+            [
+              5586,
+              "Object004",
+              4792
+            ]
+          ],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.009179958129286944
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0022751072774475417
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.002677254411130855
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.002055166667140916
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.02793111638130725
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [
+            [
+              5584,
+              "Object004",
+              6236
+            ],
+            [
+              5585,
+              "Object004",
+              6231
+            ],
+            [
+              5585,
+              "Object004",
+              6232
+            ],
+            [
+              5586,
+              "Object004",
+              6231
+            ],
+            [
+              5586,
+              "Object004",
+              6232
+            ]
+          ],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.007504097588770797
+        }
+      ],
+      "failing_poses": 8
+    },
+    "3095": {
+      "match": {
+        "side": "L",
+        "cloth_vertex": 3095,
+        "skin_vertex": 936,
+        "distance": 0.0,
+        "axial_t": 0.9144235884529065,
+        "old_weights": {
+          "L_Hand": 0.7780699133872986,
+          "L_Elbow": 0.2219301015138626
+        },
+        "new_weights": {
+          "L_Hand": 0.9052611589431763,
+          "L_Elbow": 0.09473884850740433
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.004497626986439215
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [
+            [
+              5586,
+              "Object004",
+              4792
+            ],
+            [
+              5586,
+              "Object004",
+              4793
+            ],
+            [
+              5587,
+              "Object004",
+              4790
+            ],
+            [
+              5587,
+              "Object004",
+              4792
+            ],
+            [
+              5588,
+              "Object004",
+              4790
+            ],
+            [
+              5588,
+              "Object004",
+              4791
+            ],
+            [
+              5589,
+              "Object004",
+              6215
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.03510570476008577
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0016989978030791102
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.005667472655744621
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.007125672065644754
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.010127994969230373
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [
+            [
+              5586,
+              "Object004",
+              4628
+            ],
+            [
+              5587,
+              "Object004",
+              4628
+            ],
+            [
+              5588,
+              "Object004",
+              4628
+            ],
+            [
+              5588,
+              "Object004",
+              6202
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.19005325362356518
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [
+            [
+              5586,
+              "Object004",
+              4792
+            ],
+            [
+              5586,
+              "Object004",
+              4793
+            ],
+            [
+              5587,
+              "Object004",
+              4791
+            ],
+            [
+              5587,
+              "Object004",
+              4792
+            ],
+            [
+              5588,
+              "Object004",
+              4626
+            ],
+            [
+              5588,
+              "Object004",
+              4628
+            ],
+            [
+              5588,
+              "Object004",
+              5604
+            ],
+            [
+              5588,
+              "Object004",
+              6202
+            ],
+            [
+              5588,
+              "Object004",
+              6206
+            ],
+            [
+              5588,
+              "Object004",
+              6207
+            ],
+            [
+              5588,
+              "Object004",
+              6208
+            ],
+            [
+              5588,
+              "Object004",
+              6215
+            ],
+            [
+              5588,
+              "Object004",
+              6219
+            ],
+            [
+              5589,
+              "Object004",
+              4624
+            ],
+            [
+              5589,
+              "Object004",
+              4625
+            ],
+            [
+              5589,
+              "Object004",
+              5603
+            ],
+            [
+              5589,
+              "Object004",
+              5604
+            ],
+            [
+              5589,
+              "Object004",
+              6216
+            ],
+            [
+              5589,
+              "Object004",
+              6218
+            ],
+            [
+              5589,
+              "Object004",
+              6219
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.01176943000476661
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [
+            [
+              5586,
+              "Object004",
+              5604
+            ],
+            [
+              5586,
+              "Object004",
+              5605
+            ],
+            [
+              5586,
+              "Object004",
+              6231
+            ],
+            [
+              5586,
+              "Object004",
+              6232
+            ],
+            [
+              5587,
+              "Object004",
+              6231
+            ],
+            [
+              5588,
+              "Object004",
+              5604
+            ],
+            [
+              5588,
+              "Object004",
+              5605
+            ],
+            [
+              5588,
+              "Object004",
+              6231
+            ],
+            [
+              5588,
+              "Object004",
+              6232
+            ],
+            [
+              5589,
+              "Object004",
+              4627
+            ],
+            [
+              5589,
+              "Object004",
+              4788
+            ],
+            [
+              5589,
+              "Object004",
+              5605
+            ],
+            [
+              5589,
+              "Object004",
+              5606
+            ],
+            [
+              5589,
+              "Object004",
+              6232
+            ],
+            [
+              5589,
+              "Object004",
+              6234
+            ],
+            [
+              5589,
+              "Object004",
+              6236
+            ]
+          ],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.0988819001303017
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [
+            [
+              5586,
+              "Object009",
+              1680
+            ],
+            [
+              5586,
+              "Object009",
+              1686
+            ]
+          ],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.007183483567344775
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.008848049233958884
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [
+            [
+              5586,
+              "Object004",
+              4792
+            ],
+            [
+              5586,
+              "Object004",
+              6207
+            ],
+            [
+              5586,
+              "Object004",
+              6208
+            ],
+            [
+              5587,
+              "Object004",
+              4792
+            ],
+            [
+              5587,
+              "Object004",
+              6219
+            ],
+            [
+              5587,
+              "Object004",
+              6222
+            ],
+            [
+              5588,
+              "Object004",
+              5602
+            ],
+            [
+              5588,
+              "Object004",
+              6202
+            ],
+            [
+              5588,
+              "Object004",
+              6203
+            ],
+            [
+              5588,
+              "Object004",
+              6204
+            ],
+            [
+              5588,
+              "Object004",
+              6219
+            ],
+            [
+              5589,
+              "Object004",
+              5602
+            ],
+            [
+              5589,
+              "Object004",
+              5603
+            ],
+            [
+              5589,
+              "Object004",
+              6216
+            ],
+            [
+              5589,
+              "Object004",
+              6218
+            ],
+            [
+              5589,
+              "Object004",
+              6219
+            ]
+          ],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.011281119234405581
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.002918392022805799
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [
+            [
+              5586,
+              "Object009",
+              1680
+            ],
+            [
+              5586,
+              "Object009",
+              1686
+            ]
+          ],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.004402396354531945
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.003563698928429004
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [
+            [
+              5586,
+              "Object004",
+              4792
+            ],
+            [
+              5587,
+              "Object004",
+              4790
+            ],
+            [
+              5587,
+              "Object004",
+              4792
+            ],
+            [
+              5588,
+              "Object004",
+              4790
+            ],
+            [
+              5588,
+              "Object004",
+              4791
+            ],
+            [
+              5588,
+              "Object004",
+              6219
+            ],
+            [
+              5589,
+              "Object004",
+              4791
+            ],
+            [
+              5589,
+              "Object004",
+              6219
+            ]
+          ],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.03409450760493049
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [
+            [
+              5586,
+              "Object004",
+              6231
+            ],
+            [
+              5586,
+              "Object004",
+              6232
+            ],
+            [
+              5587,
+              "Object004",
+              6231
+            ],
+            [
+              5588,
+              "Object004",
+              6231
+            ],
+            [
+              5588,
+              "Object004",
+              6232
+            ],
+            [
+              5589,
+              "Object004",
+              6232
+            ]
+          ],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.006084721997607129
+        }
+      ],
+      "failing_poses": 9
+    },
+    "3098": {
+      "match": {
+        "side": "L",
+        "cloth_vertex": 3098,
+        "skin_vertex": 937,
+        "distance": 0.0,
+        "axial_t": 0.9304235613450837,
+        "old_weights": {
+          "L_Hand": 0.8407264351844788,
+          "L_Hand_Twist": 0.13544999063014984,
+          "L_Elbow": 0.023823559284210205
+        },
+        "new_weights": {
+          "L_Hand": 0.9356755614280701,
+          "L_Elbow": 0.06432446092367172
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0027399587394886177
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.008176881063860844
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0007668694519663592
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.00396410937376587
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.005180145869239404
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.004717944758201674
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [
+            [
+              5589,
+              "Object004",
+              6216
+            ],
+            [
+              5589,
+              "Object004",
+              6218
+            ],
+            [
+              5590,
+              "Object004",
+              6216
+            ],
+            [
+              5590,
+              "Object004",
+              6218
+            ]
+          ],
+          "removed_pairs": 8,
+          "seam_gap_before": 0.03805228246054516
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [
+            [
+              5589,
+              "Object004",
+              4624
+            ],
+            [
+              5589,
+              "Object004",
+              4625
+            ],
+            [
+              5589,
+              "Object004",
+              4641
+            ],
+            [
+              5589,
+              "Object004",
+              5602
+            ],
+            [
+              5589,
+              "Object004",
+              5603
+            ],
+            [
+              5589,
+              "Object004",
+              6216
+            ],
+            [
+              5589,
+              "Object004",
+              6217
+            ],
+            [
+              5589,
+              "Object004",
+              6218
+            ],
+            [
+              5590,
+              "Object004",
+              4647
+            ],
+            [
+              5590,
+              "Object004",
+              4650
+            ],
+            [
+              5590,
+              "Object004",
+              5602
+            ],
+            [
+              5590,
+              "Object004",
+              6216
+            ],
+            [
+              5590,
+              "Object004",
+              6217
+            ],
+            [
+              5590,
+              "Object004",
+              6218
+            ],
+            [
+              5591,
+              "Object004",
+              4623
+            ],
+            [
+              5591,
+              "Object004",
+              4641
+            ],
+            [
+              5591,
+              "Object004",
+              4647
+            ],
+            [
+              5591,
+              "Object004",
+              6217
+            ],
+            [
+              5592,
+              "Object004",
+              4623
+            ],
+            [
+              5592,
+              "Object004",
+              4641
+            ]
+          ],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.006212719487888331
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [
+            [
+              5590,
+              "Object004",
+              5602
+            ],
+            [
+              5590,
+              "Object004",
+              6218
+            ],
+            [
+              5590,
+              "Object004",
+              6225
+            ]
+          ],
+          "removed_pairs": 12,
+          "seam_gap_before": 0.02112998921229936
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.003839669472110025
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.005657988483275258
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [
+            [
+              5589,
+              "Object004",
+              4624
+            ],
+            [
+              5589,
+              "Object004",
+              4625
+            ],
+            [
+              5589,
+              "Object004",
+              4641
+            ],
+            [
+              5589,
+              "Object004",
+              4649
+            ],
+            [
+              5589,
+              "Object004",
+              5602
+            ],
+            [
+              5589,
+              "Object004",
+              5603
+            ],
+            [
+              5589,
+              "Object004",
+              6216
+            ],
+            [
+              5589,
+              "Object004",
+              6218
+            ],
+            [
+              5589,
+              "Object004",
+              6220
+            ],
+            [
+              5590,
+              "Object004",
+              4623
+            ],
+            [
+              5590,
+              "Object004",
+              4641
+            ],
+            [
+              5590,
+              "Object004",
+              4647
+            ],
+            [
+              5590,
+              "Object004",
+              5602
+            ],
+            [
+              5590,
+              "Object004",
+              6216
+            ],
+            [
+              5590,
+              "Object004",
+              6218
+            ],
+            [
+              5591,
+              "Object004",
+              4623
+            ],
+            [
+              5591,
+              "Object004",
+              4641
+            ],
+            [
+              5591,
+              "Object004",
+              6217
+            ],
+            [
+              5592,
+              "Object004",
+              4623
+            ],
+            [
+              5592,
+              "Object004",
+              4641
+            ],
+            [
+              5592,
+              "Object004",
+              6217
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.005740894869830602
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0014766930498813433
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.003286752587388283
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0028091848435075734
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [
+            [
+              5589,
+              "Object004",
+              4624
+            ],
+            [
+              5589,
+              "Object004",
+              4625
+            ],
+            [
+              5589,
+              "Object004",
+              4790
+            ],
+            [
+              5589,
+              "Object004",
+              4791
+            ],
+            [
+              5589,
+              "Object004",
+              5602
+            ],
+            [
+              5589,
+              "Object004",
+              5603
+            ],
+            [
+              5589,
+              "Object004",
+              6201
+            ],
+            [
+              5589,
+              "Object004",
+              6216
+            ],
+            [
+              5590,
+              "Object004",
+              4647
+            ],
+            [
+              5590,
+              "Object004",
+              5602
+            ],
+            [
+              5590,
+              "Object004",
+              6201
+            ],
+            [
+              5590,
+              "Object004",
+              6216
+            ],
+            [
+              5590,
+              "Object004",
+              6217
+            ],
+            [
+              5591,
+              "Object004",
+              4623
+            ],
+            [
+              5591,
+              "Object004",
+              4641
+            ],
+            [
+              5591,
+              "Object004",
+              4647
+            ],
+            [
+              5591,
+              "Object004",
+              6201
+            ],
+            [
+              5591,
+              "Object004",
+              6217
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.008432404524111828
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0013933314837282734
+        }
+      ],
+      "failing_poses": 5
+    },
+    "3100": {
+      "match": {
+        "side": "L",
+        "cloth_vertex": 3100,
+        "skin_vertex": 939,
+        "distance": 0.0,
+        "axial_t": 0.9489367843958336,
+        "old_weights": {
+          "L_Hand": 0.8571014404296875,
+          "L_Hand_Twist": 0.12532895803451538,
+          "L_Elbow": 0.017569582909345627
+        },
+        "new_weights": {
+          "L_Hand": 0.9642933011054993,
+          "L_Elbow": 0.03570667281746864
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.002639884523054798
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.012762771810565673
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.0007487234363261838
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.004069637029282674
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0058684221937265095
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.004900259932926614
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.06422818360078777
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [
+            [
+              5592,
+              "Object004",
+              4652
+            ],
+            [
+              5593,
+              "Object004",
+              4652
+            ],
+            [
+              5593,
+              "Object004",
+              4654
+            ],
+            [
+              5594,
+              "Object004",
+              4654
+            ]
+          ],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.005791764659647594
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.032912759188497655
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0036419030224109456
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.005653939815160361
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [
+            [
+              5592,
+              "Object004",
+              4652
+            ],
+            [
+              5593,
+              "Object004",
+              4652
+            ],
+            [
+              5593,
+              "Object004",
+              4654
+            ],
+            [
+              5594,
+              "Object004",
+              4654
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.005277088592994254
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0017880060712502422
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0036202867913600963
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.003259001350735688
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [
+            [
+              5593,
+              "Object004",
+              4652
+            ],
+            [
+              5593,
+              "Object004",
+              4654
+            ],
+            [
+              5594,
+              "Object004",
+              4654
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.012057967588480404
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.002410917950150659
+        }
+      ],
+      "failing_poses": 3
+    },
+    "3101": {
+      "match": {
+        "side": "L",
+        "cloth_vertex": 3101,
+        "skin_vertex": 941,
+        "distance": 0.0,
+        "axial_t": 0.9659552691879416,
+        "old_weights": {
+          "L_Hand": 0.8799209594726562,
+          "L_Hand_Twist": 0.11074590682983398,
+          "L_Elbow": 0.0093331104144454
+        },
+        "new_weights": {
+          "L_Hand": 0.9836950302124023,
+          "L_Elbow": 0.016304969787597656
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.002293000848418899
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [
+            [
+              5594,
+              "Object004",
+              4652
+            ],
+            [
+              5594,
+              "Object004",
+              4654
+            ],
+            [
+              5595,
+              "Object004",
+              4654
+            ],
+            [
+              5596,
+              "Object004",
+              4654
+            ],
+            [
+              5597,
+              "Object004",
+              4654
+            ]
+          ],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.013481439341100446
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0006177063858314355
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.003231845160232989
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.004779882268526079
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0038682088050608285
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [
+            [
+              5595,
+              "Object004",
+              4656
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.07013964959576889
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [
+            [
+              5594,
+              "Object004",
+              4652
+            ],
+            [
+              5594,
+              "Object004",
+              4654
+            ],
+            [
+              5594,
+              "Object004",
+              4656
+            ],
+            [
+              5595,
+              "Object004",
+              4656
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.004126223161332005
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.03567122783371242
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0025681883970265717
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.004014256591847239
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [
+            [
+              5594,
+              "Object004",
+              4652
+            ],
+            [
+              5594,
+              "Object004",
+              4654
+            ],
+            [
+              5594,
+              "Object004",
+              4656
+            ],
+            [
+              5595,
+              "Object004",
+              4656
+            ]
+          ],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0036535024689814647
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0015917973012389312
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0029040549760441323
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.002733583603133079
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [
+            [
+              5594,
+              "Object004",
+              4652
+            ],
+            [
+              5594,
+              "Object004",
+              4654
+            ],
+            [
+              5594,
+              "Object004",
+              4656
+            ],
+            [
+              5595,
+              "Object004",
+              4656
+            ],
+            [
+              5596,
+              "Object004",
+              4656
+            ],
+            [
+              5596,
+              "Object004",
+              4673
+            ],
+            [
+              5597,
+              "Object004",
+              4673
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.012767434432050976
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.003752629884721399
+        }
+      ],
+      "failing_poses": 5
+    },
+    "3102": {
+      "match": {
+        "side": "L",
+        "cloth_vertex": 3102,
+        "skin_vertex": 943,
+        "distance": 0.0,
+        "axial_t": 0.9777006773567226,
+        "old_weights": {
+          "L_Hand": 0.915033757686615,
+          "L_Hand_Twist": 0.08253493160009384,
+          "L_Elbow": 0.002431318396702409
+        },
+        "new_weights": {
+          "L_Hand": 0.9928765296936035,
+          "L_Elbow": 0.007123441435396671
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0014665472204949907
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [
+            [
+              5597,
+              "Object004",
+              4656
+            ],
+            [
+              5597,
+              "Object004",
+              4673
+            ],
+            [
+              5598,
+              "Object004",
+              4673
+            ],
+            [
+              5599,
+              "Object004",
+              4673
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.00990225510460335
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.00046601590291555094
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.001570740822748961
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0022973110630266362
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.002021491952865423
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.05283436709498306
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0024796424804380754
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.027414747583826924
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0014799879219400277
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0015203376919295322
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0020558480796739986
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0010519082153772547
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.00164902436235847
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0015935514157757924
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.00980875632249267
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0032594755569849156
+        }
+      ],
+      "failing_poses": 1
+    },
+    "3103": {
+      "match": {
+        "side": "L",
+        "cloth_vertex": 3103,
+        "skin_vertex": 945,
+        "distance": 0.0,
+        "axial_t": 0.9830496962229606,
+        "old_weights": {
+          "L_Hand": 0.9349409341812134,
+          "L_Hand_Twist": 0.06505905091762543
+        },
+        "new_weights": {
+          "L_Hand": 0.9958503842353821,
+          "L_Elbow": 0.004149599000811577
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0010065104061928519
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.007532877616568726
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.000432591656000384
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0007564867805481696
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0010410295923247146
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0011755993086783071
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [
+            [
+              5599,
+              "Object009",
+              1697
+            ],
+            [
+              5601,
+              "Object004",
+              5632
+            ]
+          ],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.04090579318305142
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.002218490179665839
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.021629802674666892
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 6,
+          "seam_gap_before": 0.0012905810480091828
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.00037303354191139205
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0017595124377162118
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0008670491736360187
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0012693039561758185
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0012010039004614742
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.007857203142031123
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [
+            [
+              5599,
+              "Object004",
+              4669
+            ],
+            [
+              5600,
+              "Object004",
+              4669
+            ],
+            [
+              5601,
+              "Object004",
+              4669
+            ]
+          ],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0026402681416650164
+        }
+      ],
+      "failing_poses": 2
+    },
+    "870": {
+      "match": {
+        "side": "R",
+        "cloth_vertex": 870,
+        "skin_vertex": 652,
+        "distance": 0.0,
+        "axial_t": 0.9716839576648555,
+        "old_weights": {
+          "R_Hand": 0.9458185434341431,
+          "R_Hand_Twist": 0.0536213219165802,
+          "R_Elbow": 0.0005601579905487597
+        },
+        "new_weights": {
+          "R_Hand": 0.9886198043823242,
+          "R_Elbow": 0.011380193755030632
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.00029782038580891906
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.005365977010779777
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0005032024634644871
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0011289349372238869
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0011778353036480242
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0003320185718640464
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.021206708882629786
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0018046052147260216
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [
+            [
+              1153,
+              "CCE_mesh_14.001",
+              3151
+            ],
+            [
+              1153,
+              "Object004",
+              1373
+            ],
+            [
+              1154,
+              "CCE_mesh_14.001",
+              3151
+            ],
+            [
+              2452,
+              "Object004",
+              1373
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.013114852375209048
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0010420361886133893
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0010155149072034035
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0008720830800586755
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0008991497401361648
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0009660076531669979
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.001004775510408199
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0046614802881702186
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.001339841905610953
+        }
+      ],
+      "failing_poses": 1
+    },
+    "871": {
+      "match": {
+        "side": "R",
+        "cloth_vertex": 871,
+        "skin_vertex": 657,
+        "distance": 0.0,
+        "axial_t": 0.9798961215342292,
+        "old_weights": {
+          "R_Hand": 0.9455896615982056,
+          "R_Hand_Twist": 0.05441034212708473
+        },
+        "new_weights": {
+          "R_Hand": 0.9941906929016113,
+          "R_Elbow": 0.005809310358017683
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.00026779990800644444
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.007262025770793414
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0006417742487139763
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0009418483766201696
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0009639235915941172
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0003312242069689591
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.02847662230337122
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0021203472421886136
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.016937088562075153
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0012285200394549648
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0014064875496640466
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0011070753333639576
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0009067944197524038
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.0011720201942748945
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.001224971570097538
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.005931896480006366
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0019695315569983603
+        }
+      ],
+      "failing_poses": 0
+    },
+    "875": {
+      "match": {
+        "side": "R",
+        "cloth_vertex": 875,
+        "skin_vertex": 684,
+        "distance": 0.0,
+        "axial_t": 0.9242383613908149,
+        "old_weights": {
+          "R_Hand": 0.8727202415466309,
+          "R_Hand_Twist": 0.09931055456399918,
+          "R_Elbow": 0.02796921879053116
+        },
+        "new_weights": {
+          "R_Hand": 0.9245097637176514,
+          "R_Elbow": 0.07549023628234863
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0019391395567903073
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0008964921231883815
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0007755403561223181
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [
+            [
+              1156,
+              "Object004",
+              1353
+            ],
+            [
+              2443,
+              "Object004",
+              1353
+            ],
+            [
+              2444,
+              "Object004",
+              1353
+            ],
+            [
+              2448,
+              "Object004",
+              1353
+            ]
+          ],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0022101601928438833
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [
+            [
+              1156,
+              "Object004",
+              1353
+            ],
+            [
+              2443,
+              "Object004",
+              1351
+            ],
+            [
+              2443,
+              "Object004",
+              1353
+            ],
+            [
+              2444,
+              "Object004",
+              1353
+            ],
+            [
+              2448,
+              "Object004",
+              1353
+            ]
+          ],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0022748066700209596
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0013937898008154143
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.004210172846639963
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [],
+          "removed_pairs": 6,
+          "seam_gap_before": 0.003036366016896799
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.005974904110096752
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0016387300282497195
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0024618765051214716
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0012027668426483043
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.0020762476176624965
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.001120739435993898
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0012219149742734032
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0026641569909603715
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [
+            [
+              2448,
+              "Object009",
+              1221
+            ]
+          ],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.004589973691039626
+        }
+      ],
+      "failing_poses": 3
+    },
+    "1533": {
+      "match": {
+        "side": "R",
+        "cloth_vertex": 1533,
+        "skin_vertex": 670,
+        "distance": 0.0,
+        "axial_t": 0.9659625240210723,
+        "old_weights": {
+          "R_Hand": 0.8795753121376038,
+          "R_Hand_Twist": 0.11120519787073135,
+          "R_Elbow": 0.009219483472406864
+        },
+        "new_weights": {
+          "R_Hand": 0.983701765537262,
+          "R_Elbow": 0.01629820466041565
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0025299307490957504
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [
+            [
+              2424,
+              "Object004",
+              1208
+            ],
+            [
+              2425,
+              "Object004",
+              1207
+            ],
+            [
+              2425,
+              "Object004",
+              1208
+            ],
+            [
+              2426,
+              "Object004",
+              1207
+            ],
+            [
+              2428,
+              "Object004",
+              1188
+            ],
+            [
+              2428,
+              "Object004",
+              1208
+            ]
+          ],
+          "removed_pairs": 6,
+          "seam_gap_before": 0.01564762090514356
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.001579284426139802
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.003110410869760484
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0032998469932513565
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.002048138014531271
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [
+            [
+              2424,
+              "Object004",
+              1188
+            ],
+            [
+              2425,
+              "CCE_mesh_14.001",
+              335
+            ],
+            [
+              2425,
+              "Object004",
+              1188
+            ],
+            [
+              2425,
+              "Object004",
+              1207
+            ],
+            [
+              2425,
+              "Object004",
+              1208
+            ],
+            [
+              2426,
+              "Object004",
+              1207
+            ],
+            [
+              2428,
+              "Object004",
+              1186
+            ],
+            [
+              2428,
+              "Object004",
+              1188
+            ]
+          ],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.0645516034553618
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [
+            [
+              2424,
+              "Object004",
+              1208
+            ],
+            [
+              2428,
+              "Object004",
+              1208
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.004335499339096588
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.03652871327682389
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0022200986392473493
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0015623549787622494
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0021960404786503466
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [
+            [
+              2424,
+              "Object004",
+              1188
+            ],
+            [
+              2425,
+              "Object004",
+              1188
+            ],
+            [
+              2425,
+              "Object004",
+              1207
+            ],
+            [
+              2425,
+              "Object004",
+              1208
+            ],
+            [
+              2426,
+              "Object004",
+              1188
+            ],
+            [
+              2426,
+              "Object004",
+              1207
+            ],
+            [
+              2426,
+              "Object004",
+              1208
+            ],
+            [
+              2428,
+              "Object004",
+              1186
+            ],
+            [
+              2428,
+              "Object004",
+              1188
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0024434691429545932
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0023928699238599488
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0024607985303630423
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 6,
+          "seam_gap_before": 0.012719606121011928
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [
+            [
+              2424,
+              "Object009",
+              1228
+            ],
+            [
+              2428,
+              "Object009",
+              1228
+            ]
+          ],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.003004541392976497
+        }
+      ],
+      "failing_poses": 5
+    },
+    "1534": {
+      "match": {
+        "side": "R",
+        "cloth_vertex": 1534,
+        "skin_vertex": 661,
+        "distance": 0.0,
+        "axial_t": 0.9777068603745126,
+        "old_weights": {
+          "R_Hand": 0.914894700050354,
+          "R_Hand_Twist": 0.08270367980003357,
+          "R_Elbow": 0.002401616657152772
+        },
+        "new_weights": {
+          "R_Hand": 0.9928804636001587,
+          "R_Elbow": 0.007119559217244387
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0014399775246458284
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [
+            [
+              2426,
+              "Object004",
+              1207
+            ],
+            [
+              2426,
+              "Object004",
+              1208
+            ],
+            [
+              2427,
+              "Object004",
+              1205
+            ],
+            [
+              2427,
+              "Object004",
+              1207
+            ],
+            [
+              2445,
+              "Object004",
+              1205
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.012210372711821554
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 6,
+          "seam_gap_before": 0.0009243662534948202
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.0006090542746535142
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.000661735257299464
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.00098924057693493
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [
+            [
+              2426,
+              "Object004",
+              1207
+            ],
+            [
+              2426,
+              "Object004",
+              1208
+            ],
+            [
+              2427,
+              "Object004",
+              1207
+            ],
+            [
+              2445,
+              "Object004",
+              1205
+            ],
+            [
+              2445,
+              "Object004",
+              1207
+            ]
+          ],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.04880953193724208
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.002810157401286248
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [
+            [
+              2427,
+              "CCE_mesh_14.001",
+              3148
+            ],
+            [
+              2445,
+              "CCE_mesh_14.001",
+              3148
+            ]
+          ],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.027833218040161686
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0016268665489947165
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0015117303736799368
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.001213386219232352
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0009394975311544357
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0012363525191648255
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0012806160098944293
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.009588120361018379
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [
+            [
+              2426,
+              "Object004",
+              1205
+            ],
+            [
+              2427,
+              "Object004",
+              1205
+            ],
+            [
+              2445,
+              "Object004",
+              1205
+            ]
+          ],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0032551703740167056
+        }
+      ],
+      "failing_poses": 4
+    },
+    "1535": {
+      "match": {
+        "side": "R",
+        "cloth_vertex": 1535,
+        "skin_vertex": 672,
+        "distance": 0.0,
+        "axial_t": 0.9489445040840321,
+        "old_weights": {
+          "R_Hand": 0.8499118685722351,
+          "R_Hand_Twist": 0.13356725871562958,
+          "R_Elbow": 0.01652086339890957
+        },
+        "new_weights": {
+          "R_Hand": 0.9643036723136902,
+          "R_Elbow": 0.03569631651043892
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0031499851758942676
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [
+            [
+              2428,
+              "Object004",
+              1188
+            ],
+            [
+              2429,
+              "Object004",
+              1186
+            ],
+            [
+              2429,
+              "Object004",
+              1188
+            ],
+            [
+              2430,
+              "Object004",
+              1185
+            ],
+            [
+              2430,
+              "Object004",
+              1186
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.01465952690247168
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0023675597377849533
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.005702157636032906
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.005988656460076617
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.003116512474161326
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [
+            [
+              2428,
+              "Object004",
+              1188
+            ],
+            [
+              2429,
+              "Object004",
+              1185
+            ],
+            [
+              2429,
+              "Object004",
+              1186
+            ],
+            [
+              2429,
+              "Object004",
+              1188
+            ],
+            [
+              2430,
+              "Object004",
+              1184
+            ],
+            [
+              2430,
+              "Object004",
+              1185
+            ]
+          ],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.06310063951041946
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [
+            [
+              2430,
+              "Object004",
+              1184
+            ]
+          ],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.006348773246634072
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.03631380763129126
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0029466792383137175
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0034860820560023062
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.003945506141235524
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [
+            [
+              2428,
+              "CCE_mesh_13.001",
+              3597
+            ],
+            [
+              2428,
+              "Object004",
+              1188
+            ],
+            [
+              2429,
+              "CCE_mesh_13.001",
+              3597
+            ],
+            [
+              2429,
+              "CCE_mesh_13.001",
+              3598
+            ],
+            [
+              2429,
+              "Object004",
+              1185
+            ],
+            [
+              2429,
+              "Object004",
+              1186
+            ],
+            [
+              2429,
+              "Object004",
+              1188
+            ],
+            [
+              2430,
+              "CCE_mesh_13.001",
+              3597
+            ],
+            [
+              2430,
+              "CCE_mesh_13.001",
+              3598
+            ],
+            [
+              2430,
+              "Object004",
+              1184
+            ],
+            [
+              2430,
+              "Object004",
+              1185
+            ]
+          ],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.004387640306431084
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.004298364812304677
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0044576857081217
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [
+            [
+              2428,
+              "Object004",
+              1185
+            ],
+            [
+              2429,
+              "Object004",
+              1185
+            ],
+            [
+              2430,
+              "Object004",
+              1184
+            ],
+            [
+              2430,
+              "Object004",
+              1185
+            ]
+          ],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.013105430271181833
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0020845197309972605
+        }
+      ],
+      "failing_poses": 5
+    },
+    "1536": {
+      "match": {
+        "side": "R",
+        "cloth_vertex": 1536,
+        "skin_vertex": 676,
+        "distance": 0.0,
+        "axial_t": 0.9304310149206292,
+        "old_weights": {
+          "R_Hand": 0.8252115845680237,
+          "R_Hand_Twist": 0.15153098106384277,
+          "R_Elbow": 0.023257438093423843
+        },
+        "new_weights": {
+          "R_Hand": 0.9356885552406311,
+          "R_Elbow": 0.06431147456169128
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.003307869498939797
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.009922274782634763
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0027435818871287916
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.007029212738364957
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.007325972963693667
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0037707484874223173
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [
+            [
+              2430,
+              "Object004",
+              2410
+            ],
+            [
+              2431,
+              "Object004",
+              2410
+            ],
+            [
+              2432,
+              "Object004",
+              2410
+            ],
+            [
+              2433,
+              "CCE_mesh_14.001",
+              3198
+            ],
+            [
+              2433,
+              "CCE_mesh_14.001",
+              3199
+            ],
+            [
+              2433,
+              "CCE_mesh_14.001",
+              3214
+            ],
+            [
+              2433,
+              "Object004",
+              2410
+            ]
+          ],
+          "removed_pairs": 6,
+          "seam_gap_before": 0.04580230449533617
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [
+            [
+              2431,
+              "Object004",
+              1170
+            ],
+            [
+              2431,
+              "Object004",
+              1184
+            ],
+            [
+              2431,
+              "Object004",
+              1185
+            ],
+            [
+              2431,
+              "Object004",
+              1282
+            ],
+            [
+              2431,
+              "Object004",
+              1284
+            ],
+            [
+              2431,
+              "Object004",
+              1285
+            ],
+            [
+              2431,
+              "Object004",
+              2410
+            ],
+            [
+              2431,
+              "Object004",
+              2415
+            ],
+            [
+              2431,
+              "Object004",
+              2421
+            ],
+            [
+              2432,
+              "Object004",
+              1280
+            ],
+            [
+              2432,
+              "Object004",
+              1282
+            ],
+            [
+              2432,
+              "Object004",
+              2410
+            ],
+            [
+              2432,
+              "Object004",
+              2411
+            ],
+            [
+              2432,
+              "Object004",
+              2415
+            ],
+            [
+              2432,
+              "Object004",
+              2416
+            ],
+            [
+              2433,
+              "Object004",
+              1267
+            ],
+            [
+              2433,
+              "Object004",
+              1268
+            ],
+            [
+              2433,
+              "Object004",
+              1280
+            ],
+            [
+              2433,
+              "Object004",
+              1282
+            ],
+            [
+              2433,
+              "Object004",
+              1285
+            ],
+            [
+              2433,
+              "Object004",
+              2411
+            ],
+            [
+              2433,
+              "Object004",
+              2416
+            ],
+            [
+              2433,
+              "Object004",
+              2417
+            ],
+            [
+              2433,
+              "Object004",
+              2418
+            ]
+          ],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0075609039578175856
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [
+            [
+              2430,
+              "Object009",
+              1205
+            ],
+            [
+              2431,
+              "Object009",
+              1215
+            ]
+          ],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.0280545110819188
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0033320498401982973
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0054589104985937114
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.005116226635322466
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [
+            [
+              2430,
+              "Object004",
+              1184
+            ],
+            [
+              2430,
+              "Object004",
+              1185
+            ],
+            [
+              2430,
+              "Object004",
+              2411
+            ],
+            [
+              2430,
+              "Object009",
+              1205
+            ],
+            [
+              2430,
+              "Object009",
+              1210
+            ],
+            [
+              2431,
+              "Object004",
+              2411
+            ],
+            [
+              2432,
+              "Object004",
+              2411
+            ],
+            [
+              2433,
+              "Object004",
+              2411
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0055529634994523755
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.005503734094493686
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.005742950697494831
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [
+            [
+              2433,
+              "Object004",
+              1269
+            ],
+            [
+              2433,
+              "Object004",
+              1270
+            ]
+          ],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.010819050468574447
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0038620231553360626
+        }
+      ],
+      "failing_poses": 5
+    },
+    "1537": {
+      "match": {
+        "side": "R",
+        "cloth_vertex": 1537,
+        "skin_vertex": 678,
+        "distance": 0.0,
+        "axial_t": 0.914430902872179,
+        "old_weights": {
+          "R_Hand": 0.8090655207633972,
+          "R_Hand_Twist": 0.16276119649410248,
+          "R_Elbow": 0.028173312544822693
+        },
+        "new_weights": {
+          "R_Hand": 0.9052761793136597,
+          "R_Elbow": 0.09472382813692093
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0032434470961688303
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.00350345665051357
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.002567242496331902
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0068032150923344435
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.007034793249918704
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.003884506875197784
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [
+            [
+              2433,
+              "Object004",
+              1269
+            ],
+            [
+              2434,
+              "CCE_mesh_14.001",
+              341
+            ],
+            [
+              2434,
+              "CCE_mesh_14.001",
+              357
+            ],
+            [
+              2434,
+              "Object004",
+              1269
+            ],
+            [
+              2434,
+              "Object004",
+              1270
+            ],
+            [
+              2435,
+              "CCE_mesh_14.001",
+              341
+            ],
+            [
+              2435,
+              "CCE_mesh_14.001",
+              357
+            ],
+            [
+              2435,
+              "Object004",
+              1270
+            ],
+            [
+              2436,
+              "CCE_mesh_14.001",
+              327
+            ],
+            [
+              2436,
+              "CCE_mesh_14.001",
+              328
+            ],
+            [
+              2436,
+              "CCE_mesh_14.001",
+              329
+            ],
+            [
+              2436,
+              "CCE_mesh_14.001",
+              341
+            ],
+            [
+              2436,
+              "CCE_mesh_14.001",
+              357
+            ],
+            [
+              2436,
+              "Object004",
+              1270
+            ]
+          ],
+          "removed_pairs": 7,
+          "seam_gap_before": 0.01988071100049545
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [
+            [
+              2435,
+              "Object004",
+              1269
+            ],
+            [
+              2435,
+              "Object004",
+              1270
+            ],
+            [
+              2435,
+              "Object004",
+              1271
+            ],
+            [
+              2436,
+              "Object004",
+              1271
+            ],
+            [
+              2436,
+              "Object004",
+              1272
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.007587752770677758
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [
+            [
+              2433,
+              "Object004",
+              1269
+            ],
+            [
+              2433,
+              "Object004",
+              1278
+            ],
+            [
+              2433,
+              "Object009",
+              1214
+            ],
+            [
+              2434,
+              "Object004",
+              1269
+            ],
+            [
+              2434,
+              "Object004",
+              1271
+            ],
+            [
+              2434,
+              "Object004",
+              1272
+            ],
+            [
+              2434,
+              "Object004",
+              1278
+            ],
+            [
+              2435,
+              "Object004",
+              1271
+            ],
+            [
+              2435,
+              "Object004",
+              1272
+            ]
+          ],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.015375461990777294
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0031863977253905815
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.006265780935752771
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0052347458778847725
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [
+            [
+              2435,
+              "Object004",
+              1270
+            ],
+            [
+              2436,
+              "CCE_mesh_13.001",
+              3274
+            ],
+            [
+              2436,
+              "Object004",
+              1272
+            ]
+          ],
+          "removed_pairs": 9,
+          "seam_gap_before": 0.005582609583505295
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.005564985048458751
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.005835397619993419
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [
+            [
+              2433,
+              "Object004",
+              1269
+            ],
+            [
+              2434,
+              "Object004",
+              1269
+            ],
+            [
+              2434,
+              "Object004",
+              1270
+            ],
+            [
+              2435,
+              "Object004",
+              1270
+            ],
+            [
+              2435,
+              "Object004",
+              1271
+            ],
+            [
+              2436,
+              "Object004",
+              1271
+            ],
+            [
+              2436,
+              "Object004",
+              1272
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0070173845059657
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [
+            [
+              2433,
+              "Object004",
+              1300
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.005613845242162244
+        }
+      ],
+      "failing_poses": 6
+    },
+    "1538": {
+      "match": {
+        "side": "R",
+        "cloth_vertex": 1538,
+        "skin_vertex": 679,
+        "distance": 0.0,
+        "axial_t": 0.9064648938280425,
+        "old_weights": {
+          "R_Hand": 0.8154568076133728,
+          "R_Hand_Twist": 0.15324431657791138,
+          "R_Elbow": 0.031298864632844925
+        },
+        "new_weights": {
+          "R_Hand": 0.8883483409881592,
+          "R_Elbow": 0.11165167391300201
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 7,
+          "seam_gap_before": 0.002705657396430102
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0029205231444517513
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0017434733348062922
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.004754149215463182
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.004863169798737253
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.003181246612086689
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.007948392524001553
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [
+            [
+              2436,
+              "Object004",
+              1271
+            ],
+            [
+              2436,
+              "Object004",
+              1272
+            ],
+            [
+              2437,
+              "Object004",
+              1272
+            ],
+            [
+              2437,
+              "Object004",
+              1302
+            ],
+            [
+              2438,
+              "Object004",
+              1302
+            ],
+            [
+              2439,
+              "Object004",
+              1302
+            ]
+          ],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0057822647889865094
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [
+            [
+              2438,
+              "Object004",
+              2434
+            ],
+            [
+              2438,
+              "Object004",
+              2435
+            ],
+            [
+              2439,
+              "Object004",
+              2433
+            ],
+            [
+              2439,
+              "Object004",
+              2434
+            ]
+          ],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0076873220922227615
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0023075171482552447
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.005266113638042306
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0039420021197319015
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [
+            [
+              2436,
+              "Object004",
+              1272
+            ],
+            [
+              2436,
+              "Object004",
+              1302
+            ],
+            [
+              2437,
+              "Object004",
+              1302
+            ],
+            [
+              2438,
+              "Object004",
+              1302
+            ],
+            [
+              2439,
+              "Object004",
+              1302
+            ]
+          ],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0041435746935677125
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.00411165158111397
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.004339166480470433
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.004008869332660778
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [
+            [
+              2438,
+              "Object004",
+              1294
+            ]
+          ],
+          "removed_pairs": 6,
+          "seam_gap_before": 0.005814015441555666
+        }
+      ],
+      "failing_poses": 4
+    },
+    "1539": {
+      "match": {
+        "side": "R",
+        "cloth_vertex": 1539,
+        "skin_vertex": 681,
+        "distance": 0.0,
+        "axial_t": 0.9063306745008499,
+        "old_weights": {
+          "R_Hand": 0.8320898413658142,
+          "R_Hand_Twist": 0.13574200868606567,
+          "R_Elbow": 0.032168131321668625
+        },
+        "new_weights": {
+          "R_Hand": 0.8880535364151001,
+          "R_Elbow": 0.1119464859366417
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.00226417060701597
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.004995647473446408
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0011158503803042183
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.0030588634233057284
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.003096183756615419
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.002423225974936774
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.01694458232458849
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [
+            [
+              2441,
+              "Object009",
+              1218
+            ]
+          ],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.00424596663817318
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.009664684610303403
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.001722429388890036
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0040095758111242065
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.00267950129661238
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0028795200742723647
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0027119520732409325
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.002886469723779238
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.003734703402100772
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.005394995266553593
+        }
+      ],
+      "failing_poses": 1
+    },
+    "1540": {
+      "match": {
+        "side": "R",
+        "cloth_vertex": 1540,
+        "skin_vertex": 683,
+        "distance": 0.0,
+        "axial_t": 0.9115078002034783,
+        "old_weights": {
+          "R_Hand": 0.8477058410644531,
+          "R_Hand_Twist": 0.12116818130016327,
+          "R_Elbow": 0.031125998124480247
+        },
+        "new_weights": {
+          "R_Hand": 0.8991963863372803,
+          "R_Elbow": 0.10080364346504211
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0020892724911476196
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.003932766295559022
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0009170354418158433
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [
+            [
+              2441,
+              "Object004",
+              1299
+            ],
+            [
+              2442,
+              "Object004",
+              1299
+            ],
+            [
+              2443,
+              "Object004",
+              1299
+            ]
+          ],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0025044294282488334
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [
+            [
+              2441,
+              "Object004",
+              1299
+            ],
+            [
+              2441,
+              "Object009",
+              1216
+            ],
+            [
+              2442,
+              "Object004",
+              1299
+            ],
+            [
+              2443,
+              "Object004",
+              1299
+            ]
+          ],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0025380687136455802
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0019871858925236373
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.01315419418106082
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.0035859695083717896
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.007638809387210108
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0016061597748176723
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0033417527637702262
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0020455845450446882
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0024184433096408565
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.00201942402478197
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.002163158302337017
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.0029618645740995295
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [
+            [
+              2443,
+              "Object004",
+              1295
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.005089397299970887
+        }
+      ],
+      "failing_poses": 3
+    },
+    "1541": {
+      "match": {
+        "side": "R",
+        "cloth_vertex": 1541,
+        "skin_vertex": 658,
+        "distance": 0.0,
+        "axial_t": 0.9830552940222168,
+        "old_weights": {
+          "R_Hand": 0.9348866939544678,
+          "R_Hand_Twist": 0.06511332094669342
+        },
+        "new_weights": {
+          "R_Hand": 0.9958531260490417,
+          "R_Elbow": 0.004146893974393606
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0008527508710568682
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [
+            [
+              2445,
+              "Object004",
+              1204
+            ],
+            [
+              2446,
+              "Object004",
+              1203
+            ],
+            [
+              2446,
+              "Object004",
+              1204
+            ],
+            [
+              2447,
+              "Object004",
+              1203
+            ]
+          ],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.009646969602196099
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0008153911157134272
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0005251044716804548
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0004921679101362329
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.000524747739167051
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [
+            [
+              2445,
+              "Object004",
+              1204
+            ],
+            [
+              2446,
+              "Object004",
+              1204
+            ],
+            [
+              2447,
+              "Object004",
+              1204
+            ]
+          ],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.037873310807708
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.002598656647040885
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [
+            [
+              2446,
+              "CCE_mesh_14.001",
+              3151
+            ],
+            [
+              2447,
+              "CCE_mesh_14.001",
+              3151
+            ]
+          ],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0218484881814136
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0015233641924133675
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.0017057579726239929
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.00123684224365404
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0009364107854726638
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0012602340132461336
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0013191058428152992
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.007591109065744079
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [
+            [
+              2445,
+              "Object004",
+              1203
+            ],
+            [
+              2446,
+              "Object004",
+              1203
+            ],
+            [
+              2447,
+              "Object004",
+              1203
+            ]
+          ],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.002920161899380603
+        }
+      ],
+      "failing_poses": 4
+    },
+    "1542": {
+      "match": {
+        "side": "R",
+        "cloth_vertex": 1542,
+        "skin_vertex": 686,
+        "distance": 0.0,
+        "axial_t": 0.9401120316686614,
+        "old_weights": {
+          "R_Hand": 0.897506594657898,
+          "R_Hand_Twist": 0.07070693373680115,
+          "R_Elbow": 0.02219207026064396,
+          "R_Thumb1": 0.009594383649528027
+        },
+        "new_weights": {
+          "R_Hand": 0.9515798687934875,
+          "R_Elbow": 0.04842011630535126
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0012575012616136715
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.002745860958561315
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0005259198605928622
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0016929002393348425
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [
+            [
+              2448,
+              "Object004",
+              1354
+            ],
+            [
+              2449,
+              "Object004",
+              1354
+            ],
+            [
+              2450,
+              "Object004",
+              1354
+            ]
+          ],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0017717177510375092
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.0005679628676546028
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.011637647168709452
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.002279888481070837
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.009590496521555636
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0016903014442759248
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0016923053132070352
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0009221594997686604
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0017320174229411896
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0009019895664000433
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.0009358271575279866
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.003558175464296049
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [
+            [
+              2449,
+              "Object004",
+              1353
+            ],
+            [
+              2449,
+              "Object004",
+              1354
+            ],
+            [
+              2450,
+              "Object004",
+              1354
+            ]
+          ],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0036987381683572405
+        }
+      ],
+      "failing_poses": 2
+    },
+    "1543": {
+      "match": {
+        "side": "R",
+        "cloth_vertex": 1543,
+        "skin_vertex": 655,
+        "distance": 0.0,
+        "axial_t": 0.9566436558027164,
+        "old_weights": {
+          "R_Hand": 0.9164981245994568,
+          "R_Hand_Twist": 0.0507688969373703,
+          "R_Elbow": 0.017499197274446487,
+          "R_Thumb1": 0.015233797021210194
+        },
+        "new_weights": {
+          "R_Hand": 0.9739402532577515,
+          "R_Elbow": 0.026059729978442192
+        }
+      },
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0005985094501543008
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.005499998574413752
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.00035459105882821
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.0016105739167936685
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.001684451191624861
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "new_pairs": [],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.00018576802841894412
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.02149640773515724
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "new_pairs": [],
+          "removed_pairs": 0,
+          "seam_gap_before": 0.0020094626846025154
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 17,
+          "new_pairs": [
+            [
+              2451,
+              "Object004",
+              1354
+            ],
+            [
+              2451,
+              "Object004",
+              1375
+            ],
+            [
+              2452,
+              "Object004",
+              1375
+            ]
+          ],
+          "removed_pairs": 5,
+          "seam_gap_before": 0.015264698140751607
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0023864213870608206
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0013992592492992587
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0013506243778662183
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "new_pairs": [],
+          "removed_pairs": 4,
+          "seam_gap_before": 0.0022081592351489536
+        },
+        {
+          "clip": "braum_spell3_run0",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.0014147114023492823
+        },
+        {
+          "clip": "braum_spell3_run-90",
+          "frame": 14,
+          "new_pairs": [],
+          "removed_pairs": 2,
+          "seam_gap_before": 0.0014267371249590426
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 16,
+          "new_pairs": [],
+          "removed_pairs": 3,
+          "seam_gap_before": 0.0052087295242652255
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 18,
+          "new_pairs": [
+            [
+              2450,
+              "Object004",
+              1152
+            ],
+            [
+              2450,
+              "Object004",
+              1352
+            ],
+            [
+              2450,
+              "Object004",
+              1354
+            ],
+            [
+              2451,
+              "Object004",
+              1374
+            ],
+            [
+              2452,
+              "Object004",
+              1359
+            ],
+            [
+              2452,
+              "Object004",
+              1374
+            ]
+          ],
+          "removed_pairs": 1,
+          "seam_gap_before": 0.0031579649089465457
+        }
+      ],
+      "failing_poses": 2
+    }
+  },
+  "passing_vertices": [
+    "871"
+  ]
+}

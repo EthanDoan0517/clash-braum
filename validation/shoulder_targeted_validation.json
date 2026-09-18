@@ -1,0 +1,711 @@
+{
+  "revisions": {
+    "before": {
+      "scene_sha256": "aea972123a8d0a8e7703bf063559db0afdcb0fc1e4a99bb37d85196c56007972",
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "object": "Object002",
+          "max_elongation": 0.04255337629189,
+          "p99_elongation": 0.01848802748406518,
+          "edge_1497_2321_length": 0.045880867711292975
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "object": "Object004",
+          "max_elongation": 0.07888838254382508,
+          "p99_elongation": 0.017622040553546707
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "object": "Object006",
+          "max_elongation": 0.023581304981325584,
+          "p99_elongation": 0.005528441115448034
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "object": "Object007",
+          "max_elongation": 0.1598909131070913,
+          "p99_elongation": 0.005399843693968446
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "object": "Object002",
+          "max_elongation": 0.10342511172019307,
+          "p99_elongation": 0.03744061155453349,
+          "edge_1497_2321_length": 0.10675260313959604
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "object": "Object004",
+          "max_elongation": 0.10627390100477375,
+          "p99_elongation": 0.0632918973675283
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "object": "Object006",
+          "max_elongation": 0.020037609010506358,
+          "p99_elongation": 0.004241351884893207
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "object": "Object007",
+          "max_elongation": 0.054865293460653386,
+          "p99_elongation": 0.010652036188861598
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "object": "Object002",
+          "max_elongation": 0.05873319037719086,
+          "p99_elongation": 0.02389716724129029,
+          "edge_1497_2321_length": 0.011089541916133155
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "object": "Object004",
+          "max_elongation": 0.04340499595859726,
+          "p99_elongation": 0.021978559706315338
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "object": "Object006",
+          "max_elongation": 0.049817014097833526,
+          "p99_elongation": 0.012843320477917511
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "object": "Object007",
+          "max_elongation": 0.10956657143790141,
+          "p99_elongation": 0.009223142888140124
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "object": "Object002",
+          "max_elongation": 0.06031527837873682,
+          "p99_elongation": 0.033344247379706544,
+          "edge_1497_2321_length": 0.04561264237872948
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "object": "Object004",
+          "max_elongation": 0.06554988892502225,
+          "p99_elongation": 0.02941955688308489
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "object": "Object006",
+          "max_elongation": 0.05780775962194707,
+          "p99_elongation": 0.025614191795856067
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "object": "Object007",
+          "max_elongation": 0.1363278477706067,
+          "p99_elongation": 0.00927525323713769
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "object": "Object002",
+          "max_elongation": 0.11001139596614233,
+          "p99_elongation": 0.05562702894902793,
+          "edge_1497_2321_length": 0.07127188995798342
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "object": "Object004",
+          "max_elongation": 0.09647238469346023,
+          "p99_elongation": 0.04644985519322459
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "object": "Object006",
+          "max_elongation": 0.13388453488026833,
+          "p99_elongation": 0.03973530981651821
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "object": "Object007",
+          "max_elongation": 0.15792460752609636,
+          "p99_elongation": 0.010903006691263154
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "object": "Object002",
+          "max_elongation": 0.06502043741476075,
+          "p99_elongation": 0.034345650025873385,
+          "edge_1497_2321_length": 0.04556490129920932
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "object": "Object004",
+          "max_elongation": 0.06354792414197821,
+          "p99_elongation": 0.029052575448505934
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "object": "Object006",
+          "max_elongation": 0.08136604020237884,
+          "p99_elongation": 0.016624807349625934
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "object": "Object007",
+          "max_elongation": 0.19408709627746185,
+          "p99_elongation": 0.014591753682403565
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "object": "Object002",
+          "max_elongation": 0.04901350120002404,
+          "p99_elongation": 0.024570505490178255,
+          "edge_1497_2321_length": 0.041816927796459576
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "object": "Object004",
+          "max_elongation": 0.5512702059261059,
+          "p99_elongation": 0.13911931583942785
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "object": "Object006",
+          "max_elongation": 0.03290826810583121,
+          "p99_elongation": 0.00941410873332998
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "object": "Object007",
+          "max_elongation": 0.2851118742890233,
+          "p99_elongation": 0.011104446955987463
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "object": "Object002",
+          "max_elongation": 0.09727330751802275,
+          "p99_elongation": 0.05205331019821151,
+          "edge_1497_2321_length": 0.07763983912406748
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "object": "Object004",
+          "max_elongation": 0.10098848496205698,
+          "p99_elongation": 0.05138572975717108
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "object": "Object006",
+          "max_elongation": 0.041136326414819235,
+          "p99_elongation": 0.025087153048275506
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "object": "Object007",
+          "max_elongation": 0.343236978989395,
+          "p99_elongation": 0.01313072497030743
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "object": "Object002",
+          "max_elongation": 0.028157594484984522,
+          "p99_elongation": 0.014128648144741079,
+          "edge_1497_2321_length": 0.03110044568290615
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "object": "Object004",
+          "max_elongation": 0.062382073432311044,
+          "p99_elongation": 0.01220768048715033
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "object": "Object006",
+          "max_elongation": 0.03309220920501399,
+          "p99_elongation": 0.00715019904874867
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "object": "Object007",
+          "max_elongation": 0.10682649829660304,
+          "p99_elongation": 0.009167916050258813
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "object": "Object002",
+          "max_elongation": 0.03233451794284423,
+          "p99_elongation": 0.013291582225472528,
+          "edge_1497_2321_length": 0.035662009362247206
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "object": "Object004",
+          "max_elongation": 0.033831979598164454,
+          "p99_elongation": 0.016525208155092057
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "object": "Object006",
+          "max_elongation": 0.017563694608459295,
+          "p99_elongation": 0.0015483861945581436
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "object": "Object007",
+          "max_elongation": 0.046976797871413095,
+          "p99_elongation": 0.0008617866976458838
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "object": "Object002",
+          "max_elongation": 0.026896029554420324,
+          "p99_elongation": 0.0143870060629542,
+          "edge_1497_2321_length": 0.01029814492479122
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "object": "Object004",
+          "max_elongation": 0.04209588651827604,
+          "p99_elongation": 0.020177973502274838
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "object": "Object006",
+          "max_elongation": 0.06531521374067041,
+          "p99_elongation": 0.011044180228124983
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "object": "Object007",
+          "max_elongation": 0.09638060550476664,
+          "p99_elongation": 0.01394239302193438
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "object": "Object002",
+          "max_elongation": 0.054665616841012975,
+          "p99_elongation": 0.01753353414245001,
+          "edge_1497_2321_length": 0.027015003463378096
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "object": "Object004",
+          "max_elongation": 0.08382394369372233,
+          "p99_elongation": 0.025426360845554274
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "object": "Object006",
+          "max_elongation": 0.03244033601865641,
+          "p99_elongation": 0.010259349461860781
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "object": "Object007",
+          "max_elongation": 0.10471021449235361,
+          "p99_elongation": 0.008277479701704553
+        }
+      ]
+    },
+    "after": {
+      "scene_sha256": "4c84f69f977120a5ac8acc51c0d4d8006637c466551d8a8494da4ecb4f40b7bf",
+      "poses": [
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "object": "Object002",
+          "max_elongation": 0.0368822269904404,
+          "p99_elongation": 0.018538916506341936,
+          "edge_1497_2321_length": 0.022417582563596175
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "object": "Object004",
+          "max_elongation": 0.07888838254382508,
+          "p99_elongation": 0.017812439333658274
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "object": "Object006",
+          "max_elongation": 0.019994031895583006,
+          "p99_elongation": 0.004923547817320612
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 60,
+          "object": "Object007",
+          "max_elongation": 0.010783868696828788,
+          "p99_elongation": 0.0032286829234670915
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "object": "Object002",
+          "max_elongation": 0.0729483086149105,
+          "p99_elongation": 0.029878660576618386,
+          "edge_1497_2321_length": 0.053515253279685766
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "object": "Object004",
+          "max_elongation": 0.10627390100477375,
+          "p99_elongation": 0.0632918973675283
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "object": "Object006",
+          "max_elongation": 0.020037609010506358,
+          "p99_elongation": 0.0039148688520560864
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 65,
+          "object": "Object007",
+          "max_elongation": 0.019659955623414525,
+          "p99_elongation": 0.008172204978368172
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "object": "Object002",
+          "max_elongation": 0.05873319037719086,
+          "p99_elongation": 0.02402949454168634,
+          "edge_1497_2321_length": 0.0066544219135668955
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "object": "Object004",
+          "max_elongation": 0.04340499595859726,
+          "p99_elongation": 0.021843884290439743
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "object": "Object006",
+          "max_elongation": 0.049817014097833526,
+          "p99_elongation": 0.00827298327789041
+        },
+        {
+          "clip": "braum_recall",
+          "frame": 70,
+          "object": "Object007",
+          "max_elongation": 0.02124908708449619,
+          "p99_elongation": 0.0068702470801128976
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "object": "Object002",
+          "max_elongation": 0.05567382374992378,
+          "p99_elongation": 0.03195892512688865,
+          "edge_1497_2321_length": 0.022245189110164217
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "object": "Object004",
+          "max_elongation": 0.06554988892502225,
+          "p99_elongation": 0.028768535859552906
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "object": "Object006",
+          "max_elongation": 0.05780775962194707,
+          "p99_elongation": 0.019133892728866207
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 45,
+          "object": "Object007",
+          "max_elongation": 0.015655837863910844,
+          "p99_elongation": 0.006215519223052867
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "object": "Object002",
+          "max_elongation": 0.11001139596614233,
+          "p99_elongation": 0.05461059040148181,
+          "edge_1497_2321_length": 0.03521215573110565
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "object": "Object004",
+          "max_elongation": 0.09647238469346023,
+          "p99_elongation": 0.04601343871580148
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "object": "Object006",
+          "max_elongation": 0.12084834883511189,
+          "p99_elongation": 0.027248210661591686
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 50,
+          "object": "Object007",
+          "max_elongation": 0.03358371073877474,
+          "p99_elongation": 0.009173122561645247
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "object": "Object002",
+          "max_elongation": 0.06502043741476075,
+          "p99_elongation": 0.03402654889336121,
+          "edge_1497_2321_length": 0.02215998376363628
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "object": "Object004",
+          "max_elongation": 0.06354792414197821,
+          "p99_elongation": 0.028718471488134088
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "object": "Object006",
+          "max_elongation": 0.08136604020237884,
+          "p99_elongation": 0.012876747979665188
+        },
+        {
+          "clip": "braum_dance_loop",
+          "frame": 55,
+          "object": "Object007",
+          "max_elongation": 0.027722751616144656,
+          "p99_elongation": 0.011374693220707112
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "object": "Object002",
+          "max_elongation": 0.08198310796457708,
+          "p99_elongation": 0.02383394525414151,
+          "edge_1497_2321_length": 0.02060508555409805
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "object": "Object004",
+          "max_elongation": 0.5512702059261059,
+          "p99_elongation": 0.13911931583942785
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "object": "Object006",
+          "max_elongation": 0.03290826810583121,
+          "p99_elongation": 0.00811360684743019
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 3,
+          "object": "Object007",
+          "max_elongation": 0.2851118742890233,
+          "p99_elongation": 0.00889886823607841
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "object": "Object002",
+          "max_elongation": 0.09727330751802275,
+          "p99_elongation": 0.04998418265571301,
+          "edge_1497_2321_length": 0.03865636770043376
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "object": "Object004",
+          "max_elongation": 0.10098848496205698,
+          "p99_elongation": 0.05080099836135183
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "object": "Object006",
+          "max_elongation": 0.03984311057666433,
+          "p99_elongation": 0.024516078544147325
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 15,
+          "object": "Object007",
+          "max_elongation": 0.03331093393851765,
+          "p99_elongation": 0.00830537181395951
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "object": "Object002",
+          "max_elongation": 0.02357169956326223,
+          "p99_elongation": 0.013589788318500651,
+          "edge_1497_2321_length": 0.017233251550424624
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "object": "Object004",
+          "max_elongation": 0.062382073432311044,
+          "p99_elongation": 0.012466698639471504
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "object": "Object006",
+          "max_elongation": 0.03309220920501399,
+          "p99_elongation": 0.005829935992715773
+        },
+        {
+          "clip": "braum_spell4",
+          "frame": 26,
+          "object": "Object007",
+          "max_elongation": 0.01725408759798483,
+          "p99_elongation": 0.006833803828104011
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "object": "Object002",
+          "max_elongation": 0.03108298898692513,
+          "p99_elongation": 0.013305543106804285,
+          "edge_1497_2321_length": 0.019741836920294225
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "object": "Object004",
+          "max_elongation": 0.033831979598164454,
+          "p99_elongation": 0.016735039212322517
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "object": "Object006",
+          "max_elongation": 0.017563694608459295,
+          "p99_elongation": 0.00020212881001275442
+        },
+        {
+          "clip": "braum_idle_01_loop",
+          "frame": 17,
+          "object": "Object007",
+          "max_elongation": 0.002414116292982515,
+          "p99_elongation": 0.0005202323102911575
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "object": "Object002",
+          "max_elongation": 0.039342712910299546,
+          "p99_elongation": 0.014422813001495756,
+          "edge_1497_2321_length": 0.003940010724757119
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "object": "Object004",
+          "max_elongation": 0.04209588651827604,
+          "p99_elongation": 0.020177973502274838
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "object": "Object006",
+          "max_elongation": 0.06531521374067041,
+          "p99_elongation": 0.006770773123316644
+        },
+        {
+          "clip": "braum_spell3_idle180",
+          "frame": 29,
+          "object": "Object007",
+          "max_elongation": 0.023340482044004872,
+          "p99_elongation": 0.011694234606718007
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "object": "Object002",
+          "max_elongation": 0.054665616841012975,
+          "p99_elongation": 0.017694877392321957,
+          "edge_1497_2321_length": 0.012520289143206234
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "object": "Object004",
+          "max_elongation": 0.08827276736057992,
+          "p99_elongation": 0.025483453089131622
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "object": "Object006",
+          "max_elongation": 0.03244033601865641,
+          "p99_elongation": 0.008347964834192638
+        },
+        {
+          "clip": "braum_run_02",
+          "frame": 12,
+          "object": "Object007",
+          "max_elongation": 0.015586371694097573,
+          "p99_elongation": 0.006918891471298469
+        }
+      ]
+    }
+  },
+  "all_rest_geometry_and_unlisted_weights_unchanged": true
+}

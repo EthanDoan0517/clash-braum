@@ -1,0 +1,138 @@
+{
+  "status": "PASS",
+  "archive": "build/sfx_v3_volume/Braum_Clash_Louder_SFX_v3.fantome",
+  "sha256": "5a66028b329d2befccc7fb2c8fcb54d9aa72b5ea4854e8b4ceb7b9dabcad5012",
+  "parent": "build/sfx_v2_refinement/Braum_Clash_Refinement_SFX_v2.fantome",
+  "parent_sha256": "fba996378d8961d525a7abc3ce43c9fa09d3fb7361fb35b37121cc0efb33c622",
+  "gain_db": 10.0,
+  "changes": [
+    {
+      "sound_id": 2215306,
+      "media_id": 509535745,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 499909813,
+      "media_id": 190232138,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 624636442,
+      "media_id": 676011000,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 328681646,
+      "media_id": 103689118,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 462301326,
+      "media_id": 1071447244,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 820468991,
+      "media_id": 680861900,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 24222117,
+      "media_id": 309351640,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 605684683,
+      "media_id": 491993041,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 652487392,
+      "media_id": 169392210,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 688477559,
+      "media_id": 278315751,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 53170828,
+      "media_id": 557873384,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 802069097,
+      "media_id": 541689440,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 387519265,
+      "media_id": 404894407,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 435019138,
+      "media_id": 382806313,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 481231900,
+      "media_id": 611305689,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 977303788,
+      "media_id": 599708390,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 410284772,
+      "media_id": 884714472,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 624252419,
+      "media_id": 21321056,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 926328231,
+      "media_id": 77410398,
+      "old_db": 0.0,
+      "new_db": 10.0
+    },
+    {
+      "sound_id": 305387748,
+      "media_id": 543374652,
+      "old_db": 0.0,
+      "new_db": 10.0
+    }
+  ],
+  "unchanged_hirc_objects": 348,
+  "event_bank_sha256": "3cfaf7919832d15445ed4a2f89e4f7c4e577920f9bfeb78e55649ac86d888377",
+  "event_bank_path": "assets/sounds/wwise2016/sfx/characters/braum/skins/base/braum_base_sfx_events.bnk",
+  "all_parent_payloads_exact": true,
+  "independent_parser_volume_values_verified": true,
+  "isolated_backend_changed_bank_exact": true,
+  "reused": "User confirms v2 sounds work great, only too quiet. Audio bank/codec/cache hashes/sample timing and all visuals exact. Only sound-level Volume properties change; other HIRC objects including play/stop/actions/containers and all remaining sound fields preserved. Reuse v2 runtime/media validation; no reencoding or asset checks.",
+  "runtime": "Needs volume balance/distortion and E cleanup check; +10dB may expose source beeps or mixer peaks."
+}

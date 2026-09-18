@@ -1,0 +1,100 @@
+{
+  "status": "PASS icon format/dimensions/portrait alpha/package/isolated paths; UI gameplay pending",
+  "archive": "build/ui_icons_v1/Braum_Clash_New_UI_Icons_v1.fantome",
+  "sha256": "7637c04a192d3036601862e03926ea007036de3423fb7dc26fccd97fe3bf6943",
+  "parent_sha256": "48c6f7ae0ae2c1900ca51cfde33f2dcc62083673653a77ec32a34b57e3c558b7",
+  "checks": [
+    {
+      "path": "assets/characters/braum/hud/icons2d/braum_passive.dds",
+      "dimensions": [
+        64,
+        64
+      ],
+      "format": "DXT1",
+      "source": "Ability icons\\passive icon.jpg",
+      "source_sha256": "55e5e1e9abc24287afa5401492254bc7fc65539a49c549ffba33f4734cfb576b"
+    },
+    {
+      "path": "assets/characters/braum/hud/icons2d/braum_q.dds",
+      "dimensions": [
+        64,
+        64
+      ],
+      "format": "DXT1",
+      "source": "Ability icons\\Q icon.webp",
+      "source_sha256": "ef24e314562d9e4a7725e2c1b95ca9adefe1e2fb35872838e705cd3687c743df"
+    },
+    {
+      "path": "assets/characters/braum/hud/icons2d/braum_w.dds",
+      "dimensions": [
+        64,
+        64
+      ],
+      "format": "DXT1",
+      "source": "Ability icons\\W icon.jpg",
+      "source_sha256": "0341061da25c853014884c7a4bca2612f2513a0fcb5d202b0966a96cb7c30cb3"
+    },
+    {
+      "path": "assets/characters/braum/hud/icons2d/braum_e.dds",
+      "dimensions": [
+        64,
+        64
+      ],
+      "format": "DXT1",
+      "source": "Ability icons\\E icon.jpg",
+      "source_sha256": "8f36304594cf8e56744ae2d858b8a8d1ed5767580ab114470515ac45182b3cee"
+    },
+    {
+      "path": "assets/characters/braum/hud/icons2d/braum_r.dds",
+      "dimensions": [
+        64,
+        64
+      ],
+      "format": "DXT1",
+      "source": "work\\textures\\ui_icons_v1\\r_source.png",
+      "source_sha256": "f7a02e90e9f94daa5d64ef5a515e9d4e0243dde0b44d2006c602ff32b4866868"
+    },
+    {
+      "path": "assets/characters/braum/hud/braum_circle.tex",
+      "dimensions": [
+        128,
+        128
+      ],
+      "format": "bc3",
+      "native_alpha_exact": true,
+      "portrait_crop": [
+        460,
+        90,
+        690,
+        320
+      ]
+    },
+    {
+      "path": "assets/characters/braum/hud/braum_square.tex",
+      "dimensions": [
+        128,
+        128
+      ],
+      "format": "bc1",
+      "native_alpha_exact": true,
+      "portrait_crop": [
+        460,
+        90,
+        690,
+        320
+      ]
+    }
+  ],
+  "added_paths": [
+    "assets/characters/braum/hud/icons2d/braum_passive.dds",
+    "assets/characters/braum/hud/icons2d/braum_q.dds",
+    "assets/characters/braum/hud/icons2d/braum_w.dds",
+    "assets/characters/braum/hud/icons2d/braum_e.dds",
+    "assets/characters/braum/hud/icons2d/braum_r.dds",
+    "assets/characters/braum/hud/braum_circle.tex",
+    "assets/characters/braum/hud/braum_square.tex"
+  ],
+  "protected": "Every accepted parent payload byte-exact. No BIN, gameplay texture/model, VFX, audio, VO, or loading portrait changes.",
+  "reused": "User explicitly accepts everything in audio_3x_v1; all previous gameplay/media/geometry evidence retained. Only seven HUD images added.",
+  "runtime": "Confirm HUD/minimap/scoreboard portrait and passive/Q/W/E/R icons render correctly."
+}

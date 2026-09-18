@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-14",
+  "status": "PARTIAL: game load and model spawn observed; ability input blocked",
+  "package": "build/lightning_v1/core/Braum_Clash_Core_v1.fantome",
+  "package_sha256": "2a8653b83ae63f704db7e4a398330e84e6d2104aa0e16eb647b4fe3b4bafdae8",
+  "manager_version": "2.15.0",
+  "manager_profile": "Clash Lightning v1",
+  "rollback_profile": "Clash Braum Runtime Trial",
+  "client_displayed_version": "26.18",
+  "mode": "Practice Tool, Summoner's Rift, base Braum, one Rakan bot",
+  "observed": [
+    "Core package imported into manager; selected alone in newly created profile",
+    "Loader built overlay and waited for game",
+    "Game entered Summoner's Rift and custom Clash body/shield visibly spawned",
+    "Spawn animation and idle continued; no crash during observed initial session",
+    "Screenshot HUD showed 139 FPS at 00:26; single sample, not a performance comparison"
+  ],
+  "evidence": "validation/previews/lightning_v1_runtime/practice_spawn.png",
+  "input_failure": "SendInput sent 0 of 1 events; GetLastError=87",
+  "recovery": "Refreshed target using get_window, activated and recaptured. One retry to learn E returned identical error. Stopped further game input.",
+  "not_tested": ["E activation, sustain, direction, blocks and expiry", "Q cast, travel and hit", "W arrival/protection", "R cast, rupture, zone and cleanup", "repeat casts/combinations", "brightness A/B comparison", "combat performance"],
+  "acceptance": "No ability VFX or brightness gameplay acceptance; original model acceptance remains the user's prior feedback",
+  "handoff": "Practice session left open, core profile running. User can learn/cast abilities manually. No other manager profile edited."
+}

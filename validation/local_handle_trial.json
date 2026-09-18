@@ -1,0 +1,39 @@
+{
+  "status": "REJECTED: glove triangle intersections in all running-E samples. Original trial scene restored from its Blender backup after a trial-output naming bug; original render hashes verified.",
+  "input_sha256": "2501fd57112bb324515e56dc33cb986905f0e50813f5aa946c56ad27e24f030a",
+  "new_object": "CCE_auxiliary_grip_trial",
+  "offset": 0.035,
+  "vertices": 72,
+  "faces": 42,
+  "world_run14_center": [
+    0.4652365893125534,
+    -0.4848177433013916,
+    0.8676184415817261
+  ],
+  "world_run14_ends": [
+    [
+      0.4443633556365967,
+      -0.5074801445007324,
+      0.8103845119476318
+    ],
+    [
+      0.48610982298851013,
+      -0.4621553421020508,
+      0.9248523712158203
+    ]
+  ],
+  "world_run14_anchors": [
+    [
+      0.28426629304885864,
+      -0.3910253047943115,
+      0.7864514589309692
+    ],
+    [
+      0.2897566556930542,
+      -0.35920533537864685,
+      0.9072706699371338
+    ]
+  ],
+  "method": "Auxiliary 12-sided grip and two supports attached to physical CCE side rail20. Center offset specified in report toward rail from native palm midpoint; axis Index1-Pinky1. All old geometry and weights unchanged.",
+  "scene_sha256": "5b0e926fc67223daf29b5f6657b340a3b302221d5543937742b5f4b42e942dda"
+}

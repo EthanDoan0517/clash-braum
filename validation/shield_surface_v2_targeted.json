@@ -1,0 +1,111 @@
+{
+  "status": "PASS 17-pose protected body/rigid shield regression; Stage 4 trial, not promoted",
+  "scene_sha256": "4583ed6263472cbf35c3e4a8bd009defccb1ee2082d33fe34f2edc77cf760b56",
+  "poses": [
+    {
+      "clip": "braum_recall",
+      "frame": 60,
+      "protected_posed_body_max_error": 0.0,
+      "shield_rigid_max_error": 3.6926402291470595e-07
+    },
+    {
+      "clip": "braum_recall",
+      "frame": 65,
+      "protected_posed_body_max_error": 0.0,
+      "shield_rigid_max_error": 3.544181632619825e-07
+    },
+    {
+      "clip": "braum_recall",
+      "frame": 70,
+      "protected_posed_body_max_error": 0.0,
+      "shield_rigid_max_error": 2.59600666296933e-07
+    },
+    {
+      "clip": "braum_dance_loop",
+      "frame": 45,
+      "protected_posed_body_max_error": 0.0,
+      "shield_rigid_max_error": 4.5442387719418775e-07
+    },
+    {
+      "clip": "braum_dance_loop",
+      "frame": 50,
+      "protected_posed_body_max_error": 0.0,
+      "shield_rigid_max_error": 4.5442387719418775e-07
+    },
+    {
+      "clip": "braum_dance_loop",
+      "frame": 55,
+      "protected_posed_body_max_error": 0.0,
+      "shield_rigid_max_error": 4.5442387719418775e-07
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 3,
+      "protected_posed_body_max_error": 0.0,
+      "shield_rigid_max_error": 3.953708098691777e-07
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 15,
+      "protected_posed_body_max_error": 0.0,
+      "shield_rigid_max_error": 7.09067574433675e-07
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 17,
+      "protected_posed_body_max_error": 0.0,
+      "shield_rigid_max_error": 3.558013270676952e-07
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 26,
+      "protected_posed_body_max_error": 0.0,
+      "shield_rigid_max_error": 4.37304651157433e-07
+    },
+    {
+      "clip": "braum_idle_01_loop",
+      "frame": 17,
+      "protected_posed_body_max_error": 0.0,
+      "shield_rigid_max_error": 3.0991519572864945e-07
+    },
+    {
+      "clip": "braum_spell3_idle180",
+      "frame": 29,
+      "protected_posed_body_max_error": 0.0,
+      "shield_rigid_max_error": 4.6143353449323854e-07
+    },
+    {
+      "clip": "braum_run_02",
+      "frame": 12,
+      "protected_posed_body_max_error": 0.0,
+      "shield_rigid_max_error": 3.4576935625807437e-07
+    },
+    {
+      "clip": "braum_spell3_run0",
+      "frame": 14,
+      "protected_posed_body_max_error": 0.0,
+      "shield_rigid_max_error": 3.436778110987859e-07
+    },
+    {
+      "clip": "braum_spell3_run-90",
+      "frame": 14,
+      "protected_posed_body_max_error": 0.0,
+      "shield_rigid_max_error": 3.2662437154939994e-07
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 16,
+      "protected_posed_body_max_error": 0.0,
+      "shield_rigid_max_error": 6.9665381730033e-07
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 18,
+      "protected_posed_body_max_error": 0.0,
+      "shield_rigid_max_error": 4.0334533180086396e-07
+    }
+  ],
+  "all_coordinates_finite": true,
+  "native_rest_contract": true,
+  "limits": "Not a new topology collision comparison, UV fidelity certificate, normal-map bake test or full animation validation. Surface mapping in generator is nearest-source sample correspondence, not exact face ancestry."
+}

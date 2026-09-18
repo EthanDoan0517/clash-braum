@@ -1,0 +1,19 @@
+{
+  "scene": "clash_braum_handle_surface_trial.blend",
+  "scene_sha256": "489806e14a2b165b5d1f5dcfabbf680463804d64a5b0450ccbd303a1dc19b4b4",
+  "vanilla_reference": false,
+  "isolate_grip": true,
+  "hand_surfaces": true,
+  "only_objects": null,
+  "camera_direction": "3,-7,3",
+  "edge_focus": null,
+  "ortho_scale": null,
+  "renders": [
+    {
+      "clip": "braum_spell3_run0",
+      "frame": 14,
+      "focus": "L_Hand",
+      "file": "validation\\previews\\local_handle_surface_front\\braum_spell3_run0_014_L_Hand.png"
+    }
+  ]
+}

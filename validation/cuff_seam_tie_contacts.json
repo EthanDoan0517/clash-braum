@@ -1,0 +1,3518 @@
+{
+  "classification_only": true,
+  "strict_validator_unchanged": true,
+  "tolerance": 1e-07,
+  "poses": [
+    {
+      "revision": "before",
+      "clip": "braum_recall",
+      "frame": 60,
+      "maximum_seam_gap": 0.004497626986439215,
+      "contacts": [],
+      "classes": {}
+    },
+    {
+      "revision": "before",
+      "clip": "braum_recall",
+      "frame": 65,
+      "maximum_seam_gap": 0.03510570476008577,
+      "contacts": [],
+      "classes": {}
+    },
+    {
+      "revision": "before",
+      "clip": "braum_recall",
+      "frame": 70,
+      "maximum_seam_gap": 0.0027435818871287916,
+      "contacts": [],
+      "classes": {}
+    },
+    {
+      "revision": "before",
+      "clip": "braum_dance_loop",
+      "frame": 45,
+      "maximum_seam_gap": 0.007029212738364957,
+      "contacts": [],
+      "classes": {}
+    },
+    {
+      "revision": "before",
+      "clip": "braum_dance_loop",
+      "frame": 50,
+      "maximum_seam_gap": 0.007325972963693667,
+      "contacts": [],
+      "classes": {}
+    },
+    {
+      "revision": "before",
+      "clip": "braum_dance_loop",
+      "frame": 55,
+      "maximum_seam_gap": 0.010127994969230373,
+      "contacts": [],
+      "classes": {}
+    },
+    {
+      "revision": "before",
+      "clip": "braum_spell4",
+      "frame": 3,
+      "maximum_seam_gap": 0.19005325362356518,
+      "contacts": [],
+      "classes": {}
+    },
+    {
+      "revision": "before",
+      "clip": "braum_spell4",
+      "frame": 15,
+      "maximum_seam_gap": 0.01176943000476661,
+      "contacts": [],
+      "classes": {}
+    },
+    {
+      "revision": "before",
+      "clip": "braum_spell4",
+      "frame": 17,
+      "maximum_seam_gap": 0.0988819001303017,
+      "contacts": [],
+      "classes": {}
+    },
+    {
+      "revision": "before",
+      "clip": "braum_spell4",
+      "frame": 26,
+      "maximum_seam_gap": 0.007183483567344775,
+      "contacts": [],
+      "classes": {}
+    },
+    {
+      "revision": "before",
+      "clip": "braum_idle_01_loop",
+      "frame": 17,
+      "maximum_seam_gap": 0.008848049233958884,
+      "contacts": [],
+      "classes": {}
+    },
+    {
+      "revision": "before",
+      "clip": "braum_spell3_idle180",
+      "frame": 29,
+      "maximum_seam_gap": 0.011281119234405581,
+      "contacts": [],
+      "classes": {}
+    },
+    {
+      "revision": "before",
+      "clip": "braum_run_02",
+      "frame": 12,
+      "maximum_seam_gap": 0.005582609583505295,
+      "contacts": [],
+      "classes": {}
+    },
+    {
+      "revision": "before",
+      "clip": "braum_spell3_run0",
+      "frame": 14,
+      "maximum_seam_gap": 0.005564985048458751,
+      "contacts": [],
+      "classes": {}
+    },
+    {
+      "revision": "before",
+      "clip": "braum_spell3_run-90",
+      "frame": 14,
+      "maximum_seam_gap": 0.005835397619993419,
+      "contacts": [],
+      "classes": {}
+    },
+    {
+      "revision": "after",
+      "clip": "braum_recall",
+      "frame": 60,
+      "maximum_seam_gap": 0.0,
+      "contacts": [
+        {
+          "pair": [
+            2430,
+            "Object009",
+            1210
+          ],
+          "classification": "boundary_or_tolerance_contact"
+        },
+        {
+          "pair": [
+            5579,
+            "Object004",
+            5610
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5579,
+            "Object004",
+            5611
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5580,
+            "Object004",
+            5611
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5581,
+            "Object004",
+            5611
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5581,
+            "Object004",
+            6237
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5582,
+            "Object004",
+            6236
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5582,
+            "Object004",
+            6237
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5583,
+            "Object004",
+            6234
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5583,
+            "Object004",
+            6236
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5584,
+            "Object004",
+            6234
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5585,
+            "Object004",
+            6232
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5585,
+            "Object004",
+            6234
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5586,
+            "Object004",
+            6232
+          ],
+          "classification": "proper_crossing"
+        }
+      ],
+      "classes": {
+        "boundary_or_tolerance_contact": 1,
+        "proper_crossing": 13
+      }
+    },
+    {
+      "revision": "after",
+      "clip": "braum_recall",
+      "frame": 65,
+      "maximum_seam_gap": 0.0,
+      "contacts": [
+        {
+          "pair": [
+            2424,
+            "Object004",
+            1208
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2425,
+            "Object004",
+            1207
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2425,
+            "Object004",
+            1208
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2426,
+            "Object004",
+            1207
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2427,
+            "Object004",
+            1205
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2427,
+            "Object004",
+            1207
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2428,
+            "Object004",
+            1188
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2428,
+            "Object004",
+            1208
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2429,
+            "Object004",
+            1186
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2429,
+            "Object004",
+            1188
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2430,
+            "Object004",
+            1185
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2430,
+            "Object004",
+            1186
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2445,
+            "Object004",
+            1204
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2445,
+            "Object004",
+            1205
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2446,
+            "Object004",
+            1203
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2446,
+            "Object004",
+            1204
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2447,
+            "Object004",
+            1203
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5586,
+            "Object004",
+            4792
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5586,
+            "Object004",
+            4793
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5587,
+            "Object004",
+            4790
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5587,
+            "Object004",
+            4792
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            4790
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            4791
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            6215
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5594,
+            "Object004",
+            4652
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5594,
+            "Object004",
+            4654
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5595,
+            "Object004",
+            4654
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5596,
+            "Object004",
+            4654
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5597,
+            "Object004",
+            4654
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5597,
+            "Object004",
+            4656
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5597,
+            "Object004",
+            4673
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5598,
+            "Object004",
+            4673
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5599,
+            "Object004",
+            4673
+          ],
+          "classification": "proper_crossing"
+        }
+      ],
+      "classes": {
+        "proper_crossing": 33
+      }
+    },
+    {
+      "revision": "after",
+      "clip": "braum_recall",
+      "frame": 70,
+      "maximum_seam_gap": 0.0,
+      "contacts": [
+        {
+          "pair": [
+            2448,
+            "Object009",
+            1220
+          ],
+          "classification": "boundary_or_tolerance_contact"
+        }
+      ],
+      "classes": {
+        "boundary_or_tolerance_contact": 1
+      }
+    },
+    {
+      "revision": "after",
+      "clip": "braum_dance_loop",
+      "frame": 45,
+      "maximum_seam_gap": 0.0,
+      "contacts": [
+        {
+          "pair": [
+            1156,
+            "Object004",
+            1353
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2441,
+            "Object004",
+            1299
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2442,
+            "Object004",
+            1299
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2443,
+            "Object004",
+            1299
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2443,
+            "Object004",
+            1351
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2443,
+            "Object004",
+            1353
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2444,
+            "Object004",
+            1353
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2448,
+            "Object004",
+            1353
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5572,
+            "Object004",
+            5608
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5572,
+            "Object004",
+            5609
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5573,
+            "Object004",
+            5609
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5573,
+            "Object004",
+            5617
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5574,
+            "Object004",
+            5617
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5574,
+            "Object004",
+            5620
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5575,
+            "Object004",
+            5620
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5576,
+            "Object004",
+            5620
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5579,
+            "Object004",
+            5608
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5580,
+            "Object004",
+            5611
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5581,
+            "Object004",
+            6237
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5582,
+            "Object004",
+            6237
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5583,
+            "Object004",
+            6237
+          ],
+          "classification": "proper_crossing"
+        }
+      ],
+      "classes": {
+        "proper_crossing": 21
+      }
+    },
+    {
+      "revision": "after",
+      "clip": "braum_dance_loop",
+      "frame": 50,
+      "maximum_seam_gap": 0.0,
+      "contacts": [
+        {
+          "pair": [
+            1156,
+            "Object004",
+            1353
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2441,
+            "Object004",
+            1299
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2442,
+            "Object004",
+            1299
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2443,
+            "Object004",
+            1299
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2443,
+            "Object004",
+            1351
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2443,
+            "Object004",
+            1353
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2444,
+            "Object004",
+            1353
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2448,
+            "Object004",
+            1353
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2448,
+            "Object004",
+            1354
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2449,
+            "Object004",
+            1354
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2450,
+            "Object004",
+            1354
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5572,
+            "Object004",
+            5609
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5573,
+            "Object004",
+            5609
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5573,
+            "Object004",
+            5617
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5574,
+            "Object004",
+            5617
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5574,
+            "Object004",
+            5620
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5575,
+            "Object004",
+            5620
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5576,
+            "Object004",
+            5620
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5579,
+            "Object004",
+            5609
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5579,
+            "Object004",
+            5610
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5580,
+            "Object004",
+            5610
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5581,
+            "Object004",
+            5610
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5581,
+            "Object004",
+            5611
+          ],
+          "classification": "proper_crossing"
+        }
+      ],
+      "classes": {
+        "proper_crossing": 23
+      }
+    },
+    {
+      "revision": "after",
+      "clip": "braum_dance_loop",
+      "frame": 55,
+      "maximum_seam_gap": 0.0,
+      "contacts": [
+        {
+          "pair": [
+            5572,
+            "Object004",
+            5608
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5572,
+            "Object004",
+            5609
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5579,
+            "Object004",
+            5608
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5582,
+            "Object004",
+            6236
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5583,
+            "Object004",
+            6236
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5584,
+            "Object004",
+            6236
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5585,
+            "Object004",
+            6236
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5586,
+            "Object004",
+            6236
+          ],
+          "classification": "proper_crossing"
+        }
+      ],
+      "classes": {
+        "proper_crossing": 8
+      }
+    },
+    {
+      "revision": "after",
+      "clip": "braum_spell4",
+      "frame": 3,
+      "maximum_seam_gap": 0.0,
+      "contacts": [
+        {
+          "pair": [
+            1154,
+            "Object009",
+            1185
+          ],
+          "classification": "boundary_or_tolerance_contact"
+        },
+        {
+          "pair": [
+            2424,
+            "Object004",
+            1188
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2425,
+            "CCE_mesh_14.001",
+            335
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2425,
+            "Object004",
+            1188
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2425,
+            "Object004",
+            1207
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2425,
+            "Object004",
+            1208
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2426,
+            "Object004",
+            1207
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2427,
+            "Object004",
+            1207
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2428,
+            "Object004",
+            1188
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2429,
+            "Object004",
+            1185
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2429,
+            "Object004",
+            1186
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2429,
+            "Object004",
+            1188
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2430,
+            "Object004",
+            1184
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2430,
+            "Object004",
+            1185
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2430,
+            "Object004",
+            2410
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2431,
+            "Object004",
+            2410
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2432,
+            "Object004",
+            2410
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "CCE_mesh_14.001",
+            3198
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "CCE_mesh_14.001",
+            3199
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "CCE_mesh_14.001",
+            3214
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object004",
+            1269
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object004",
+            2410
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2434,
+            "CCE_mesh_14.001",
+            341
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2434,
+            "CCE_mesh_14.001",
+            357
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2434,
+            "Object004",
+            1269
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2434,
+            "Object004",
+            1270
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2435,
+            "CCE_mesh_14.001",
+            341
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2435,
+            "CCE_mesh_14.001",
+            357
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2435,
+            "Object004",
+            1270
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2436,
+            "CCE_mesh_14.001",
+            327
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2436,
+            "CCE_mesh_14.001",
+            329
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2436,
+            "CCE_mesh_14.001",
+            341
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2436,
+            "CCE_mesh_14.001",
+            357
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2436,
+            "Object004",
+            1270
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2445,
+            "Object004",
+            1204
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2445,
+            "Object004",
+            1205
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2445,
+            "Object004",
+            1207
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2445,
+            "Object009",
+            1189
+          ],
+          "classification": "boundary_or_tolerance_contact"
+        },
+        {
+          "pair": [
+            2446,
+            "Object004",
+            1204
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2447,
+            "Object004",
+            1204
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2448,
+            "Object009",
+            1220
+          ],
+          "classification": "boundary_or_tolerance_contact"
+        },
+        {
+          "pair": [
+            4620,
+            "Object004",
+            5632
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            4621,
+            "Object004",
+            5632
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5572,
+            "Object004",
+            5609
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5572,
+            "Object004",
+            5617
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5579,
+            "Object004",
+            5609
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5583,
+            "Object004",
+            4790
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5584,
+            "Object004",
+            4790
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5585,
+            "Object004",
+            4790
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5585,
+            "Object004",
+            4792
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5586,
+            "Object004",
+            4628
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5586,
+            "Object004",
+            4792
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5587,
+            "Object004",
+            4628
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            4628
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            6202
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            6216
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            6218
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5590,
+            "Object004",
+            6216
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5590,
+            "Object004",
+            6218
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5595,
+            "Object004",
+            4656
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5601,
+            "Object004",
+            5632
+          ],
+          "classification": "proper_crossing"
+        }
+      ],
+      "classes": {
+        "boundary_or_tolerance_contact": 3,
+        "proper_crossing": 58
+      }
+    },
+    {
+      "revision": "after",
+      "clip": "braum_spell4",
+      "frame": 15,
+      "maximum_seam_gap": 0.0,
+      "contacts": [
+        {
+          "pair": [
+            2424,
+            "Object004",
+            1208
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2428,
+            "Object004",
+            1208
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2431,
+            "Object004",
+            1170
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2431,
+            "Object004",
+            1184
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2431,
+            "Object004",
+            1185
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2431,
+            "Object004",
+            1282
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2431,
+            "Object004",
+            1284
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2431,
+            "Object004",
+            1285
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2431,
+            "Object004",
+            2410
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2431,
+            "Object004",
+            2415
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2431,
+            "Object004",
+            2421
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2432,
+            "Object004",
+            1280
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2432,
+            "Object004",
+            1282
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2432,
+            "Object004",
+            2410
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2432,
+            "Object004",
+            2411
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2432,
+            "Object004",
+            2415
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2432,
+            "Object004",
+            2416
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object004",
+            1172
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object004",
+            1278
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object004",
+            1280
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object004",
+            2403
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object004",
+            2404
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object004",
+            2411
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object004",
+            2412
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object004",
+            2416
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object004",
+            2417
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object004",
+            2418
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2435,
+            "Object004",
+            1269
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2435,
+            "Object004",
+            1270
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2435,
+            "Object004",
+            1271
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2436,
+            "Object004",
+            1271
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2436,
+            "Object004",
+            1272
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2437,
+            "Object004",
+            1272
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2437,
+            "Object004",
+            1302
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2438,
+            "Object004",
+            1302
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2439,
+            "Object004",
+            1302
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5581,
+            "Object004",
+            6232
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5582,
+            "Object004",
+            6232
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5583,
+            "Object004",
+            4794
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5583,
+            "Object004",
+            6231
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5583,
+            "Object004",
+            6232
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5584,
+            "Object004",
+            4794
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5585,
+            "Object004",
+            4792
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5585,
+            "Object004",
+            4793
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5585,
+            "Object004",
+            4794
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5586,
+            "Object004",
+            4792
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5587,
+            "Object004",
+            4791
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5587,
+            "Object004",
+            4792
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            4626
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            4628
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            5604
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            6202
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            6206
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            6207
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            6208
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            6215
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            6219
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            5602
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            5603
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            5604
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            6218
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            6219
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5590,
+            "Object004",
+            4647
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5590,
+            "Object004",
+            4650
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5590,
+            "Object004",
+            5602
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5590,
+            "Object004",
+            6216
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5590,
+            "Object004",
+            6217
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5590,
+            "Object004",
+            6218
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5591,
+            "Object004",
+            4623
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5591,
+            "Object004",
+            4641
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5591,
+            "Object004",
+            4647
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5591,
+            "Object004",
+            6217
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5592,
+            "Object004",
+            4623
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5592,
+            "Object004",
+            4641
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5592,
+            "Object004",
+            4652
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5593,
+            "Object004",
+            4652
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5593,
+            "Object004",
+            4654
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5594,
+            "Object004",
+            4654
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5594,
+            "Object004",
+            4656
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5595,
+            "Object004",
+            4656
+          ],
+          "classification": "proper_crossing"
+        }
+      ],
+      "classes": {
+        "proper_crossing": 80
+      }
+    },
+    {
+      "revision": "after",
+      "clip": "braum_spell4",
+      "frame": 17,
+      "maximum_seam_gap": 0.0,
+      "contacts": [
+        {
+          "pair": [
+            1153,
+            "CCE_mesh_14.001",
+            3151
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            1153,
+            "Object004",
+            1373
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            1154,
+            "CCE_mesh_14.001",
+            3151
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2427,
+            "CCE_mesh_14.001",
+            3148
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2430,
+            "Object009",
+            1210
+          ],
+          "classification": "boundary_or_tolerance_contact"
+        },
+        {
+          "pair": [
+            2431,
+            "Object009",
+            1215
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object004",
+            1269
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object004",
+            1278
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object009",
+            1212
+          ],
+          "classification": "boundary_or_tolerance_contact"
+        },
+        {
+          "pair": [
+            2433,
+            "Object009",
+            1213
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object009",
+            1214
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2434,
+            "Object004",
+            1269
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2434,
+            "Object004",
+            1271
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2434,
+            "Object004",
+            1272
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2434,
+            "Object004",
+            1278
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2435,
+            "Object004",
+            1271
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2435,
+            "Object004",
+            1272
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2445,
+            "CCE_mesh_14.001",
+            3148
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2446,
+            "CCE_mesh_14.001",
+            3151
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2447,
+            "CCE_mesh_14.001",
+            3151
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2451,
+            "Object004",
+            1354
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2451,
+            "Object004",
+            1375
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2452,
+            "Object004",
+            1373
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2452,
+            "Object004",
+            1375
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            4619,
+            "Object004",
+            5658
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            4620,
+            "Object004",
+            4622
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            4620,
+            "Object004",
+            5653
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            4620,
+            "Object004",
+            5658
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            4621,
+            "Object004",
+            5653
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5574,
+            "Object004",
+            5608
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5574,
+            "Object004",
+            5609
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5576,
+            "Object004",
+            5668
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5577,
+            "Object004",
+            5663
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5577,
+            "Object004",
+            5668
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5578,
+            "Object004",
+            5658
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5578,
+            "Object004",
+            5659
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5578,
+            "Object004",
+            5660
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5579,
+            "Object004",
+            5611
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5583,
+            "Object004",
+            6234
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5584,
+            "Object004",
+            6234
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5585,
+            "Object004",
+            6231
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5585,
+            "Object004",
+            6232
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5585,
+            "Object004",
+            6234
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5585,
+            "Object009",
+            1689
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5585,
+            "Object009",
+            1693
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5586,
+            "Object004",
+            6231
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5587,
+            "Object004",
+            6231
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            5604
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            5605
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            6231
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            6232
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            4627
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            4788
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            5605
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            5606
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            6232
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            6234
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5590,
+            "Object004",
+            5602
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5590,
+            "Object004",
+            6218
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5590,
+            "Object004",
+            6225
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5597,
+            "Object009",
+            1696
+          ],
+          "classification": "boundary_or_tolerance_contact"
+        },
+        {
+          "pair": [
+            5601,
+            "Object004",
+            5653
+          ],
+          "classification": "proper_crossing"
+        }
+      ],
+      "classes": {
+        "proper_crossing": 59,
+        "boundary_or_tolerance_contact": 3
+      }
+    },
+    {
+      "revision": "after",
+      "clip": "braum_spell4",
+      "frame": 26,
+      "maximum_seam_gap": 0.0,
+      "contacts": [
+        {
+          "pair": [
+            5577,
+            "Object004",
+            4617
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5578,
+            "Object004",
+            4617
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5578,
+            "Object004",
+            5646
+          ],
+          "classification": "proper_crossing"
+        }
+      ],
+      "classes": {
+        "proper_crossing": 3
+      }
+    },
+    {
+      "revision": "after",
+      "clip": "braum_idle_01_loop",
+      "frame": 17,
+      "maximum_seam_gap": 0.0,
+      "contacts": [
+        {
+          "pair": [
+            2445,
+            "Object009",
+            1189
+          ],
+          "classification": "boundary_or_tolerance_contact"
+        },
+        {
+          "pair": [
+            5572,
+            "Object004",
+            5609
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5573,
+            "Object004",
+            5609
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5573,
+            "Object004",
+            5617
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5574,
+            "Object004",
+            5617
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5574,
+            "Object004",
+            5620
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5575,
+            "Object004",
+            5620
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5576,
+            "Object004",
+            5620
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5579,
+            "Object004",
+            5608
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5579,
+            "Object004",
+            5609
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5581,
+            "Object004",
+            6237
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5582,
+            "Object004",
+            5585
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5582,
+            "Object004",
+            5586
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5582,
+            "Object004",
+            6237
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5583,
+            "Object004",
+            6237
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5585,
+            "Object004",
+            5582
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5586,
+            "Object004",
+            5582
+          ],
+          "classification": "proper_crossing"
+        }
+      ],
+      "classes": {
+        "boundary_or_tolerance_contact": 1,
+        "proper_crossing": 16
+      }
+    },
+    {
+      "revision": "after",
+      "clip": "braum_spell3_idle180",
+      "frame": 29,
+      "maximum_seam_gap": 0.0,
+      "contacts": [
+        {
+          "pair": [
+            5576,
+            "Object009",
+            1669
+          ],
+          "classification": "boundary_or_tolerance_contact"
+        },
+        {
+          "pair": [
+            5581,
+            "Object009",
+            1677
+          ],
+          "classification": "boundary_or_tolerance_contact"
+        },
+        {
+          "pair": [
+            5583,
+            "Object004",
+            4792
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5583,
+            "Object009",
+            1679
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5584,
+            "Object004",
+            4792
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5585,
+            "Object004",
+            4792
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5586,
+            "Object004",
+            4792
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5587,
+            "Object004",
+            4792
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5587,
+            "Object004",
+            6219
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5587,
+            "Object004",
+            6222
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            5602
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            6202
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            6203
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            6204
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5588,
+            "Object004",
+            6219
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            4624
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            4641
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            4649
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            5602
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            6216
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            6218
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            6219
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5589,
+            "Object004",
+            6220
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5590,
+            "Object004",
+            4623
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5590,
+            "Object004",
+            4641
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5590,
+            "Object004",
+            4647
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5590,
+            "Object004",
+            5602
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5590,
+            "Object004",
+            6216
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5590,
+            "Object004",
+            6218
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5591,
+            "Object004",
+            4623
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5591,
+            "Object004",
+            4641
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5591,
+            "Object004",
+            6217
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5592,
+            "Object004",
+            4623
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5592,
+            "Object004",
+            4641
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5592,
+            "Object004",
+            4652
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5592,
+            "Object004",
+            6217
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5593,
+            "Object004",
+            4652
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5593,
+            "Object004",
+            4654
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5594,
+            "Object004",
+            4654
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5594,
+            "Object004",
+            4656
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5595,
+            "Object004",
+            4656
+          ],
+          "classification": "proper_crossing"
+        }
+      ],
+      "classes": {
+        "boundary_or_tolerance_contact": 2,
+        "proper_crossing": 39
+      }
+    },
+    {
+      "revision": "after",
+      "clip": "braum_run_02",
+      "frame": 12,
+      "maximum_seam_gap": 0.0,
+      "contacts": [
+        {
+          "pair": [
+            2424,
+            "Object004",
+            1188
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2425,
+            "Object004",
+            1188
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2425,
+            "Object004",
+            1207
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2425,
+            "Object004",
+            1208
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2426,
+            "Object004",
+            1188
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2426,
+            "Object004",
+            1207
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2426,
+            "Object004",
+            1208
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2428,
+            "CCE_mesh_13.001",
+            3597
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2428,
+            "Object004",
+            1188
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2429,
+            "CCE_mesh_13.001",
+            3597
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2429,
+            "CCE_mesh_13.001",
+            3598
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2429,
+            "Object004",
+            1185
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2429,
+            "Object004",
+            1186
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2429,
+            "Object004",
+            1188
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2430,
+            "CCE_mesh_13.001",
+            3597
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2430,
+            "CCE_mesh_13.001",
+            3598
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2430,
+            "Object004",
+            1184
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2430,
+            "Object004",
+            1185
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2430,
+            "Object004",
+            2410
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2430,
+            "Object004",
+            2411
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2431,
+            "Object004",
+            2411
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2432,
+            "Object004",
+            2411
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object004",
+            1266
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object004",
+            1267
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object004",
+            2411
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2433,
+            "Object004",
+            2419
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2435,
+            "Object004",
+            1270
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2436,
+            "CCE_mesh_13.001",
+            3274
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2436,
+            "Object004",
+            1272
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2436,
+            "Object004",
+            1302
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2437,
+            "Object004",
+            1302
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2438,
+            "Object004",
+            1302
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            2439,
+            "Object004",
+            1302
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5577,
+            "Object004",
+            4617
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5578,
+            "Object004",
+            4617
+          ],
+          "classification": "proper_crossing"
+        }
+      ],
+      "classes": {
+        "proper_crossing": 35
+      }
+    },
+    {
+      "revision": "after",
+      "clip": "braum_spell3_run0",
+      "frame": 14,
+      "maximum_seam_gap": 0.0,
+      "contacts": [
+        {
+          "pair": [
+            4619,
+            "Object004",
+            5629
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            4619,
+            "Object004",
+            5645
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            4619,
+            "Object004",
+            5646
+          ],
+          "classification": "proper_crossing"
+        },
+        {
+          "pair": [
+            5578,
+            "Object004",
+            5646
+          ],
+          "classification": "proper_crossing"
+        }
+      ],
+      "classes": {
+        "proper_crossing": 4
+      }
+    },
+    {
+      "revision": "after",
+      "clip": "braum_spell3_run-90",
+      "frame": 14,
+      "maximum_seam_gap": 0.0,
+      "contacts": [],
+      "classes": {}
+    }
+  ]
+}

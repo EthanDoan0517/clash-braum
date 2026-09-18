@@ -1,0 +1,40 @@
+{
+  "status": "REJECTED / diagnostic only: Glove intersections remain in running E: 73 triangle pairs at run0/14.",
+  "input_sha256": "2501fd57112bb324515e56dc33cb986905f0e50813f5aa946c56ad27e24f030a",
+  "new_object": "CCE_auxiliary_grip_trial",
+  "offset": 0.035,
+  "vertices": 72,
+  "faces": 42,
+  "world_run14_center": [
+    0.49072474241256714,
+    -0.5386024117469788,
+    0.8729090094566345
+  ],
+  "world_run14_ends": [
+    [
+      0.4698515236377716,
+      -0.5612648129463196,
+      0.8156750798225403
+    ],
+    [
+      0.5115979909896851,
+      -0.5159400105476379,
+      0.9301429390907288
+    ]
+  ],
+  "world_run14_anchors": [
+    [
+      0.28442952036857605,
+      -0.39127999544143677,
+      0.7841206789016724
+    ],
+    [
+      0.2898012101650238,
+      -0.3593539297580719,
+      0.9059033393859863
+    ]
+  ],
+  "method": "Auxiliary 12-sided grip and two supports attached to physical CCE side rail20. Center offset specified in report toward rail from native palm midpoint; axis Index1-Pinky1. All old geometry and weights unchanged.",
+  "knuckle_center": true,
+  "scene_sha256": "fef6fd6f21409986c8f49b6c739aeecb2b048ed1fc4edc3dee9e115e14bd9a67"
+}

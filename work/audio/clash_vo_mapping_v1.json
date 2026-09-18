@@ -1,0 +1,1434 @@
+{
+  "source": "Clash voice line.wav",
+  "source_sha256": "c5aaa16eb68b31f152bcbae413db3a5f07adbeb4500fa58eef5167b92538143a",
+  "media": {
+    "74470751": {
+      "clip": "shock",
+      "pool": "q",
+      "events": [
+        "Play_vo_Braum_BraumQ_cast3D"
+      ],
+      "phrase": "fancy getting shocked",
+      "source_start": 33.77,
+      "source_end": 34.96,
+      "seconds": 1.19,
+      "wem_sha256": "cc7f1b913d72f2b581b4c1995440ce36141c8d973feba399954a008e3fc5f6ea"
+    },
+    "98603859": {
+      "clip": "take_this",
+      "pool": "q",
+      "events": [
+        "Play_vo_Braum_BraumQ_cast3D"
+      ],
+      "phrase": "take this",
+      "source_start": 192.9,
+      "source_end": 193.81,
+      "seconds": 0.91,
+      "wem_sha256": "b6f58a36388e1d0def41a33c8288b77f12120edefbcf8bd79b8c214a112f1db9"
+    },
+    "292511943": {
+      "clip": "too_slow",
+      "pool": "q",
+      "events": [
+        "Play_vo_Braum_BraumQ_cast3D"
+      ],
+      "phrase": "too slow",
+      "source_start": 164.695,
+      "source_end": 165.525,
+      "seconds": 0.83,
+      "wem_sha256": "b299f46d4e99791ebbf3718ea693bda4d971e5e2d3fbe1880b153cc21a3534a0"
+    },
+    "390614316": {
+      "clip": "dont_move",
+      "pool": "q",
+      "events": [
+        "Play_vo_Braum_BraumQ_cast3D"
+      ],
+      "phrase": "don't you bloody move",
+      "source_start": 46.39,
+      "source_end": 47.64,
+      "seconds": 1.25,
+      "wem_sha256": "9ecb4ab89b5471d1c9dbe7a14d93982c9525d450d22ac06dc114e6f9478b361f"
+    },
+    "579842608": {
+      "clip": "enough",
+      "pool": "q",
+      "events": [
+        "Play_vo_Braum_BraumQ_cast3D"
+      ],
+      "phrase": "enough",
+      "source_start": 132.48000000000002,
+      "source_end": 133.01,
+      "seconds": 0.53,
+      "wem_sha256": "fda4ba491fd9df81ce827aaa1bca753c3f6b5a471962724904cf6cb7dd89ca59"
+    },
+    "80763567": {
+      "clip": "words_again",
+      "pool": "joke",
+      "events": [
+        "Play_vo_Braum_Joke3DGeneral"
+      ],
+      "phrase": "words are coming out of your mouth again",
+      "source_start": 203.61,
+      "source_end": 205.51999999999998,
+      "seconds": 1.91,
+      "wem_sha256": "5bd19f7ce57ffe702d5a39af4a2137ee2e708df42d91fbf00ff1f353c7199bff"
+    },
+    "170771395": {
+      "clip": "audience",
+      "pool": "joke",
+      "events": [
+        "Play_vo_Braum_Joke3DGeneral"
+      ],
+      "phrase": "you have an audience of one",
+      "source_start": 30.35,
+      "source_end": 31.64,
+      "seconds": 1.29,
+      "wem_sha256": "383e442d5ef4b489d9afb328c681fe6870053630ffd8a0b1d4ef9a306fa41637"
+    },
+    "1042303900": {
+      "clip": "improvement",
+      "pool": "joke",
+      "events": [
+        "Play_vo_Braum_Joke3DGeneral"
+      ],
+      "phrase": "that's an improvement",
+      "source_start": 32.17,
+      "source_end": 33.160000000000004,
+      "seconds": 0.99,
+      "wem_sha256": "495fc039459fc5c8361b0e3d2d35cb34fa7c80f416f4e1467062bd60889932c0"
+    },
+    "710619744": {
+      "clip": "ready",
+      "pool": "item",
+      "events": [
+        "Play_vo_Braum_BuyItem2DBoots"
+      ],
+      "phrase": "i'm ready let's do this",
+      "source_start": 207.97,
+      "source_end": 209.57999999999998,
+      "seconds": 1.61,
+      "wem_sha256": "34003c222f3ec7a190ca8123d60122b735199f9da45581cfb455a470faf5099b"
+    },
+    "194568168": {
+      "clip": "doing_part",
+      "pool": "item",
+      "events": [
+        "Play_vo_Braum_BuyItem2DAegisOfTheLegions"
+      ],
+      "phrase": "doin' my part here",
+      "source_start": 174.1,
+      "source_end": 175.47,
+      "seconds": 1.37,
+      "wem_sha256": "bb2259f6d329f401fa65434ea839be362d08ca62ec5c3e6da3c5af480b40f483"
+    },
+    "336708285": {
+      "clip": "take_this",
+      "pool": "attack_grunt",
+      "events": [
+        "Play_vo_Braum_BraumBasicAttackShieldOverride_cast3D",
+        "Play_vo_Braum_BraumBasicAttack3_cast3D",
+        "Play_vo_Braum_BraumBasicAttack_cast3D",
+        "Play_vo_Braum_BraumBasicAttack2_cast3D",
+        "Play_vo_Braum_BraumBasicAttackPassiveOverride_cast3D",
+        "Play_vo_Braum_BraumCritAttack_cast3D",
+        "Play_vo_Braum_BraumBasicAttackTower_cast3D"
+      ],
+      "phrase": "take this",
+      "source_start": 192.9,
+      "source_end": 193.81,
+      "seconds": 0.91,
+      "wem_sha256": "b6f58a36388e1d0def41a33c8288b77f12120edefbcf8bd79b8c214a112f1db9"
+    },
+    "624255820": {
+      "clip": "too_slow",
+      "pool": "attack_grunt",
+      "events": [
+        "Play_vo_Braum_BraumBasicAttackShieldOverride_cast3D",
+        "Play_vo_Braum_BraumBasicAttack3_cast3D",
+        "Play_vo_Braum_BraumBasicAttack_cast3D",
+        "Play_vo_Braum_BraumBasicAttack2_cast3D",
+        "Play_vo_Braum_BraumBasicAttackPassiveOverride_cast3D",
+        "Play_vo_Braum_BraumCritAttack_cast3D",
+        "Play_vo_Braum_BraumBasicAttackTower_cast3D"
+      ],
+      "phrase": "too slow",
+      "source_start": 164.695,
+      "source_end": 165.525,
+      "seconds": 0.83,
+      "wem_sha256": "b299f46d4e99791ebbf3718ea693bda4d971e5e2d3fbe1880b153cc21a3534a0"
+    },
+    "711209785": {
+      "clip": "gotcha",
+      "pool": "attack_grunt",
+      "events": [
+        "Play_vo_Braum_BraumBasicAttackShieldOverride_cast3D",
+        "Play_vo_Braum_BraumBasicAttack3_cast3D",
+        "Play_vo_Braum_BraumBasicAttack_cast3D",
+        "Play_vo_Braum_BraumBasicAttack2_cast3D",
+        "Play_vo_Braum_BraumBasicAttackPassiveOverride_cast3D",
+        "Play_vo_Braum_BraumCritAttack_cast3D",
+        "Play_vo_Braum_BraumBasicAttackTower_cast3D"
+      ],
+      "phrase": "gotcha",
+      "source_start": 38.15,
+      "source_end": 38.635,
+      "seconds": 0.48498866213151925,
+      "wem_sha256": "3b20b3504fc6112d6455213aab48fef8ccce361d94547d104e625c7276136977"
+    },
+    "729370666": {
+      "clip": "enough",
+      "pool": "attack_grunt",
+      "events": [
+        "Play_vo_Braum_BraumBasicAttackShieldOverride_cast3D",
+        "Play_vo_Braum_BraumBasicAttack3_cast3D",
+        "Play_vo_Braum_BraumBasicAttack_cast3D",
+        "Play_vo_Braum_BraumBasicAttack2_cast3D",
+        "Play_vo_Braum_BraumBasicAttackPassiveOverride_cast3D",
+        "Play_vo_Braum_BraumCritAttack_cast3D",
+        "Play_vo_Braum_BraumBasicAttackTower_cast3D"
+      ],
+      "phrase": "enough",
+      "source_start": 132.48000000000002,
+      "source_end": 133.01,
+      "seconds": 0.53,
+      "wem_sha256": "fda4ba491fd9df81ce827aaa1bca753c3f6b5a471962724904cf6cb7dd89ca59"
+    },
+    "750865100": {
+      "clip": "back_off",
+      "pool": "attack_grunt",
+      "events": [
+        "Play_vo_Braum_BraumBasicAttackShieldOverride_cast3D",
+        "Play_vo_Braum_BraumBasicAttack3_cast3D",
+        "Play_vo_Braum_BraumBasicAttack_cast3D",
+        "Play_vo_Braum_BraumBasicAttack2_cast3D",
+        "Play_vo_Braum_BraumBasicAttackPassiveOverride_cast3D",
+        "Play_vo_Braum_BraumCritAttack_cast3D",
+        "Play_vo_Braum_BraumBasicAttackTower_cast3D"
+      ],
+      "phrase": "back off",
+      "source_start": 212.49,
+      "source_end": 213.38,
+      "seconds": 0.89,
+      "wem_sha256": "8244e637918bc3d55624cff25abb455e354335b699de80e329edce91977cefe7"
+    },
+    "776121823": {
+      "clip": "come_on",
+      "pool": "attack_grunt",
+      "events": [
+        "Play_vo_Braum_BraumBasicAttackShieldOverride_cast3D",
+        "Play_vo_Braum_BraumBasicAttack3_cast3D",
+        "Play_vo_Braum_BraumBasicAttack_cast3D",
+        "Play_vo_Braum_BraumBasicAttack2_cast3D",
+        "Play_vo_Braum_BraumBasicAttackPassiveOverride_cast3D",
+        "Play_vo_Braum_BraumCritAttack_cast3D",
+        "Play_vo_Braum_BraumBasicAttackTower_cast3D"
+      ],
+      "phrase": "come on",
+      "source_start": 191.44,
+      "source_end": 191.97,
+      "seconds": 0.53,
+      "wem_sha256": "97e305eb58e68632d227a24356894408e162d9534f1bdb2beacf5b68ea34a39f"
+    },
+    "827947797": {
+      "clip": "shit",
+      "pool": "attack_grunt",
+      "events": [
+        "Play_vo_Braum_BraumBasicAttackShieldOverride_cast3D",
+        "Play_vo_Braum_BraumBasicAttack3_cast3D",
+        "Play_vo_Braum_BraumBasicAttack_cast3D",
+        "Play_vo_Braum_BraumBasicAttack2_cast3D",
+        "Play_vo_Braum_BraumBasicAttackPassiveOverride_cast3D",
+        "Play_vo_Braum_BraumCritAttack_cast3D",
+        "Play_vo_Braum_BraumBasicAttackTower_cast3D"
+      ],
+      "phrase": "shit",
+      "source_start": 139.20000000000002,
+      "source_end": 139.59,
+      "seconds": 0.39,
+      "wem_sha256": "9f3cfe4b188ccab5b466d8f3f22c6a0ba34f3f07f0ee1b22ec3078183fcbc3fe"
+    },
+    "581082208": {
+      "clip": "shield",
+      "pool": "e",
+      "events": [
+        "Play_vo_Braum_BraumEDummyVONami_cast3D"
+      ],
+      "phrase": "shield deployed",
+      "source_start": 44.29,
+      "source_end": 44.96,
+      "seconds": 0.67,
+      "wem_sha256": "d36cf81932ed46af7dcf1a6919d99641b8d75fc469e7f173030a23baf0464140"
+    },
+    "514982137": {
+      "clip": "bruises",
+      "pool": "item",
+      "events": [
+        "Play_vo_Braum_BuyItem2DRanduinsOmen"
+      ],
+      "phrase": "i don't care for cuts or bruises",
+      "source_start": 261.37,
+      "source_end": 263.1,
+      "seconds": 1.73,
+      "wem_sha256": "cd52c914751a9d85be6b3c25017b105dd8b0854beb955a4f899bc296a3d57bd1"
+    },
+    "983369963": {
+      "clip": "get_it",
+      "pool": "item",
+      "events": [
+        "Play_vo_Braum_BuyItem2DRanduinsOmen"
+      ],
+      "phrase": "come and get it",
+      "source_start": 247.49,
+      "source_end": 248.72,
+      "seconds": 1.23,
+      "wem_sha256": "1ed4db6579b938334aa4622fd911dc97244c9b8303209be5b51a7191a51d93a9"
+    },
+    "335809682": {
+      "clip": "just_you_me",
+      "pool": "encounter",
+      "events": [
+        "Play_vo_Braum_FirstEncounter3DGragas"
+      ],
+      "phrase": "just you and me",
+      "source_start": 40.97,
+      "source_end": 42.4,
+      "seconds": 1.43,
+      "wem_sha256": "bec0bff5b11a0b877320dc0c3859e94cf9d3f06da7ca60e4433b6a6c5376d6a8"
+    },
+    "599888537": {
+      "clip": "last_words",
+      "pool": "encounter",
+      "events": [
+        "Play_vo_Braum_FirstEncounter3DGragas"
+      ],
+      "phrase": "any last words",
+      "source_start": 85.94000000000001,
+      "source_end": 86.85,
+      "seconds": 0.91,
+      "wem_sha256": "e62f64ac42e3708ee72629db9f49066ab8ef7ccdd3b6e31598cd453e0f0326a1"
+    },
+    "16081065": {
+      "clip": "move",
+      "pool": "move",
+      "events": [
+        "Play_vo_Braum_Move2DStandard"
+      ],
+      "phrase": "let's move",
+      "source_start": 136.8,
+      "source_end": 137.65,
+      "seconds": 0.85,
+      "wem_sha256": "d6fee2d95def52718e59ebc460b49e4270025ee6a2767bcac7c0cd19ffaeacc6"
+    },
+    "232187092": {
+      "clip": "follow",
+      "pool": "move",
+      "events": [
+        "Play_vo_Braum_Move2DStandard"
+      ],
+      "phrase": "follow me now",
+      "source_start": 95.28,
+      "source_end": 96.03,
+      "seconds": 0.75,
+      "wem_sha256": "ec6266f6e1d3a0f8dcd02c3ae5922575eb95e222737fbbea27a72063dcc4ccef"
+    },
+    "277162086": {
+      "clip": "keep_up",
+      "pool": "move",
+      "events": [
+        "Play_vo_Braum_Move2DStandard"
+      ],
+      "phrase": "keep up",
+      "source_start": 61.265,
+      "source_end": 62.34,
+      "seconds": 1.0749886621315192,
+      "wem_sha256": "4afe6a6a90d87e0059610492b186cb005ea6d0c3596242bce652c5173649e941"
+    },
+    "376357224": {
+      "clip": "position",
+      "pool": "move",
+      "events": [
+        "Play_vo_Braum_Move2DStandard"
+      ],
+      "phrase": "in position",
+      "source_start": 57.589999999999996,
+      "source_end": 58.114999999999995,
+      "seconds": 0.5249886621315193,
+      "wem_sha256": "6cb907e5e6478a069deea9ac0ab31810d608dc5c6dee493c1b18f20529ddfb9c"
+    },
+    "426439422": {
+      "clip": "ready",
+      "pool": "move",
+      "events": [
+        "Play_vo_Braum_Move2DStandard"
+      ],
+      "phrase": "i'm ready let's do this",
+      "source_start": 207.97,
+      "source_end": 209.57999999999998,
+      "seconds": 1.61,
+      "wem_sha256": "34003c222f3ec7a190ca8123d60122b735199f9da45581cfb455a470faf5099b"
+    },
+    "459907986": {
+      "clip": "if_say",
+      "pool": "move",
+      "events": [
+        "Play_vo_Braum_Move2DStandard"
+      ],
+      "phrase": "if you say so",
+      "source_start": 246.37,
+      "source_end": 247.4,
+      "seconds": 1.03,
+      "wem_sha256": "1c3c9e32754ce4c05303c53d179a7889727f58180ee725bc86eecd064ef842be"
+    },
+    "540046118": {
+      "clip": "doing_part",
+      "pool": "move",
+      "events": [
+        "Play_vo_Braum_Move2DStandard"
+      ],
+      "phrase": "doin' my part here",
+      "source_start": 174.1,
+      "source_end": 175.47,
+      "seconds": 1.37,
+      "wem_sha256": "bb2259f6d329f401fa65434ea839be362d08ca62ec5c3e6da3c5af480b40f483"
+    },
+    "591898222": {
+      "clip": "follow_company",
+      "pool": "move",
+      "events": [
+        "Play_vo_Braum_Move2DStandard"
+      ],
+      "phrase": "follow me and you're in good company",
+      "source_start": 99.52000000000001,
+      "source_end": 101.39,
+      "seconds": 1.87,
+      "wem_sha256": "acc69ca4b7d936e02bfe225a503521ffd0ba0bc92dc28253bcb1bd1301e623ce"
+    },
+    "607624425": {
+      "clip": "wait_day",
+      "pool": "move",
+      "events": [
+        "Play_vo_Braum_Move2DStandard"
+      ],
+      "phrase": "i can't wait all day",
+      "source_start": 64.49499999999999,
+      "source_end": 65.78500000000001,
+      "seconds": 1.29,
+      "wem_sha256": "56c06f0509b781574f59e7d8dea191a51cf6e8216f3b80f4887290367d861b79"
+    },
+    "700152286": {
+      "clip": "stand_by",
+      "pool": "move",
+      "events": [
+        "Play_vo_Braum_Move2DStandard"
+      ],
+      "phrase": "standing by",
+      "source_start": 264.99,
+      "source_end": 265.86,
+      "seconds": 0.87,
+      "wem_sha256": "c479026e2e45ad1380f8aae43f3499e4d1cbec0259305d85e6e21578feaadf79"
+    },
+    "838894049": {
+      "clip": "win_this",
+      "pool": "move",
+      "events": [
+        "Play_vo_Braum_Move2DStandard"
+      ],
+      "phrase": "we win this no matter what",
+      "source_start": 259.23,
+      "source_end": 261.1,
+      "seconds": 1.87,
+      "wem_sha256": "dca026fc21f121870cdfe3c8af9b0251760471210d8a73896fe814a2cebbb185"
+    },
+    "940653264": {
+      "clip": "bruises",
+      "pool": "move",
+      "events": [
+        "Play_vo_Braum_Move2DStandard"
+      ],
+      "phrase": "i don't care for cuts or bruises",
+      "source_start": 261.37,
+      "source_end": 263.1,
+      "seconds": 1.73,
+      "wem_sha256": "cd52c914751a9d85be6b3c25017b105dd8b0854beb955a4f899bc296a3d57bd1"
+    },
+    "1040321900": {
+      "clip": "miracle",
+      "pool": "move",
+      "events": [
+        "Play_vo_Braum_Move2DStandard"
+      ],
+      "phrase": "i'm waiting for a miracle",
+      "source_start": 265.89,
+      "source_end": 267.28000000000003,
+      "seconds": 1.39,
+      "wem_sha256": "b63062e27193e800ec788b29a0c35deb600965b7712fdc86503d96efb27c49f3"
+    },
+    "286070298": {
+      "clip": "come_at_me",
+      "pool": "encounter",
+      "events": [
+        "Play_vo_Braum_FirstEncounter3DVi"
+      ],
+      "phrase": "come at me i dare you",
+      "source_start": 226.445,
+      "source_end": 228.73999999999998,
+      "seconds": 2.2949886621315194,
+      "wem_sha256": "b77673d9f326d9999f75f00941ee99d4a18b4070dd9df666babdf5addbca6259"
+    },
+    "174141575": {
+      "clip": "kaboom",
+      "pool": "r",
+      "events": [
+        "Play_vo_Braum_BraumRWrapper_cast3D"
+      ],
+      "phrase": "kaboom",
+      "source_start": 231.35,
+      "source_end": 232.07999999999998,
+      "seconds": 0.73,
+      "wem_sha256": "55fecfc319278bd5e8599f361d93c5f4397348ae9afaddd5acb94e421394258a"
+    },
+    "393065899": {
+      "clip": "going_down",
+      "pool": "r",
+      "events": [
+        "Play_vo_Braum_BraumRWrapper_cast3D"
+      ],
+      "phrase": "you're going down",
+      "source_start": 88.78,
+      "source_end": 90.21,
+      "seconds": 1.43,
+      "wem_sha256": "a7750cf2f8cf1e607474c26af1bc42ea2ea7cae209958e99d7ca337c127fad80"
+    },
+    "466448559": {
+      "clip": "ends_here",
+      "pool": "r",
+      "events": [
+        "Play_vo_Braum_BraumRWrapper_cast3D"
+      ],
+      "phrase": "it ends here",
+      "source_start": 56.31,
+      "source_end": 57.42,
+      "seconds": 1.11,
+      "wem_sha256": "9994e4acd55ba0f1db2e5f61778c4a290f8de0deb851957b95273abfaa476e75"
+    },
+    "48920662": {
+      "clip": "hostile",
+      "pool": "attack_command",
+      "events": [
+        "Play_vo_Braum_Attack2DGeneral"
+      ],
+      "phrase": "hostile found",
+      "source_start": 65.795,
+      "source_end": 66.685,
+      "seconds": 0.89,
+      "wem_sha256": "7dae486ed8e0637f0843f0b1e7e67311a31543d3eedf503bc909ea0bf5a3346e"
+    },
+    "85051327": {
+      "clip": "found_one",
+      "pool": "attack_command",
+      "events": [
+        "Play_vo_Braum_Attack2DGeneral"
+      ],
+      "phrase": "i found one",
+      "source_start": 29.345,
+      "source_end": 30.32,
+      "seconds": 0.9749886621315192,
+      "wem_sha256": "199597a91229f3437441ec8ddfb44fc159be488dbfc37bb7a88e48b95cfe38b3"
+    },
+    "143826366": {
+      "clip": "tango",
+      "pool": "attack_command",
+      "events": [
+        "Play_vo_Braum_Attack2DGeneral"
+      ],
+      "phrase": "tango located",
+      "source_start": 141.98000000000002,
+      "source_end": 142.845,
+      "seconds": 0.8650113378684807,
+      "wem_sha256": "5733061649fe74d1eb94acf1865368fabcf52fee63b28fdd9b9aa954c0050e98"
+    },
+    "156010953": {
+      "clip": "take_out",
+      "pool": "attack_command",
+      "events": [
+        "Play_vo_Braum_Attack2DGeneral"
+      ],
+      "phrase": "come on take them out",
+      "source_start": 191.44,
+      "source_end": 192.76999999999998,
+      "seconds": 1.33,
+      "wem_sha256": "f1345f39d377130faa4285290ee499f71a515766b5586076d5cde23ac8ff3f21"
+    },
+    "196380325": {
+      "clip": "quick",
+      "pool": "attack_command",
+      "events": [
+        "Play_vo_Braum_Attack2DGeneral"
+      ],
+      "phrase": "quick before they run",
+      "source_start": 237.45000000000002,
+      "source_end": 238.66,
+      "seconds": 1.21,
+      "wem_sha256": "298c351385f00514670c7787f2d902cefc80ff188cac0df6837730825caee50c"
+    },
+    "223525001": {
+      "clip": "last_words",
+      "pool": "attack_command",
+      "events": [
+        "Play_vo_Braum_Attack2DGeneral"
+      ],
+      "phrase": "any last words",
+      "source_start": 85.94000000000001,
+      "source_end": 86.85,
+      "seconds": 0.91,
+      "wem_sha256": "e62f64ac42e3708ee72629db9f49066ab8ef7ccdd3b6e31598cd453e0f0326a1"
+    },
+    "249035787": {
+      "clip": "screwed",
+      "pool": "attack_command",
+      "events": [
+        "Play_vo_Braum_Attack2DGeneral"
+      ],
+      "phrase": "you are screwed",
+      "source_start": 87.22000000000001,
+      "source_end": 88.47,
+      "seconds": 1.25,
+      "wem_sha256": "06b5af7fda24fbb35937cf6feddff0165110e66af848845cc0bec37ddf2bae4a"
+    },
+    "381099087": {
+      "clip": "going_down",
+      "pool": "attack_command",
+      "events": [
+        "Play_vo_Braum_Attack2DGeneral"
+      ],
+      "phrase": "you're going down",
+      "source_start": 88.78,
+      "source_end": 90.21,
+      "seconds": 1.43,
+      "wem_sha256": "a7750cf2f8cf1e607474c26af1bc42ea2ea7cae209958e99d7ca337c127fad80"
+    },
+    "456654745": {
+      "clip": "not_done",
+      "pool": "attack_command",
+      "events": [
+        "Play_vo_Braum_Attack2DGeneral"
+      ],
+      "phrase": "i'm not done with you",
+      "source_start": 142.855,
+      "source_end": 144.60999999999999,
+      "seconds": 1.7550113378684806,
+      "wem_sha256": "3d920c78bcb4a408952ed3079c9904b52983add9b9f43c93ea526f7fae3c722a"
+    },
+    "458107786": {
+      "clip": "come_get",
+      "pool": "attack_command",
+      "events": [
+        "Play_vo_Braum_Attack2DGeneral"
+      ],
+      "phrase": "come get me",
+      "source_start": 150.195,
+      "source_end": 151.10999999999999,
+      "seconds": 0.9149886621315193,
+      "wem_sha256": "82b189f9e136aa12e541080a016a30421da80b4ac1686ac147e5c071cbaf44fa"
+    },
+    "474448166": {
+      "clip": "right_here",
+      "pool": "attack_command",
+      "events": [
+        "Play_vo_Braum_Attack2DGeneral"
+      ],
+      "phrase": "i'm right here",
+      "source_start": 151.06,
+      "source_end": 152.205,
+      "seconds": 1.1449886621315193,
+      "wem_sha256": "f7a77f21af57a2890ee005f810e8615d53ecad6666254835d90852344d38dd7b"
+    },
+    "551604373": {
+      "clip": "prayers",
+      "pool": "attack_command",
+      "events": [
+        "Play_vo_Braum_Attack2DGeneral"
+      ],
+      "phrase": "say your prayers tossers",
+      "source_start": 292.91,
+      "source_end": 294.66,
+      "seconds": 1.75,
+      "wem_sha256": "90b9e16f987d1094aa2d3925061b4fc68cbd7177728e025d2703f32a8da1cf6a"
+    },
+    "624052313": {
+      "clip": "take_this",
+      "pool": "attack_command",
+      "events": [
+        "Play_vo_Braum_Attack2DGeneral"
+      ],
+      "phrase": "take this",
+      "source_start": 192.9,
+      "source_end": 193.81,
+      "seconds": 0.91,
+      "wem_sha256": "b6f58a36388e1d0def41a33c8288b77f12120edefbcf8bd79b8c214a112f1db9"
+    },
+    "739058155": {
+      "clip": "too_slow",
+      "pool": "attack_command",
+      "events": [
+        "Play_vo_Braum_Attack2DGeneral"
+      ],
+      "phrase": "too slow",
+      "source_start": 164.695,
+      "source_end": 165.525,
+      "seconds": 0.83,
+      "wem_sha256": "b299f46d4e99791ebbf3718ea693bda4d971e5e2d3fbe1880b153cc21a3534a0"
+    },
+    "877731382": {
+      "clip": "get_it",
+      "pool": "attack_command",
+      "events": [
+        "Play_vo_Braum_Attack2DGeneral"
+      ],
+      "phrase": "come and get it",
+      "source_start": 247.49,
+      "source_end": 248.72,
+      "seconds": 1.23,
+      "wem_sha256": "1ed4db6579b938334aa4622fd911dc97244c9b8303209be5b51a7191a51d93a9"
+    },
+    "920184711": {
+      "clip": "back_off",
+      "pool": "attack_command",
+      "events": [
+        "Play_vo_Braum_Attack2DGeneral"
+      ],
+      "phrase": "back off",
+      "source_start": 212.49,
+      "source_end": 213.38,
+      "seconds": 0.89,
+      "wem_sha256": "8244e637918bc3d55624cff25abb455e354335b699de80e329edce91977cefe7"
+    },
+    "968480064": {
+      "clip": "ends_here",
+      "pool": "attack_command",
+      "events": [
+        "Play_vo_Braum_Attack2DGeneral"
+      ],
+      "phrase": "it ends here",
+      "source_start": 56.31,
+      "source_end": 57.42,
+      "seconds": 1.11,
+      "wem_sha256": "9994e4acd55ba0f1db2e5f61778c4a290f8de0deb851957b95273abfaa476e75"
+    },
+    "61242847": {
+      "clip": "razor_deployed",
+      "pool": "ward",
+      "events": [
+        "Play_vo_Braum_BuyItem2DWard"
+      ],
+      "phrase": "razor wire deployed",
+      "source_start": 49.79,
+      "source_end": 50.800000000000004,
+      "seconds": 1.01,
+      "wem_sha256": "cef4d94a311afc94186794c4d5d7a6e698bf711db25b18f268e1ba22a4dfbca2"
+    },
+    "379221160": {
+      "clip": "setting_razor",
+      "pool": "ward",
+      "events": [
+        "Play_vo_Braum_BuyItem2DWard"
+      ],
+      "phrase": "setting razor wire",
+      "source_start": 51.39,
+      "source_end": 52.56,
+      "seconds": 1.17,
+      "wem_sha256": "ed503cd550f16ae7dbac953ef2c01f067b08804531473afb9d06bac6e563e96e"
+    },
+    "815600390": {
+      "clip": "using_shield",
+      "pool": "e",
+      "events": [
+        "Play_vo_Braum_BraumEDummyVORiven_cast3D"
+      ],
+      "phrase": "using a shield",
+      "source_start": 45.17,
+      "source_end": 46.120000000000005,
+      "seconds": 0.95,
+      "wem_sha256": "c86a52e372577b5863b05e1b2f3ee6131785f5a655a94d5d7fbd74e50641ae4f"
+    },
+    "15796215": {
+      "clip": "stupid",
+      "pool": "laugh",
+      "events": [
+        "Play_vo_Braum_Laugh3DGeneral"
+      ],
+      "phrase": "don't be stupid",
+      "source_start": 35.35,
+      "source_end": 36.42,
+      "seconds": 1.07,
+      "wem_sha256": "09a6e6e50f6da9d121f33284631cf9dbd32b379d0367a6a85a4af563b7199c49"
+    },
+    "74349572": {
+      "clip": "improvement",
+      "pool": "laugh",
+      "events": [
+        "Play_vo_Braum_Laugh3DGeneral"
+      ],
+      "phrase": "that's an improvement",
+      "source_start": 32.17,
+      "source_end": 33.160000000000004,
+      "seconds": 0.99,
+      "wem_sha256": "495fc039459fc5c8361b0e3d2d35cb34fa7c80f416f4e1467062bd60889932c0"
+    },
+    "889358673": {
+      "clip": "last_words",
+      "pool": "laugh",
+      "events": [
+        "Play_vo_Braum_Laugh3DGeneral"
+      ],
+      "phrase": "any last words",
+      "source_start": 85.94000000000001,
+      "source_end": 86.85,
+      "seconds": 0.91,
+      "wem_sha256": "e62f64ac42e3708ee72629db9f49066ab8ef7ccdd3b6e31598cd453e0f0326a1"
+    },
+    "426420764": {
+      "clip": "shields_up",
+      "pool": "e",
+      "events": [
+        "Play_vo_Braum_BraumEDummyVODraven_cast3D"
+      ],
+      "phrase": "shields up",
+      "source_start": 235.17000000000002,
+      "source_end": 235.78,
+      "seconds": 0.61,
+      "wem_sha256": "e29edefda34014deb2f6db17b79747a6e906a388f75e2578add27c8c91d6b697"
+    },
+    "231332424": {
+      "clip": "cover_me",
+      "pool": "recall",
+      "events": [
+        "Play_vo_Braum_Recall3DGeneral"
+      ],
+      "phrase": "cover me",
+      "source_start": 6.165,
+      "source_end": 6.835,
+      "seconds": 0.67,
+      "wem_sha256": "a793c2befd1ad1ffcaf9e28d4a5e125e874301ca00130b1610589c0d116c1839"
+    },
+    "261570141": {
+      "clip": "stay_here",
+      "pool": "recall",
+      "events": [
+        "Play_vo_Braum_Recall3DGeneral"
+      ],
+      "phrase": "stay here and don't move",
+      "source_start": 130.70000000000002,
+      "source_end": 132.25,
+      "seconds": 1.55,
+      "wem_sha256": "c37ee6270ff67d0c4ee4aaf8322e39ef79aaa359d110783faeef3cf2d8629999"
+    },
+    "876509669": {
+      "clip": "stand_by",
+      "pool": "recall",
+      "events": [
+        "Play_vo_Braum_Recall3DGeneral"
+      ],
+      "phrase": "standing by",
+      "source_start": 264.99,
+      "source_end": 265.86,
+      "seconds": 0.87,
+      "wem_sha256": "c479026e2e45ad1380f8aae43f3499e4d1cbec0259305d85e6e21578feaadf79"
+    },
+    "545248167": {
+      "clip": "dare",
+      "pool": "encounter",
+      "events": [
+        "Play_vo_Braum_FirstEncounter3DAlistar"
+      ],
+      "phrase": "i bloody dare you",
+      "source_start": 238.75,
+      "source_end": 240.62,
+      "seconds": 1.87,
+      "wem_sha256": "1786744fedcd4e62856c84b80331f3f39db23b11965d046a4c266a79c80290f7"
+    },
+    "907357022": {
+      "clip": "regret",
+      "pool": "encounter",
+      "events": [
+        "Play_vo_Braum_FirstEncounter3DAlistar"
+      ],
+      "phrase": "you tossers are gonna regret this",
+      "source_start": 215.29000000000002,
+      "source_end": 217.12,
+      "seconds": 1.83,
+      "wem_sha256": "2805f223fb8819837dd1be2ec0c2e21457c38ffeca2ce7e908d2da795ca09d66"
+    },
+    "51429272": {
+      "clip": "wont_pass",
+      "pool": "e",
+      "events": [
+        "Play_vo_Braum_BraumE_cast3D"
+      ],
+      "phrase": "you won't get past me",
+      "source_start": 232.19,
+      "source_end": 234.1,
+      "seconds": 1.91,
+      "wem_sha256": "56c98b9a3046af1c58103725b8cb01afee9013afef3e75bc37a8d87089c63ba3"
+    },
+    "146495738": {
+      "clip": "stop_here",
+      "pool": "e",
+      "events": [
+        "Play_vo_Braum_BraumE_cast3D"
+      ],
+      "phrase": "i'll stop you right here",
+      "source_start": 179.8,
+      "source_end": 181.32999999999998,
+      "seconds": 1.53,
+      "wem_sha256": "684e2be29b0202d5bf1de7792eec5619a7331514fd3842a77925e3f7b94aaf6e"
+    },
+    "280754940": {
+      "clip": "shield",
+      "pool": "e",
+      "events": [
+        "Play_vo_Braum_BraumE_cast3D"
+      ],
+      "phrase": "shield deployed",
+      "source_start": 44.29,
+      "source_end": 44.96,
+      "seconds": 0.67,
+      "wem_sha256": "d36cf81932ed46af7dcf1a6919d99641b8d75fc469e7f173030a23baf0464140"
+    },
+    "647742294": {
+      "clip": "using_shield",
+      "pool": "e",
+      "events": [
+        "Play_vo_Braum_BraumE_cast3D"
+      ],
+      "phrase": "using a shield",
+      "source_start": 45.17,
+      "source_end": 46.120000000000005,
+      "seconds": 0.95,
+      "wem_sha256": "c86a52e372577b5863b05e1b2f3ee6131785f5a655a94d5d7fbd74e50641ae4f"
+    },
+    "960622333": {
+      "clip": "shields_up",
+      "pool": "e",
+      "events": [
+        "Play_vo_Braum_BraumE_cast3D"
+      ],
+      "phrase": "shields up",
+      "source_start": 235.17000000000002,
+      "source_end": 235.78,
+      "seconds": 0.61,
+      "wem_sha256": "e29edefda34014deb2f6db17b79747a6e906a388f75e2578add27c8c91d6b697"
+    },
+    "137986579": {
+      "clip": "not_done",
+      "pool": "respawn",
+      "events": [
+        "Play_vo_Braum_Respawn2DGeneral"
+      ],
+      "phrase": "i'm not done with you",
+      "source_start": 142.855,
+      "source_end": 144.60999999999999,
+      "seconds": 1.7550113378684806,
+      "wem_sha256": "3d920c78bcb4a408952ed3079c9904b52983add9b9f43c93ea526f7fae3c722a"
+    },
+    "237897084": {
+      "clip": "ready",
+      "pool": "respawn",
+      "events": [
+        "Play_vo_Braum_Respawn2DGeneral"
+      ],
+      "phrase": "i'm ready let's do this",
+      "source_start": 207.97,
+      "source_end": 209.57999999999998,
+      "seconds": 1.61,
+      "wem_sha256": "34003c222f3ec7a190ca8123d60122b735199f9da45581cfb455a470faf5099b"
+    },
+    "1047536956": {
+      "clip": "regret",
+      "pool": "respawn",
+      "events": [
+        "Play_vo_Braum_Respawn2DGeneral"
+      ],
+      "phrase": "you tossers are gonna regret this",
+      "source_start": 215.29000000000002,
+      "source_end": 217.12,
+      "seconds": 1.83,
+      "wem_sha256": "2805f223fb8819837dd1be2ec0c2e21457c38ffeca2ce7e908d2da795ca09d66"
+    },
+    "155331927": {
+      "clip": "cover",
+      "pool": "w",
+      "events": [
+        "Play_vo_Braum_BraumWDummySpell_cast3D"
+      ],
+      "phrase": "stay behind cover",
+      "source_start": 79.475,
+      "source_end": 80.50500000000001,
+      "seconds": 1.03,
+      "wem_sha256": "f8caf94d53e2ed8525e5c385023cbd88c4a087078809c4de5e1ab203cd458151"
+    },
+    "179118163": {
+      "clip": "back_up",
+      "pool": "w",
+      "events": [
+        "Play_vo_Braum_BraumWDummySpell_cast3D"
+      ],
+      "phrase": "let's get you back up",
+      "source_start": 123.06,
+      "source_end": 124.08999999999999,
+      "seconds": 1.03,
+      "wem_sha256": "1ea234fd6b2884be0842b44b81ccf1156c7e92e7b9ac25b7ab4de638332b139c"
+    },
+    "279382394": {
+      "clip": "hold_on",
+      "pool": "w",
+      "events": [
+        "Play_vo_Braum_BraumWDummySpell_cast3D"
+      ],
+      "phrase": "hold on hold on",
+      "source_start": 161.52,
+      "source_end": 163.665,
+      "seconds": 2.144988662131519,
+      "wem_sha256": "b2bea1eeb5e1a3c9181cbf9659f9061dfef8b86ed68f01c27ad6323718ac7f0d"
+    },
+    "332547090": {
+      "clip": "fix",
+      "pool": "w",
+      "events": [
+        "Play_vo_Braum_BraumWDummySpell_cast3D"
+      ],
+      "phrase": "i'll fix this don't move",
+      "source_start": 25.83,
+      "source_end": 27.415000000000003,
+      "seconds": 1.5850113378684807,
+      "wem_sha256": "8a354383109f1108de7e01dac89089893a73c7f98356e10197c352d08ceebd2c"
+    },
+    "343136154": {
+      "clip": "patch",
+      "pool": "w",
+      "events": [
+        "Play_vo_Braum_BraumWDummySpell_cast3D"
+      ],
+      "phrase": "i'll patch you up",
+      "source_start": 7.505,
+      "source_end": 8.375,
+      "seconds": 0.87,
+      "wem_sha256": "e6d6eac031f4eaf52c92063e14ab75faf10687e3aaff946e46d69ec84df0cec7"
+    },
+    "519080552": {
+      "clip": "stabilizing",
+      "pool": "w",
+      "events": [
+        "Play_vo_Braum_BraumWDummySpell_cast3D"
+      ],
+      "phrase": "stabilizing",
+      "source_start": 222.21,
+      "source_end": 222.98,
+      "seconds": 0.77,
+      "wem_sha256": "75d8dad55b975001bff60de3fefacdbaf0f32afad41a547ac9c6fe8776ad00aa"
+    },
+    "151427171": {
+      "clip": "no_1",
+      "pool": "death",
+      "events": [
+        "Play_vo_Braum_Death3D"
+      ],
+      "phrase": "no",
+      "source_start": 114.52000000000001,
+      "source_end": 115.05,
+      "seconds": 0.53,
+      "wem_sha256": "b339d41dfc1b671afcfac511e0add1a9cf18b0a2acc8c4d949b23730c343f9ff"
+    },
+    "739758215": {
+      "clip": "no_2",
+      "pool": "death",
+      "events": [
+        "Play_vo_Braum_Death3D"
+      ],
+      "phrase": "no",
+      "source_start": 264.23,
+      "source_end": 264.74,
+      "seconds": 0.51,
+      "wem_sha256": "3c08f374afe93403174be47b51018ed0f4a71f442463dcea6a1e973cbf581294"
+    },
+    "945524893": {
+      "clip": "hell",
+      "pool": "death",
+      "events": [
+        "Play_vo_Braum_Death3D"
+      ],
+      "phrase": "bloody hell",
+      "source_start": 170.26000000000002,
+      "source_end": 171.04999999999998,
+      "seconds": 0.79,
+      "wem_sha256": "d715808ac11a965a5de2409c82c8b685a194eb9f96045271e20b069401ea43f1"
+    },
+    "1050667758": {
+      "clip": "shit",
+      "pool": "death",
+      "events": [
+        "Play_vo_Braum_Death3D"
+      ],
+      "phrase": "shit",
+      "source_start": 139.20000000000002,
+      "source_end": 139.59,
+      "seconds": 0.39,
+      "wem_sha256": "9f3cfe4b188ccab5b466d8f3f22c6a0ba34f3f07f0ee1b22ec3078183fcbc3fe"
+    },
+    "61614206": {
+      "clip": "improvement",
+      "pool": "item",
+      "events": [
+        "Play_vo_Braum_BuyItem2DSunfireAegis"
+      ],
+      "phrase": "that's an improvement",
+      "source_start": 32.17,
+      "source_end": 33.160000000000004,
+      "seconds": 0.99,
+      "wem_sha256": "495fc039459fc5c8361b0e3d2d35cb34fa7c80f416f4e1467062bd60889932c0"
+    },
+    "231775511": {
+      "clip": "ready",
+      "pool": "item",
+      "events": [
+        "Play_vo_Braum_BuyItem2DSunfireAegis"
+      ],
+      "phrase": "i'm ready let's do this",
+      "source_start": 207.97,
+      "source_end": 209.57999999999998,
+      "seconds": 1.61,
+      "wem_sha256": "34003c222f3ec7a190ca8123d60122b735199f9da45581cfb455a470faf5099b"
+    },
+    "494579870": {
+      "clip": "doing_part",
+      "pool": "item",
+      "events": [
+        "Play_vo_Braum_BuyItem2DSunfireAegis"
+      ],
+      "phrase": "doin' my part here",
+      "source_start": 174.1,
+      "source_end": 175.47,
+      "seconds": 1.37,
+      "wem_sha256": "bb2259f6d329f401fa65434ea839be362d08ca62ec5c3e6da3c5af480b40f483"
+    },
+    "708980041": {
+      "clip": "bruises",
+      "pool": "item",
+      "events": [
+        "Play_vo_Braum_BuyItem2DSunfireAegis"
+      ],
+      "phrase": "i don't care for cuts or bruises",
+      "source_start": 261.37,
+      "source_end": 263.1,
+      "seconds": 1.73,
+      "wem_sha256": "cd52c914751a9d85be6b3c25017b105dd8b0854beb955a4f899bc296a3d57bd1"
+    },
+    "29977717": {
+      "clip": "get_it",
+      "pool": "item",
+      "events": [
+        "Play_vo_Braum_BuyItem2DFrozenHeart"
+      ],
+      "phrase": "come and get it",
+      "source_start": 247.49,
+      "source_end": 248.72,
+      "seconds": 1.23,
+      "wem_sha256": "1ed4db6579b938334aa4622fd911dc97244c9b8303209be5b51a7191a51d93a9"
+    },
+    "147896421": {
+      "clip": "come_at_me",
+      "pool": "taunt",
+      "events": [
+        "Play_vo_Braum_Taunt3DGeneral"
+      ],
+      "phrase": "come at me i dare you",
+      "source_start": 226.445,
+      "source_end": 228.73999999999998,
+      "seconds": 2.2949886621315194,
+      "wem_sha256": "b77673d9f326d9999f75f00941ee99d4a18b4070dd9df666babdf5addbca6259"
+    },
+    "1064841445": {
+      "clip": "dare_closer",
+      "pool": "taunt",
+      "events": [
+        "Play_vo_Braum_Taunt3DGeneral"
+      ],
+      "phrase": "i dare you to come closer",
+      "source_start": 127.84,
+      "source_end": 129.07,
+      "seconds": 1.23,
+      "wem_sha256": "de70099c5c0e4df99472ea061093102a81b4964d7edbc5c848215af3007b3a90"
+    },
+    "954312352": {
+      "clip": "just_you_me",
+      "pool": "encounter",
+      "events": [
+        "Play_vo_Braum_FirstEncounter3DAnnie"
+      ],
+      "phrase": "just you and me",
+      "source_start": 40.97,
+      "source_end": 42.4,
+      "seconds": 1.43,
+      "wem_sha256": "bec0bff5b11a0b877320dc0c3859e94cf9d3f06da7ca60e4433b6a6c5376d6a8"
+    },
+    "417018604": {
+      "clip": "improvement",
+      "pool": "item",
+      "events": [
+        "Play_vo_Braum_UseItem2DPoroSnax"
+      ],
+      "phrase": "that's an improvement",
+      "source_start": 32.17,
+      "source_end": 33.160000000000004,
+      "seconds": 0.99,
+      "wem_sha256": "495fc039459fc5c8361b0e3d2d35cb34fa7c80f416f4e1467062bd60889932c0"
+    },
+    "858919059": {
+      "clip": "ready",
+      "pool": "item",
+      "events": [
+        "Play_vo_Braum_UseItem2DPoroSnax"
+      ],
+      "phrase": "i'm ready let's do this",
+      "source_start": 207.97,
+      "source_end": 209.57999999999998,
+      "seconds": 1.61,
+      "wem_sha256": "34003c222f3ec7a190ca8123d60122b735199f9da45581cfb455a470faf5099b"
+    },
+    "324119927": {
+      "clip": "last_words",
+      "pool": "encounter",
+      "events": [
+        "Play_vo_Braum_FirstEncounter3DFizz"
+      ],
+      "phrase": "any last words",
+      "source_start": 85.94000000000001,
+      "source_end": 86.85,
+      "seconds": 0.91,
+      "wem_sha256": "e62f64ac42e3708ee72629db9f49066ab8ef7ccdd3b6e31598cd453e0f0326a1"
+    },
+    "202991617": {
+      "clip": "wont_pass",
+      "pool": "e",
+      "events": [
+        "Play_vo_Braum_BraumEDummyVOAshe_cast3D"
+      ],
+      "phrase": "you won't get past me",
+      "source_start": 232.19,
+      "source_end": 234.1,
+      "seconds": 1.91,
+      "wem_sha256": "56c98b9a3046af1c58103725b8cb01afee9013afef3e75bc37a8d87089c63ba3"
+    },
+    "655930465": {
+      "clip": "doing_part",
+      "pool": "item",
+      "events": [
+        "Play_vo_Braum_BuyItem2DBootsTierTwo"
+      ],
+      "phrase": "doin' my part here",
+      "source_start": 174.1,
+      "source_end": 175.47,
+      "seconds": 1.37,
+      "wem_sha256": "bb2259f6d329f401fa65434ea839be362d08ca62ec5c3e6da3c5af480b40f483"
+    },
+    "43830641": {
+      "clip": "follow_company",
+      "pool": "first_move",
+      "events": [
+        "Play_vo_Braum_Move2DFirst"
+      ],
+      "phrase": "follow me and you're in good company",
+      "source_start": 99.52000000000001,
+      "source_end": 101.39,
+      "seconds": 1.87,
+      "wem_sha256": "acc69ca4b7d936e02bfe225a503521ffd0ba0bc92dc28253bcb1bd1301e623ce"
+    },
+    "85769256": {
+      "clip": "ready",
+      "pool": "first_move",
+      "events": [
+        "Play_vo_Braum_Move2DFirst"
+      ],
+      "phrase": "i'm ready let's do this",
+      "source_start": 207.97,
+      "source_end": 209.57999999999998,
+      "seconds": 1.61,
+      "wem_sha256": "34003c222f3ec7a190ca8123d60122b735199f9da45581cfb455a470faf5099b"
+    },
+    "115236896": {
+      "clip": "win_this",
+      "pool": "first_move",
+      "events": [
+        "Play_vo_Braum_Move2DFirst"
+      ],
+      "phrase": "we win this no matter what",
+      "source_start": 259.23,
+      "source_end": 261.1,
+      "seconds": 1.87,
+      "wem_sha256": "dca026fc21f121870cdfe3c8af9b0251760471210d8a73896fe814a2cebbb185"
+    },
+    "177936294": {
+      "clip": "dare_closer",
+      "pool": "first_move",
+      "events": [
+        "Play_vo_Braum_Move2DFirst"
+      ],
+      "phrase": "i dare you to come closer",
+      "source_start": 127.84,
+      "source_end": 129.07,
+      "seconds": 1.23,
+      "wem_sha256": "de70099c5c0e4df99472ea061093102a81b4964d7edbc5c848215af3007b3a90"
+    },
+    "274335888": {
+      "clip": "regret",
+      "pool": "first_move",
+      "events": [
+        "Play_vo_Braum_Move2DFirst"
+      ],
+      "phrase": "you tossers are gonna regret this",
+      "source_start": 215.29000000000002,
+      "source_end": 217.12,
+      "seconds": 1.83,
+      "wem_sha256": "2805f223fb8819837dd1be2ec0c2e21457c38ffeca2ce7e908d2da795ca09d66"
+    },
+    "294454590": {
+      "clip": "bruises",
+      "pool": "first_move",
+      "events": [
+        "Play_vo_Braum_Move2DFirst"
+      ],
+      "phrase": "i don't care for cuts or bruises",
+      "source_start": 261.37,
+      "source_end": 263.1,
+      "seconds": 1.73,
+      "wem_sha256": "cd52c914751a9d85be6b3c25017b105dd8b0854beb955a4f899bc296a3d57bd1"
+    },
+    "340291259": {
+      "clip": "wait_day",
+      "pool": "first_move",
+      "events": [
+        "Play_vo_Braum_Move2DFirst"
+      ],
+      "phrase": "i can't wait all day",
+      "source_start": 64.49499999999999,
+      "source_end": 65.78500000000001,
+      "seconds": 1.29,
+      "wem_sha256": "56c06f0509b781574f59e7d8dea191a51cf6e8216f3b80f4887290367d861b79"
+    },
+    "415028259": {
+      "clip": "hate_wait",
+      "pool": "first_move",
+      "events": [
+        "Play_vo_Braum_Move2DFirst"
+      ],
+      "phrase": "i hate waiting bloody hate it",
+      "source_start": 205.65,
+      "source_end": 208.01999999999998,
+      "seconds": 2.37,
+      "wem_sha256": "14a848bd16bcc3f9fe80e41023241709b061ea1932f3b60c6970be3441fc9f1b"
+    },
+    "536710370": {
+      "clip": "wait_over",
+      "pool": "first_move",
+      "events": [
+        "Play_vo_Braum_Move2DFirst"
+      ],
+      "phrase": "tell me when the wait is over",
+      "source_start": 224.17000000000002,
+      "source_end": 225.6,
+      "seconds": 1.43,
+      "wem_sha256": "d2725fc7dfe575d32c51ed5fcf55174559f6097d462680d23121c04008922a20"
+    },
+    "822159532": {
+      "clip": "miracle",
+      "pool": "first_move",
+      "events": [
+        "Play_vo_Braum_Move2DFirst"
+      ],
+      "phrase": "i'm waiting for a miracle",
+      "source_start": 265.89,
+      "source_end": 267.28000000000003,
+      "seconds": 1.39,
+      "wem_sha256": "b63062e27193e800ec788b29a0c35deb600965b7712fdc86503d96efb27c49f3"
+    },
+    "874346298": {
+      "clip": "come_at_me",
+      "pool": "first_move",
+      "events": [
+        "Play_vo_Braum_Move2DFirst"
+      ],
+      "phrase": "come at me i dare you",
+      "source_start": 226.445,
+      "source_end": 228.73999999999998,
+      "seconds": 2.2949886621315194,
+      "wem_sha256": "b77673d9f326d9999f75f00941ee99d4a18b4070dd9df666babdf5addbca6259"
+    },
+    "969940451": {
+      "clip": "move",
+      "pool": "first_move",
+      "events": [
+        "Play_vo_Braum_Move2DFirst"
+      ],
+      "phrase": "let's move",
+      "source_start": 136.8,
+      "source_end": 137.65,
+      "seconds": 0.85,
+      "wem_sha256": "d6fee2d95def52718e59ebc460b49e4270025ee6a2767bcac7c0cd19ffaeacc6"
+    },
+    "151561297": {
+      "clip": "come_at_me",
+      "pool": "encounter",
+      "events": [
+        "Play_vo_Braum_FirstEncounter3DTryndamere"
+      ],
+      "phrase": "come at me i dare you",
+      "source_start": 226.445,
+      "source_end": 228.73999999999998,
+      "seconds": 2.2949886621315194,
+      "wem_sha256": "b77673d9f326d9999f75f00941ee99d4a18b4070dd9df666babdf5addbca6259"
+    },
+    "242744163": {
+      "clip": "dare",
+      "pool": "encounter",
+      "events": [
+        "Play_vo_Braum_FirstEncounter3DTryndamere"
+      ],
+      "phrase": "i bloody dare you",
+      "source_start": 238.75,
+      "source_end": 240.62,
+      "seconds": 1.87,
+      "wem_sha256": "1786744fedcd4e62856c84b80331f3f39db23b11965d046a4c266a79c80290f7"
+    },
+    "792497920": {
+      "clip": "audience",
+      "pool": "dance",
+      "events": [
+        "Play_vo_Braum_Dance3DGeneral"
+      ],
+      "phrase": "you have an audience of one",
+      "source_start": 30.35,
+      "source_end": 31.64,
+      "seconds": 1.29,
+      "wem_sha256": "383e442d5ef4b489d9afb328c681fe6870053630ffd8a0b1d4ef9a306fa41637"
+    },
+    "547036868": {
+      "clip": "stop_here",
+      "pool": "e",
+      "events": [
+        "Play_vo_Braum_BraumEDummyVOCaitlyn_cast3D"
+      ],
+      "phrase": "i'll stop you right here",
+      "source_start": 179.8,
+      "source_end": 181.32999999999998,
+      "seconds": 1.53,
+      "wem_sha256": "684e2be29b0202d5bf1de7792eec5619a7331514fd3842a77925e3f7b94aaf6e"
+    }
+  },
+  "notes": [
+    "Ward lines use native BuyItem2DWard, not ward placement.",
+    "Laugh emote uses sarcastic spoken lines; death uses short No/Bloody hell/Shit exclamations; no synthetic screams.",
+    "Shared attack media maps consistently across all eight native attack-cast events.",
+    "Native first-move pool is retained; no invented long-move or kill triggers."
+  ]
+}

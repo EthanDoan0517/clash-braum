@@ -1,0 +1,393 @@
+{
+  "status": "OFFLINE BUILT; runtime not yet accepted",
+  "baseline_sha256": "f3b055eff6f590f9a8a265aa1a878d4f2f20abf77d52049d495538945f868554",
+  "baseline_user_feedback": "Model looks good; colors slightly too dark. Geometry accepted.",
+  "brightness_formula": "RGB *= 1 + 0.18*(1-max(RGB)); normalized encoded diffuse values; alpha unchanged",
+  "brightness": {
+    "body": {
+      "source": "body_atlas_trial/clash_body_basecolor.png",
+      "source_sha256": "bf1fcca0ef3fdcebd8ebb9ce9056ddab9c1fb94cd6a30252c9ba19fd8db5aab9",
+      "output_sha256": "1299cbb15778ecff9822bdb256fd31f81a33abae1554613b63d7be55d2c6440d",
+      "mean_rgb_increase": 0.4396689732869466,
+      "max_channel_increase": 11,
+      "alpha_identical": true
+    },
+    "shield_frame": {
+      "source": "shield_material_trial/clash_shield_basecolor.png",
+      "source_sha256": "ebc32f500ab13843150fe6ce0365f3e827e6f04d64e4d3adcf9d335df0edf249",
+      "output_sha256": "da92e99196c2267cfa2762b23f0f64c86e18972c708ae5c92ca41753b272977b",
+      "mean_rgb_increase": 2.6336796283721924,
+      "max_channel_increase": 10,
+      "alpha_identical": true
+    }
+  },
+  "changes": [
+    {
+      "spell": "E",
+      "key": "Braum_E_Shield_cas",
+      "source_entry": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_E_Shield_cas",
+      "source_owner": "eb9d53354a504663",
+      "clone": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_E_Shield_cas",
+      "emitters": [
+        "Inchant_shield",
+        "Inchant_shield_2",
+        "line"
+      ],
+      "source_sha256": "3f9b4f8c3b621db3354b059ea037d1b065bb83feb5fc9392480d2e028436c576"
+    },
+    {
+      "spell": "E",
+      "key": "Braum_E_Block_BA_cas",
+      "source_entry": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_E_Block_BA_cas",
+      "source_owner": "2dc39c165f3aa923",
+      "clone": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_E_Block_BA_cas",
+      "emitters": [
+        "flash"
+      ],
+      "source_sha256": "c34727950542c11ab927f563f22657bc21cfc8a704d1726c61660d5a4ee08dd5"
+    },
+    {
+      "spell": "E",
+      "key": "Braum_E_Block_BA_cas2",
+      "source_entry": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_E_Block_BA_cas2",
+      "source_owner": "2dc39c165f3aa923",
+      "clone": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_E_Block_BA_cas2",
+      "emitters": [
+        "shield_blink"
+      ],
+      "source_sha256": "c34727950542c11ab927f563f22657bc21cfc8a704d1726c61660d5a4ee08dd5"
+    },
+    {
+      "spell": "E",
+      "key": "Braum_E_Block_Spell_cas",
+      "source_entry": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_E_Block_Spell_cas",
+      "source_owner": "2dc39c165f3aa923",
+      "clone": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_E_Block_Spell_cas",
+      "emitters": [
+        "flash",
+        "splash"
+      ],
+      "source_sha256": "c34727950542c11ab927f563f22657bc21cfc8a704d1726c61660d5a4ee08dd5"
+    },
+    {
+      "spell": "E",
+      "key": "Braum_E_Block_Spell_cas2",
+      "source_entry": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_E_Block_Spell_cas2",
+      "source_owner": "2dc39c165f3aa923",
+      "clone": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_E_Block_Spell_cas2",
+      "emitters": [
+        "shield_blink"
+      ],
+      "source_sha256": "c34727950542c11ab927f563f22657bc21cfc8a704d1726c61660d5a4ee08dd5"
+    },
+    {
+      "spell": "E",
+      "key": "Braum_E_Block_Spell_self",
+      "source_entry": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_E_Block_Spell_self",
+      "source_owner": "2dc39c165f3aa923",
+      "clone": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_E_Block_Spell_self",
+      "emitters": [
+        "splash"
+      ],
+      "source_sha256": "c34727950542c11ab927f563f22657bc21cfc8a704d1726c61660d5a4ee08dd5"
+    },
+    {
+      "spell": "E",
+      "key": "Braum_E_shield_end",
+      "source_entry": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_E_shield_end",
+      "source_owner": "2dc39c165f3aa923",
+      "clone": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_E_shield_end",
+      "emitters": [
+        "spark2"
+      ],
+      "source_sha256": "c34727950542c11ab927f563f22657bc21cfc8a704d1726c61660d5a4ee08dd5"
+    },
+    {
+      "spell": "E",
+      "key": "Braum_E_shield_first_block",
+      "source_entry": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_E_shield_first_block",
+      "source_owner": "2dc39c165f3aa923",
+      "clone": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_E_shield_first_block",
+      "emitters": [
+        "First_block"
+      ],
+      "source_sha256": "c34727950542c11ab927f563f22657bc21cfc8a704d1726c61660d5a4ee08dd5"
+    },
+    {
+      "spell": "E",
+      "key": "Braum_E_Shield_first_block_end",
+      "source_entry": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_E_Shield_first_block_end",
+      "source_owner": "2dc39c165f3aa923",
+      "clone": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_E_Shield_first_block_end",
+      "emitters": [
+        "spark2"
+      ],
+      "source_sha256": "c34727950542c11ab927f563f22657bc21cfc8a704d1726c61660d5a4ee08dd5"
+    },
+    {
+      "spell": "Q",
+      "key": "Braum_Q_mis",
+      "source_entry": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Q_mis",
+      "source_owner": "2dc39c165f3aa923",
+      "clone": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_Q_mis",
+      "emitters": [
+        "Trail",
+        "Trail_2",
+        "Spark"
+      ],
+      "source_sha256": "c34727950542c11ab927f563f22657bc21cfc8a704d1726c61660d5a4ee08dd5"
+    },
+    {
+      "spell": "Q",
+      "key": "Braum_Q_hit_tar",
+      "source_entry": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Q_hit_tar",
+      "source_owner": "2dc39c165f3aa923",
+      "clone": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_Q_hit_tar",
+      "emitters": [
+        "flash2"
+      ],
+      "source_sha256": "c34727950542c11ab927f563f22657bc21cfc8a704d1726c61660d5a4ee08dd5"
+    },
+    {
+      "spell": "Q",
+      "key": "Braum_Q_Hit_Monster_tar",
+      "source_entry": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_Q_Hit_Monster_tar",
+      "source_owner": "2dc39c165f3aa923",
+      "clone": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_Q_Hit_Monster_tar",
+      "emitters": [
+        "spark",
+        "flash2"
+      ],
+      "source_sha256": "c34727950542c11ab927f563f22657bc21cfc8a704d1726c61660d5a4ee08dd5"
+    },
+    {
+      "spell": "R",
+      "key": "Braum_R_mis",
+      "source_entry": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_R_mis",
+      "source_owner": "2dc39c165f3aa923",
+      "clone": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_R_mis",
+      "emitters": [
+        "line"
+      ],
+      "source_sha256": "c34727950542c11ab927f563f22657bc21cfc8a704d1726c61660d5a4ee08dd5"
+    },
+    {
+      "spell": "R",
+      "key": "Braum_R_Small_mis",
+      "source_entry": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_R_Small_mis",
+      "source_owner": "2dc39c165f3aa923",
+      "clone": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_R_Small_mis",
+      "emitters": [
+        "line"
+      ],
+      "source_sha256": "c34727950542c11ab927f563f22657bc21cfc8a704d1726c61660d5a4ee08dd5"
+    },
+    {
+      "spell": "R",
+      "key": "Braum_R_PBAOE_Cas",
+      "source_entry": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_R_PBAOE_Cas",
+      "source_owner": "2dc39c165f3aa923",
+      "clone": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_R_PBAOE_Cas",
+      "emitters": [
+        "line"
+      ],
+      "source_sha256": "c34727950542c11ab927f563f22657bc21cfc8a704d1726c61660d5a4ee08dd5"
+    },
+    {
+      "spell": "R",
+      "key": "Braum_R_Firstknockup_tar",
+      "source_entry": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_R_Firstknockup_tar",
+      "source_owner": "b8d6f27624ae797b",
+      "clone": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_R_Firstknockup_tar",
+      "emitters": [
+        "Lightning_Flash"
+      ],
+      "source_sha256": "6db9cdf652415db14ee64e001cc3e625f59c6cc7259423810624d8521af7f2bc"
+    },
+    {
+      "spell": "W",
+      "key": "Braum_W_Dash_Land",
+      "source_entry": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_W_Dash_Land",
+      "source_owner": "f2ef4463d62600e6",
+      "clone": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_W_Dash_Land",
+      "emitters": [
+        "line"
+      ],
+      "source_sha256": "92b47ec4865ca894e1858cac4067700e8259e65ba68d90965b7c257479feb6c6"
+    },
+    {
+      "spell": "W",
+      "key": "Braum_W_Shield_buf",
+      "source_entry": "Characters/Braum/Skins/Skin0/Particles/Braum_Base_W_Shield_buf",
+      "source_owner": "2dc39c165f3aa923",
+      "clone": "Characters/Braum/Skins/Skin0/Particles/Clash_v1_Braum_W_Shield_buf",
+      "emitters": [
+        "armor_sparkle"
+      ],
+      "source_sha256": "c34727950542c11ab927f563f22657bc21cfc8a704d1726c61660d5a4ee08dd5"
+    }
+  ],
+  "builds": [
+    {
+      "label": "brightness",
+      "archive": "build\\lightning_v1\\brightness\\Braum_Clash_Brightness_v1.fantome",
+      "sha256": "c1b3d87608d55c295c98c5a990cc7782ae4e76e2c2e9342a20a91a2357af07d5",
+      "spells": [],
+      "clones": 0,
+      "payloads": [
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/body.tex",
+          "sha256": "9917bf895ac072971b5d1a7ed783f885d0199debf1a84d267903900d750f69ff"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skl",
+          "sha256": "c961a75b7a7ca6831b59d960d06dcd4f699e491c70e41a6d3cec442d7d2f5cd8"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skn",
+          "sha256": "3bd8e207213bb97599c3aff6617cfe62f36c033c84e96ba4f9d09600eec6625c"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/neutral_gloss.tex",
+          "sha256": "171e0ccaed440a26dc34c29c3f14dd490b9ee4093c98748f25726a22351ed97c"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/shield_frame.tex",
+          "sha256": "9a043af164ee9e258203fbf9abc2d05f6569090ed38d99b51299cccd378571b6"
+        },
+        {
+          "path": "data/characters/braum/skins/skin0.bin",
+          "sha256": "719800edd0d60f05ac6138dd2dd4c663574583eba8527ca1195b8dd7e5583208"
+        }
+      ]
+    },
+    {
+      "label": "e",
+      "archive": "build\\lightning_v1\\e\\Braum_Clash_E_v1.fantome",
+      "sha256": "cb56fb68534ec21092f4dc40e624377daea8ebddeb3750ff1ffff942ea4104b7",
+      "spells": [
+        "E"
+      ],
+      "clones": 9,
+      "payloads": [
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/body.tex",
+          "sha256": "9917bf895ac072971b5d1a7ed783f885d0199debf1a84d267903900d750f69ff"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skl",
+          "sha256": "c961a75b7a7ca6831b59d960d06dcd4f699e491c70e41a6d3cec442d7d2f5cd8"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skn",
+          "sha256": "3bd8e207213bb97599c3aff6617cfe62f36c033c84e96ba4f9d09600eec6625c"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/lightning_trail.tex",
+          "sha256": "75a0a1c613b3eb8f6f20c5b85816dacf911adf9af3ef24218fa7e3f4aa3e0707"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/neutral_gloss.tex",
+          "sha256": "171e0ccaed440a26dc34c29c3f14dd490b9ee4093c98748f25726a22351ed97c"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/shield_frame.tex",
+          "sha256": "9a043af164ee9e258203fbf9abc2d05f6569090ed38d99b51299cccd378571b6"
+        },
+        {
+          "path": "data/characters/braum/skins/skin0.bin",
+          "sha256": "3f64cae7b136b19f3d122f8440919b47548e790324cb50d9da2a78cace284b9b"
+        }
+      ]
+    },
+    {
+      "label": "eq",
+      "archive": "build\\lightning_v1\\eq\\Braum_Clash_Eq_v1.fantome",
+      "sha256": "6f185dda0a9ca4c140734c4fbef5540da99c9574f803ef990b4091c394465e50",
+      "spells": [
+        "E",
+        "Q"
+      ],
+      "clones": 12,
+      "payloads": [
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/body.tex",
+          "sha256": "9917bf895ac072971b5d1a7ed783f885d0199debf1a84d267903900d750f69ff"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skl",
+          "sha256": "c961a75b7a7ca6831b59d960d06dcd4f699e491c70e41a6d3cec442d7d2f5cd8"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skn",
+          "sha256": "3bd8e207213bb97599c3aff6617cfe62f36c033c84e96ba4f9d09600eec6625c"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/lightning_trail.tex",
+          "sha256": "75a0a1c613b3eb8f6f20c5b85816dacf911adf9af3ef24218fa7e3f4aa3e0707"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/neutral_gloss.tex",
+          "sha256": "171e0ccaed440a26dc34c29c3f14dd490b9ee4093c98748f25726a22351ed97c"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/shield_frame.tex",
+          "sha256": "9a043af164ee9e258203fbf9abc2d05f6569090ed38d99b51299cccd378571b6"
+        },
+        {
+          "path": "data/characters/braum/skins/skin0.bin",
+          "sha256": "fe7865d3c88b5e7f835d98ee28a5dff44de5e12a075f281247dff7eb58efc687"
+        }
+      ]
+    },
+    {
+      "label": "core",
+      "archive": "build\\lightning_v1\\core\\Braum_Clash_Core_v1.fantome",
+      "sha256": "2a8653b83ae63f704db7e4a398330e84e6d2104aa0e16eb647b4fe3b4bafdae8",
+      "spells": [
+        "E",
+        "Q",
+        "R",
+        "W"
+      ],
+      "clones": 18,
+      "payloads": [
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/body.tex",
+          "sha256": "9917bf895ac072971b5d1a7ed783f885d0199debf1a84d267903900d750f69ff"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skl",
+          "sha256": "c961a75b7a7ca6831b59d960d06dcd4f699e491c70e41a6d3cec442d7d2f5cd8"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/braum_clash.skn",
+          "sha256": "3bd8e207213bb97599c3aff6617cfe62f36c033c84e96ba4f9d09600eec6625c"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/lightning_trail.tex",
+          "sha256": "75a0a1c613b3eb8f6f20c5b85816dacf911adf9af3ef24218fa7e3f4aa3e0707"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/neutral_gloss.tex",
+          "sha256": "171e0ccaed440a26dc34c29c3f14dd490b9ee4093c98748f25726a22351ed97c"
+        },
+        {
+          "path": "assets/characters/braum/skins/base/braum_clash/shield_frame.tex",
+          "sha256": "9a043af164ee9e258203fbf9abc2d05f6569090ed38d99b51299cccd378571b6"
+        },
+        {
+          "path": "data/characters/braum/skins/skin0.bin",
+          "sha256": "0c0df9c5f42c79a4941dc0b0a877ef35b0d5ae8d0433531cf5439054dffc872f"
+        }
+      ]
+    }
+  ],
+  "protected": "Original entries except selected resolver targets exact; emitter changes only texture/RGB and removal of static 2x2 random-frame sampling for the single-frame texture. Alpha curves, timing, rates, geometry, attachments, telegraphs and audio unchanged.",
+  "limitations": [
+    "R retains animated ice and ground meshes.",
+    "E retains original particle shield mesh and material override; lightning alignment needs gameplay review.",
+    "Normal map remains unbound.",
+    "No runtime VFX acceptance claimed."
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "scene": "clash_braum_handle_normal_trial.blend",
+  "scene_sha256": "af9284dbd22425bfa1d4497e23e1a0b23c3dc7d1ac68202c56706a7102098e41",
+  "all_original_mesh_geometry_weights_topology_uv_exact": true,
+  "method": "BVH triangle intersection pairs with all source body groups; unsigned hand/digit vertex proximity to auxiliary handle only. Does not detect fully enclosed disconnected surfaces or prove pressure contact.",
+  "poses": [
+    {
+      "clip": "braum_spell3_idle-180",
+      "frame": 29,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.7334498763084412,
+        "Object009_R": 0.1341058611869812,
+        "Object004_L": 0.733637273311615,
+        "Object004_R": 0.13317067921161652
+      }
+    },
+    {
+      "clip": "braum_spell3_idle-90",
+      "frame": 29,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.733425498008728,
+        "Object009_R": 0.13410092890262604,
+        "Object004_L": 0.7336131930351257,
+        "Object004_R": 0.13316604495048523
+      }
+    },
+    {
+      "clip": "braum_spell3_idle0",
+      "frame": 29,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.7334322333335876,
+        "Object009_R": 0.13407248258590698,
+        "Object004_L": 0.7336202263832092,
+        "Object004_R": 0.13313813507556915
+      }
+    },
+    {
+      "clip": "braum_spell3_idle180",
+      "frame": 29,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.7334692478179932,
+        "Object009_R": 0.13410618901252747,
+        "Object004_L": 0.733656644821167,
+        "Object004_R": 0.1331706941127777
+      }
+    },
+    {
+      "clip": "braum_spell3_idle90",
+      "frame": 29,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.7334279417991638,
+        "Object009_R": 0.13405218720436096,
+        "Object004_L": 0.7336162328720093,
+        "Object004_R": 0.133118137717247
+      }
+    },
+    {
+      "clip": "braum_spell3_run-179",
+      "frame": 14,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.029062243178486824,
+        "Object009_R": 0.13208317756652832,
+        "Object004_L": 0.005406510550528765,
+        "Object004_R": 0.13114821910858154
+      }
+    },
+    {
+      "clip": "braum_spell3_run-90",
+      "frame": 14,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.02924530953168869,
+        "Object009_R": 0.13155148923397064,
+        "Object004_L": 0.00629931315779686,
+        "Object004_R": 0.13061469793319702
+      }
+    },
+    {
+      "clip": "braum_spell3_run0",
+      "frame": 14,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.029539233073592186,
+        "Object009_R": 0.13149648904800415,
+        "Object004_L": 0.006518477573990822,
+        "Object004_R": 0.1305609494447708
+      }
+    },
+    {
+      "clip": "braum_spell3_run179",
+      "frame": 14,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.02906743809580803,
+        "Object009_R": 0.1320902407169342,
+        "Object004_L": 0.005397531669586897,
+        "Object004_R": 0.1311553716659546
+      }
+    },
+    {
+      "clip": "braum_spell3_run90",
+      "frame": 14,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.02987205982208252,
+        "Object009_R": 0.13134315609931946,
+        "Object004_L": 0.006827688310295343,
+        "Object004_R": 0.1304101198911667
+      }
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 3,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.34664207696914673,
+        "Object009_R": 0.3414234220981598,
+        "Object004_L": 0.3415173292160034,
+        "Object004_R": 0.34022483229637146
+      }
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 15,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 0.4740137457847595,
+        "Object009_R": 0.7641749382019043,
+        "Object004_L": 0.4753679037094116,
+        "Object004_R": 0.7536184191703796
+      }
+    },
+    {
+      "clip": "braum_spell4",
+      "frame": 26,
+      "intersections": {},
+      "hand_vertex_proximity": {
+        "Object009_L": 1.4262640476226807,
+        "Object009_R": 1.9409971237182617,
+        "Object004_L": 1.4509536027908325,
+        "Object004_R": 1.9569778442382812
+      }
+    }
+  ]
+}

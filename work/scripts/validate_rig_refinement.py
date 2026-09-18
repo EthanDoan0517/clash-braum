@@ -17,6 +17,7 @@ p.add_argument('--scene',default='clash_braum_rig_refined.blend')
 p.add_argument('--refinement',default='rig_refinement.json')
 p.add_argument('--report',default='rig_refinement_validation.json')
 p.add_argument('--reuse-before',action='store_true')
+p.add_argument('--candidate-weights',help='Validate report.json:candidate in memory before saving a checkpoint')
 args=p.parse_args(sys.argv[sys.argv.index('--')+1:] if '--' in sys.argv else [])
 assert all(Path(v).name==v for v in [args.scene,args.refinement,args.report])
 regions=json.loads((ROOT/'validation/rig_regions.json').read_text())
@@ -26,6 +27,7 @@ assert len(clips)==59
 report={'status':'Offline checks only; visual and runtime gates tracked separately',
         'sample_policy':'Every integer frame 1..frame_count for all 59 original clips',
         'input_scene_sha256':{},'revisions':{},'source_anm_sha256':{}}
+report['candidate_weights']=args.candidate_weights
 previous=json.loads((ROOT/'validation/rig_refinement_validation.json').read_text()) if args.reuse_before else None
 for clip in clips:
     path=ROOT/clip['source'];report['source_anm_sha256'][clip['name']]=hashlib.sha256(path.read_bytes()).hexdigest()
@@ -52,6 +54,18 @@ for label,filename in [('before','clash_braum_animation_review.blend'),('refined
     report['input_scene_sha256'][label]=hashlib.sha256(path.read_bytes()).hexdigest()
     bpy.ops.wm.open_mainfile(filepath=str(path),load_ui=False,use_scripts=False)
     scene=bpy.context.scene;rig=bpy.data.objects['Braum_Native'];assert_native_rig(rig)
+    if label=='refined' and args.candidate_weights:
+        filename,key=args.candidate_weights.split(':');assert Path(filename).name==filename
+        candidate=json.loads((ROOT/'validation'/filename).read_text());assert candidate['scene_sha256']==report['input_scene_sha256'][label]
+        report['authored_candidate_weights']=candidate['candidate_weights'][key]
+        for name,changes in report['authored_candidate_weights'].items():
+            obj=bpy.data.objects[name]
+            for index,weights in changes.items():
+                index=int(index)
+                for g in list(obj.data.vertices[index].groups):obj.vertex_groups[g.group].remove([index])
+                for name,value in weights.items():
+                    if value>0:obj.vertex_groups[name].add([index],value,'REPLACE')
+            obj.data.update()
     signature={c['name']:action_signature(bpy.data.actions[c['name']]) for c in clips}
     if signatures is not None:assert signatures==signature,'Imported native actions changed'
     signatures=signature

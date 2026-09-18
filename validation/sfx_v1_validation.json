@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "archive_sha256": "9916e02768574cf4a3b9da56e0eaa90e653360a94e73e80b16f2eb40e6081403",
+  "changed_bank_sha256": "229cbd20e81bf00d35d74c6832de2e7f1e282461819f91052b2cab58fc9444d1",
+  "changed_bank_path_hash": "668ac17b89a8d8ea",
+  "changed_media": 20,
+  "unchanged_media": 94,
+  "native_event_plugin_and_memory_sizes_verified": 20,
+  "all_parent_payloads_exact": true,
+  "isolated_backend_bank_path_and_bytes_exact": true,
+  "reused": "readability_v1 geometry/rig/VFX/texture/package evidence: original payload bytes unchanged. Build checks independently decode all 20 new padded WEMs, exact sample counts, correlations >0.9, no clipped samples.",
+  "runtime": "User must test playback, volume, residual source beep, E expiry/death cleanup. Offline decoding is not runtime acceptance."
+}
